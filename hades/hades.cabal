@@ -1,0 +1,40 @@
+cabal-version: 3.6
+
+name: hades
+version: 0.1.0.0
+
+common common
+  build-depends:
+    , base == 4.14.3.0
+  ghc-options:
+    -Wall
+
+library
+  import:
+    common
+  hs-source-dirs:
+    src
+  exposed-modules:
+    Hades
+
+executable hades
+  import:
+    common
+  hs-source-dirs:
+    app
+  main-is:
+    Main.hs
+  build-depends:
+    , hades
+
+test-suite spec
+  import:
+    common
+  hs-source-dirs:
+    test
+  main-is:
+    Main.hs
+  build-depends:
+    , hades
+  type:
+    exitcode-stdio-1.0
