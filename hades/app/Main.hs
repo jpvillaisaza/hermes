@@ -1,6 +1,9 @@
 module Main (main) where
 
+-- hades
+import qualified Hades
+
 
 main :: IO ()
 main =
-  pure ()
+  Hades.main

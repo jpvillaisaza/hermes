@@ -16,6 +16,15 @@ library
     src
   exposed-modules:
     Hades
+  build-depends:
+    , aeson >= 2.0.3 && < 2.1
+    , bytestring
+    , http-client >= 0.7.11 && < 0.8
+    , http-client-tls >= 0.3.6 && < 0.4
+    , network-uri >= 2.6.4 && < 2.7
+    , tagsoup >= 0.14.8 && < 0.15
+    , text
+    , time
 
 executable hades
   import:
