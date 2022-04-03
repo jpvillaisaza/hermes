@@ -1,12 +1,26 @@
+---
+---
+
 <!doctype html>
 <html lang="es">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Hermes</title>
   </head>
   <body>
     <header>
       <h1>Hermes</h1>
     </header>
+    <ul>
+      {% for article in site.data.articles %}
+      <li>
+        <a href="{{ article.url }}">
+          {{ article.title }}
+        </a>
+        ({{ article.publication }})
+      </li>
+      {% endfor %}
+    </ul>
   </body>
 </html>
