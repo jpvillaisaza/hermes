@@ -39,5 +39,5 @@ jobs:
           git config user.name "Hermes via Hades"
           git config user.email 584947+jpvillaisaza@users.noreply.github.com
           git add docs/_data/articles.json
-          git commit -m "Update articles ($(date -Idate))"
+          git commit -m "Update articles ($(date +%F))"
           git push
