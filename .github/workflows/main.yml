@@ -1,0 +1,43 @@
+name: ci
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+    inputs:
+      push:
+        default: false
+        description: 'Update articles'
+        required: true
+        type: boolean
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cabal/packages/
+            ~/.cabal/store/
+          key: ghc-8.10.7-${{ hashFiles('**/cabal.project', '**/*.cabal') }}
+          restore-keys: ghc-8.10.7-
+      - run: ghcup install ghc 8.10.7 --set
+      - run: ghcup list
+      - run: cabal build all
+      - run: cabal run exe:hades --verbose=0 >> articles.json
+      - run: mkdir -p docs/_data/
+      - run: python3 -m json.tool articles.json docs/_data/articles.json
+      - name: Update articles
+        if: github.event.schedule == '0 5 * * *' || github.event.inputs.push == 'true'
+        run: |
+          git config user.name "Hermes via Hades"
+          git config user.email 584947+jpvillaisaza@users.noreply.github.com
+          git add docs/_data/articles.json
+          git commit -m "Update articles ($(date -Idate))"
+          git push
