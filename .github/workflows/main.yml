@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '0 10 * * *'
   workflow_dispatch:
     inputs:
       push:
@@ -34,7 +34,7 @@ jobs:
       - run: mkdir -p docs/_data/
       - run: python3 -m json.tool articles.json docs/_data/articles.json
       - name: Update articles
-        if: github.event.schedule == '0 5 * * *' || github.event.inputs.push == 'true'
+        if: github.event.schedule == '0 10 * * *' || github.event.inputs.push == 'true'
         run: |
           git config user.name "Hermes via Hades"
           git config user.email 584947+jpvillaisaza@users.noreply.github.com
