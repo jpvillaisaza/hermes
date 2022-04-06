@@ -18,7 +18,7 @@
         <a href="{{ article.url }}">
           {{ article.title }}
         </a>
-        ({{ article.publication }})
+        ({{ site.data.publications[article.publication].name }})
       </li>
       {% endfor %}
     </ul>
