@@ -13,15 +13,22 @@
     <header>
       <h1>Hermes</h1>
     </header>
-    <ul>
-      {% for article in site.data.articles %}
-      <li>
-        <a href="{{ article.url }}">
-          {{ article.title }}
-        </a>
-        ({{ site.data.publications[article.publication].name }})
-      </li>
-      {% endfor %}
-    </ul>
+    <main>
+      {%- assign articles = site.data.articles %}
+      <section>
+        <h2>Editoriales</h2>
+        <ul>
+          {%- assign editorials = articles | where: "article-type", "editorial" %}
+          {%- for article in editorials %}
+          <li>
+            <a href="{{ article.url }}">
+              {{ article.title }}
+            </a>
+            ({{ site.data.publications[article.publication].name }})
+          </li>
+          {%- endfor %}
+        </ul>
+      </section>
+    </main>
   </body>
 </html>
