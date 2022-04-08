@@ -1,1 +1,7 @@
-dist-newstyle/
+# Haskell (Cabal)
+dist-*/
+# Jekyll
+_site/
+# Jekyll (Bundler)
+.bundle/
+vendor/
