@@ -31,18 +31,20 @@
       </section>
       <section>
         <h2>Columnas</h2>
+        {%- assign groups = articles | where: "article-type", "column" | group_by: "publication" %}
+        {%- for group in groups %}
+        <h3>{{ site.data.publications[group.name].name }}</h3>
         <ul>
-          {%- assign columns = articles | where: "article-type", "column" %}
-          {%- for article in columns %}
+          {%- for article in group.items %}
           <li>
             <a href="{{ article.url }}">
               {{ article.title }}
             </a>
             ({{ article.author }})
-            ({{ site.data.publications[article.publication].name }})
           </li>
           {%- endfor %}
         </ul>
+        {%- endfor %}
       </section>
     </main>
   </body>

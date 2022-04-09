@@ -173,7 +173,7 @@ getArticles manager ElEspectador = do
       dropWhile (TagSoup.~/= "<a>") $
       dropWhile (TagSoup.~/= TagSoup.TagOpen "h2" [("class", "Card-Title Title Title_main")]) tags
   let s = ByteString.Lazy.unpack (TagSoup.fromAttrib (ByteString.Lazy.pack "href") (as !! 0))
-  case Uri.parseURIReference s of
+  mEditorial <- case Uri.parseURIReference s of
     Just uri -> do
       let
         article = Article
@@ -184,9 +184,35 @@ getArticles manager ElEspectador = do
           , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText (as !! 1)
           , articleUrl = Url (Uri.relativeTo uri (publicationUri ElEspectador))
           }
-      pure [article]
+      pure (Just article)
     Nothing ->
-      pure mempty
+      pure Nothing
+  request2 <- HttpClient.parseRequest "https://www.elespectador.com/opinion/columnistas/"
+  response2 <- HttpClient.httpLbs request2 manager
+  let tags2 = TagSoup.parseTags (HttpClient.responseBody response2)
+  let
+    articlesTags =
+      TagSoup.partitions (TagSoup.~== "<div class=Card-Container>") tags2
+    articles =
+      flip fmap articlesTags $ \articleTags ->
+        case dropWhile (TagSoup.~/= "<h2>") articleTags of
+          _:a:t:_:_:_:_:au:_ ->
+            let hr = TagSoup.fromAttrib (ByteString.Lazy.pack "href") a in
+            case Uri.parseURIReference (ByteString.Lazy.unpack hr) of
+              Just uri ->
+                Just Article
+                { articleArticleType = Column
+                , articleAuthor = Just (TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText au)
+                , articleDate = day
+                , articlePublication = ElEspectador
+                , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText t
+                , articleUrl = Url (Uri.relativeTo uri (publicationUri ElEspectador))
+                }
+              Nothing ->
+                Nothing
+          _ ->
+            Nothing
+  pure (catMaybes (mEditorial:articles))
 
 getArticles manager ElTiempo = do
   day <- fmap Time.utctDay Time.getCurrentTime
