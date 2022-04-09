@@ -29,6 +29,21 @@
           {%- endfor %}
         </ul>
       </section>
+      <section>
+        <h2>Columnas</h2>
+        <ul>
+          {%- assign columns = articles | where: "article-type", "column" %}
+          {%- for article in columns %}
+          <li>
+            <a href="{{ article.url }}">
+              {{ article.title }}
+            </a>
+            ({{ article.author }})
+            ({{ site.data.publications[article.publication].name }})
+          </li>
+          {%- endfor %}
+        </ul>
+      </section>
     </main>
   </body>
 </html>

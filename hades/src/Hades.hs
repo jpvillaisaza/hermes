@@ -7,6 +7,8 @@ import Data.Aeson (FromJSON(..), ToJSON(..))
 import qualified Data.Aeson as Aeson
 
 -- base
+import Data.Maybe (catMaybes)
+import Data.Traversable (for)
 import GHC.Generics (Generic)
 
 -- bytestring
@@ -77,7 +79,8 @@ instance ToJSON ArticleType where
 data Publication
   = ElColombiano
   | ElEspectador
-  deriving (Eq, Generic, Show)
+  | ElTiempo
+  deriving (Bounded, Enum, Eq, Generic, Show)
 
 instance FromJSON Publication where
   parseJSON =
@@ -98,6 +101,9 @@ publicationUri publication =
     ElEspectador ->
       Uri.URI
         "https:" (Just (Uri.URIAuth "" "www.elespectador.com" "")) "" "" ""
+    ElTiempo ->
+      Uri.URI
+        "https:" (Just (Uri.URIAuth "" "www.eltiempo.com" "")) "" "" ""
 
 
 newtype Url = Url
@@ -123,12 +129,12 @@ instance ToJSON Url where
 main :: IO ()
 main = do
   manager <- HttpClientTls.newTlsManager
-  articles1 <- getArticles manager ElColombiano
-  articles2 <- getArticles manager ElEspectador
-  ByteString.Lazy.putStrLn (Aeson.encode (articles1 <> articles2))
+  articles <- traverse (getArticles manager) [minBound .. maxBound]
+  ByteString.Lazy.putStrLn (Aeson.encode (concat articles))
 
 
 getArticles :: Manager -> Publication -> IO [Article]
+
 getArticles manager ElColombiano = do
   day <- fmap Time.utctDay Time.getCurrentTime
   request <- HttpClient.parseRequest "https://www.elcolombiano.com/opinion/editoriales"
@@ -137,10 +143,10 @@ getArticles manager ElColombiano = do
   let
     tags = TagSoup.parseTags lbs
     as =
-      dropWhile (TagSoup.~/= (TagSoup.TagOpen "a" [])) $
-      dropWhile (TagSoup.~/= (TagSoup.TagOpen "div" [("class", "editorial left")])) tags
+      dropWhile (TagSoup.~/= TagSoup.TagOpen "a" []) $
+      dropWhile (TagSoup.~/= TagSoup.TagOpen "div" [("class", "editorial left")]) tags
     title =
-      dropWhile (TagSoup.~/= (TagSoup.TagOpen "span" [])) as
+      dropWhile (TagSoup.~/= TagSoup.TagOpen "span" []) as
   let s = ByteString.Lazy.unpack (TagSoup.fromAttrib (ByteString.Lazy.pack "href") (as !! 0))
   case Uri.parseURIReference s of
     Just url -> do
@@ -156,6 +162,7 @@ getArticles manager ElColombiano = do
       pure [article]
     Nothing ->
       pure mempty
+
 getArticles manager ElEspectador = do
   day <- fmap Time.utctDay Time.getCurrentTime
   request <- HttpClient.parseRequest "https://www.elespectador.com/opinion/editorial/"
@@ -164,7 +171,7 @@ getArticles manager ElEspectador = do
   let
     as =
       dropWhile (TagSoup.~/= "<a>") $
-      dropWhile (TagSoup.~/= (TagSoup.TagOpen "h2" [("class", "Card-Title Title Title_main")])) tags
+      dropWhile (TagSoup.~/= TagSoup.TagOpen "h2" [("class", "Card-Title Title Title_main")]) tags
   let s = ByteString.Lazy.unpack (TagSoup.fromAttrib (ByteString.Lazy.pack "href") (as !! 0))
   case Uri.parseURIReference s of
     Just uri -> do
@@ -180,3 +187,74 @@ getArticles manager ElEspectador = do
       pure [article]
     Nothing ->
       pure mempty
+
+getArticles manager ElTiempo = do
+  day <- fmap Time.utctDay Time.getCurrentTime
+  request <- HttpClient.parseRequest "https://www.eltiempo.com/opinion"
+  response <- HttpClient.httpLbs request manager
+  let tags = TagSoup.parseTags (HttpClient.responseBody response)
+  let
+    editorialTags =
+      dropWhile (TagSoup.~/= "<a>")
+        $ dropWhile (TagSoup.~/= "<h3>")
+        $ dropWhile (TagSoup.~/= "<article class=\"opinion-editorial-module \"") tags
+    mEditorial =
+      case editorialTags of
+        a:title:_ ->
+          let href = TagSoup.fromAttrib (ByteString.Lazy.pack "href") a in
+          case Uri.parseURIReference (ByteString.Lazy.unpack href) of
+            Just uri ->
+              Just Article
+                { articleArticleType = Editorial
+                , articleAuthor = Nothing
+                , articleDate = day
+                , articlePublication = ElTiempo
+                , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText title
+                , articleUrl = Url (Uri.relativeTo uri (publicationUri ElTiempo))
+                }
+            Nothing ->
+              Nothing
+        _ ->
+          Nothing
+  let
+    dayTags =
+      TagSoup.partitions (TagSoup.~== "<div class=\"columnistas-day \">") tags
+        !! (fromEnum (Time.dayOfWeek day) - 1)
+    dayId =
+      TagSoup.fromAttrib (ByteString.Lazy.pack "data-ls-for") (dayTags !! 0)
+    articlesTags =
+      TagSoup.partitions (TagSoup.~== "<article>")
+        $ takeWhile (TagSoup.~/= "<div class=opinion-author-articles>")
+        $ drop 1
+        $ head
+        $ TagSoup.sections (TagSoup.~== ("<div id=" <> ByteString.Lazy.unpack dayId <> ">")) tags
+  articles <- for articlesTags $ \articleTags -> do
+    let
+      authorTags =
+        dropWhile (TagSoup.~/= "<a class=\"author-name page-link \"") articleTags
+      titleTags =
+        dropWhile (TagSoup.~/= "<a class=\"title page-link \"") articleTags
+      mTitleHref =
+        case titleTags of
+          r:t:_ ->
+            Just
+              ( TagSoup.fromAttrib (ByteString.Lazy.pack "href") r
+              , t
+              )
+          _ ->
+            Nothing
+    case (Uri.parseURIReference . ByteString.Lazy.unpack . fst =<< mTitleHref, fmap snd mTitleHref) of
+      (Just uri, Just title) -> do
+        let
+          article = Article
+            { articleArticleType = Column
+            , articleAuthor = Just $ TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText $ authorTags !! 1
+            , articleDate = day
+            , articlePublication = ElTiempo
+            , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText title
+            , articleUrl = Url (Uri.relativeTo uri (publicationUri ElTiempo))
+            }
+        pure (Just article)
+      _ ->
+        pure Nothing
+  pure (catMaybes (mEditorial:articles))
