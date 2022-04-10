@@ -223,7 +223,10 @@ getArticles manager ElTiempo = do
     editorialTags =
       dropWhile (TagSoup.~/= "<a>")
         $ dropWhile (TagSoup.~/= "<h3>")
-        $ dropWhile (TagSoup.~/= "<article class=\"opinion-editorial-module \"") tags
+        $ dropWhile
+          (\a -> a TagSoup.~/= "<article class=\"opinion-editorial-module \">"
+              && a TagSoup.~/= "<article class=opinion-editorial-module>"
+          ) tags
     mEditorial =
       case editorialTags of
         a:title:_ ->
@@ -244,7 +247,10 @@ getArticles manager ElTiempo = do
           Nothing
   let
     dayTags =
-      TagSoup.partitions (TagSoup.~== "<div class=\"columnistas-day \">") tags
+      TagSoup.partitions
+        (\a -> a TagSoup.~== "<div class=\"columnistas-day \">"
+          || a TagSoup.~== "<div class=columnistas-day>"
+        ) tags
         !! (fromEnum (Time.dayOfWeek day) - 1)
     dayId =
       TagSoup.fromAttrib (ByteString.Lazy.pack "data-ls-for") (dayTags !! 0)
@@ -257,9 +263,15 @@ getArticles manager ElTiempo = do
   articles <- for articlesTags $ \articleTags -> do
     let
       authorTags =
-        dropWhile (TagSoup.~/= "<a class=\"author-name page-link \"") articleTags
+        dropWhile
+          (\a -> a TagSoup.~/= "<a class=\"author-name page-link \""
+            && a TagSoup.~/= "<a class=\"author-name page-link\""
+          ) articleTags
       titleTags =
-        dropWhile (TagSoup.~/= "<a class=\"title page-link \"") articleTags
+        dropWhile
+          (\a -> a TagSoup.~/= "<a class=\"title page-link \""
+            && a TagSoup.~/= "<a class=\"title page-link\""
+          ) articleTags
       mTitleHref =
         case titleTags of
           r:t:_ ->
