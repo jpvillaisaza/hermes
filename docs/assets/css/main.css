@@ -1,3 +1,10 @@
 body {
   font-family: ui-sans-serif, system-ui, sans-serif;
+  margin-inline: auto;
+  max-inline-size: 70ch;
+}
+
+ul {
+  display: grid;
+  gap: 1em;
 }
