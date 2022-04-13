@@ -148,7 +148,7 @@ getArticles manager ElColombiano = do
     title =
       dropWhile (TagSoup.~/= TagSoup.TagOpen "span" []) as
   let s = ByteString.Lazy.unpack (TagSoup.fromAttrib (ByteString.Lazy.pack "href") (as !! 0))
-  case Uri.parseURIReference s of
+  mEditorial <- case Uri.parseURIReference s of
     Just url -> do
       let
         article = Article
@@ -159,9 +159,42 @@ getArticles manager ElColombiano = do
           , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText (title !! 1)
           , articleUrl = Url (Uri.relativeTo url (publicationUri ElColombiano))
           }
-      pure [article]
+      pure (Just article)
     Nothing ->
-      pure mempty
+      pure Nothing
+  request2 <- HttpClient.parseRequest "https://www.elcolombiano.com/opinion/columnistas"
+  response2 <- HttpClient.httpLbs request2 manager
+  let tags2 = TagSoup.parseTags (HttpClient.responseBody response2)
+  let
+    articlesTags =
+      TagSoup.partitions (TagSoup.~== "<div class=\"columnista columnista-redondo\">") tags2
+    articles =
+      flip fmap articlesTags $ \articleTags ->
+        case dropWhile (TagSoup.~/= "<a>") $ dropWhile (TagSoup.~/= "<div class=right>") articleTags of
+          a:more -> case dropWhile (TagSoup.~/= "<span>") more of
+            _:t:more2 ->
+              case dropWhile (TagSoup.~/= "<span class=name-bloguero>") more2 of
+                _:au:_ ->
+                  let hr = TagSoup.fromAttrib (ByteString.Lazy.pack "href") a in
+                  case Uri.parseURIReference (ByteString.Lazy.unpack hr) of
+                    Just uri ->
+                      Just Article
+                      { articleArticleType = Column
+                      , articleAuthor = Just (TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText au)
+                      , articleDate = day
+                      , articlePublication = ElColombiano
+                      , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText t
+                      , articleUrl = Url (Uri.relativeTo uri (publicationUri ElColombiano))
+                      }
+                    Nothing ->
+                      Nothing
+                _ ->
+                  Nothing
+            _ ->
+              Nothing
+          _ ->
+            Nothing
+  pure (catMaybes (mEditorial:articles))
 
 getArticles manager ElEspectador = do
   day <- fmap Time.utctDay Time.getCurrentTime
