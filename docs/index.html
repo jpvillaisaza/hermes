@@ -26,7 +26,9 @@
             <a href="{{ article.url }}">
               {{ article.title }}
             </a>
-            ({{ site.data.publications[article.publication].name }})
+            <div>
+              {{ site.data.publications[article.publication].name }}
+            </div>
           </li>
           {%- endfor %}
         </ul>
@@ -42,7 +44,9 @@
             <a href="{{ article.url }}">
               {{ article.title }}
             </a>
-            ({{ article.author }})
+            <div>
+              {{ article.author }}
+            </div>
           </li>
           {%- endfor %}
         </ul>

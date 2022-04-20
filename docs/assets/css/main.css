@@ -2,6 +2,7 @@ body {
   font-family: ui-sans-serif, system-ui, sans-serif;
   margin-inline: auto;
   max-inline-size: 70ch;
+  padding-inline: 2ch;
 }
 
 ul {
