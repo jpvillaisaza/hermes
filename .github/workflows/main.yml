@@ -30,7 +30,7 @@ jobs:
       - run: ghcup install ghc 8.10.7 --set
       - run: ghcup list
       - run: cabal build all
-      - run: cabal run exe:hades --verbose=0 >> articles.json
+      - run: cabal run exe:hades --verbose=0 -- docs/_data/articles.json > articles.json
       - run: mkdir -p docs/_data/
       - run: python3 -m json.tool articles.json docs/_data/articles.json
       - name: Update articles

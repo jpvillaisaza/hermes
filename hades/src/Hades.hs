@@ -7,9 +7,11 @@ import Data.Aeson (FromJSON(..), ToJSON(..))
 import qualified Data.Aeson as Aeson
 
 -- base
-import Data.Maybe (catMaybes)
+import Data.List (find)
+import Data.Maybe (catMaybes, fromMaybe)
 import Data.Traversable (for)
 import GHC.Generics (Generic)
+import System.Environment (getArgs)
 
 -- bytestring
 import qualified Data.ByteString.Lazy.Char8 as ByteString.Lazy
@@ -129,8 +131,34 @@ instance ToJSON Url where
 main :: IO ()
 main = do
   manager <- HttpClientTls.newTlsManager
-  articles <- traverse (getArticles manager) [minBound .. maxBound]
+  args <- getArgs
+  articles0 <-
+    case args of
+      f:_ ->
+        fromMaybe mempty <$> Aeson.decodeFileStrict f
+      _ ->
+        pure mempty
+  articles <-
+    for [minBound .. maxBound] $
+      \publication -> do
+        articles <- getArticles manager publication
+        pure (fmap (toArticle articles0) articles)
   ByteString.Lazy.putStrLn (Aeson.encode (concat articles))
+
+
+toArticle :: [Article] -> Article -> Article
+toArticle articles0 article =
+  case find (eq article) articles0 of
+    Just article2 ->
+      article { articleDate = articleDate article2 }
+    Nothing ->
+      article
+  where
+    eq a1 a2 =
+      articleArticleType a1 == articleArticleType a2
+        && articleAuthor a1 == articleAuthor a2
+        && articlePublication a1 == articlePublication a2
+        && articleTitle a1 == articleTitle a2
 
 
 getArticles :: Manager -> Publication -> IO [Article]
