@@ -39,7 +39,8 @@
         {%- for group in groups %}
         <h3>{{ site.data.publications[group.name].name }}</h3>
         <ul>
-          {%- assign items = group.items | sort: "author" %}
+          {%- assign today = "today" | date: "%F" %}
+          {%- assign items = group.items | where: "date", today | sort: "author" %}
           {%- for article in items %}
           <li>
             <a href="{{ article.url }}">
