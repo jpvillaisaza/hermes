@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-04-21",
+        "date": "2022-04-22",
         "publication": "el-colombiano",
-        "title": "Buen arranque de a\u00f1o",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/buen-arranque-de-ano-FD17276113"
+        "title": "Un respiro en La Haya",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/un-respiro-en-la-haya-NM17282618"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-04-22",
+        "publication": "el-colombiano",
+        "title": "Un Musketero para Twitter",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-musketero-para-twitter-KM17282091"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Manrique",
+        "date": "2022-04-22",
+        "publication": "el-colombiano",
+        "title": "\u00bfY si, m\u00e1s bien, el pacto es por el Choc\u00f3? ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/y-si-mas-bien-el-pacto-es-por-el-choco-BM17282074"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-04-22",
+        "publication": "el-colombiano",
+        "title": "Defensa del estado por el presidente de la Rep\u00fablica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/defensa-del-estado-por-el-presidente-de-la-republica-AM17282057"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-04-22",
+        "publication": "el-colombiano",
+        "title": "Cartas abiertas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cartas-abiertas-GM17282040"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2022-04-22",
+        "publication": "el-colombiano",
+        "title": "El agua: entre amor y dolor",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-agua-entre-amor-y-dolor-BM17282021"
     },
     {
         "article-type": "column",
@@ -25,19 +65,19 @@
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-04-21",
-        "publication": "el-colombiano",
-        "title": "Botero y su gato",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/botero-y-su-gato-JD17275826"
-    },
-    {
-        "article-type": "column",
         "author": "Humberto Montero",
         "date": "2022-04-21",
         "publication": "el-colombiano",
         "title": "Manila y la Uni\u00f3n Hispana",
         "url": "https://www.elcolombiano.com/opinion/columnistas/manila-y-la-union-hispana-CD17275869"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-04-21",
+        "publication": "el-colombiano",
+        "title": "Botero y su gato",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/botero-y-su-gato-JD17275826"
     },
     {
         "article-type": "column",
@@ -48,52 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-riqueza-era-esto-homenaje-a-los-libros-las-palabras-y-el-idioma-ED17275771"
     },
     {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-04-21",
-        "publication": "el-colombiano",
-        "title": "\u00bfGanar\u00e1 la izquierda en Brasil y Colombia?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/ganara-la-izquierda-en-brasil-y-colombia-OD17270842"
+        "article-type": "editorial",
+        "author": null,
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "Una decisi\u00f3n agridulce",
+        "url": "https://www.elespectador.com/opinion/editorial/una-decision-agridulce/"
     },
     {
         "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-04-21",
-        "publication": "el-colombiano",
-        "title": "Recalculando Venezuela",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/recalculando-venezuela-PD17270825"
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "\u00bfFracasados?",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/fracasados/"
     },
     {
         "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2022-04-21",
-        "publication": "el-colombiano",
-        "title": "La jaula de los locos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-jaula-de-los-locos-KD17270802"
+        "author": "Claudia Morales",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 dicen los candidatos sobre los libros?",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/que-dicen-los-candidatos-sobre-los-libros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "El oso de Duque y el \u201creversazo\u201d de Maduro",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/el-oso-de-duque-y-el-reversazo-de-maduro/"
     },
     {
         "article-type": "column",
         "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2022-04-21",
-        "publication": "el-colombiano",
-        "title": "Los lazos que unen (y a veces ahorcan)",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-lazos-que-unen-y-a-veces-ahorcan-GD17270710"
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "\u00a1No m\u00e1s tapabocas!",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/no-mas-tapabocas/"
     },
     {
         "article-type": "column",
-        "author": "Invitado",
-        "date": "2022-04-21",
-        "publication": "el-colombiano",
-        "title": "Necesaria imparcialidad presidencial",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/necesaria-imparcialidad-presidencial-HD17270557"
+        "author": "Carlos Gran\u00e9s",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "Las lecturas de un colegial",
+        "url": "https://www.elespectador.com/opinion/columnistas/carlos-granes/las-lecturas-de-un-colegial/"
     },
     {
-        "article-type": "editorial",
-        "author": null,
-        "date": "2022-04-21",
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2022-04-22",
         "publication": "el-espectador",
-        "title": "La Ley de Cuotas es para cumplirla",
-        "url": "https://www.elespectador.com/opinion/editorial/la-ley-de-cuotas-es-para-cumplirla/"
+        "title": "La palomita esa",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/la-palomita-esa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "\u00a1Que viva Pasto, carajo!",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/que-viva-pasto-carajo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "Colombia, Rusia, Brasil\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/colombia-rusia-brasil/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "Tres visiones del cambio social",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/tres-visiones-del-cambio-social/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "El soldado que novel\u00f3 la violencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/el-soldado-que-novelo-la-violencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "Empresarios unidos\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/empresarios-unidos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "Estructura",
+        "url": "https://www.elespectador.com/deportes/analistas/estructura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Felipe Carrillo G\u00e1faro",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "El grito de gol",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/el-grito-de-gol/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio Borges",
+        "date": "2022-04-22",
+        "publication": "el-espectador",
+        "title": "Cuba, Venezuela y Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/cuba-venezuela-y-colombia/"
     },
     {
         "article-type": "column",
@@ -112,187 +224,83 @@
         "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/las-fiestas-del-teatro/"
     },
     {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "\u00bfMatar es la respuesta?",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/matar-es-la-respuesta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "\u00bfY el video?",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/y-el-video/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "Cuando el todo vale, la rabia y el miedo secuestran las campa\u00f1as",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/cuando-el-todo-vale-la-rabia-y-el-miedo-secuestran-las-campanas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gustavo Gall\u00f3n",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "Sin triqui\u00f1uelas",
-        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/sin-triquinuelas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Charria",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "Setenta mil votos en busca de cambio",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-charria/setenta-mil-votos-en-busca-de-cambio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Santiago Villa",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "Petro y el Carrusel de la Contrataci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/petro-y-el-carrusel-de-la-contratacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "Antecedentes del \u201cperd\u00f3n social\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/antecedentes-del-perdon-social/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "Ocho horas",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/ocho-horas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "\u00bfPor qu\u00e9 se acabaron los partidos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/por-que-se-acabaron-los-partidos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Obdulio Espejo Mu\u00f1oz",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 pasa con las oficinas de comunicaci\u00f3n en el sector Defensa?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/que-pasa-con-las-oficinas-de-comunicacion-en-el-sector-defensa/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "Asofondos, Iv\u00e1n Duque y el fiscal Barbosa, jefes de debate de Petro: la Candidata",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/los-jefes-de-debate-de-petro-asofondos-ivan-duque-y-el-fiscal-barbosa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "Una soluci\u00f3n para la movilidad en el norte de Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/una-solucion-para-la-movilidad-en-el-norte-de-bogota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "Nos acusaron de abanderados del narcotr\u00e1fico y promotores de campa\u00f1as pol\u00edticas",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nos-acusaron-de-abanderados-del-narcotrafico-y-promotores-de-campanas-politicas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-04-21",
-        "publication": "el-espectador",
-        "title": "El punto de quiebre ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/el-punto-de-quiebre/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-04-21",
+        "date": "2022-04-22",
         "publication": "el-tiempo",
-        "title": "Panorama sombr\u00edo",
-        "url": "https://www.eltiempo.com/opinion/editorial/panorama-sombrio-editorial-el-tiempo-666541"
+        "title": "Un paso necesario",
+        "url": "https://www.eltiempo.com/opinion/editorial/un-paso-necesario-editorial-el-tiempo-666820"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-04-21",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-04-22",
         "publication": "el-tiempo",
-        "title": "Entonces, \u00bfno pas\u00f3 nada?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/entonces-no-paso-nada-columna-de-pedro-medellin-666512"
+        "title": "\u2018Delirio americano\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/delirio-americano-columna-de-moises-wasserman-666721"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2022-04-21",
+        "author": "Francisco Javier Vera",
+        "date": "2022-04-22",
         "publication": "el-tiempo",
-        "title": "El valor del di\u00e1logo social",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/el-valor-del-dialogo-social-columna-de-juliana-mejia-666457"
+        "title": "\u00a1Ratifiquen Escaz\u00fa Ahora!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-javier-vera/ratifiquen-escazu-ahora-columna-de-francisco-javier-vera-666774"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya",
-        "date": "2022-04-21",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-04-22",
         "publication": "el-tiempo",
-        "title": "Lo \u2018conexo\u2019 es ignorar la dignidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya/lo-conexo-es-ignorar-la-dignidad-columna-de-jineth-bedoya-666505"
+        "title": "Expresidente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/expresidente-columna-de-ricardo-silva-romero-666770"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-04-21",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2022-04-22",
         "publication": "el-tiempo",
-        "title": "Un gran editor",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/un-gran-editor-columna-de-juan-esteban-constain-666497"
+        "title": "Ucrania: \u00bfvictoria o paz plena y duradera?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/ucrania-victoria-o-paz-plena-y-duradera-columna-de-antonio-albinana-666726"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2022-04-21",
+        "author": "Carlos Mauricio Herrera",
+        "date": "2022-04-22",
         "publication": "el-tiempo",
-        "title": "Shazam",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/shazam-columna-de-diana-pardo-666460"
+        "title": "Devolverle naturaleza al planeta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-mauricio-herrera/devolverle-naturaleza-al-planeta-columna-de-carlos-mauricio-herrera-666751"
     },
     {
         "article-type": "column",
-        "author": "Javier Zamudio",
-        "date": "2022-04-21",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-04-22",
         "publication": "el-tiempo",
-        "title": "La revoluci\u00f3n de las palabras",
-        "url": "https://www.eltiempo.com/opinion/columnistas/javier-zamudio/la-revolucion-de-las-palabras-columna-de-javier-zamudio-666488"
+        "title": "La guerra de Putin",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/la-guerra-de-putin-columna-de-eduardo-posada-carbo-666734"
     },
     {
         "article-type": "column",
-        "author": "Gregory Lobo",
-        "date": "2022-04-21",
+        "author": "Voces 2030",
+        "date": "2022-04-22",
         "publication": "el-tiempo",
-        "title": "El sexo no se le asigna",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/el-sexo-no-se-le-asigna-editorial-el-tiempo-666543"
+        "title": "La Tierra que so\u00f1amos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/voces-2030/la-tierra-que-sonamos-columna-de-voces-2030-666749"
     },
     {
         "article-type": "column",
-        "author": "Nerio Jos\u00e9 Alvis",
-        "date": "2022-04-21",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2022-04-22",
         "publication": "el-tiempo",
-        "title": "Qui\u00e9nes somos los servidores p\u00fablicos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nerio-jose-alvis/quienes-somos-los-servidores-publicos-columna-de-nerio-jose-alvis-665169"
+        "title": "Los libros y la noche",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/los-libros-y-la-noche-columna-de-manuel-guzman-hennessey-666739"
+    },
+    {
+        "article-type": "column",
+        "author": "Maria Adelaida Farah",
+        "date": "2022-04-22",
+        "publication": "el-tiempo",
+        "title": "El llamado del Papa a cuidar nuestra casa com\u00fan",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-adelaida-farah/el-llamado-del-papa-a-cuidar-nuestra-casa-comun-maria-adelaida-farah-666753"
     }
 ]
