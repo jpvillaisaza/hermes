@@ -2,10 +2,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-04-26",
+        "date": "2022-04-27",
         "publication": "el-colombiano",
-        "title": "Se salv\u00f3 Francia, pero vienen d\u00edas desafiantes",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/se-salvo-francia-pero-vienen-dias-desafiantes-CE17316040"
+        "title": "Defender a los militares es tarea de civiles",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/defender-a-los-militares-es-tarea-de-civiles-HH17326625"
+    },
+    {
+        "article-type": "column",
+        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
+        "date": "2022-04-27",
+        "publication": "el-colombiano",
+        "title": "\u00bfCortinas de humo?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cortinas-de-humo-CH17326721"
+    },
+    {
+        "article-type": "column",
+        "author": "Dany Alejandro Hoyos",
+        "date": "2022-04-27",
+        "publication": "el-colombiano",
+        "title": "Qu\u00e9 pereza hablar de pol\u00edtica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/que-pereza-hablar-de-politica-IH17326680"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2022-04-27",
+        "publication": "el-colombiano",
+        "title": "Acoso sexual escolar",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/por-ana-cristina-restrepo-jimenez-redaccion-elcolombiano-com-co-HH17326607"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Oppenheimer",
+        "date": "2022-04-27",
+        "publication": "el-colombiano",
+        "title": "M\u00e9xico, Brasil y Argentina: demasiado blandos con Rusia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/mexico-brasil-y-argentina-demasiado-blandos-con-rusia-HH17326573"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas a la Directora",
+        "date": "2022-04-27",
+        "publication": "el-colombiano",
+        "title": "Manifestemos nuestro inconformismo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/manifestemos-nuestro-inconformismo-AH17326556"
+    },
+    {
+        "article-type": "column",
+        "author": "David E. Santos G\u00f3mez",
+        "date": "2022-04-27",
+        "publication": "el-colombiano",
+        "title": "Dilemas europeos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/por-david-e-santos-gomez-davidsantos82-hotmail-com-JH17326539"
     },
     {
         "article-type": "column",
@@ -40,68 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/campanas-positivas-DE17310065"
     },
     {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2022-04-26",
-        "publication": "el-colombiano",
-        "title": "Las cr\u00edpticas posiciones de China",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/las-cripticas-posiciones-de-china-JF17308771"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Vargas Llosa",
-        "date": "2022-04-25",
-        "publication": "el-colombiano",
-        "title": "Las revistas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/las-revistas-GN17295416"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2022-04-25",
-        "publication": "el-colombiano",
-        "title": "Una derrota m\u00e1s",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/una-derrota-mas-KN17295395"
-    },
-    {
-        "article-type": "column",
-        "author": "Proantioquia",
-        "date": "2022-04-25",
-        "publication": "el-colombiano",
-        "title": "La marcha contin\u00faa",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-marcha-continua-JN17295378"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Escobar Valencia",
-        "date": "2022-04-25",
-        "publication": "el-colombiano",
-        "title": "El \u201centrampamiento social\u201d",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-entrampamiento-social-BN17295361"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
-        "date": "2022-04-25",
-        "publication": "el-colombiano",
-        "title": "La ma\u00f1a artera del sonsaque",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-mana-artera-del-sonsaque-GN17295344"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-04-26",
+        "date": "2022-04-27",
         "publication": "el-espectador",
-        "title": "Triunf\u00f3 la sensatez en Francia",
-        "url": "https://www.elespectador.com/opinion/editorial/triunfo-la-sensatez-en-francia/"
+        "title": "Escaz\u00fa: \u00bfahora s\u00ed?",
+        "url": "https://www.elespectador.com/opinion/editorial/escazu-ahora-si/"
     },
     {
         "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2022-04-26",
+        "author": "Mario Morales",
+        "date": "2022-04-27",
         "publication": "el-espectador",
-        "title": "Hipocres\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/hipocresia/"
+        "title": "Con esos ejemplos\u2026 ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/con-esos-ejemplos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "Aplomo",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/aplomo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "No se puede gobernar con trinos... ni con esqueletos",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/no-se-puede-gobernar-con-trinos-ni-con-esqueletos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "Dios salve a esta d\u00e9bil democracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/dios-salve-a-esta-debil-democracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "La chispa general",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/la-chispa-general/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Pablo Ruiz Soto",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "Expropiaci\u00f3n, producci\u00f3n y funci\u00f3n ecol\u00f3gica ",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/expropiacion-produccion-y-funcion-ecologica/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "Dios es hermafrodita y est\u00e1 convaleciente",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/dios-es-hermafrodita-y-esta-convaleciente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arlene B. Tickner",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "Politizaci\u00f3n, militarizaci\u00f3n y democracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/politizacion-militarizacion-y-democracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Oscar Guardiola-Rivera",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "S-Bomb",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/s-bomb/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "Pague ahora, qu\u00e9jese despu\u00e9s ",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/pague-ahora-quejese-despues/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando Roa Su\u00e1rez",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "La gobernabilidad democr\u00e1tica y la paz (V)",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/la-gobernabilidad-democratica-y-la-paz-v/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge G\u00f3mez Pinilla",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "Caracol y \u201cLas2Orillas\u201d\u2026 \u00bfen la misma orilla?",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-gomez-pinilla/caracol-y-las2orillas-en-la-misma-orilla/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-04-27",
+        "publication": "el-espectador",
+        "title": "Hambre letal",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/hambre-letal/"
     },
     {
         "article-type": "column",
@@ -113,6 +209,14 @@
     },
     {
         "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-04-26",
+        "publication": "el-espectador",
+        "title": "Hipocres\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/hipocresia/"
+    },
+    {
+        "article-type": "column",
         "author": "Aura Luc\u00eda Mera",
         "date": "2022-04-26",
         "publication": "el-espectador",
@@ -120,171 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/la-basura-esta-de-moda/"
     },
     {
-        "article-type": "column",
-        "author": "Rafael Orduz",
-        "date": "2022-04-26",
-        "publication": "el-espectador",
-        "title": "\u00bf\u201cPoliteia\u201d o espacio p\u00fablico minado?",
-        "url": "https://www.elespectador.com/opinion/columnistas/rafael-orduz/politeia-o-espacio-publico-minado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2022-04-26",
-        "publication": "el-espectador",
-        "title": "Somos resistencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/somos-resistencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-04-26",
-        "publication": "el-espectador",
-        "title": "Apuestas y encuestas",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/apuestas-y-encuestas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz Miranda",
-        "date": "2022-04-26",
-        "publication": "el-espectador",
-        "title": "Francia en la expectativa",
-        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/francia-en-la-expectativa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2022-04-26",
-        "publication": "el-espectador",
-        "title": "Enemigos con beneficios",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/enemigos-con-beneficios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Barajas Sandoval",
-        "date": "2022-04-26",
-        "publication": "el-espectador",
-        "title": "Otra vez la verdad malherida",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/otra-vez-la-verdad-malherida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz Vanegas Ath\u00edas",
-        "date": "2022-04-26",
-        "publication": "el-espectador",
-        "title": "Una Mojana tr\u00e1gica",
-        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/una-mojana-tragica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2022-04-26",
-        "publication": "el-espectador",
-        "title": "Relato raizal",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/relato-raizal/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2022-04-26",
-        "publication": "el-espectador",
-        "title": "Las botas sucias del general",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/las-botas-sucias-del-general/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-04-26",
-        "publication": "el-espectador",
-        "title": "Mario Morales: \u201cDuque revolucion\u00f3 el arte de gobernar sin gobernar\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/mario-morales-duque-revoluciono-el-arte-de-gobernar-sin-gobernar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leyner Palacios",
-        "date": "2022-04-26",
-        "publication": "el-espectador",
-        "title": "\u00bfVan a tapar el sol con un dedo? ",
-        "url": "https://www.elespectador.com/colombia-20/analistas/leyner-palacios-critica-al-gobierno-nacional-por-situacion-en-choco/"
-    },
-    {
-        "article-type": "column",
-        "author": "Guillermo Rivera",
-        "date": "2022-04-25",
-        "publication": "el-espectador",
-        "title": "Garant\u00edas electorales que brillan por su ausencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/grivera/garantias-electorales-que-brillan-por-su-ausencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2022-04-25",
-        "publication": "el-espectador",
-        "title": "Juan Camilo Restrepo y la crisis de 1999",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/juan-camilo-restrepo-y-la-crisis-de-1999/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-04-26",
+        "date": "2022-04-27",
         "publication": "el-tiempo",
-        "title": "Llamado a la mesura",
-        "url": "https://www.eltiempo.com/opinion/editorial/llamado-a-la-mesura-editorial-el-tiempo-667677"
+        "title": "\u00bfOtra vez?",
+        "url": "https://www.eltiempo.com/opinion/editorial/otra-vez-editorial-el-tiempo-667981"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2022-04-26",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2022-04-27",
         "publication": "el-tiempo",
-        "title": "Imposible olvidar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/imposible-olvidar-columna-de-jose-manuel-acevedo-667610"
+        "title": "\u00bfTempestad en un vaso de agua?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/tempestad-en-un-vaso-de-agua-columna-de-alfonso-gomez-mendez-667961"
     },
     {
         "article-type": "column",
-        "author": "Marcela Mel\u00e9ndez",
-        "date": "2022-04-26",
+        "author": "Vladdo",
+        "date": "2022-04-27",
         "publication": "el-tiempo",
-        "title": "La rectora",
-        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/la-rectora-columna-de-marcela-melendez-667592"
+        "title": "El desacato con botas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/el-desacato-con-botas-columna-de-vladdo-667890"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2022-04-26",
+        "author": "Florence Thomas",
+        "date": "2022-04-27",
         "publication": "el-tiempo",
-        "title": "\u00bfIgnorancia o rapi\u00f1a?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/ignorancia-o-rapina-columna-de-sergio-munoz-bata-667599"
+        "title": "\u00a1Que no cunda el p\u00e1nico!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/que-no-cunda-el-panico-florence-thomas-667904"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2022-04-26",
+        "author": "Gustavo Duncan",
+        "date": "2022-04-27",
         "publication": "el-tiempo",
-        "title": "Miop\u00eda y desinter\u00e9s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/miopia-y-desinteres-columna-de-francisco-cajiao-667606"
+        "title": "Perdones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/perdones-columna-de-gustavo-duncan-667900"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2022-04-26",
+        "author": "Poncho Renter\u00eda",
+        "date": "2022-04-27",
         "publication": "el-tiempo",
-        "title": "Suena un piano",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/suena-un-piano-columna-de-fernando-quiroz-667612"
+        "title": "Un trino golpea imagen de Petro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/un-trino-golpea-imagen-de-petro-columna-de-poncho-renteria-667925"
     },
     {
         "article-type": "column",
-        "author": "Adriana Pombo",
-        "date": "2022-04-26",
+        "author": "Javier Borda Diaz",
+        "date": "2022-04-27",
         "publication": "el-tiempo",
-        "title": "Montando a caballo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/adriana-pombo/montando-a-caballo-columna-de-adriana-pombo-667637"
+        "title": "Anormalidad colombiana: \u00bfcu\u00e1ndo seremos capaces de parar?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/anormalidad-cuando-seremos-capaces-de-parar-javier-borda-667941"
     },
     {
         "article-type": "column",
-        "author": "Santiago Vargas Acebedo",
-        "date": "2022-04-26",
+        "author": "Dar\u00edo Hidalgo",
+        "date": "2022-04-27",
         "publication": "el-tiempo",
-        "title": "Petro, Uribe y Derrida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/petro-uribe-y-derrida-columna-de-santiago-vargas-667614"
+        "title": "Leyes para la vida, avances en seguridad vial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/dario-hidalgo/leyes-para-la-vida-avances-en-seguridad-vial-dario-hidalgo-667953"
     }
 ]
