@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-02",
+        "date": "2022-05-03",
         "publication": "el-colombiano",
-        "title": "Otra vez China prende las alarmas",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/otra-vez-china-prende-las-alarmas-NA17356784"
+        "title": "Luis XV",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/luis-xv-AD17364141"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2022-05-03",
+        "publication": "el-colombiano",
+        "title": "El espantajo de la desigualdad",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-espantajo-de-la-desigualdad-FD17363116"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-05-03",
+        "publication": "el-colombiano",
+        "title": "China y el desacomodo de las cadenas de suministro",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/china-y-el-desacomodo-de-las-cadenas-de-suministro-CD17363133"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2022-05-03",
+        "publication": "el-colombiano",
+        "title": "Las sirenas no existen",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/las-sirenas-no-existen-ND17363187"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-05-03",
+        "publication": "el-colombiano",
+        "title": "Carta a un joven para que cuide el voto",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/carta-a-un-joven-para-que-cuide-el-voto-AD17363164"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-05-03",
+        "publication": "el-colombiano",
+        "title": "L\u00edderes mesi\u00e1nicos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/lideres-mesianicos-ED17363007"
     },
     {
         "article-type": "column",
@@ -48,52 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-desigualdad-en-colombia-OA17356679"
     },
     {
-        "article-type": "column",
-        "author": "Juan Carlos Echeverry",
-        "date": "2022-05-01",
-        "publication": "el-colombiano",
-        "title": "Diez razones para enamorar a los colombianos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/diez-razones-para-enamorar-a-los-colombianos-AA17350752"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-05-01",
-        "publication": "el-colombiano",
-        "title": "Obligaciones democr\u00e1ticas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/obligaciones-democraticas-HA17350601"
-    },
-    {
-        "article-type": "column",
-        "author": "Elbac\u00e9 Restrepo",
-        "date": "2022-05-01",
-        "publication": "el-colombiano",
-        "title": "Plegaria para d\u00edas dif\u00edciles",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/plegaria-para-dias-dificiles-PA17350618"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2022-05-02",
-        "publication": "el-colombiano",
-        "title": "Raz\u00f3n, emoci\u00f3n, necesidad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/razon-emocion-necesidad-GA17355838"
-    },
-    {
-        "article-type": "column",
-        "author": "Juliana Restrepo Cadavid",
-        "date": "2022-05-01",
-        "publication": "el-colombiano",
-        "title": "Grandes expectativas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/grandes-expectativas-OA17350718"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-02",
+        "date": "2022-05-03",
         "publication": "el-espectador",
-        "title": "Nayib Bukele tiene miedo",
-        "url": "https://www.elespectador.com/opinion/editorial/nayib-bukele-tiene-miedo/"
+        "title": "Y volvimos",
+        "url": "https://www.elespectador.com/opinion/editorial/y-volvimos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "Un pa\u00eds por reescribir",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/un-pais-por-reescribir/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "El otro Lleras Camargo",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-otro-lleras-camargo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "Humilda",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/humilda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "Entierro de tercera al Partido Liberal",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/entierro-de-tercera-al-partido-liberal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "Putin perdi\u00f3",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/putin-perdio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "La fallida preclusi\u00f3n a \u00c1lvaro Uribe",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/la-fallida-preclusion-a-alvaro-uribe/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Felipe Henao",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "Justicia para la gente",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-felipe-henao/justicia-para-la-gente/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. William Pearl",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "Expropiaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/expropiacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "Asesinatos a sangre fr\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/asesinatos-a-sangre-fria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "La ilusi\u00f3n nebulosa del centro",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/la-ilusion-nebulosa-del-centro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 pasar\u00e1 con la calidad educativa en el pr\u00f3ximo gobierno?",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/que-pasara-con-la-calidad-educativa-en-el-proximo-gobierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "Camino a la final ",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/columna-de-andres-marocco-camino-a-la-final/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2022-05-03",
+        "publication": "el-espectador",
+        "title": "La semana que estremeci\u00f3 al pa\u00eds",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/la-semana-que-estremecio-al-pais/"
     },
     {
         "article-type": "column",
@@ -120,179 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/cuando-no-usar-los-dos-puntos/"
     },
     {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2022-05-02",
-        "publication": "el-espectador",
-        "title": "\u00bfFico s\u00ed es el gallo contra Petro?",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/fico-si-es-el-gallo-contra-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2022-05-02",
-        "publication": "el-espectador",
-        "title": "\u00a1Zafa, jirafa!",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/zafa-jirafa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2022-05-02",
-        "publication": "el-espectador",
-        "title": "Colombia a punto de caer",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/colombia-a-punto-de-caer/"
-    },
-    {
-        "article-type": "column",
-        "author": "Vanessa Rosales A.",
-        "date": "2022-05-02",
-        "publication": "el-espectador",
-        "title": "Amor es un algo sin nombre",
-        "url": "https://www.elespectador.com/opinion/columnistas/vanessa-rosales-a-/amor-es-un-algo-sin-nombre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-05-02",
-        "publication": "el-espectador",
-        "title": "\u201cCrisis existencial\u201d de la educaci\u00f3n y bienestar socioemocional estudiantil",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/crisis-existencial-de-la-educacion-y-bienestar-socioemocional-estudiantil/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-05-02",
-        "publication": "el-espectador",
-        "title": "El agro de Fico (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/el-agro-de-fico-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-05-02",
-        "publication": "el-espectador",
-        "title": "La enorme distancia entre prometer y gobernar",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/la-enorme-distancia-entre-prometer-y-gobernar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2022-05-02",
-        "publication": "el-espectador",
-        "title": "Empleo y desigualdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/empleo-y-desigualdad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2022-05-02",
-        "publication": "el-espectador",
-        "title": "Estado de emergencia en el mundo digital",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/estado-de-emergencia-en-el-mundo-digital/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-05-02",
-        "publication": "el-espectador",
-        "title": "\u201cCarletto\u201d y el arte de tratar bien a la gente",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/carletto-y-el-arte-de-tratar-bien-a-la-gente/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2022-05-02",
-        "publication": "el-espectador",
-        "title": "Editorial en video: No eran mentiras, abandonemos el negacionismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-no-eran-mentiras-abandonemos-el-negacionismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2022-05-01",
-        "publication": "el-espectador",
-        "title": "Inflaci\u00f3n y malestar",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/inflacion-y-malestar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2022-05-01",
-        "publication": "el-espectador",
-        "title": "Vac\u00edo de sentido",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/vacio-de-sentido/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-02",
+        "date": "2022-05-03",
         "publication": "el-tiempo",
-        "title": "La pobreza cede",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-2-de-mayo-de-2022-la-pobreza-cede-669115"
+        "title": "Defender la tutela",
+        "url": "https://www.eltiempo.com/opinion/editorial/defender-la-tutela-editorial-el-tiempo-669400"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-05-02",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-05-03",
         "publication": "el-tiempo",
-        "title": "\u00bfY de la Registradur\u00eda, qu\u00e9? (2)",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-y-de-la-registraduria-que-2-669128"
+        "title": "\u00bfRespetar\u00e1n los resultados?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/respetaran-los-resultados-columna-de-jose-manuel-acevedo-669317"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2022-05-02",
+        "author": "Juan Pablo Calv\u00e1s",
+        "date": "2022-05-03",
         "publication": "el-tiempo",
-        "title": "F\u00e1brica de cultura",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-fabrica-de-cultura-669117"
+        "title": "La justicia es un tigre de papel",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/la-justicia-es-un-tigre-de-papel-columna-de-juan-pablo-calvas-669325"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-05-02",
+        "author": "Juan Mart\u00edn Caicedo Ferrer",
+        "date": "2022-05-03",
         "publication": "el-tiempo",
-        "title": "Nadie quiere ser el \u00faltimo muerto en la guerra",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-nadie-quiere-ser-el-ultimo-muerto-669136"
+        "title": "De Casta\u00f1o oscuro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-martin-caicedo-ferrer/de-castano-oscuro-columna-de-juan-martin-caicedo-ferrer-669331"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-05-02",
+        "author": "Eduardo Escobar",
+        "date": "2022-05-03",
         "publication": "el-tiempo",
-        "title": "Lo que no nos muestran del mundo de las criptomonedas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-lo-que-no-nos-muestran-de-las-criptomonedas-669133"
+        "title": "Las perversiones del conocimiento...",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/las-perversiones-del-conocimiento-columna-de-eduardo-escobar-669322"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-05-02",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-05-03",
         "publication": "el-tiempo",
-        "title": "6402: \u00bfqui\u00e9n dio la orden?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-6402-quien-dio-la-orden-669129"
+        "title": "La silla Rr",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/la-silla-rr-columna-de-oscar-dominguez-giraldo-669380"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2022-05-02",
+        "author": "Helena Storm",
+        "date": "2022-05-03",
         "publication": "el-tiempo",
-        "title": "La crisis cultural",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-la-crisis-cultural-669120"
+        "title": "Libertad de prensa y democracia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/helena-storm/libertad-de-prensa-y-democracia-columna-de-helena-storm-669343"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2022-05-02",
+        "author": "Alejandro Riveros Gonz\u00e1lez",
+        "date": "2022-05-03",
         "publication": "el-tiempo",
-        "title": "Lecciones desde Brasil y Per\u00fa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-lecciones-desde-brasil-y-peru-669127"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2022-05-02",
-        "publication": "el-tiempo",
-        "title": "\u00a1Una nota de seis metros de largo!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-una-nota-de-seis-metros-de-largo-669137"
+        "title": "Machistas \u2018hijueparribas\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/machistas-hijueparribas-columna-de-alejandro-riveros-669344"
     }
 ]
