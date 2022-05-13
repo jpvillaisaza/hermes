@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-12",
+        "date": "2022-05-13",
         "publication": "el-colombiano",
-        "title": "De la desigualdad ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/de-la-desigualdad-KL17492679"
+        "title": "El informe de la Verdad",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-informe-de-la-verdad-ED17506299"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-05-13",
+        "publication": "el-colombiano",
+        "title": "Dr. Juan Camilo Restrepo, destape los libros",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/dr-juan-camilo-restrepo-destape-los-libros-GD17505605"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2022-05-13",
+        "publication": "el-colombiano",
+        "title": "En el reino del marketing",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/en-el-reino-del-marketing-AD17505588"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-05-13",
+        "publication": "el-colombiano",
+        "title": "Diez a\u00f1os sin Carlos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/diez-anos-sin-carlos-GD17505571"
+    },
+    {
+        "article-type": "column",
+        "author": "Henry Medina Uribe",
+        "date": "2022-05-13",
+        "publication": "el-colombiano",
+        "title": "Reaccionamos o perecemos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/reaccionamos-o-perecemos-BD17505554"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-05-13",
+        "publication": "el-colombiano",
+        "title": "La absurda l\u00f3gica de los hechos aislados",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-absurda-logica-de-los-hechos-aislados-GD17505517"
     },
     {
         "article-type": "column",
@@ -48,52 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/con-petro-mas-inflacion-EL17492363"
     },
     {
-        "article-type": "column",
-        "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2022-05-11",
-        "publication": "el-colombiano",
-        "title": "La reina Isabel",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-reina-isabel-HF17474641"
-    },
-    {
-        "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2022-05-11",
-        "publication": "el-colombiano",
-        "title": "Nos quedamos con el recuerdo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/nos-quedamos-con-el-recuerdo-PF17474658"
-    },
-    {
-        "article-type": "column",
-        "author": "Dany Alejandro Hoyos",
-        "date": "2022-05-11",
-        "publication": "el-colombiano",
-        "title": "\u00c9rase una vez un sue\u00f1o",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/erase-una-vez-un-sueno-FF17474607"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-05-11",
-        "publication": "el-colombiano",
-        "title": "El esc\u00e1ndalo del covid-gate",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-escandalo-del-covid-gate-AF17474675"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-05-11",
-        "publication": "el-colombiano",
-        "title": "No hay tiempo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/no-hay-tiempo-EF17474624"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-12",
+        "date": "2022-05-13",
         "publication": "el-espectador",
-        "title": "Las trampas de los alcaldes y el doble rasero de la Procuradur\u00eda",
-        "url": "https://www.elespectador.com/opinion/editorial/las-trampas-de-los-alcaldes-y-el-doble-rasero-de-la-procuraduria/"
+        "title": "\u00bfLes giraron dinero de subsidios a fallecidos?",
+        "url": "https://www.elespectador.com/opinion/editorial/les-giraron-dinero-de-subsidios-a-fallecidos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "Trizas y risas",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/trizas-y-risas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "Desamparo",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/desamparo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "Cu\u00e1ndo nacen las dictaduras",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/cuando-nacen-las-dictaduras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "El cerco terco de la sangre",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/el-cerco-terco-de-la-sangre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "Petro, diablo y mala suerte",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/petro-diablo-y-mala-suerte/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "\u201cNo odiar\u00e1s\u201d ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/no-odiaras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "Similitudes de Lenin y Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/similitudes-de-lenin-y-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 es participaci\u00f3n en pol\u00edtica?",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/que-es-participacion-en-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Charria",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "Un a\u00f1o m\u00e1s oscuro que la noche",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-charria/un-ano-mas-oscuro-que-la-noche/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "Apto para toda la familia",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/apto-para-toda-la-familia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "Carmen que te quiero Carmen",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/carmen-que-te-quiero-carmen/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Felipe Carrillo G\u00e1faro",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "Pensar \u201cfuera de la caja\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/pensar-fuera-de-la-caja/"
+    },
+    {
+        "article-type": "column",
+        "author": "Foro Nacional por Colombia",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "Descentralizar la mirada para llegar a lo rural como un camino de paz ",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-descentralizacion-del-estado-como-camino-a-la-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabella Portilla",
+        "date": "2022-05-13",
+        "publication": "el-espectador",
+        "title": "La prosa insomne",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabella-portilla/la-prosa-insomne/"
     },
     {
         "article-type": "column",
@@ -112,187 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/para-estado-amazonico/"
     },
     {
-        "article-type": "column",
-        "author": "Luis Carlos Reyes",
-        "date": "2022-05-12",
-        "publication": "el-espectador",
-        "title": "Propuestas presidenciales, \u00bfpero a qu\u00e9 costo?",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carlos-reyes/propuestas-presidenciales-pero-a-que-costo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2022-05-12",
-        "publication": "el-espectador",
-        "title": "No se salvan ni por un pelo",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/no-se-salvan-ni-por-un-pelo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2022-05-12",
-        "publication": "el-espectador",
-        "title": "Jaguar neoliberal, jaguar proletario",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/jaguar-neoliberal-jaguar-proletario/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2022-05-12",
-        "publication": "el-espectador",
-        "title": "Denuncias por acoso y abuso sexual contra \u00e1rbitros colombianos",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/denuncias-por-acoso-y-abuso-sexual-contra-arbitros-colombianos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2022-05-12",
-        "publication": "el-espectador",
-        "title": "El pa\u00eds de las fotocopias",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-pais-de-las-fotocopias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2022-05-12",
-        "publication": "el-espectador",
-        "title": "Oligarca, cristiano, narcisista y violento",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/oligarca-cristiano-narcisista-y-violento/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2022-05-12",
-        "publication": "el-espectador",
-        "title": "Petro, el caudillo delirante de las tarimas",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/petro-el-caudillo-delirante-de-las-tarimas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2022-05-12",
-        "publication": "el-espectador",
-        "title": "Quedan dos cupos",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/quedan-dos-cupos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-05-12",
-        "publication": "el-espectador",
-        "title": "Mario Morales: \u201cEstamos en la herencia degradada de la seguridad democr\u00e1tica\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/mario-morales-estamos-en-la-herencia-degradada-de-la-seguridad-democratica/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Parra Castellanos",
-        "date": "2022-05-12",
-        "publication": "el-espectador",
-        "title": "Preguntas para Otoniel",
-        "url": "https://www.elespectador.com/colombia-20/analistas/preguntas-para-otoniel-columna-oscar-parra/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-05-12",
-        "publication": "el-espectador",
-        "title": "Nos juzgaron mal por nuestras publicaciones impresas",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/nos-juzgaron-mal-por-nuestras-publicaciones-impresas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-05-11",
-        "publication": "el-espectador",
-        "title": "Y el rancho ardiendo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/y-el-rancho-ardiendo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2022-05-11",
-        "publication": "el-espectador",
-        "title": "Lleg\u00f3 la hora de replantear",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/llego-la-hora-de-replantear/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-05-11",
-        "publication": "el-espectador",
-        "title": "Bosques, biodiversidad, p\u00e9rdida y negociaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/bosques-biodiversidad-perdida-y-negociacion/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-12",
+        "date": "2022-05-13",
         "publication": "el-tiempo",
-        "title": "Participaci\u00f3n en pol\u00edtica",
-        "url": "https://www.eltiempo.com/opinion/editorial/participacion-en-politica-editorial-el-tiempo-671666"
+        "title": "Filtraci\u00f3n y terremoto",
+        "url": "https://www.eltiempo.com/opinion/editorial/filtracion-y-terremoto-editorial-el-tiempo-671941"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-05-12",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-05-13",
         "publication": "el-tiempo",
-        "title": "Apostar por la justicia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/apostar-por-la-justicia-columna-de-pedro-constain-671652"
+        "title": "\u00bf200 a\u00f1os gobernados por los mismos?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/200-anos-gobernados-por-los-mismos-columna-de-moises-wasserman-671861"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2022-05-12",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-05-13",
         "publication": "el-tiempo",
-        "title": "\u2018Cuentazo\u2019 a lo G\u00f6ebbels",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/cuentazo-a-lo-goeebbels-columna-de-claudia-palacios-671579"
+        "title": "Benditos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/benditos-columna-de-ricardo-silva-romero-671856"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-05-12",
+        "author": "Claudia Hakim",
+        "date": "2022-05-13",
         "publication": "el-tiempo",
-        "title": "Que arda Troya",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/que-arda-troya-columna-de-juan-esteban-constain-671643"
+        "title": "\u00a1Colombia ausente!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/colombia-ausente-columna-de-claudia-hakim-671864"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2022-05-12",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-05-13",
         "publication": "el-tiempo",
-        "title": "Una voz multiplicada en voces",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/una-voz-multiplicada-en-voces-columna-de-sergio-ramirez-671615"
+        "title": "\u00bfEl regreso de Occidente?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/el-regreso-de-occidente-columna-de-eduardo-posada-carbo-671869"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2022-05-12",
+        "author": "Salvo Basile",
+        "date": "2022-05-13",
         "publication": "el-tiempo",
-        "title": "\u00bfSe acabaron los h\u00e9roes?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/se-acabaron-los-heroes-columna-de-armando-silva-671582"
+        "title": "Persona no grata",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/persona-no-grata-columna-de-salvo-basile-671905"
     },
     {
         "article-type": "column",
-        "author": "Santiago Vargas Acebedo",
-        "date": "2022-05-12",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2022-05-13",
         "publication": "el-tiempo",
-        "title": "Yo no me identiFICO",
-        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/yo-no-me-identifico-columna-de-santiago-vargas-671593"
+        "title": "Homenaje al m\u00fasico inmortal de bandas sonoras",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/homenaje-al-musico-inmortal-de-bandas-sonoras-mauricio-laurens-671907"
     },
     {
         "article-type": "column",
-        "author": "Haidy S\u00e1nchez Mattsson",
-        "date": "2022-05-12",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2022-05-13",
         "publication": "el-tiempo",
-        "title": "\u00a1Dif\u00edcil hacer la paz y el amor cuando se tiene hambre!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/haidy-sanchez-mattsson/dificil-hacer-la-paz-y-el-amor-cuando-se-tiene-hambre-haidy-sanchez-671597"
-    },
-    {
-        "article-type": "column",
-        "author": "Otros columnistas",
-        "date": "2022-05-12",
-        "publication": "el-tiempo",
-        "title": "Carta de exnegociadores de paz a Mar\u00eda Isabel Rueda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/carta-de-exnegociadores-de-paz-a-maria-isabel-rueda-671639"
+        "title": "Momento de tribulaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/momento-de-tribulacion-columna-de-victor-corcoba-671913"
     }
 ]
