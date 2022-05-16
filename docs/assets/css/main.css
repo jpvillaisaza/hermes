@@ -13,3 +13,7 @@ ul {
 footer {
   padding-block: 2em;
 }
+
+.updated-at {
+  font-size: 0.9rem;
+}

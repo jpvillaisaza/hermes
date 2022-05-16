@@ -33,6 +33,7 @@ jobs:
       - run: cabal run exe:hades --verbose=0 -- docs/_data/articles.json > articles.json
       - run: mkdir -p docs/_data/
       - run: python3 -m json.tool articles.json docs/_data/articles.json
+      - run: TZ=America/Bogota date +'"%Y-%m-%dT%H:%M:%S%z"' > docs/_data/updated-at.json
       - name: Update articles
         if: github.event.schedule == '0 10 * * *' || github.event.inputs.push == 'true'
         run: |

@@ -56,6 +56,12 @@
       </section>
     </main>
     <footer>
+      <p class="updated-at">
+        Última actualización:
+        <time datetime="{{ site.data.updated-at }}">
+          {{ site.data.updated-at | date: "%Y-%m-%d %H:%M" }}
+        </time>
+      </p>
     </footer>
   </body>
 </html>
