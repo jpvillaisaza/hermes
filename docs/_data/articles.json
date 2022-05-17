@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-16",
+        "date": "2022-05-17",
         "publication": "el-colombiano",
-        "title": "\u00bfComp\u00e1s de espera o acelerador?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/compas-de-espera-o-acelerador-IC17518099"
+        "title": "\u00bfCu\u00e1nto cuesta la ayuda china?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/cuanto-cuesta-la-ayuda-china-LB17525781"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2022-05-17",
+        "publication": "el-colombiano",
+        "title": "El gran poder de Pipe",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-gran-poder-de-pipe-HB17524560"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2022-05-17",
+        "publication": "el-colombiano",
+        "title": "Servir a los pobres",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/servir-a-los-pobres-GB17524543"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-05-17",
+        "publication": "el-colombiano",
+        "title": "Semana para no olvidar",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/semana-para-no-olvidar-FB17524526"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-05-17",
+        "publication": "el-colombiano",
+        "title": "\u00bfQu\u00e9 le pasar\u00eda a Colombia sin hidrocarburos?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/que-le-pasaria-a-colombia-sin-hidrocarburos-IB17524509"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-05-17",
+        "publication": "el-colombiano",
+        "title": "\u00bfQu\u00e9 hacer frente al desplome del yuan?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/que-hacer-frente-al-desplome-del-yuan-CB17524475"
     },
     {
         "article-type": "column",
@@ -48,60 +88,100 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/india-solo-es-aliada-fiel-de-si-misma-HC17517606"
     },
     {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Hoyos",
-        "date": "2022-05-15",
-        "publication": "el-colombiano",
-        "title": "Una semana de terror",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/una-semana-de-terror-DC17515402"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-05-15",
-        "publication": "el-colombiano",
-        "title": "Naranjal de siniestro en siniestro",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/naranjal-de-siniestro-en-siniestro-CC17515456"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-05-15",
-        "publication": "el-colombiano",
-        "title": "Garant\u00edas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/garantias-LC17515538"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-05-15",
-        "publication": "el-colombiano",
-        "title": "Maestros que inspiran",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/maestros-que-inspiran-BC17515422"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Echeverry",
-        "date": "2022-05-15",
-        "publication": "el-colombiano",
-        "title": "Natalie se puede quedar sin con qu\u00e9 comer",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/natalie-se-puede-quedar-sin-con-que-comer-OC17515380"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-16",
+        "date": "2022-05-17",
         "publication": "el-espectador",
-        "title": "Volvimos a tener elecciones violentas",
-        "url": "https://www.elespectador.com/opinion/editorial/volvimos-a-tener-elecciones-violentas/"
+        "title": "La democracia colombiana est\u00e1 bajo ataque",
+        "url": "https://www.elespectador.com/opinion/editorial/la-democracia-colombiana-esta-bajo-ataque/"
     },
     {
         "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2022-05-16",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-05-17",
         "publication": "el-espectador",
-        "title": "La independencia de los \u00f3rganos de control",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/la-independencia-de-los-organos-de-control/"
+        "title": "Divertimento",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/divertimento/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-05-17",
+        "publication": "el-espectador",
+        "title": "Hambre y violencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/hambre-y-violencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-05-17",
+        "publication": "el-espectador",
+        "title": "Jorge T\u00e9llez",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/jorge-tellez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-05-17",
+        "publication": "el-espectador",
+        "title": "\u201cMar adentro\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/mar-adentro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2022-05-17",
+        "publication": "el-espectador",
+        "title": "Las reformas pedag\u00f3gicas pendientes en la universidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/las-reformas-pedagogicas-pendientes-en-la-universidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-05-17",
+        "publication": "el-espectador",
+        "title": "Un nuevo sabor isle\u00f1o",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/un-nuevo-sabor-isleno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-05-17",
+        "publication": "el-espectador",
+        "title": "La n\u00e1usea electoral",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/la-nausea-electoral/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2022-05-17",
+        "publication": "el-espectador",
+        "title": "Primero la primera",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/primero-la-primera/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-05-17",
+        "publication": "el-espectador",
+        "title": "\u201cNo odiar\u00e1s\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/no-odiaras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2022-05-17",
+        "publication": "el-espectador",
+        "title": "M\u00e1quinas creando arte ",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/maquinas-creando-arte/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ruta Pac\u00edfica de Mujeres",
+        "date": "2022-05-17",
+        "publication": "el-espectador",
+        "title": "Nos la jugamos toda por el reconocimiento de defensoras y lideresas en Antioquia",
+        "url": "https://www.elespectador.com/colombia-20/analistas/campana-para-reconocer-a-las-defensoras-y-lideresas-en-antioquia/"
     },
     {
         "article-type": "column",
@@ -110,6 +190,14 @@
         "publication": "el-espectador",
         "title": "\u00bfP\u00e1rkinson o alzh\u00e9imer se escriben con may\u00fascula?",
         "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/parkinson-o-alzheimer-se-escriben-con-mayuscula/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2022-05-16",
+        "publication": "el-espectador",
+        "title": "La independencia de los \u00f3rganos de control",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/la-independencia-de-los-organos-de-control/"
     },
     {
         "article-type": "column",
@@ -136,155 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/petro-y-fajardo/"
     },
     {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2022-05-16",
-        "publication": "el-espectador",
-        "title": "\u201cLikes\u201d y retuits",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/likes-y-retuits/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2022-05-16",
-        "publication": "el-espectador",
-        "title": "Desigualdades ambientales",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/desigualdades-ambientales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-05-16",
-        "publication": "el-espectador",
-        "title": "La sociedad en el aula y el aburrimiento de los estudiantes",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/la-sociedad-en-el-aula-y-el-aburrimiento-de-los-estudiantes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-05-16",
-        "publication": "el-espectador",
-        "title": "De Quer\u00e9taro a Barranquilla",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/de-queretaro-a-barranquilla/"
-    },
-    {
-        "article-type": "column",
-        "author": "Vanessa Rosales A.",
-        "date": "2022-05-16",
-        "publication": "el-espectador",
-        "title": "La pol\u00edtica de los afectos",
-        "url": "https://www.elespectador.com/opinion/columnistas/vanessa-rosales-a-/la-politica-de-los-afectos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-05-16",
-        "publication": "el-espectador",
-        "title": "Gracias ministro",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/gracias-ministro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2022-05-16",
-        "publication": "el-espectador",
-        "title": "Las redes sociales atrapadas",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/las-redes-sociales-atrapadas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-05-16",
-        "publication": "el-espectador",
-        "title": "Lo que se merece Millonarios ",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/lo-que-se-merece-millonarios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-05-16",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cLa dignidad de la vida debe definirla quien la vive\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-la-dignidad-de-la-vida-debe-definirla-quien-la-vive/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2022-05-16",
-        "publication": "el-espectador",
-        "title": "Cap\u00edtulo 26: Sale Fajardo, calienta Quintero",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/invamer-sepulta-a-sergio-fajardo-y-la-procuraduria-catapulta-a-daniel-quintero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2022-05-16",
-        "publication": "el-espectador",
-        "title": "Crece la violencia ",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/crece-la-violencia/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-16",
+        "date": "2022-05-17",
         "publication": "el-tiempo",
-        "title": "Endeudarse con juicio",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-16-de-mayo-de-2022-endeudarse-con-juicio-672517"
+        "title": "Transici\u00f3n con orden",
+        "url": "https://www.eltiempo.com/opinion/editorial/transicion-con-orden-editorial-el-tiempo-672812"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-05-16",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-05-17",
         "publication": "el-tiempo",
-        "title": "Campa\u00f1a maluca",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-campana-maluca-672535"
+        "title": "La verdad de la Comisi\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/la-verdad-de-la-comision-columna-de-jose-manuel-acevedo-672752"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-05-16",
+        "author": "Juan Pablo Calv\u00e1s",
+        "date": "2022-05-17",
         "publication": "el-tiempo",
-        "title": "Todos cogidos de la mano",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-todos-cogidos-de-la-mano-672524"
+        "title": "Inoperantes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/inoperantes-columna-de-juan-pablo-calvas-672736"
     },
     {
         "article-type": "column",
-        "author": "Pierre Garcia",
-        "date": "2022-05-16",
+        "author": "Viviane Morales Hoyos",
+        "date": "2022-05-17",
         "publication": "el-tiempo",
-        "title": "Revoluci\u00f3n social del gobierno Duque",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pierre-garcia/columna-de-pierre-garcia-revolucion-social-del-gobierno-duque-672533"
+        "title": "El antiespecismo de la Corte Constitucional",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/el-antiespecismo-de-la-corte-constitucional-viviane-morales-hoyos-672721"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-05-16",
+        "author": "Eduardo Escobar",
+        "date": "2022-05-17",
         "publication": "el-tiempo",
-        "title": "Bellacos, potros empoderados",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-bellacos-potros-empoderados-672520"
+        "title": "Sonambulismo y pol\u00edtica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/sonambulismo-y-politica-columna-de-eduardo-escobar-672727"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-05-16",
+        "author": "Alfonso Carvajal",
+        "date": "2022-05-17",
         "publication": "el-tiempo",
-        "title": "Las maestras",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-las-maestras-672537"
+        "title": "\u2018Entre la sangre y la palabra\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/entre-la-sangre-y-la-palabra-columna-de-alfonso-carvajal-672732"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2022-05-16",
+        "author": "Lina Arbelaez",
+        "date": "2022-05-17",
         "publication": "el-tiempo",
-        "title": "Elecciones presidenciales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-elecciones-presidenciales-672536"
+        "title": "Ni\u00f1ez y desarrollo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/lina-arbelaez/ninez-y-desarrollo-columna-de-lina-arbelaez-672745"
     },
     {
         "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2022-05-16",
+        "author": "Mar\u00eda Claudia Lacouture",
+        "date": "2022-05-17",
         "publication": "el-tiempo",
-        "title": "\u00a1Casi nueve millones de d\u00f3lares por una camiseta\u2026!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-casi-nueve-millones-de-dolares-por-una-camiseta-672539"
+        "title": "Con los astros alineados",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-claudia-lacouture/con-los-astros-alineados-columna-de-maria-claudia-lacoture-672766"
     }
 ]
