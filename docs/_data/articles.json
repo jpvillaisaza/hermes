@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-19",
+        "date": "2022-05-20",
         "publication": "el-colombiano",
-        "title": "Reversazo en Venezuela",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/reversazo-en-venezuela-BA17538845"
+        "title": "Se diluye la neutralidad",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/se-diluye-la-neutralidad-GH17544222"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Manrique",
+        "date": "2022-05-20",
+        "publication": "el-colombiano",
+        "title": "De verdad #MandanHuevo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/de-verdad-mandanhuevo-FH17544188"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-05-20",
+        "publication": "el-colombiano",
+        "title": "Ojo con Rodolfo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ojo-con-rodolfo-AH17544114"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-05-20",
+        "publication": "el-colombiano",
+        "title": "No volver\u00e1n",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/no-volveran-EH17544132"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-05-20",
+        "publication": "el-colombiano",
+        "title": "El ejercicio irrenunciable de la funci\u00f3n p\u00fablica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-ejercicio-irrenunciable-de-la-funcion-publica-DH17544171"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2022-05-20",
+        "publication": "el-colombiano",
+        "title": "Salir del laberinto",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/salir-del-laberinto-DH17544061"
     },
     {
         "article-type": "column",
@@ -48,243 +88,203 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/un-minuto-de-noventa-anos-OA17538699"
     },
     {
+        "article-type": "editorial",
+        "author": null,
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Es momento de m\u00e1s democracia en el f\u00fatbol",
+        "url": "https://www.elespectador.com/opinion/editorial/es-momento-de-mas-democracia-en-el-futbol/"
+    },
+    {
         "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2022-05-18",
-        "publication": "el-colombiano",
-        "title": "Que se abra el debate",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/que-se-abra-el-debate-HA17534311"
+        "author": "Patricia Lara Salive",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Nada que ver, presidente Duque",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/nada-que-ver-presidente-duque/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "En los zapatos de las v\u00edctimas de la guerra",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/en-los-zapatos-de-las-victimas-de-la-guerra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Votar sin odio",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/votar-sin-odio/"
     },
     {
         "article-type": "column",
         "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2022-05-18",
-        "publication": "el-colombiano",
-        "title": "Bucear en l\u00e1grimas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/bucear-en-lagrimas-PA17534290"
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Memorias (selectivas) de Federico",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/memorias-selectivas-de-federico/"
     },
     {
         "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-05-18",
-        "publication": "el-colombiano",
-        "title": "La otra guerra",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-otra-guerra-FA17534256"
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Cerca de la meta",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/cerca-de-la-meta/"
     },
     {
         "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-05-18",
-        "publication": "el-colombiano",
-        "title": "Un desahogo en nombre de Antioquia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/un-desahogo-en-nombre-de-antioquia-CA17534273"
+        "author": "Carlos Gran\u00e9s",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Un meteorito que atraviesa el siglo XX",
+        "url": "https://www.elespectador.com/opinion/columnistas/carlos-granes/un-meteorito-que-atraviesa-el-siglo-xx/"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-05-18",
-        "publication": "el-colombiano",
-        "title": "El regreso de Trump a Twitter",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-regreso-de-trump-a-twitter-GA17534222"
+        "author": "\u00d3scar Sevillano",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Rodr\u00edguez Sastoque, el concejal m\u00e1s caro del mundo",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/rodriguez-sastoque-el-concejal-mas-caro-del-mundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "El pa\u00eds nacional",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/el-pais-nacional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Los indecisos, terceros en discordia",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/los-indecisos-terceros-en-discordia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Los escritores y la pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/los-escritores-y-la-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Dichas que vuelan",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/dichas-que-vuelan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Programa de gobierno de Fico",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/programa-de-gobierno-de-fico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juliana Mu\u00f1oz Toro",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Leamos a m\u00e1s mujeres",
+        "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/leamos-a-mas-mujeres/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio Borges",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Capitalistas salvajes",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/capitalistas-salvajes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Guillermo Gonz\u00e1lez Uribe",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "El necesario relevo de Uribe",
+        "url": "https://www.elespectador.com/opinion/columnistas/guillermo-gonzalez-uribe/el-necesario-relevo-de-uribe/"
+    },
+    {
+        "article-type": "column",
+        "author": "Keneth Burbano Villamar\u00edn",
+        "date": "2022-05-20",
+        "publication": "el-espectador",
+        "title": "Acallar la Verdad",
+        "url": "https://www.elespectador.com/colombia-20/analistas/con-audiencias-de-la-jep-se-muestra-que-el-tribunal-esta-cumpliendo-su-funcion-en-el-posconflicto/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "Washington se flexibiliza frente a Cuba y Venezuela",
-        "url": "https://www.elespectador.com/opinion/editorial/washington-se-flexibiliza-frente-a-cuba-y-venezuela/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "Un concierto ejemplar",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/un-concierto-ejemplar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gustavo Gall\u00f3n",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "Comit\u00e9 egregio de suprema supervisi\u00f3n estatal",
-        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/comite-egregio-de-suprema-supervision-estatal/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "Sarito",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/sarito/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "Dichos y hechos",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/dichos-y-hechos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "\u201cJugaditas\u201d a la democracia ",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/jugaditas-a-la-democracia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "Hecha la ley, hecha la trampa",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/hecha-la-ley-hecha-la-trampa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "El Caro y Cuervo en la Feria del Libro de Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-caro-y-cuervo-en-la-feria-del-libro-de-bogota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "\u201c\u00a1Alfaro vive, carajo!\u201d y el imperialismo del M-19",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/alfaro-vive-carajo-y-el-imperialismo-del-m-19/"
-    },
-    {
-        "article-type": "column",
-        "author": "Santiago Villa",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "Separaci\u00f3n de poderes",
-        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/separacion-de-poderes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "Colombia necesita estadistas",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/colombia-necesita-estadistas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Charria",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "Palabras vac\u00edas",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-charria/palabras-vacias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "Para perdonar lo imperdonable",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/para-perdonar-lo-imperdonable/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Fagua",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "Evangelista Monroy, sin el derecho a la vida",
-        "url": "https://www.elespectador.com/colombia-20/analistas/evangelista-monroy-sin-el-derecho-a-la-vida/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2022-05-19",
-        "publication": "el-espectador",
-        "title": "La Candidata persuadi\u00f3 a Daniel Quintero de provocar su suspensi\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/procuraduria-vuelve-presidenciable-a-daniel-quintero-invamer-sepulta-a-fajardo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Unidad de Video",
-        "date": "2022-05-18",
-        "publication": "el-espectador",
-        "title": "Pasamos de antipetristas a petristas en un solo fin de semana",
-        "url": "https://www.elespectador.com/opinion/columnistas/unidad-de-video/pasamos-de-antipetristas-a-petristas-en-un-solo-fin-de-semana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2022-05-18",
-        "publication": "el-espectador",
-        "title": "\u201cMe voy del pa\u00eds\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/me-voy-del-pais/"
-    },
-    {
-        "article-type": "editorial",
-        "author": null,
-        "date": "2022-05-19",
+        "date": "2022-05-20",
         "publication": "el-tiempo",
-        "title": "Evitar descuidos",
-        "url": "https://www.eltiempo.com/opinion/editorial/evitar-descuidos-editorial-el-tiempo-673447"
+        "title": "Un valioso aporte",
+        "url": "https://www.eltiempo.com/opinion/editorial/un-valioso-aporte-editorial-el-tiempo-673736"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-05-19",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-05-20",
         "publication": "el-tiempo",
-        "title": "Est\u00e1 suspendido, no sancionado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/esta-suspendido-no-sancionado-columna-de-pedro-medellin-673436"
+        "title": "La C\u00e1rcel de Stanford",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/la-carcel-de-stanford-columna-de-moises-wasserman-673661"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya",
-        "date": "2022-05-19",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-05-20",
         "publication": "el-tiempo",
-        "title": "25 de mayo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya/25-de-mayo-columna-de-jineth-bedoya-673408"
+        "title": "Temple",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/temple-columna-ricardo-silva-romero-673653"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-05-19",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2022-05-20",
         "publication": "el-tiempo",
-        "title": "Un ser excepcional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/un-ser-excepcional-columna-de-juan-esteban-constain-673413"
+        "title": "Miedo a Rusia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/miedo-a-rusia-columna-de-antonio-albinana-673663"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2022-05-19",
+        "author": "John Sudarsky",
+        "date": "2022-05-20",
         "publication": "el-tiempo",
-        "title": "\u00bfDe qu\u00e9 depende el futuro del pa\u00eds?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/de-que-depende-el-futuro-del-pais-columna-de-juliana-mejia-673372"
+        "title": "Lo que est\u00e1 en juego en la primera vuelta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/john-sudarsky/lo-que-esta-en-juego-en-la-primera-vuelta-columna-de-john-sudarsky-673748"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2022-05-19",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-05-20",
         "publication": "el-tiempo",
-        "title": "\u2018De vez en cuando la vida\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/de-vez-en-cuando-la-vida-columna-de-diana-pardo-673374"
+        "title": "La democracia y sus desaf\u00edos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/la-democracia-y-sus-desafios-columna-de-eduardo-posada-carbo-673671"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2022-05-19",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2022-05-20",
         "publication": "el-tiempo",
-        "title": "Las v\u00edctimas de la violencia: con su sufrimiento a cuestas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/las-victimas-de-la-violencia-con-su-sufrimiento-a-cuestas-jose-m-alzate-673414"
+        "title": "Claro que saben",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/claro-que-saben-columna-de-manuel-guzman-hennessey-673656"
     },
     {
         "article-type": "column",
-        "author": "Fernando Montes Negret",
-        "date": "2022-05-19",
+        "author": "Alejandro Riveros Gonz\u00e1lez",
+        "date": "2022-05-20",
         "publication": "el-tiempo",
-        "title": "Control de la inflaci\u00f3n y tasas de inter\u00e9s al alza",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/control-de-la-inflacion-y-tasas-de-interes-al-alza-fernando-montes-673392"
+        "title": "Lugares comunes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/lugares-comunes-columna-de-alejandro-riveros-673689"
     }
 ]
