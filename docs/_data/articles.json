@@ -90,10 +90,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-23",
+        "date": "2022-05-24",
         "publication": "el-espectador",
-        "title": "Veinticinco a\u00f1os de mentiras contra la empat\u00eda de la muerte digna",
-        "url": "https://www.elespectador.com/opinion/editorial/veinticinco-anos-de-mentiras-contra-la-empatia-de-la-muerte-digna/"
+        "title": "Est\u00e1n jugando con candela",
+        "url": "https://www.elespectador.com/opinion/editorial/estan-jugando-con-candela/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-05-24",
+        "publication": "el-espectador",
+        "title": "Las \u201cjugaditas\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/las-jugaditas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia L\u00f3pez Monta\u00f1o",
+        "date": "2022-05-24",
+        "publication": "el-espectador",
+        "title": "\u00bfMiedo? S\u00ed, a lo que nos deja Duque",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-lopez-montano/miedo-si-a-lo-que-nos-deja-duque/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2022-05-24",
+        "publication": "el-espectador",
+        "title": "Tumaco no tendr\u00e1 donde depositar su memoria",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/tumaco-no-tendra-donde-depositar-su-memoria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Hern\u00e1ndez",
+        "date": "2022-05-24",
+        "publication": "el-espectador",
+        "title": "Por Fajardo, el candidato de la experiencia y la decencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/por-fajardo-el-candidato-de-la-experiencia-y-la-decencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-05-24",
+        "publication": "el-espectador",
+        "title": "El legado que Guti\u00e9rrez defender\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/el-legado-que-gutierrez-defenderia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-05-24",
+        "publication": "el-espectador",
+        "title": "Tres lobos y un matem\u00e1tico",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/tres-lobos-y-un-matematico/"
     },
     {
         "article-type": "column",
@@ -174,54 +222,6 @@
         "publication": "el-espectador",
         "title": "Palo porque bogas",
         "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/palo-porque-bogas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Guillermo Rivera",
-        "date": "2022-05-23",
-        "publication": "el-espectador",
-        "title": "Hace cuatro a\u00f1os todo fue mejor\u2026",
-        "url": "https://www.elespectador.com/opinion/columnistas/grivera/hace-cuatro-anos-todo-fue-mejor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-05-23",
-        "publication": "el-espectador",
-        "title": "Globalizaci\u00f3n al banquillo",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/globalizacion-al-banquillo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2022-05-23",
-        "publication": "el-espectador",
-        "title": "Desequilibrios",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/desequilibrios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2022-05-23",
-        "publication": "el-espectador",
-        "title": "Jalones de orejas",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/jalones-de-orejas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2022-05-23",
-        "publication": "el-espectador",
-        "title": "\u00bf\u00abLiteralmente\u00bb es lo opuesto del sentido figurado?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/literalmente-es-lo-opuesto-del-sentido-figurado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2022-05-23",
-        "publication": "el-espectador",
-        "title": "Pol\u00edtica y desigualdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/politica-y-desigualdad/"
     },
     {
         "article-type": "editorial",
