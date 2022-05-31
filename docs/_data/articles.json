@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-30",
+        "date": "2022-05-31",
         "publication": "el-colombiano",
-        "title": "Cinco grandes mensajes",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/cinco-grandes-mensajes-GE17644244"
+        "title": "Los viajes del presidente",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/los-viajes-del-presidente-HE17647220"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2022-05-31",
+        "publication": "el-colombiano",
+        "title": "Rodolfo, incorrecto",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/rodolfo-incorrecto-HE17647011"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2022-05-31",
+        "publication": "el-colombiano",
+        "title": "Corrupci\u00f3n, demagogia y tiran\u00eda",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/corrupcion-demagogia-y-tirania-CE17646994"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-05-31",
+        "publication": "el-colombiano",
+        "title": "Nos tragaron las redes",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/nos-tragaron-las-redes-PE17646977"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-05-31",
+        "publication": "el-colombiano",
+        "title": "Ahora un frente antichino",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ahora-un-frente-antichino-JE17646960"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-05-31",
+        "publication": "el-colombiano",
+        "title": "Pol\u00edtica de las emociones",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/politica-de-las-emociones-IE17646925"
     },
     {
         "article-type": "column",
@@ -48,52 +88,100 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/el-tablero-politico-frances-KE17642954"
     },
     {
-        "article-type": "column",
-        "author": "Juan Carlos Echeverry",
-        "date": "2022-05-29",
-        "publication": "el-colombiano",
-        "title": "Votar o saltar al vac\u00edo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/votar-o-saltar-al-vacio-HD17637752"
-    },
-    {
-        "article-type": "column",
-        "author": "Elbac\u00e9 Restrepo",
-        "date": "2022-05-29",
-        "publication": "el-colombiano",
-        "title": "A la mam\u00e1 de Andr\u00e9s Camilo Pel\u00e1ez",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/a-la-mama-de-andres-camilo-pelaez-ND17637596"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Hoyos",
-        "date": "2022-05-29",
-        "publication": "el-colombiano",
-        "title": "Ante la muerte de la luz",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/ante-la-muerte-de-la-luz-ND17637684"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-05-29",
-        "publication": "el-colombiano",
-        "title": "Colombia en la encrucijada",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/colombia-en-la-encrucijada-GD17637735"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-05-29",
-        "publication": "el-colombiano",
-        "title": "\u00bfPara d\u00f3nde vamos con tanta OPA?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/para-donde-vamos-con-tanta-opa-JD17637718"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-30",
+        "date": "2022-05-31",
         "publication": "el-espectador",
-        "title": "Colombia quiere un cambio, no lo frustremos",
-        "url": "https://www.elespectador.com/opinion/editorial/colombia-quiere-un-cambio-no-lo-frustremos/"
+        "title": "A pesar de todo el ruido, hubo tranquilidad electoral",
+        "url": "https://www.elespectador.com/opinion/editorial/a-pesar-de-todo-el-ruido-hubo-tranquilidad-electoral/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2022-05-31",
+        "publication": "el-espectador",
+        "title": "Vientos de cambio",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/vientos-de-cambio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-05-31",
+        "publication": "el-espectador",
+        "title": "Virtualidad y justicia",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/virtualidad-y-justicia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-05-31",
+        "publication": "el-espectador",
+        "title": "Es hora de un nuevo pacto social",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/es-hora-de-un-nuevo-pacto-social/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-05-31",
+        "publication": "el-espectador",
+        "title": "La primera vuelta",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-primera-vuelta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-05-31",
+        "publication": "el-espectador",
+        "title": "Columna trasnochada",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/columna-trasnochada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-05-31",
+        "publication": "el-espectador",
+        "title": "La devaluaci\u00f3n de Downing Street",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/la-devaluacion-de-downing-street/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2022-05-31",
+        "publication": "el-espectador",
+        "title": "\u00bfPor qu\u00e9 son tan frecuentes las masacres en los colegios de Estados Unidos?",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/por-que-son-tan-frecuentes-las-masacres-en-los-colegios-de-estados-unidos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Vanegas Ath\u00edas",
+        "date": "2022-05-31",
+        "publication": "el-espectador",
+        "title": "Soy porque somos",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/soy-porque-somos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-05-31",
+        "publication": "el-espectador",
+        "title": "Violencia, v\u00edrgenes y beatos",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/violencia-virgenes-y-beatos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-05-31",
+        "publication": "el-espectador",
+        "title": "Unir, concretar y responder",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/unir-concretar-y-responder/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Miranda",
+        "date": "2022-05-31",
+        "publication": "el-espectador",
+        "title": "\u00bfUna nueva base militar de Estados Unidos en Am\u00e9rica del Sur?",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/una-nueva-base-militar-de-estados-unidos-en-america-del-sur/"
     },
     {
         "article-type": "column",
@@ -136,139 +224,51 @@
         "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/mi-ultimo-articulo/"
     },
     {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-05-30",
-        "publication": "el-espectador",
-        "title": "\u00bfY d\u00f3nde est\u00e1n los l\u00edderes?",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/y-donde-estan-los-lideres/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-05-30",
-        "publication": "el-espectador",
-        "title": "Segunda vuelta: \u00bfSeguimos pasando agachados?",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/segunda-vuelta-seguimos-pasando-agachados/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-05-30",
-        "publication": "el-espectador",
-        "title": "Reforma educativa, ausente del debate presidencial",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/reforma-educativa-ausente-del-debate-presidencial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Vanessa Rosales A.",
-        "date": "2022-05-30",
-        "publication": "el-espectador",
-        "title": "El vestir como desobediencia ",
-        "url": "https://www.elespectador.com/opinion/columnistas/vanessa-rosales-a-/el-vestir-como-desobediencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-05-30",
-        "publication": "el-espectador",
-        "title": "As\u00ed vamos",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-asi-vamos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabiola Calvo",
-        "date": "2022-05-30",
-        "publication": "el-espectador",
-        "title": "Registro de guerra gritos por la paz",
-        "url": "https://www.elespectador.com/colombia-20/analistas/registro-de-guerra-gritos-por-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-05-30",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201dSi no hacemos valer nuestra voz hoy, entonces \u00bfCu\u00e1ndo?\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-si-no-hacemos-valer-nuestra-voz-hoy-entonces-cuando/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-05-30",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-45/"
-    },
-    {
-        "article-type": "column",
-        "author": "Foro Nacional por Colombia",
-        "date": "2022-05-30",
-        "publication": "el-espectador",
-        "title": "Elecciones Presidenciales 2022 \u00bfcu\u00e1les son las propuestas por la paz?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/elecciones-presidenciales-2022-cuales-son-las-propuestas-por-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Paul Krugman",
-        "date": "2022-05-29",
-        "publication": "el-espectador",
-        "title": "La crisis ya est\u00e1 aqu\u00ed",
-        "url": "https://www.elespectador.com/opinion/columnistas/paul-krugman/la-crisis-ya-esta-aqui/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Leal Buitrago",
-        "date": "2022-05-29",
-        "publication": "el-espectador",
-        "title": "Incertidumbre",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/incertidumbre/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-05-30",
+        "date": "2022-05-31",
         "publication": "el-tiempo",
-        "title": "El mensaje de las urnas",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-30-de-mayo-de-2022-el-mensaje-de-las-urnas-676223"
+        "title": "Impotencia y dolor",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-31-de-mayo-de-2022-impotencia-y-dolor-676368"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-05-30",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-05-31",
         "publication": "el-tiempo",
-        "title": "Cambi\u00f3 la delincuencia digital",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-cambio-la-delincuencia-digital-676177"
+        "title": "La impresentable",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-m-la-impresentable-676359"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-05-30",
+        "author": "Armando Silva",
+        "date": "2022-05-31",
         "publication": "el-tiempo",
-        "title": "Celebraci\u00f3n del conflicto",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-celebracion-del-conflicto-676198"
+        "title": "\u00bfCambiar desde el amor?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-cambiar-desde-el-amor-676357"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Orozco Mu\u00f1oz",
-        "date": "2022-05-30",
+        "author": "Viviane Morales Hoyos",
+        "date": "2022-05-31",
         "publication": "el-tiempo",
-        "title": "Retos para el pr\u00f3ximo gobierno",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-orozco-munoz/columna-de-jose-miguel-orozco-munoz-retos-para-el-proximo-gobierno-676189"
+        "title": "Fico tom\u00f3 la mejor decisi\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/columna-de-viviane-morales-hoyos-fico-tomo-la-mejor-decision-676362"
     },
     {
         "article-type": "column",
-        "author": "Lisandro Junco Riveira",
-        "date": "2022-05-30",
+        "author": "Juan Pablo Calv\u00e1s",
+        "date": "2022-05-31",
         "publication": "el-tiempo",
-        "title": "No se necesitan d\u00f3berman si tenemos datos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/lisandro-junco-riveira-no-se-necesitan-doberman-si-tenemos-datos-676197"
+        "title": "La cocina de Rodolfo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/columna-de-juan-pablo-calvas-la-cocina-de-rodolfo-676363"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2022-05-30",
+        "author": "Eduardo Escobar",
+        "date": "2022-05-31",
         "publication": "el-tiempo",
-        "title": "El ocaso del espermatozoide",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/columna-de-fernando-sanchez-torres-el-ocaso-del-espermatozoide-676193"
+        "title": "Los bemoles de la democracia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-escobar-los-bemoles-de-la-democracia-676365"
     }
 ]
