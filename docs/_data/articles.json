@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-01",
+        "date": "2022-06-02",
         "publication": "el-colombiano",
-        "title": "Los colores del mapa",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/los-colores-del-mapa-BF17652627"
+        "title": "La amenaza del hambre",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-amenaza-del-hambre-JG17660009"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2022-06-02",
+        "publication": "el-colombiano",
+        "title": "Ahora a escoger",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ahora-a-escoger-BF17659954"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2022-06-02",
+        "publication": "el-colombiano",
+        "title": "Dante",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/dante-CF17659920"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2022-06-02",
+        "publication": "el-colombiano",
+        "title": "Hooligans de izquierda",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/hooligans-de-izquierda-DF17659903"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Perfetti del Corral",
+        "date": "2022-06-02",
+        "publication": "el-colombiano",
+        "title": "Cambio, s\u00ed; populismo, no",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cambio-si-populismo-no-EF17659937"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-06-02",
+        "publication": "el-colombiano",
+        "title": "Se equivoc\u00f3 otra paloma",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/se-equivoco-otra-paloma-OF17659869"
     },
     {
         "article-type": "column",
@@ -48,52 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/cuba-la-peor-represion-en-20-anos-FF17651271"
     },
     {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-06-01",
-        "publication": "el-colombiano",
-        "title": "Una d\u00e9bil voz acerca del sur",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/una-debil-voz-acerca-del-sur-HF17651251"
-    },
-    {
-        "article-type": "column",
-        "author": "Melquisedec Torres",
-        "date": "2022-05-31",
-        "publication": "el-colombiano",
-        "title": "Rodolfo, incorrecto",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/rodolfo-incorrecto-HE17647011"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
-        "date": "2022-05-31",
-        "publication": "el-colombiano",
-        "title": "Corrupci\u00f3n, demagogia y tiran\u00eda",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/corrupcion-demagogia-y-tirania-CE17646994"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Ram\u00edrez Correa",
-        "date": "2022-05-31",
-        "publication": "el-colombiano",
-        "title": "Nos tragaron las redes",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/nos-tragaron-las-redes-PE17646977"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2022-05-31",
-        "publication": "el-colombiano",
-        "title": "Ahora un frente antichino",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/ahora-un-frente-antichino-JE17646960"
-    },
-    {
         "article-type": "editorial",
         "author": null,
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "No, no hubo fraude electoral en la primera vuelta",
+        "url": "https://www.elespectador.com/opinion/editorial/no-no-hubo-fraude-electoral-en-la-primera-vuelta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "Fin de una era",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/fin-de-una-era/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "\u00bfSe viene un retroceso para los derechos de las mujeres?",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/se-viene-un-retroceso-para-los-derechos-de-las-mujeres/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "Redescubrimiento de m\u00fasica antigua",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/redescubrimiento-de-musica-antigua/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo Gall\u00f3n",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "Insultante lenidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/insultante-lenidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "Las mujeres y la segunda vuelta ",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/las-mujeres-y-la-segunda-vuelta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Charria",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "La memoria de los libros infantiles",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-charria/la-memoria-de-los-libros-infantiles/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "Solo s\u00ed es s\u00ed. A veces no",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/solo-si-es-si-a-veces-no/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "Alejarse de los extremos",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/alejarse-de-los-extremos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "Por una vez, lo bueno",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/por-una-vez-lo-bueno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "Bochincholog\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/bochinchologia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Obdulio Espejo Mu\u00f1oz",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "Ir\u00e1n y la paz en Colombia",
+        "url": "https://www.elespectador.com/colombia-20/analistas/iran-y-la-paz-en-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Candidata",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "As\u00ed vivieron la 1\u00aa vuelta Fajardo, Fico, Hern\u00e1ndez y Petro, seg\u00fan la Candidata ",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/asi-vivieron-la-primera-vuelta-fajardo-fico-rodolfo-hernandez-y-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-06-02",
+        "publication": "el-espectador",
+        "title": "Nos equivocamos y presentamos unas cifras rid\u00edculas",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nos-equivocamos-y-presentamos-unas-cifras-ridiculas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Pablo Ruiz Soto",
         "date": "2022-06-01",
         "publication": "el-espectador",
-        "title": "Un desaf\u00edo caprichoso a las normas en Medell\u00edn",
-        "url": "https://www.elespectador.com/opinion/editorial/un-desafio-caprichoso-a-las-normas-en-medellin/"
+        "title": "Candidatos: \u00a1transici\u00f3n energ\u00e9tica y disminuir la demanda!",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/candidatos-transicion-energetica-y-disminuir-la-demanda/"
     },
     {
         "article-type": "column",
@@ -112,179 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/el-nuevo-panorama-electoral/"
     },
     {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "El uribismo muda de piel",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-uribismo-muda-de-piel/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "\u00bfDe qu\u00e9 cambio hablan?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/de-que-cambio-hablan/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "Primer \u201cround\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/primer-round/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "Candidatos: \u00a1transici\u00f3n energ\u00e9tica y disminuir la demanda!",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/candidatos-transicion-energetica-y-disminuir-la-demanda/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arlene B. Tickner",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "\u00bfSalto mundial al vac\u00edo?",
-        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/elecciones-en-colombia-salto-mundial-al-vacio-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "Polarizaci\u00f3n democr\u00e1tica",
-        "url": "https://www.elespectador.com/opinion/columnistas/elecciones-polarizacion-democratica-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Oscar Guardiola-Rivera",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "\u00bfC\u00f3mo ganar?",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/como-ganar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "Un domingo que me encant\u00f3",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/un-domingo-que-me-encanto/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. William Pearl",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "Segunda",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/segunda/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge G\u00f3mez Pinilla",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "No llorar -todav\u00eda- sobre la leche no derramada",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-gomez-pinilla/no-llorar-todavia-sobre-la-leche-no-derramada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "Viendo estrellas",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/viendo-estrellas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andrei Gomez-Suarez*",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "\u00bfCambio hacia la reconciliaci\u00f3n?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/cambio-hacia-la-reconciliacion-triunfo-de-gustavo-petro-y-rodolfo-hernandez/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Felipe Carrillo G\u00e1faro",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "\u00bfCu\u00e1ndo vamos a hacer algo?",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/cuando-vamos-a-hacer-algo/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2022-06-01",
-        "publication": "el-espectador",
-        "title": "\u00bfRodolfo Hern\u00e1ndez ya es el presidente? Esto nos dej\u00f3 la primera vuelta | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-rodolfo-hernandez-ya-es-el-presidente-esto-nos-dejo-la-primera-vuelta/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-01",
+        "date": "2022-06-02",
         "publication": "el-tiempo",
-        "title": "Fumar mata",
-        "url": "https://www.eltiempo.com/opinion/editorial/fumar-mata-editorial-el-tiempo-676665"
+        "title": "Mucha cautela",
+        "url": "https://www.eltiempo.com/opinion/editorial/mucha-cautela-editorial-el-tiempo-676972"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2022-06-01",
+        "author": "Pedro Medellin",
+        "date": "2022-06-02",
         "publication": "el-tiempo",
-        "title": "\u00bfA las puertas del cambio?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/a-las-puertas-del-cambio-columna-de-alfonso-gomez-mendez-676624"
+        "title": "Una era pol\u00edtica ha terminado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/una-era-politica-ha-terminado-columna-de-pedro-medellin-676979"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2022-06-01",
+        "author": "Jineth Bedoya",
+        "date": "2022-06-02",
         "publication": "el-tiempo",
-        "title": "Un cambio inesperado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/un-cambio-inesperado-columna-de-vladdo-676648"
+        "title": "El feminicidio s\u00ed existe",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya/el-feminicidio-si-existe-columna-de-jineth-bedoya-676950"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2022-06-01",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2022-06-02",
         "publication": "el-tiempo",
-        "title": "Futuro presidente, \u00bfme oye? (II)",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/futuro-presidente-me-oye-ii-columna-de-andres-hurtado-676629"
+        "title": "\u00bfPueblo bruto?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/pueblo-bruto-columna-de-juan-esteban-constain-676919"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2022-06-01",
+        "author": "Mauricio Lloreda",
+        "date": "2022-06-02",
         "publication": "el-tiempo",
-        "title": "La publicidad y el poder",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/la-publicidad-y-el-poder-columna-de-jotamario-arbelaez-676620"
+        "title": "Dos laberintos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/dos-laberintos-columna-de-mauricio-lloreda-676942"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2022-06-01",
+        "author": "Diana Pardo",
+        "date": "2022-06-02",
         "publication": "el-tiempo",
-        "title": "El ingeniero Rodolfo aplast\u00f3 a 87 pol\u00edticos vip",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/el-ingeniero-rodolfo-aplasto-a-87-politicos-vip-poncho-renteria-676626"
+        "title": "A cielo abierto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/a-cielo-abierto-columna-de-diana-pardo-676909"
     },
     {
         "article-type": "column",
-        "author": "Javier Borda Diaz",
-        "date": "2022-06-01",
+        "author": "Alejandro Noguera Cepeda",
+        "date": "2022-06-02",
         "publication": "el-tiempo",
-        "title": "Petro y Hern\u00e1ndez se juegan la Presidencia en digital",
-        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/petro-y-hernandez-se-juegan-la-presidencia-en-digital-javier-borda-676643"
+        "title": "Cuesti\u00f3n de prioridades",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-noguera-cepeda/cuestion-de-prioridades-columna-de-alejandro-noguera-676921"
     },
     {
         "article-type": "column",
-        "author": "Gregory Lobo",
-        "date": "2022-06-01",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2022-06-02",
         "publication": "el-tiempo",
-        "title": "El habla (y el pensamiento) debe ser libre",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/el-habla-y-el-pensamiento-debe-ser-libre-columna-de-gregory-lobo-676633"
+        "title": "Colombia: dos visiones y un destino",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/colombia-dos-visiones-y-un-destino-columna-de-alexander-cambero-676928"
     }
 ]
