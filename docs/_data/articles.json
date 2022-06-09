@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-08",
+        "date": "2022-06-09",
         "publication": "el-colombiano",
-        "title": "Las reformas de Boric",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/las-reformas-de-boric-JB17706971"
+        "title": "Los criminales s\u00ed caen",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/los-criminales-si-caen-KA17713687"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Botero Montoya",
+        "date": "2022-06-09",
+        "publication": "el-colombiano",
+        "title": "Sorpresa electoral en Colombia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sorpresa-electoral-en-colombia-HA17713172"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2022-06-09",
+        "publication": "el-colombiano",
+        "title": "La da\u00f1ina indiferencia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-danina-indiferencia-GA17712848"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2022-06-09",
+        "publication": "el-colombiano",
+        "title": "Violencia aeroportuaria",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/violencia-aeroportuaria-FA17713071"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2022-06-09",
+        "publication": "el-colombiano",
+        "title": "Dios salve las ruinas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/dios-salve-las-ruinas-LA17712999"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-06-09",
+        "publication": "el-colombiano",
+        "title": "Buenos d\u00edas, pereza",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/buenos-dias-pereza-PA17712728"
     },
     {
         "article-type": "column",
@@ -48,52 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/contorsiones-intelectuales-AB17706798"
     },
     {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-06-08",
-        "publication": "el-colombiano",
-        "title": "Armas, balas, muerte y dinero",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/armas-balas-muerte-y-dinero-JB17706780"
-    },
-    {
-        "article-type": "column",
-        "author": "Federico Hoyos Salazar",
-        "date": "2022-06-07",
-        "publication": "el-colombiano",
-        "title": "Nos da lo mismo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/nos-da-lo-mismo-MJ17690387"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Mej\u00eda Cubillos",
-        "date": "2022-06-07",
-        "publication": "el-colombiano",
-        "title": "Leerse los programas de gobierno no hace el voto m\u00e1s racional",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/leerse-los-programas-de-gobierno-no-hace-el-voto-mas-racional-GJ17690314"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2022-06-07",
-        "publication": "el-colombiano",
-        "title": "La marca China se promueve en Latinoam\u00e9rica",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-marca-china-se-promueve-en-latinoamerica-CJ17690332"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2022-06-07",
-        "publication": "el-colombiano",
-        "title": "No equivocarse",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/no-equivocarse-DJ17690366"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-08",
+        "date": "2022-06-09",
         "publication": "el-espectador",
-        "title": "La Cumbre de las Am\u00e9ricas deb\u00eda ser democr\u00e1tica",
-        "url": "https://www.elespectador.com/opinion/editorial/la-cumbre-de-las-americas-debia-ser-democratica/"
+        "title": "Es hora de prohibir las terapias de conversi\u00f3n",
+        "url": "https://www.elespectador.com/opinion/editorial/es-hora-de-prohibir-las-terapias-de-conversion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "Tuc\u00eddides",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/tucidides/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "\u201cMad Max\u201d tropical",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/mad-max-tropical/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carlos Reyes",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "Diez es m\u00e1s que diecinueve",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carlos-reyes/diez-es-mas-que-diecinueve/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "El candidato ideal",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/el-candidato-ideal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "La opci\u00f3n de la segunda vuelta",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/la-opcion-de-la-segunda-vuelta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "Decidir",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/decidir/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "Quiero cansarme contigo",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/quiero-cansarme-contigo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "Primero la vida",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/primero-la-vida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Charria",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "Pobres por decreto",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-charria/pobres-por-decreto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "Qu\u00e9 gran final femenina",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-que-gran-final-femenina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Angelika Rettberg",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "Desigualdades, una agenda urgente para las elecciones y el pr\u00f3ximo gobierno",
+        "url": "https://www.elespectador.com/opinion/columnistas/angelika-rettberg/desigualdades-una-agenda-urgente-para-las-elecciones-y-el-proximo-gobierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-06-09",
+        "publication": "el-espectador",
+        "title": "Elecciones 2022: \u00bfPor qu\u00e9 decidimos darle la portada dominical a Gustavo Petro?",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/elecciones-2022-por-que-decidimos-darle-la-portada-dominical-a-gustavo-petro/"
     },
     {
         "article-type": "column",
@@ -102,14 +198,6 @@
         "publication": "el-espectador",
         "title": "Golpes de mano",
         "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/golpes-de-mano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2022-06-08",
-        "publication": "el-espectador",
-        "title": "Lo que muestran los indicadores",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/lo-que-muestran-los-indicadores/"
     },
     {
         "article-type": "column",
@@ -129,14 +217,6 @@
     },
     {
         "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-06-08",
-        "publication": "el-espectador",
-        "title": "Entierro de tercera ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/entierro-de-tercera/"
-    },
-    {
-        "article-type": "column",
         "author": "Juan Pablo Ruiz Soto",
         "date": "2022-06-08",
         "publication": "el-espectador",
@@ -144,147 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/crecimiento-y-transicion-energetica-como/"
     },
     {
-        "article-type": "column",
-        "author": "Arlene B. Tickner",
-        "date": "2022-06-08",
-        "publication": "el-espectador",
-        "title": "Cumbre l\u00e1nguida",
-        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/cumbre-languida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2022-06-08",
-        "publication": "el-espectador",
-        "title": "Rodolfo Hern\u00e1ndez, \u00bfpresidente de Colombia?",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/rodolfo-hernandez-presidente-de-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2022-06-08",
-        "publication": "el-espectador",
-        "title": "Un despe\u00f1adero llamado deseo",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/un-despenadero-llamado-deseo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge G\u00f3mez Pinilla",
-        "date": "2022-06-08",
-        "publication": "el-espectador",
-        "title": "Un Rodolfo prostituido favorece a Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-gomez-pinilla/un-rodolfo-prostituido-favorece-a-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2022-06-08",
-        "publication": "el-espectador",
-        "title": "Colombia es pasi\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/colombia-es-pasion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnistas elespectador.com",
-        "date": "2022-06-08",
-        "publication": "el-espectador",
-        "title": "La labor de \u201cvoluntariado\u201d de las \u201cprimeras damas\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnistas-elespectador-com/la-labor-de-voluntariado-de-las-primeras-damas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2022-06-07",
-        "publication": "el-espectador",
-        "title": "Entre el imputado y el indultado",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/entre-el-imputado-y-el-indultado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2022-06-07",
-        "publication": "el-espectador",
-        "title": "La inmediatez",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/la-inmediatez/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2022-06-07",
-        "publication": "el-espectador",
-        "title": "Merecemos m\u00e1s",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/merecemos-mas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alfredo Molano Jimeno",
-        "date": "2022-06-07",
-        "publication": "el-espectador",
-        "title": "Jaime Carrasquilla, un hombre con verbo rector",
-        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/jaime-carrasquilla-un-hombre-con-verbo-rector/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-08",
+        "date": "2022-06-09",
         "publication": "el-tiempo",
-        "title": "Justicia m\u00e1s digital",
-        "url": "https://www.eltiempo.com/opinion/editorial/justicia-mas-digital-editorial-el-tiempo-678454"
+        "title": "Sin bajar la guardia",
+        "url": "https://www.eltiempo.com/opinion/editorial/sin-bajar-la-guardia-editorial-el-tiempo-678775"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2022-06-08",
+        "author": "Pedro Medellin",
+        "date": "2022-06-09",
         "publication": "el-tiempo",
-        "title": "Combatir la corrupci\u00f3n: \u00bfgancho electoral?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/combatir-la-corrupcion-columna-de-alfonso-gomez-mendez-678405"
+        "title": "Gobernar con las universidades",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/gobernar-con-las-universidades-columna-de-pedro-medellin-678756"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2022-06-08",
+        "author": "Claudia Palacios",
+        "date": "2022-06-09",
         "publication": "el-tiempo",
-        "title": "Grandes peque\u00f1as lecciones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/grandes-pequenas-lecciones-columna-de-vladdo-678426"
+        "title": "El voto en blanco",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/el-voto-en-blanco-columna-de-claudia-palacios-678688"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2022-06-08",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2022-06-09",
         "publication": "el-tiempo",
-        "title": "Petro vino y cumpli\u00f3, Rodolfo Hern\u00e1ndez ni se asom\u00f3",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/petro-vino-y-cumplio-rodolfo-hernandez-ni-se-asomo-florece-thomas-678382"
+        "title": "Siempre la hojarasca",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/siempre-la-hojarasca-columna-de-juan-esteban-constain-678681"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2022-06-08",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2022-06-09",
         "publication": "el-tiempo",
-        "title": "Los dos pueblos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/los-dos-pueblos-columna-de-gustavo-duncan-678389"
+        "title": "Lengua cortada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/lengua-cortada-columna-de-sergio-ramirez-678719"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2022-06-08",
+        "author": "Armando Silva",
+        "date": "2022-06-09",
         "publication": "el-tiempo",
-        "title": "Shakira despach\u00f3 a su \u2018baby\u2019 marido",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/shakira-despacho-a-su-baby-marido-columna-de-poncho-renteria-678386"
+        "title": "Semi\u00f3tica del viejito",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/semiotica-del-viejito-columna-de-armando-silva-678731"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Margarita Rueda Pinz\u00f3n",
-        "date": "2022-06-08",
+        "author": "Suzanne Clark",
+        "date": "2022-06-09",
         "publication": "el-tiempo",
-        "title": "Colombia en la era de los macrodatos: retos t\u00e9cnicos y sociales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/colombia-en-la-era-de-los-macrodatos-retos-tecnicos-y-sociales-678400"
+        "title": "En Cumbre de las Am\u00e9ricas nuestra regi\u00f3n debe ponerse manos a la obra",
+        "url": "https://www.eltiempo.com/opinion/columnistas/suzanne-clark/en-cumbre-de-las-americas-nuestra-region-debe-ponerse-manos-a-la-obra-678749"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2022-06-08",
+        "author": "Alejandro Mart\u00ednez V.",
+        "date": "2022-06-09",
         "publication": "el-tiempo",
-        "title": "Revitalizar la vida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/revitalizar-la-vida-columna-de-victor-corcoba-678410"
+        "title": "Gas LP, la alternativa energ\u00e9tica para el pa\u00eds",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-martinez-v/gas-lp-la-alternativa-energetica-para-el-pais-alejandro-martinez-678696"
     }
 ]
