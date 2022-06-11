@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-10",
+        "date": "2022-06-11",
         "publication": "el-colombiano",
-        "title": "Un jubileo hist\u00f3rico",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/un-jubileo-historico-OA17719241"
+        "title": "La Cumbre es un pulso",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-cumbre-es-un-pulso-AD17728239"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2022-06-11",
+        "publication": "el-colombiano",
+        "title": "El voto \u201cnini\u201d",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-voto-nini-JD17728089"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2022-06-11",
+        "publication": "el-colombiano",
+        "title": "Resiliencia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/resiliencia-OD17728071"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n Posada",
+        "date": "2022-06-11",
+        "publication": "el-colombiano",
+        "title": "Amanecer\u00e1",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/amanecera-CD17728028"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Correa Vel\u00e1squez",
+        "date": "2022-06-11",
+        "publication": "el-colombiano",
+        "title": "De elixir de papas a polvo de guerra",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/de-elixir-de-papas-a-polvo-de-guerra-CD17727995"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2022-06-11",
+        "publication": "el-colombiano",
+        "title": "Sobre tanto malestar",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-tanto-malestar-OD17727900"
     },
     {
         "article-type": "column",
@@ -48,76 +88,100 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/deletreando-se-llega-lejos-BA17718977"
     },
     {
-        "article-type": "column",
-        "author": "Rodrigo Botero Montoya",
-        "date": "2022-06-09",
-        "publication": "el-colombiano",
-        "title": "Sorpresa electoral en Colombia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sorpresa-electoral-en-colombia-HA17713172"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2022-06-09",
-        "publication": "el-colombiano",
-        "title": "La da\u00f1ina indiferencia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-danina-indiferencia-GA17712848"
-    },
-    {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2022-06-09",
-        "publication": "el-colombiano",
-        "title": "Violencia aeroportuaria",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/violencia-aeroportuaria-FA17713071"
-    },
-    {
-        "article-type": "column",
-        "author": "Humberto Montero",
-        "date": "2022-06-09",
-        "publication": "el-colombiano",
-        "title": "Dios salve las ruinas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/dios-salve-las-ruinas-LA17712999"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-06-09",
-        "publication": "el-colombiano",
-        "title": "Buenos d\u00edas, pereza",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/buenos-dias-pereza-PA17712728"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-10",
+        "date": "2022-06-11",
         "publication": "el-espectador",
-        "title": "La infame manipulaci\u00f3n de la contrataci\u00f3n del PAE",
-        "url": "https://www.elespectador.com/opinion/editorial/la-infame-manipulacion-de-la-contratacion-del-pae/"
+        "title": "Las consecuencias de la irresponsabilidad",
+        "url": "https://www.elespectador.com/opinion/editorial/las-consecuencias-de-la-irresponsabilidad/"
     },
     {
         "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2022-06-10",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2022-06-11",
         "publication": "el-espectador",
-        "title": "Para los de la zona de confort ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/para-los-de-la-zona-de-confort/"
+        "title": "Diario de campa\u00f1a",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/diario-de-campana/"
     },
     {
         "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2022-06-10",
+        "author": "Santiago Gamboa",
+        "date": "2022-06-11",
         "publication": "el-espectador",
-        "title": "Modelo 2022",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/modelo-2022/"
+        "title": "\u00bfUn pacto de clase?",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/un-pacto-de-clase/"
     },
     {
         "article-type": "column",
-        "author": "Cecilia L\u00f3pez Monta\u00f1o",
-        "date": "2022-06-10",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2022-06-11",
         "publication": "el-espectador",
-        "title": "Lleg\u00f3 un momento crucial: a pensar en el pa\u00eds",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-lopez-montano/llego-un-momento-crucial-a-pensar-en-el-pais/"
+        "title": "El miedo a Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/el-miedo-a-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2022-06-11",
+        "publication": "el-espectador",
+        "title": "El mendigo que se burlaba de Plat\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/el-mendigo-que-se-burlaba-de-platon/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2022-06-11",
+        "publication": "el-espectador",
+        "title": "La flor que me das",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/la-flor-que-me-das/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Leal Buitrago",
+        "date": "2022-06-11",
+        "publication": "el-espectador",
+        "title": "Incertidumbre (II)",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/incertidumbre-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2022-06-11",
+        "publication": "el-espectador",
+        "title": "El ba\u00f1o del criado negro",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/el-bano-del-criado-negro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mart\u00edn Jaramillo",
+        "date": "2022-06-11",
+        "publication": "el-espectador",
+        "title": "Los adultos en la habitaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/martin-jaramillo/los-adultos-en-la-habitacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2022-06-11",
+        "publication": "el-espectador",
+        "title": "Los pendientes del DANE para usar datos alternativos",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/los-pendientes-del-dane-para-usar-datos-alternativos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ochoa",
+        "date": "2022-06-11",
+        "publication": "el-espectador",
+        "title": "Rom\u00e1nticos fatales",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/romanticos-fatales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2022-06-11",
+        "publication": "el-espectador",
+        "title": "Los migrantes",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/los-migrantes/"
     },
     {
         "article-type": "column",
@@ -145,146 +209,82 @@
     },
     {
         "article-type": "column",
-        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "author": "Mario Fernando Prado",
         "date": "2022-06-10",
         "publication": "el-espectador",
-        "title": "Inflaci\u00f3n al alza, salarios a la baja",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/inflacion-al-alza-salarios-a-la-baja/"
+        "title": "Para los de la zona de confort ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/para-los-de-la-zona-de-confort/"
     },
     {
         "article-type": "column",
-        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
         "date": "2022-06-10",
         "publication": "el-espectador",
-        "title": "Votar a la contra",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/votar-a-la-contra/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Sevillano",
-        "date": "2022-06-10",
-        "publication": "el-espectador",
-        "title": "Sugerencias cann\u00e1bicas para el nuevo presidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/sugerencias-cannabicas-para-el-nuevo-presidente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2022-06-10",
-        "publication": "el-espectador",
-        "title": "Trabajando ando",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/trabajando-ando/"
-    },
-    {
-        "article-type": "column",
-        "author": "Guillermo Gonz\u00e1lez Uribe",
-        "date": "2022-06-10",
-        "publication": "el-espectador",
-        "title": "Ante el peligro fascista, apoyo cr\u00edtico",
-        "url": "https://www.elespectador.com/opinion/columnistas/guillermo-gonzalez-uribe/ante-el-peligro-fascista-apoyo-critico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Bada",
-        "date": "2022-06-10",
-        "publication": "el-espectador",
-        "title": "El d\u00eda que muri\u00f3 Fassbinder",
-        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/el-dia-que-murio-fassbinder/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2022-06-09",
-        "publication": "el-espectador",
-        "title": "La opci\u00f3n de la segunda vuelta",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/la-opcion-de-la-segunda-vuelta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Adriana Cooper",
-        "date": "2022-06-09",
-        "publication": "el-espectador",
-        "title": "Decidir",
-        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/decidir/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2022-06-09",
-        "publication": "el-espectador",
-        "title": "Tuc\u00eddides",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/tucidides/"
-    },
-    {
-        "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2022-06-09",
-        "publication": "el-espectador",
-        "title": "\u201cMad Max\u201d tropical",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/mad-max-tropical/"
+        "title": "Modelo 2022",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/modelo-2022/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-10",
+        "date": "2022-06-11",
         "publication": "el-tiempo",
-        "title": "Que no se aplace m\u00e1s",
-        "url": "https://www.eltiempo.com/opinion/editorial/que-no-se-aplace-mas-editorial-el-tiempo-679060"
+        "title": "No todo vale",
+        "url": "https://www.eltiempo.com/opinion/editorial/no-todo-vale-editorial-el-tiempo-679371"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2022-06-10",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2022-06-11",
         "publication": "el-tiempo",
-        "title": "100 d\u00edas de guerra",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/100-dias-de-guerra-columna-de-moises-wasserman-678982"
+        "title": "Una elecci\u00f3n presidencial in\u00e9dita y crucial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/una-eleccion-presidencial-inedita-y-crucial-carlos-caballero-argaez-677509"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2022-06-10",
+        "author": "Lucy Nieto de Samper",
+        "date": "2022-06-11",
         "publication": "el-tiempo",
-        "title": "WhatsApp",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/whatsapp-columna-de-ricardo-silva-romero-678997"
+        "title": "\u00bfBueno por conocer?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/lucy-nieto-de-samper/bueno-por-conocer-columna-de-lucy-nieto-de-samper-677518"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2022-06-10",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2022-06-11",
         "publication": "el-tiempo",
-        "title": "\u00bfRenace la Atenas suramericana?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/renace-la-atenas-suramericana-columna-de-claudia-hakim-678993"
+        "title": "\u00bfQu\u00e9 cambio queremos?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/que-cambio-queremos-columna-de-luis-noe-ochoa-677551"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2022-06-10",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2022-06-11",
         "publication": "el-tiempo",
-        "title": "Esa crisis, \u00bfcu\u00e1l crisis?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/esa-crisis-cual-crisis-columna-de-eduardo-posada-carbo-678988"
+        "title": "Decirle cosas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/decirle-cosas-columna-de-adolfo-zableh-677511"
     },
     {
         "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2022-06-10",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-06-11",
         "publication": "el-tiempo",
-        "title": "Cielo Blanco Flores",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/cielo-blanco-flores-columna-de-salvo-basile-679042"
+        "title": "Bostezo dominical",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/bostezo-dominical-columna-de-oscar-dominguez-giraldo-677520"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Laurens - Cine al Ojo",
-        "date": "2022-06-10",
+        "author": "Santiago Vargas Acebedo",
+        "date": "2022-06-11",
         "publication": "el-tiempo",
-        "title": "Documentales pol\u00edticos y sociales a\u00f1os 60 y 70",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/documentales-politicos-y-sociales-anos-60-y-70-mauricio-laurens-679002"
+        "title": "Rodolfo Hern\u00e1ndez: ni inc\u00f3gnita ni 'outsider'",
+        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/rodolfo-hernandez-ni-incognita-ni-outsider-santiago-vargas-677527"
     },
     {
         "article-type": "column",
-        "author": "Fernando Montes Negret",
-        "date": "2022-06-10",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2022-06-11",
         "publication": "el-tiempo",
-        "title": "Guerra, calentamiento global y crisis alimentaria",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/guerra-calentamiento-global-y-crisis-alimentaria-fernando-montes-679005"
+        "title": "El pa\u00eds en que vivir\u00edamos si Petro es presidente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/el-pais-en-que-viviriamos-si-petro-es-presidente-jose-miguel-alzate-677548"
     }
 ]
