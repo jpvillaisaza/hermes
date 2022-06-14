@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-13",
+        "date": "2022-06-14",
         "publication": "el-colombiano",
-        "title": "Colombia con buenos n\u00fameros",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/colombia-con-buenos-numeros-BC17732762"
+        "title": "\u00bfPor qu\u00e9 tanta violencia contra los ni\u00f1os?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/por-que-tanta-violencia-contra-los-ninos-PC17738557"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2022-06-14",
+        "publication": "el-colombiano",
+        "title": "La salud de Petro",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-salud-de-petro-HC17737918"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-06-14",
+        "publication": "el-colombiano",
+        "title": "Asco",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/asco-PC17737989"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-06-14",
+        "publication": "el-colombiano",
+        "title": "Comunicar para destruir",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/comunicar-para-destruir-IC17737935"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-06-14",
+        "publication": "el-colombiano",
+        "title": "Tiempos dif\u00edciles",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/tiempos-dificiles-IC17737971"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-06-14",
+        "publication": "el-colombiano",
+        "title": "Dinero cobarde",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/dinero-cobarde-JC17737952"
     },
     {
         "article-type": "column",
@@ -48,52 +88,100 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/nada-me-gustaria-mas-HC17732656"
     },
     {
-        "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-06-12",
-        "publication": "el-colombiano",
-        "title": "El mapa",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-mapa-IC17730558"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Echeverry",
-        "date": "2022-06-12",
-        "publication": "el-colombiano",
-        "title": "No seas un blanco f\u00e1cil",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/no-seas-un-blanco-facil-LC17730487"
-    },
-    {
-        "article-type": "column",
-        "author": "Juliana Vel\u00e1squez Rodr\u00edguez",
-        "date": "2022-06-12",
-        "publication": "el-colombiano",
-        "title": "Aprender a gobernarnos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/aprender-a-gobernarnos-DC17730524"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-06-12",
-        "publication": "el-colombiano",
-        "title": "Votar en blanco \u00bfpara qu\u00e9?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/votar-en-blanco-para-que-DC17730982"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-06-12",
-        "publication": "el-colombiano",
-        "title": "Asociados para delinquir",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/asociados-para-delinquir-AC17730541"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-13",
+        "date": "2022-06-14",
         "publication": "el-espectador",
-        "title": "La corrupci\u00f3n de siempre, un nuevo protagonista",
-        "url": "https://www.elespectador.com/opinion/editorial/la-corrupcion-de-siempre-un-nuevo-protagonista/"
+        "title": "Sigue la desigualdad en la vacunaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/editorial/sigue-la-desigualdad-en-la-vacunacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-06-14",
+        "publication": "el-espectador",
+        "title": "El juzgamiento de los congresistas",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/el-juzgamiento-de-los-congresistas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-06-14",
+        "publication": "el-espectador",
+        "title": "\u00a1Alerta!",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/alerta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-06-14",
+        "publication": "el-espectador",
+        "title": "Colombia se juega su democracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/colombia-se-juega-su-democracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2022-06-14",
+        "publication": "el-espectador",
+        "title": "El c\u00f3digo gen\u00e9tico de la clase pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/el-codigo-genetico-de-la-clase-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-06-14",
+        "publication": "el-espectador",
+        "title": "Los L\u00f3pez y la historia ",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/los-lopez-y-la-historia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Felipe Henao",
+        "date": "2022-06-14",
+        "publication": "el-espectador",
+        "title": "\u00bfEs Petro realmente el cambio?",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-felipe-henao/es-petro-realmente-el-cambio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-06-14",
+        "publication": "el-espectador",
+        "title": "La pol\u00edtica del odio",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/la-politica-del-odio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Vanegas Ath\u00edas",
+        "date": "2022-06-14",
+        "publication": "el-espectador",
+        "title": "Petro, Petro, voy a votar por Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/petro-petro-voy-a-votar-por-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-06-14",
+        "publication": "el-espectador",
+        "title": "No elegiremos un emperador",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/no-elegiremos-un-emperador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-06-14",
+        "publication": "el-espectador",
+        "title": "Sensatez",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/sensatez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Max Yuri Gil Ram\u00edrez",
+        "date": "2022-06-14",
+        "publication": "el-espectador",
+        "title": "Comprender la responsabilidad en medio del horror",
+        "url": "https://www.elespectador.com/colombia-20/analistas/comprender-la-responsabilidad-en-medio-del-horror/"
     },
     {
         "article-type": "column",
@@ -136,163 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/advertencias-al-heredero/"
     },
     {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2022-06-13",
-        "publication": "el-espectador",
-        "title": "\u00bfPor qu\u00e9 llegamos a una elecci\u00f3n entre dos populismos? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/por-que-llegamos-a-una-eleccion-entre-dos-populismos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-06-13",
-        "publication": "el-espectador",
-        "title": "El mal momento de Valledupar",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/el-mal-momento-de-valledupar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-06-13",
-        "publication": "el-espectador",
-        "title": "\u00bfPor fin \u201ctocamos fondo\u201d con esta disyuntiva presidencial?",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/por-fin-tocamos-fondo-con-esta-disyuntiva-presidencial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-06-13",
-        "publication": "el-espectador",
-        "title": "Corrupci\u00f3n, elecciones y cambio",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/corrupcion-elecciones-y-cambio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leonardo Fabio Mart\u00ednez P\u00e9rez",
-        "date": "2022-06-13",
-        "publication": "el-espectador",
-        "title": "Ambiente y universidad, un desaf\u00edo inaplazable",
-        "url": "https://www.elespectador.com/opinion/columnistas/leonardo-fabio-martinez-perez/ambiente-y-universidad-un-desafio-inaplazable/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2022-06-13",
-        "publication": "el-espectador",
-        "title": "El nuevo sancocho nacional",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/el-nuevo-sancocho-nacional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2022-06-13",
-        "publication": "el-espectador",
-        "title": "La consulta al Consejo de Estado",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-consulta-al-consejo-de-estado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-06-13",
-        "publication": "el-espectador",
-        "title": "\u00bfEl equipo de todos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/el-equipo-de-todos-columna-de-antonio-casale-seleccion-colombia-femenina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-06-13",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201c\u00bfSer\u00e1 mucho pedir una \u00faltima semana de decencia?\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-sera-mucho-pedir-una-ultima-semana-de-decencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2022-06-13",
-        "publication": "el-espectador",
-        "title": "Cap\u00edtulo 28: Con cara y con sello",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/la-segunda-vuelta-gustavo-petro-y-rodolfo-hernandez-el-donald-trump-colombiano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2022-06-12",
-        "publication": "el-espectador",
-        "title": "M\u00e1s Estado\u2026 m\u00e1s burocracia\u2026 m\u00e1s corrupci\u00f3n\u2026",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/mas-estado-mas-burocracia-mas-corrupcion/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-13",
+        "date": "2022-06-14",
         "publication": "el-tiempo",
-        "title": "Logros en el caso Pecci",
-        "url": "https://www.eltiempo.com/opinion/editorial/logros-en-caso-pecci-editorial-el-tiempo-679670"
+        "title": "S\u00edndrome poscovid",
+        "url": "https://www.eltiempo.com/opinion/editorial/sindrome-poscovid-editorial-el-timepo-679960"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-06-13",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-06-14",
         "publication": "el-tiempo",
-        "title": "Carta abierta a quienes votaron por Fico",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-carta-abierta-a-quienes-votaron-por-fico-679676"
+        "title": "Bucaramanga",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/bucaramanga-columna-de-jose-manuel-acevedo-679867"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-06-13",
+        "author": "Juan Pablo Calv\u00e1s",
+        "date": "2022-06-14",
         "publication": "el-tiempo",
-        "title": "\u00bfPor qu\u00e9 Rodolfo Hern\u00e1ndez?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-por-que-rodolfo-hernandez-679651"
+        "title": "El odio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/el-odio-columna-de-juan-pablo-calvas-679926"
     },
     {
         "article-type": "column",
-        "author": "Carlos Camargo Assis",
-        "date": "2022-06-13",
+        "author": "Eduardo Escobar",
+        "date": "2022-06-14",
         "publication": "el-tiempo",
-        "title": "El \u2018bullying\u2019 no es \u2018cool\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-camargo-assis/columna-de-carlos-camargo-assis-el-bullying-no-es-cool-679678"
+        "title": "\u00bfEntre la espada y la pared?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/entre-la-espada-y-la-pared-columna-de-eduardo-escobar-679872"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-06-13",
+        "author": "Adriana Pombo",
+        "date": "2022-06-14",
         "publication": "el-tiempo",
-        "title": "Los \u2018VTubers\u2019, el pr\u00f3ximo fen\u00f3meno global",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-los-vtubers-el-proximo-fenomeno-global-679647"
+        "title": "Las balas matan",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adriana-pombo/las-balas-matan-columna-de-adriana-pombo-679863"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-06-13",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2022-06-14",
         "publication": "el-tiempo",
-        "title": "Otra silla vac\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-otra-silla-vacia-679680"
+        "title": "Cuenta de cobro (II)",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/cuenta-de-cobro-ii-columna-de-fernando-sanchez-torres-679911"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-06-13",
+        "author": "Sonia G\u00f3mez G\u00f3mez",
+        "date": "2022-06-14",
         "publication": "el-tiempo",
-        "title": "Pasos digitales en procesos del Estado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-guillermo-santos-calderon-pasos-digitales-en-procesos-del-estado-679673"
+        "title": "Marelen, la clave de Hern\u00e1ndez",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sonia-gomez-gomez/marelen-la-clave-de-hernandez-columna-de-sonia-gomez-679891"
     },
     {
         "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2022-06-13",
+        "author": "Gregory Lobo",
+        "date": "2022-06-14",
         "publication": "el-tiempo",
-        "title": "Atravesar el viento sin documentos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-atravesar-el-viento-sin-documentos-679681"
-    },
-    {
-        "article-type": "column",
-        "author": "Kandya Obezo-Casseres",
-        "date": "2022-06-13",
-        "publication": "el-tiempo",
-        "title": "\u00a1Hasta siempre, maestro Cassiani!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/kandya-obezo-casseres/columna-de-kandya-obezo-casseres-hasta-siempre-maestro-cassiani-679675"
+        "title": "La magia del cambio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/la-magia-del-cambio-columna-de-gregory-lobo-679905"
     }
 ]
