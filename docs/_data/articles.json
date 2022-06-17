@@ -2,10 +2,66 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-16",
+        "date": "2022-06-17",
         "publication": "el-colombiano",
-        "title": "Fuera de combate",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/fuera-de-combate-AH17761515"
+        "title": "El Petro inventado",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-petro-inventado-LO17808065"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Manrique",
+        "date": "2022-06-17",
+        "publication": "el-colombiano",
+        "title": "\u00bfA qui\u00e9n le daremos las llaves?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/a-quien-le-daremos-las-llaves-EO17807829"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-06-17",
+        "publication": "el-colombiano",
+        "title": "Una final con un mal \u00e1rbitro",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/una-final-con-un-mal-arbitro-HO17807734"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2022-06-17",
+        "publication": "el-colombiano",
+        "title": "En el amor como en la pol\u00edtica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/en-el-amor-como-en-la-politica-GO17807717"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-06-17",
+        "publication": "el-colombiano",
+        "title": "Este voto en blanco, es botar el voto (y 2)",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/este-voto-en-blanco-es-botar-el-voto-y-2-NO17807695"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas a la Directora",
+        "date": "2022-06-17",
+        "publication": "el-colombiano",
+        "title": "\u00bfNos da igual?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/nos-da-igual-BO17807677"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-06-17",
+        "publication": "el-colombiano",
+        "title": "\u00bfCu\u00e1ndo ser\u00e1 nuestro siglo de las luces?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cuando-sera-nuestro-siglo-de-las-luces-HO17807642"
+    },
+    {
+        "article-type": "column",
+        "author": "Agostinho J. Almeida",
+        "date": "2022-06-17",
+        "publication": "el-colombiano",
+        "title": "A 48 horas...",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/a-48-horas-FO17807435"
     },
     {
         "article-type": "column",
@@ -32,259 +88,203 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/dame-metabesos-EE17754617"
     },
     {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-06-16",
-        "publication": "el-colombiano",
-        "title": "Goleada 5-0",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/goleada-5-0-DE17754654"
+        "article-type": "editorial",
+        "author": null,
+        "date": "2022-06-17",
+        "publication": "el-espectador",
+        "title": "La memoria convertida en fuente de conflicto",
+        "url": "https://www.elespectador.com/opinion/editorial/la-memoria-convertida-en-fuente-de-conflicto/"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Perfetti del Corral",
-        "date": "2022-06-16",
-        "publication": "el-colombiano",
-        "title": "Seis acuerdos para el pr\u00f3ximo cuatrienio",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/seis-acuerdos-para-el-proximo-cuatrienio-EE17754505"
+        "author": "Claudia Morales",
+        "date": "2022-06-17",
+        "publication": "el-espectador",
+        "title": "6.402 oscuras tumbas",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/6402-oscuras-tumbas/"
     },
     {
         "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2022-06-15",
-        "publication": "el-colombiano",
-        "title": "Con los ojos abiertos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/con-los-ojos-abiertos-AF17744235"
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2022-06-17",
+        "publication": "el-espectador",
+        "title": "Lleg\u00f3 el momento del examen",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/llego-el-momento-del-examen/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2022-06-17",
+        "publication": "el-espectador",
+        "title": "Lleg\u00f3 la hora",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/llego-la-hora/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carlos Gran\u00e9s",
+        "date": "2022-06-17",
+        "publication": "el-espectador",
+        "title": "Rebajar el fanatismo y afilar el sentido cr\u00edtico",
+        "url": "https://www.elespectador.com/opinion/columnistas/carlos-granes/rebajar-el-fanatismo-y-afilar-el-sentido-critico/"
     },
     {
         "article-type": "column",
         "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2022-06-15",
-        "publication": "el-colombiano",
-        "title": "La confesi\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-confesion-AF17744217"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-06-15",
-        "publication": "el-colombiano",
-        "title": "La cumbre de las oportunidades perdidas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-cumbre-de-las-oportunidades-perdidas-OF17744129"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-06-15",
-        "publication": "el-colombiano",
-        "title": "Roy y compa\u00f1\u00eda mostraron c\u00f3mo se hacen las morcillas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/roy-y-compania-mostraron-como-se-hacen-las-morcillas-DF17744106"
-    },
-    {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-06-15",
-        "publication": "el-colombiano",
-        "title": "Rusia y las fracturas expuestas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/rusia-y-las-fracturas-expuestas-LF17744087"
-    },
-    {
-        "article-type": "editorial",
-        "author": null,
-        "date": "2022-06-16",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "Los debates forzados no tienen sentido",
-        "url": "https://www.elespectador.com/opinion/editorial/los-debates-forzados-no-tienen-sentido/"
+        "title": "Los Proud Boys criollos",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/los-proud-boys-criollos/"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2022-06-16",
+        "author": "Mario Fernando Prado",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "Schwarzschild",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/schwarzschild/"
+        "title": "Hay que saber perder ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/hay-que-saber-perder/"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Gall\u00f3n",
-        "date": "2022-06-16",
+        "author": "\u00d3scar Sevillano",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "Qu\u00e9 ejemplar de ciudadano",
-        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/que-ejemplar-de-ciudadano/"
+        "title": "No conf\u00edo en Rodolfo Hern\u00e1ndez",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/no-confio-en-rodolfo-hernandez/"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2022-06-16",
+        "author": "Carolina Botero Cabrera",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "Pol\u00edtica, mentiras y videos",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/politica-mentiras-y-videos/"
+        "title": "Y si hay un resultado apretado el domingo\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/y-si-hay-un-resultado-apretado-el-domingo/"
     },
     {
         "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2022-06-16",
+        "author": "Madame Papita",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "La degradaci\u00f3n de la pol\u00edtica",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/la-degradacion-de-la-politica/"
+        "title": "De colores y sabores",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/de-colores-y-sabores/"
     },
     {
         "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2022-06-16",
+        "author": "Juan Manuel Ospina",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "El arte de Jordi Savall",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-arte-de-jordi-savall/"
+        "title": "Colombia ins\u00f3lita",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/colombia-insolita/"
     },
     {
         "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2022-06-16",
+        "author": "Santiago Villa",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "Dos motivos de esperanza y proyecto a largo plazo",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/dos-motivos-de-esperanza-y-proyecto-a-largo-plazo/"
+        "title": "Facilito",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/facilito/"
     },
     {
         "article-type": "column",
-        "author": "Arturo Charria",
-        "date": "2022-06-16",
+        "author": "Arturo Guerrero",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "Tres apuestas en educaci\u00f3n para el pr\u00f3ximo presidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-charria/tres-apuestas-en-educacion-para-el-proximo-presidente/"
+        "title": "Los burros atados y las pilas de comida",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/los-burros-atados-y-las-pilas-de-comida/"
     },
     {
         "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2022-06-16",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "Recobrar la institucionalidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/recobrar-la-institucionalidad/"
+        "title": "Votemos por Rodolfo Hern\u00e1ndez",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/votemos-por-rodolfo-hernandez/"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2022-06-16",
+        "author": "Luis Fernando Montoya",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "Izquierda moderada y violencia pol\u00edtica",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/izquierda-moderada-y-violencia-politica/"
+        "title": "La continuidad de Alberto Gamero",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-la-continuidad-de-alberto-gamero/"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Restrepo",
-        "date": "2022-06-16",
+        "author": "Juan Felipe Carrillo G\u00e1faro",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "Ajuste acelerado de las finanzas p\u00fablicas ",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-manuel-restrepo/ajuste-acelerado-de-las-finanzas-publicas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-06-16",
-        "publication": "el-espectador",
-        "title": "\u00bfPor qu\u00e9 se public\u00f3 una columna ruin en El Espectador?",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/por-que-se-publico-una-columna-ruin-en-el-espectador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Maria Clara Zea Gallego*",
-        "date": "2022-06-16",
-        "publication": "el-espectador",
-        "title": "\u2018Qu\u00e9 mal trago\u2019: Espacios, violencias de g\u00e9nero y agendas electorales",
-        "url": "https://www.elespectador.com/colombia-20/analistas/que-mal-trago-espacios-violencias-de-genero-y-agendas-electorales/"
+        "title": "Matem\u00e1tica pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/matematica-politica/"
     },
     {
         "article-type": "column",
         "author": "Columnista invitado EE",
-        "date": "2022-06-16",
+        "date": "2022-06-17",
         "publication": "el-espectador",
-        "title": "La justicia como instrumento de represi\u00f3n pol\u00edtica",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/la-justicia-como-instrumento-de-represion-politica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-06-16",
-        "publication": "el-espectador",
-        "title": "La publicidad pol\u00edtica pagada no es una adhesi\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/la-publicidad-politica-pagada-no-es-una-adhesion/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2022-06-16",
-        "publication": "el-espectador",
-        "title": "Con Petro o con Rodolfo, la Candidata mandar\u00e1 en el pr\u00f3ximo Gobierno",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/cuatro-anos-de-incertidumbre-con-gustavo-petro-o-rodolfo-hernandez/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2022-06-15",
-        "publication": "el-espectador",
-        "title": "La Virgen y la pata de pollo de Hern\u00e1ndez",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/la-virgen-y-la-pata-de-pollo-de-hernandez/"
+        "title": "\u00bfEstallido o berrinche?",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/estallido-o-berrinche/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-16",
+        "date": "2022-06-17",
         "publication": "el-tiempo",
-        "title": "Un primer paso",
-        "url": "https://www.eltiempo.com/opinion/editorial/un-primer-paso-editorial-el-tiempo-1-680585"
+        "title": "La Fed aprieta",
+        "url": "https://www.eltiempo.com/opinion/editorial/la-fed-aprieta-editorial-el-tiempo-680886"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-06-16",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-06-17",
         "publication": "el-tiempo",
-        "title": "La otra c\u00e1rcel de Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/la-otra-carcel-de-petro-columna-de-pedro-medellin-680571"
+        "title": "La sociedad decente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/la-sociedad-decente-columna-de-moises-wasserman-680807"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya",
-        "date": "2022-06-16",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-06-17",
         "publication": "el-tiempo",
-        "title": "\u00bfD\u00f3nde est\u00e1 Ramiro Carranza?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya/donde-esta-ramiro-carranza-columna-de-jineth-bedoya-680550"
+        "title": "Fraude",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/fraude-columna-de-ricardo-silva-romero-680818"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-06-16",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-06-17",
         "publication": "el-tiempo",
-        "title": "La huella humana",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/la-huella-humana-columna-de-juan-esteban-constain-680522"
+        "title": "Sin fin de la historia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/sin-fin-de-la-historia-columna-de-eduardo-posada-carbo-680813"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2022-06-16",
+        "author": "Hugo Acero Vel\u00e1squez",
+        "date": "2022-06-17",
         "publication": "el-tiempo",
-        "title": "El poder transformador del arte urbano",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/el-poder-transformador-del-arte-urbano-columna-de-juliana-mejia-680479"
+        "title": "El problema no son los delincuentes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/el-problema-no-son-los-delincuentes-columna-de-hugo-acero-680852"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2022-06-16",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2022-06-17",
         "publication": "el-tiempo",
-        "title": "Instant\u00e1neas de museo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/instantaneas-de-museo-columna-de-diana-pardo-680483"
+        "title": "El mundo de Sof\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/el-mundo-de-sofia-columna-de-manuel-guzman-hennessey-680822"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Luis Querub\u00edn",
-        "date": "2022-06-16",
+        "author": "John Mario Gonz\u00e1lez",
+        "date": "2022-06-17",
         "publication": "el-tiempo",
-        "title": "Rodolfo Hern\u00e1ndez se le atraves\u00f3 a Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-luis-querubin/rodolfo-hernandez-se-le-atraveso-a-petro-jose-luis-querubin-680544"
+        "title": "La guachafita de las Am\u00e9ricas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/john-mario-gonzalez/la-guachafita-de-las-americas-columna-de-john-mario-gonzalez-680836"
     },
     {
         "article-type": "column",
-        "author": "Women in Connection",
-        "date": "2022-06-16",
+        "author": "Miguel\u00e1ngel Epeey\u00fci L\u00f3pez-H.",
+        "date": "2022-06-17",
         "publication": "el-tiempo",
-        "title": "\u00a1El voto femenino decide!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/el-voto-femenino-decide-columna-de-women-in-connection-680546"
+        "title": "Pacto y Constituci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/miguelangel-epeeyui-lopez-h/pacto-y-constitucion-columna-de-miguelangel-epeeyuei-680845"
     }
 ]
