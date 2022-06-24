@@ -105,11 +105,11 @@
     },
     {
         "article-type": "column",
-        "author": "Patricia Lara Salive",
+        "author": "Francisco Leal Buitrago",
         "date": "2022-06-24",
         "publication": "el-espectador",
-        "title": "El presidente Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/el-presidente-petro/"
+        "title": "Interrogantes",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/interrogantes/"
     },
     {
         "article-type": "column",
@@ -121,11 +121,11 @@
     },
     {
         "article-type": "column",
-        "author": "Francisco Leal Buitrago",
+        "author": "Patricia Lara Salive",
         "date": "2022-06-24",
         "publication": "el-espectador",
-        "title": "Interrogantes",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/interrogantes/"
+        "title": "El presidente Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/el-presidente-petro/"
     },
     {
         "article-type": "column",
@@ -209,14 +209,6 @@
     },
     {
         "article-type": "column",
-        "author": "Pablo Leyva",
-        "date": "2022-06-23",
-        "publication": "el-espectador",
-        "title": "Sin aliento",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/sin-aliento/"
-    },
-    {
-        "article-type": "column",
         "author": "Santiago Villa",
         "date": "2022-06-23",
         "publication": "el-espectador",
@@ -224,67 +216,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/contra-los-pronosticos-de-petro-europa-vuelve-al-carbon/"
     },
     {
+        "article-type": "column",
+        "author": "Arturo Charria",
+        "date": "2022-06-24",
+        "publication": "el-espectador",
+        "title": "Un rector del siglo pasado",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-charria/un-rector-del-siglo-pasado/"
+    },
+    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-23",
+        "date": "2022-06-24",
         "publication": "el-tiempo",
-        "title": "El vaiv\u00e9n del POT",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-vaiven-del-pot-editorial-el-tiempo-682208"
+        "title": "Trump y la democracia",
+        "url": "https://www.eltiempo.com/opinion/editorial/trump-y-la-democracia-editorial-el-tiempo-682544"
     },
     {
         "article-type": "column",
         "author": "Mois\u00e9s Wasserman",
         "date": "2022-06-24",
         "publication": "el-tiempo",
-        "title": "La sociedad decente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/la-sociedad-decente-columna-de-moises-wasserman-680807"
+        "title": "La siguiente temporada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/la-siguiente-temporada-columna-de-moises-wasserman-682435"
     },
     {
         "article-type": "column",
         "author": "Ricardo Silva Romero",
         "date": "2022-06-24",
         "publication": "el-tiempo",
-        "title": "Fraude",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/fraude-columna-de-ricardo-silva-romero-680818"
+        "title": "Rosario",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/rosario-columna-de-ricardo-silva-682459"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Hakim",
+        "date": "2022-06-24",
+        "publication": "el-tiempo",
+        "title": "\u00a1El futuro es la cultura!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/el-futuro-es-la-cultura-columna-de-claudia-hakim-682477"
     },
     {
         "article-type": "column",
         "author": "Eduardo Posada Carb\u00f3",
         "date": "2022-06-24",
         "publication": "el-tiempo",
-        "title": "Sin fin de la historia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/sin-fin-de-la-historia-columna-de-eduardo-posada-carbo-680813"
+        "title": "\u2018El ideal de lo pr\u00e1ctico\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/el-ideal-de-lo-practico-columna-de-eduardo-posada-carbo-682440"
     },
     {
         "article-type": "column",
-        "author": "Hugo Acero Vel\u00e1squez",
+        "author": "Salvo Basile",
         "date": "2022-06-24",
         "publication": "el-tiempo",
-        "title": "El problema no son los delincuentes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/el-problema-no-son-los-delincuentes-columna-de-hugo-acero-680852"
+        "title": "Las guerras de Petro y de Francia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/las-guerras-de-petro-y-de-francia-columna-de-salvo-basile-682474"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
+        "author": "Mauricio Laurens - Cine al Ojo",
         "date": "2022-06-24",
         "publication": "el-tiempo",
-        "title": "El mundo de Sof\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/el-mundo-de-sofia-columna-de-manuel-guzman-hennessey-680822"
+        "title": "La memoria de un 'nadie' en restrospectiva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/la-memoria-de-un-nadie-en-restrospectiva-columna-de-mauricio-laurens-682482"
     },
     {
         "article-type": "column",
-        "author": "John Mario Gonz\u00e1lez",
+        "author": "Proyect Syndicate",
         "date": "2022-06-24",
         "publication": "el-tiempo",
-        "title": "La guachafita de las Am\u00e9ricas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/john-mario-gonzalez/la-guachafita-de-las-americas-columna-de-john-mario-gonzalez-680836"
-    },
-    {
-        "article-type": "column",
-        "author": "Miguel\u00e1ngel Epeey\u00fci L\u00f3pez-H.",
-        "date": "2022-06-24",
-        "publication": "el-tiempo",
-        "title": "Pacto y Constituci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/miguelangel-epeeyui-lopez-h/pacto-y-constitucion-columna-de-miguelangel-epeeyuei-680845"
+        "title": "La Constituci\u00f3n de Francia, a prueba",
+        "url": "https://www.eltiempo.com/opinion/columnistas/proyect-syndicate/la-constitucion-de-francia-a-prueba-columna-de-proyect-syndicate-682485"
     }
 ]
