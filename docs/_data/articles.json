@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-27",
+        "date": "2022-06-28",
         "publication": "el-colombiano",
-        "title": "No hay que perder lo ganado",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/no-hay-que-perder-lo-ganado-LP17909938"
+        "title": "Petr\u00f3leo y carb\u00f3n ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/petroleo-y-carbon-NO17911936"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2022-06-28",
+        "publication": "el-colombiano",
+        "title": "\u00bfY la otra mitad?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/y-la-otra-mitad-PO17911916"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-06-28",
+        "publication": "el-colombiano",
+        "title": "El turismo chino se despierta",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-turismo-chino-se-despierta-FO17911848"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-06-28",
+        "publication": "el-colombiano",
+        "title": "Oposici\u00f3n ya",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/oposicion-ya-KO17911865"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-06-28",
+        "publication": "el-colombiano",
+        "title": "No es tiempo de procrastinar",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/no-es-tiempo-de-procrastinar-JO17911899"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-06-28",
+        "publication": "el-colombiano",
+        "title": "Ejercicios prospectivos de esperanza",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ejercicios-prospectivos-de-esperanza-DO17911882"
     },
     {
         "article-type": "column",
@@ -48,52 +88,84 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/riqueza-incluyente-JP17909572"
     },
     {
-        "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-06-26",
-        "publication": "el-colombiano",
-        "title": "Prudencia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/prudencia-BP17907710"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-06-26",
-        "publication": "el-colombiano",
-        "title": "Colombia Auton\u00f3mica",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/colombia-autonomica-NP17907659"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Guti\u00e9rrez Ram\u00edrez",
-        "date": "2022-06-26",
-        "publication": "el-colombiano",
-        "title": "Asuntos por atender: Reforma policial",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/asuntos-por-atender-reforma-policial-EP17907636"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-06-26",
-        "publication": "el-colombiano",
-        "title": "Ciudadanos vulnerables",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/ciudadanos-vulnerables-GP17907616"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Hoyos",
-        "date": "2022-06-26",
-        "publication": "el-colombiano",
-        "title": "Malas palabras",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/malas-palabras-DP17907532"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-27",
+        "date": "2022-06-28",
         "publication": "el-espectador",
-        "title": "Las revocatorias de mandato son da\u00f1inas. C\u00facuta lo demuestra",
-        "url": "https://www.elespectador.com/opinion/editorial/las-revocatorias-de-mandato-son-daninas-cucuta-lo-demuestra/"
+        "title": "Los retos de la memoria en caliente",
+        "url": "https://www.elespectador.com/opinion/editorial/los-retos-de-la-memoria-en-caliente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Rivas",
+        "date": "2022-06-28",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 hacer con el petr\u00f3leo?",
+        "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/que-hacer-con-el-petroleo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-06-28",
+        "publication": "el-espectador",
+        "title": "La \u201cpresausencia\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/la-presausencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-06-28",
+        "publication": "el-espectador",
+        "title": "Un d\u00eda hist\u00f3rico",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/un-dia-historico/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-06-28",
+        "publication": "el-espectador",
+        "title": "Elecciones y gobiernos",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/elecciones-y-gobiernos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-06-28",
+        "publication": "el-espectador",
+        "title": "Farc: \u201cNo fueron errores, fueron horrores\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/farc-no-fueron-errores-fueron-horrores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-06-28",
+        "publication": "el-espectador",
+        "title": "La desafortunada frase de Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/la-desafortunada-frase-de-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-06-28",
+        "publication": "el-espectador",
+        "title": "La aventura de un gobierno minoritario",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/la-aventura-de-un-gobierno-minoritario/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2022-06-28",
+        "publication": "el-espectador",
+        "title": "La responsabilidad de los medios de comunicaci\u00f3n con la paz",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/la-responsabilidad-de-los-medios-de-comunicacion-con-la-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-06-28",
+        "publication": "el-espectador",
+        "title": "La verdad sobre la barbarie",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/la-verdad-sobre-la-barbarie/"
     },
     {
         "article-type": "column",
@@ -145,14 +217,6 @@
     },
     {
         "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-06-27",
-        "publication": "el-espectador",
-        "title": "Empalme presidencial",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/empalme-presidencial/"
-    },
-    {
-        "article-type": "column",
         "author": "Sergio Ocampo Madrid",
         "date": "2022-06-27",
         "publication": "el-espectador",
@@ -160,131 +224,83 @@
         "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/se-ve-luz-al-final-del-tunel/"
     },
     {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2022-06-27",
-        "publication": "el-espectador",
-        "title": "La econom\u00eda despu\u00e9s de las elecciones",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/la-economia-despues-de-las-elecciones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-06-27",
-        "publication": "el-espectador",
-        "title": "\u201cL\u00ednea roja\u201d en acuerdo nacional y Eln",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/linea-roja-en-acuerdo-nacional-y-eln/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-06-27",
-        "publication": "el-espectador",
-        "title": "Festival mundial de f\u00fatbol",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/festival-mundial-de-futbol/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabiola Calvo",
-        "date": "2022-06-27",
-        "publication": "el-espectador",
-        "title": "Acumulado hist\u00f3rico y victoria anhelada",
-        "url": "https://www.elespectador.com/colombia-20/analistas/los-hechos-que-antecedieron-la-eleccion-de-gustavo-y-francia-marquez-y-los-retos-de-su-gobierno/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2022-06-27",
-        "publication": "el-espectador",
-        "title": "Editorial en video: se puede conversar para salir del atolladero",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-se-puede-conversar-para-salir-del-atolladero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2022-06-26",
-        "publication": "el-espectador",
-        "title": "Duz\u00e1n camina la palabra",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/duzan-camina-la-palabra/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2022-06-26",
-        "publication": "el-espectador",
-        "title": "La ceguera",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/la-ceguera/"
-    },
-    {
-        "article-type": "column",
-        "author": "Guillermo Zuluaga",
-        "date": "2022-06-26",
-        "publication": "el-espectador",
-        "title": "Expectativa",
-        "url": "https://www.elespectador.com/opinion/columnistas/guillermo-zuluaga/expectativa/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-27",
+        "date": "2022-06-28",
         "publication": "el-tiempo",
-        "title": "Ecopetrol y la transici\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/editorial/ecopetrol-y-la-transicion-editorial-de-el-tiempo-683048"
+        "title": "Aborto y reversa",
+        "url": "https://www.eltiempo.com/opinion/editorial/aborto-y-reversa-editorial-el-tiempo-683198"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-06-27",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-06-28",
         "publication": "el-tiempo",
-        "title": "Acuerdo nacional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/acuerdo-nacional-columna-de-nancy-patricia-gutierrez-683059"
+        "title": "Uribe y Petro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/uribe-y-petro-columna-de-jose-manuel-acevedo-683173"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Manuel Ruiz",
-        "date": "2022-06-27",
+        "author": "Viviane Morales Hoyos",
+        "date": "2022-06-28",
         "publication": "el-tiempo",
-        "title": "Sin vencedores ni vencidos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/sin-vencedores-ni-vencidos-columna-de-victor-manuel-ruiz-683054"
+        "title": "La resurrecci\u00f3n de Uribe",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/la-resurreccion-de-uribe-columna-de-viviane-morales-683160"
     },
     {
         "article-type": "column",
-        "author": "Adriana Pombo",
-        "date": "2022-06-27",
+        "author": "Juan Pablo Calv\u00e1s",
+        "date": "2022-06-28",
         "publication": "el-tiempo",
-        "title": "El cielo y el cuerpo enfurecidos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/adriana-pombo/el-cielo-y-el-cuerpo-enfurecidos-columna-de-adriana-pombo-683053"
+        "title": "La cultura de Petro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/la-cultura-de-petro-columna-de-juan-pablo-calvas-683170"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-06-27",
+        "author": "Eduardo Escobar",
+        "date": "2022-06-28",
         "publication": "el-tiempo",
-        "title": "La crianza en el mundo 3.0",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/la-crianza-en-el-mundo-3-0-columna-de-diego-santos-683064"
+        "title": "A lo hecho, pecho",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/a-lo-hecho-pecho-columna-de-eduardo-escobar-683163"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2022-06-27",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-06-28",
         "publication": "el-tiempo",
-        "title": "Academia y praxis",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/academia-y-praxis-columna-de-sergio-clavijo-683060"
+        "title": "Mande usted, se\u00f1or presidente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/mande-usted-senor-presidente-columna-de-oscar-dominguez-683174"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-06-27",
+        "author": "Elizabeth Castillo",
+        "date": "2022-06-28",
         "publication": "el-tiempo",
-        "title": "Diecisiete a\u00f1os de minutos de silencio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/diecisiete-anos-de-minutos-de-silencio-columna-de-yolanda-reyes-683062"
+        "title": "Ser mam\u00e1 lesbiana y no morir en el intento",
+        "url": "https://www.eltiempo.com/opinion/columnistas/elizabeth-castillo/ser-mama-lesbiana-y-no-morir-en-el-intento-columna-de-elizabeth-castillo-683183"
     },
     {
         "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2022-06-27",
+        "author": "Mauricio Toro",
+        "date": "2022-06-28",
         "publication": "el-tiempo",
-        "title": "Te quiero, caf\u00e9",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/te-quiero-cafe-columna-de-jorge-barraza-683069"
+        "title": "Curar la ignorancia, en vez de curar a los LGBTI",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/curar-la-ignorancia-en-vez-de-curar-a-los-lgbti-mauricio-toro-683179"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte Baptiste",
+        "date": "2022-06-28",
+        "publication": "el-tiempo",
+        "title": "\u2018Pride\u2019 criollo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/pride-criollo-columna-de-brigitte-baptiste-683178"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro\u00a0 Michells",
+        "date": "2022-06-28",
+        "publication": "el-tiempo",
+        "title": "LGBTI: \u00bfuna nueva era?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/lgbti-una-nueva-era-columna-de-alejandro-michells-683180"
     }
 ]
