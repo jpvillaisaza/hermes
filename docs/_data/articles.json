@@ -2,10 +2,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-30",
+        "date": "2022-07-01",
         "publication": "el-colombiano",
-        "title": "De vuelta al pasado",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/de-vuelta-al-pasado-CN17928785"
+        "title": "La diplomacia de Petro",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-diplomacia-de-petro-BM17934533"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Manrique",
+        "date": "2022-07-01",
+        "publication": "el-colombiano",
+        "title": "\u201c\u00a1Queremos m\u00e1s galletas!\u201d, gritan en el edificio Colombia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/queremos-mas-galletas-gritan-en-el-edificio-colombia-GM17934057"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-07-01",
+        "publication": "el-colombiano",
+        "title": "Antioquia federal",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/antioquia-federal-BM17934005"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2022-07-01",
+        "publication": "el-colombiano",
+        "title": "Hilos tensionados",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/hilos-tensionados-KM17933988"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-07-01",
+        "publication": "el-colombiano",
+        "title": "Revisar el modelo pol\u00edtico (1)",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/revisar-el-modelo-politico-1-AM17934040"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-07-01",
+        "publication": "el-colombiano",
+        "title": "Dudas sueltas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/dudas-sueltas-EM17934022"
+    },
+    {
+        "article-type": "column",
+        "author": "Agostinho J. Almeida",
+        "date": "2022-07-01",
+        "publication": "el-colombiano",
+        "title": "Gustavo Petro es mi presidente",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/gustavo-petro-es-mi-presidente-NM17933871"
     },
     {
         "article-type": "column",
@@ -40,251 +88,203 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/por-que-la-desconfianza-DN17927747"
     },
     {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-06-30",
-        "publication": "el-colombiano",
-        "title": "Obituario sin l\u00e1grimas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/obituario-sin-lagrimas-BN17927710"
+        "article-type": "editorial",
+        "author": null,
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "Periodismo bajo ataque",
+        "url": "https://www.elespectador.com/opinion/editorial/periodismo-bajo-ataque/"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-06-29",
-        "publication": "el-colombiano",
-        "title": "El impacto regional del triunfo de Petro",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-impacto-regional-del-triunfo-de-petro-FN17920324"
+        "author": "Carlos Gran\u00e9s",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "Amor por M\u00e9xico",
+        "url": "https://www.elespectador.com/opinion/columnistas/carlos-granes/amor-por-mexico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "El gran acuerdo nacional",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-gran-acuerdo-nacional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "\u00bfMurieron encerrados? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/murieron-encerrados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "Un Informe Final para leer muchas veces",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/un-informe-final-para-leer-muchas-veces/"
     },
     {
         "article-type": "column",
         "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2022-06-29",
-        "publication": "el-colombiano",
-        "title": "Sobre la obediencia y el perd\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-la-obediencia-y-el-perdon-BN17920256"
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "\u00a1Basta ya (de Dar\u00edo Acevedo)!",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/basta-ya-de-dario-acevedo/"
     },
     {
         "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2022-06-29",
-        "publication": "el-colombiano",
-        "title": "\u00bfHay esperanzas?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/hay-esperanzas-LN17920290"
+        "author": "Claudia Morales",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "\u201cNo es una Corte. Es una junta\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/no-es-una-corte-es-una-junta/"
     },
     {
         "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-06-29",
-        "publication": "el-colombiano",
-        "title": "El adulto mayor olvidado",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-adulto-mayor-olvidado-GN17920273"
+        "author": "Carolina Botero Cabrera",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "La Comisi\u00f3n de la Verdad usa una licencia abierta",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/la-comision-de-la-verdad-usa-una-licencia-abierta/"
     },
     {
         "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-06-29",
-        "publication": "el-colombiano",
-        "title": "No todas las izquierdas giran de igual forma",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/no-todas-las-izquierdas-giran-de-igual-forma-CN17920222"
+        "author": "Madame Papita",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "Colombia diversa ",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/colombia-diversa/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "El metro de Bogot\u00e1 y el inodoro de \u201cSan Tropel\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/el-metro-de-bogota-y-el-inodoro-de-san-tropel/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "El esquema gobierno-oposici\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/el-esquema-gobierno-oposicion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "\u00bfTodos por el cambio?",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/todos-por-el-cambio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "G\u00f3mez D\u00e1vila-Volkening: endiabladamente buenos",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/gomez-davila-volkening-endiabladamente-buenos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "Realidades de la OTAN",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/realidades-de-la-otan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "Lleg\u00f3 la estrella 17",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/llego-la-estrella-17/"
+    },
+    {
+        "article-type": "column",
+        "author": "Guillermo Gonz\u00e1lez Uribe",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "Escribir desde la esperanza",
+        "url": "https://www.elespectador.com/opinion/columnistas/guillermo-gonzalez-uribe/escribir-desde-la-esperanza/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2022-07-01",
+        "publication": "el-espectador",
+        "title": "Tips para sobrevivir despu\u00e9s de las elecciones | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-tips-para-sobrevivir-despues-de-las-elecciones/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "La pol\u00edtica exterior de Gustavo Petro",
-        "url": "https://www.elespectador.com/opinion/editorial/la-politica-exterior-de-gustavo-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "El cuento de la criada",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/el-cuento-de-la-criada/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00c1lvaro Restrepo",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "Dignidad: un sue\u00f1o recobrado",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-restrepo/dignidad-un-sueno-recobrado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "Periodismo y pol\u00edtica ",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/periodismo-y-politica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "Junio de 2022: un mes hist\u00f3rico para Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/junio-de-2022-un-mes-historico-para-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "\u00bfY la cultura qu\u00e9?",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/y-la-cultura-que/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "Glencore",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/glencore/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Charria",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "Escribir es buscar",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-charria/escribir-es-buscar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "Por qu\u00e9 Petro no ser\u00e1 como Ch\u00e1vez",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/por-que-petro-no-sera-como-chavez/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "Benkos Bioh\u00f3: primer libertador de Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/benkos-bioho-primer-libertador-de-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "Antioquia en crisis",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/antioquia-en-crisis/"
-    },
-    {
-        "article-type": "column",
-        "author": "Paula Aguirre Ospina y Paula Hern\u00e1ndez Vargas \u2013 Elementa DDHH*",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "La verdad para la no repetici\u00f3n: los retos del informe final",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-verdad-para-la-no-repeticion-los-retos-del-informe-final/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-06-30",
-        "publication": "el-espectador",
-        "title": "Fallamos por invertir el n\u00famero de muertos y el de heridos en un tiroteo",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/fallamos-por-invertir-el-numero-de-muertos-y-el-de-heridos-en-un-tiroteo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2022-06-29",
-        "publication": "el-espectador",
-        "title": "Comp\u00e1s de espera (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/compas-de-espera-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2022-06-29",
-        "publication": "el-espectador",
-        "title": "El pulso de Petro ante el poder corruptor",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-pulso-de-petro-ante-el-poder-corruptor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-06-29",
-        "publication": "el-espectador",
-        "title": "Otro reto: comida y cambio clim\u00e1tico",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/otro-reto-comida-y-cambio-climatico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2022-06-29",
-        "publication": "el-espectador",
-        "title": "El miedo a vivir sabroso",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/el-miedo-a-vivir-sabroso/"
-    },
-    {
-        "article-type": "editorial",
-        "author": null,
-        "date": "2022-06-30",
+        "date": "2022-07-01",
         "publication": "el-tiempo",
-        "title": "Importante encuentro",
-        "url": "https://www.eltiempo.com/opinion/editorial/importante-encuentro-editorial-el-tiempo-683783"
+        "title": "El ministro Ocampo",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-ministro-ocampo-editorial-el-tiempo-684054"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-06-30",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-07-01",
         "publication": "el-tiempo",
-        "title": "\u00bfLa ascensi\u00f3n de gustavo I?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/la-ascension-de-gustavo-i-columna-de-pedro-medellin-683758"
+        "title": "Educaci\u00f3n: desaf\u00edos viejos y nuevos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/educacion-desafios-viejos-y-nuevos-columna-de-moises-wasserman-684010"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-06-30",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-07-01",
         "publication": "el-tiempo",
-        "title": "Una corraleja",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/una-corraleja-columna-de-juan-esteban-constain-683739"
+        "title": "Acta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/acta-columna-de-ricardo-silva-romero-684003"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2022-06-30",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2022-07-01",
         "publication": "el-tiempo",
-        "title": "El falso arco iris",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/el-falso-arco-iris-columna-de-jineth-bedoya-683738"
+        "title": "Hambre en el mundo del siglo XXI",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/hambre-en-el-mundo-del-siglo-xxi-columna-de-antonio-albinana-684013"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Lloreda",
-        "date": "2022-06-30",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-07-01",
         "publication": "el-tiempo",
-        "title": "Carta a Gustavo Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/carta-a-gustavo-petro-columna-de-mauricio-lloreda-683714"
+        "title": "Las guerras y sus profetas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/las-guerras-y-sus-profetas-columna-de-eduardo-posada-carbo-684015"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2022-06-30",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2022-07-01",
         "publication": "el-tiempo",
-        "title": "Un nuevo relato",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/un-nuevo-relato-columna-de-diana-pardo-683718"
+        "title": "Develaciones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/develaciones-columna-de-manuel-guzman-hennessey-684000"
     },
     {
         "article-type": "column",
-        "author": "Sara Tufano",
-        "date": "2022-06-30",
+        "author": "John Mario Gonz\u00e1lez",
+        "date": "2022-07-01",
         "publication": "el-tiempo",
-        "title": "De la resistencia al poder",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/de-la-resistencia-al-poder-columna-de-sara-tufano-683719"
+        "title": "Pensionar a la vieja derecha",
+        "url": "https://www.eltiempo.com/opinion/columnistas/john-mario-gonzalez/pensionar-a-la-vieja-derecha-columna-de-john-mario-gonzalez-684026"
     },
     {
         "article-type": "column",
-        "author": "Women in Connection",
-        "date": "2022-06-30",
+        "author": "Gustavo Estrada",
+        "date": "2022-07-01",
         "publication": "el-tiempo",
-        "title": "El poder de la lectura",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/el-poder-de-la-lectura-columna-de-catalina-reginfo-683725"
+        "title": "La fuente de la juventud",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-estrada/la-fuente-de-la-juventud-columna-de-gustavo-estrada-684021"
     }
 ]
