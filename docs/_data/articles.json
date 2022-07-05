@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-04",
+        "date": "2022-07-05",
         "publication": "el-colombiano",
-        "title": "La fuerza que mueve al pa\u00eds",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-fuerza-que-mueve-al-pais-KL17946936"
+        "title": "\u00bfPara qu\u00e9 la oposici\u00f3n?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/para-que-la-oposicion-AL17948844"
+    },
+    {
+        "article-type": "column",
+        "author": "Federico Hoyos Salazar",
+        "date": "2022-07-05",
+        "publication": "el-colombiano",
+        "title": "Primeras se\u00f1ales (Parte 2)",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/primeras-senales-parte-2-EL17948639"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-07-05",
+        "publication": "el-colombiano",
+        "title": "La mal llamada \u201cneutralidad\u201d china",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-mal-llamada-neutralidad-china-LL17948605"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-07-05",
+        "publication": "el-colombiano",
+        "title": "Polic\u00eda y Ministerio de Defensa ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/policia-y-ministerio-de-defensa-OL17948622"
+    },
+    {
+        "article-type": "column",
+        "author": "Amalia Londo\u00f1o Duque",
+        "date": "2022-07-05",
+        "publication": "el-colombiano",
+        "title": "Mente, trabajo y cuidado",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/mente-trabajo-y-cuidado-NL17948588"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Mej\u00eda Cubillos",
+        "date": "2022-07-05",
+        "publication": "el-colombiano",
+        "title": "Los costos de la prosperidad social ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/los-costos-de-la-prosperidad-social-LL17948571"
     },
     {
         "article-type": "column",
@@ -48,243 +88,139 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/petro-en-clave-de-marx-EL17945908"
     },
     {
-        "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-07-03",
-        "publication": "el-colombiano",
-        "title": "Mesura",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/mesura-GL17943489"
+        "article-type": "editorial",
+        "author": null,
+        "date": "2022-07-05",
+        "publication": "el-espectador",
+        "title": "Los trapos sucios no se lavan en casa",
+        "url": "https://www.elespectador.com/opinion/editorial/los-trapos-sucios-no-se-lavan-en-casa/"
     },
     {
         "article-type": "column",
-        "author": "Elbac\u00e9 Restrepo",
-        "date": "2022-07-03",
-        "publication": "el-colombiano",
-        "title": "Con la ley de la gravedad no se negocia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/con-la-ley-de-la-gravedad-no-se-negocia-FL17943402"
+        "author": "Aldo Civico",
+        "date": "2022-07-05",
+        "publication": "el-espectador",
+        "title": "Intimidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/intimidad/"
     },
     {
         "article-type": "column",
-        "author": "Juan Jos\u00e9 Hoyos",
-        "date": "2022-07-03",
-        "publication": "el-colombiano",
-        "title": "La paz empieza con la verdad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-paz-empieza-con-la-verdad-DL17943541"
+        "author": "Gonzalo Hern\u00e1ndez",
+        "date": "2022-07-05",
+        "publication": "el-espectador",
+        "title": "Llev\u00e1ndose los retrovisores",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/llevandose-los-retrovisores/"
     },
     {
         "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2022-07-04",
-        "publication": "el-colombiano",
-        "title": "\u00bfUna izquierda 2.0 en Am\u00e9rica Latina?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/una-izquierda-20-en-america-latina-FL17945011"
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-07-05",
+        "publication": "el-espectador",
+        "title": "Conociendo Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/conociendo-colombia/"
     },
     {
         "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-07-03",
-        "publication": "el-colombiano",
-        "title": "M\u00e1s que ruido",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/mas-que-ruido-LL17943558"
+        "author": "Cristina de la Torre",
+        "date": "2022-07-05",
+        "publication": "el-espectador",
+        "title": "Duele la verdad",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/duele-la-verdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Orduz",
+        "date": "2022-07-05",
+        "publication": "el-espectador",
+        "title": "Venezuela: una oportunidad dorada para los empresarios colombianos",
+        "url": "https://www.elespectador.com/opinion/columnistas/rafael-orduz/venezuela-una-oportunidad-dorada-para-los-empresarios-colombianos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-07-05",
+        "publication": "el-espectador",
+        "title": "La desdiabolizaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/la-desdiabolizacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2022-07-05",
+        "publication": "el-espectador",
+        "title": "Mandinga y PCN",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/mandinga-y-pcn/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2022-07-05",
+        "publication": "el-espectador",
+        "title": "La Comisi\u00f3n de la Verdad y la educaci\u00f3n ",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/la-comision-de-la-verdad-y-la-educacion/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "La OTAN reencuentra su camino",
-        "url": "https://www.elespectador.com/opinion/editorial/la-otan-reencuentra-su-camino/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina",
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "\u00bf\u00abPrimera y segunda vueltas\u00bb o \u00abprimera y segunda vuelta\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina/primera-y-segunda-vueltas-o-primera-y-segunda-vuelta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Guillermo Rivera",
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "El deseo de ruptura que no ley\u00f3 el centro pol\u00edtico",
-        "url": "https://www.elespectador.com/opinion/columnistas/grivera/el-deseo-de-ruptura-que-no-leyo-el-centro-politico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Leal Buitrago",
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "Avances \u00bfy retrocesos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/avances-y-retrocesos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcelo Caruso A.",
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "Apuntes para una Reforma Rural Integral",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/apuntes-para-una-reforma-rural-integral/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "El corrupto legado de Duque",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-corrupto-legado-de-duque/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "Un acto pol\u00edtico",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/un-acto-politico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "\u201cAlisten lotes para construir colegios y universidades\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/alisten-lotes-para-construir-colegios-y-universidades/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "Nuevos desaf\u00edos",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/nuevos-desafios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "Petro, aterrizando",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/petro-aterrizando/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "Egan, colombiano universal",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/egan-colombiano-universal/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-07-04",
-        "publication": "el-espectador",
-        "title": "Editorial en video: hasta que reconozcamos el aporte de la diversidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-hasta-que-reconozcamos-el-aporte-de-la-diversidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2022-07-03",
-        "publication": "el-espectador",
-        "title": "Cap\u00edtulo 29: El p\u00e9ndulo coge impulso",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/con-petro-en-la-presidencia-el-pendulo-coge-impulso-hacia-maria-fernanda-cabal/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2022-07-03",
-        "publication": "el-espectador",
-        "title": "Verdad y literatura testimonial",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/verdad-y-literatura-testimonial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2022-07-03",
-        "publication": "el-espectador",
-        "title": "Los plagios de Guillermo Reyes",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/los-plagios-de-guillermo-reyes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2022-07-03",
-        "publication": "el-espectador",
-        "title": "Verdades inc\u00f3modas",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/verdades-incomodas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2022-07-03",
-        "publication": "el-espectador",
-        "title": "Vivir la verdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/vivir-la-verdad/"
-    },
-    {
-        "article-type": "editorial",
-        "author": null,
-        "date": "2022-07-04",
+        "date": "2022-07-05",
         "publication": "el-tiempo",
-        "title": "Contra la invisibilidad",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-4-de-julio-de-2022-contra-la-invisibilidad-684587"
+        "title": "Ahora, \u2018Iv\u00e1n M\u00e1rquez\u2019",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-5-de-julio-de-2022-ahora-ivan-marquez-684724"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-07-04",
+        "author": "Fernando Quiroz",
+        "date": "2022-07-05",
         "publication": "el-tiempo",
-        "title": "Es oposici\u00f3n, no premio de consolaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-p-gutierrez-es-oposicion-no-premio-de-consolacion-684598"
+        "title": "A media asta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/columna-de-fernando-quiroz-a-media-asta-684726"
     },
     {
         "article-type": "column",
-        "author": "Kandya Obezo-Casseres",
-        "date": "2022-07-04",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-07-05",
         "publication": "el-tiempo",
-        "title": "La representaci\u00f3n importa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/kandya-obezo-casseres/columna-de-kandya-obezo-la-representacion-importa-684594"
+        "title": "Vuelve y juega",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-vuelve-y-juega-684728"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2022-07-04",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2022-07-05",
         "publication": "el-tiempo",
-        "title": "El pol\u00edtico del amor",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-el-politico-del-amor-684605"
+        "title": "\u00bfSecesi\u00f3n o guerra civil?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/columna-de-sergio-munoz-bata-secesion-o-guerra-civil-684731"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-07-04",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2022-07-05",
         "publication": "el-tiempo",
-        "title": "\u2018Mis hijos ya ven pornograf\u00eda en internet\u2019. \u00bfY entonces?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-mis-hijos-ya-ven-pornografia-en-internet-684602"
+        "title": "El poder presidencial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/columna-de-marcela-melendez-el-poder-presidencial-684733"
     },
     {
         "article-type": "column",
-        "author": "Edna Cristina Bonilla Seb\u00e1",
-        "date": "2022-07-04",
+        "author": "Francisco Cajiao",
+        "date": "2022-07-05",
         "publication": "el-tiempo",
-        "title": "\u2018Mujeres memorables\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/edna-cristina-bonilla-seba/columna-de-edna-cristina-bonilla-mujeres-memorables-684595"
+        "title": "De esc\u00e9pticos, creyentes y conversos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/columna-de-francisco-cajiao-de-escepticos-creyentes-y-conversos-684734"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-07-04",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2022-07-05",
         "publication": "el-tiempo",
-        "title": "Qu\u00e9 es el metaverso",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-que-es-el-metaverso-684589"
+        "title": "Que lo que se escuch\u00f3 en la JEP no lo vuelva a vivir Colombia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/columna-de-jose-miguel-alzate-lo-que-se-escucho-en-la-jep-684735"
     },
     {
         "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2022-07-04",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2022-07-05",
         "publication": "el-tiempo",
-        "title": "La verdad como comienzo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-la-verdad-como-comienzo-684601"
+        "title": "El duende del parque El retiro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/columna-de-fabio-martinez-el-duende-del-parque-el-retiro-684736"
     }
 ]
