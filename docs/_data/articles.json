@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-08",
+        "date": "2022-07-09",
         "publication": "el-colombiano",
-        "title": "Matanzas sin fin",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/matanzas-sin-fin-DG17993536"
+        "title": "Se acab\u00f3 la fiesta",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/se-acabo-la-fiesta-AJ18000066"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Correa Vel\u00e1squez",
+        "date": "2022-07-09",
+        "publication": "el-colombiano",
+        "title": "Una guerra contra nosotros mismos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/una-guerra-contra-nosotros-mismos-HG17999943"
+    },
+    {
+        "article-type": "column",
+        "author": "Llu\u00eds Bassets",
+        "date": "2022-07-09",
+        "publication": "el-colombiano",
+        "title": "Acusaci\u00f3n en el espejo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/acusacion-en-el-espejo-EG17999926"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n Posada",
+        "date": "2022-07-09",
+        "publication": "el-colombiano",
+        "title": "Comentario",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/comentario-JG17999909"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2022-07-09",
+        "publication": "el-colombiano",
+        "title": "Sobre desconciertos varios",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-desconciertos-varios-KG17999892"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2022-07-09",
+        "publication": "el-colombiano",
+        "title": "Esa nostalgia del campo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/esa-nostalgia-del-campo-DG17999875"
     },
     {
         "article-type": "column",
@@ -48,52 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/revisar-el-modelo-politico-2-BG17992443"
     },
     {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2022-07-07",
-        "publication": "el-colombiano",
-        "title": "Cuando se ignora no se opina",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/cuando-se-ignora-no-se-opina-HH17983444"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Botero Montoya",
-        "date": "2022-07-07",
-        "publication": "el-colombiano",
-        "title": "Retroceso democr\u00e1tico",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/retroceso-democratico-CH17983427"
-    },
-    {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2022-07-07",
-        "publication": "el-colombiano",
-        "title": "Esas se\u00f1oras",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/esas-senoras-KH17983393"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-07-07",
-        "publication": "el-colombiano",
-        "title": "Los poetas del semestre",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-poetas-del-semestre-GH17983410"
-    },
-    {
-        "article-type": "column",
-        "author": "Humberto Montero",
-        "date": "2022-07-07",
-        "publication": "el-colombiano",
-        "title": "Chocolate o recesi\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/chocolate-o-recesion-MH17983359"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-08",
+        "date": "2022-07-09",
         "publication": "el-espectador",
-        "title": "No podemos seguir fall\u00e1ndoles a los reincorporados",
-        "url": "https://www.elespectador.com/opinion/editorial/no-podemos-seguir-fallandoles-a-los-reincorporados/"
+        "title": "La esperada salida de Boris Johnson",
+        "url": "https://www.elespectador.com/opinion/editorial/la-esperada-salida-de-boris-johnson/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "El sentido com\u00fan del cambio",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/el-sentido-comun-del-cambio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Guillermo Zuluaga",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "Que el deporte gane por goleada en el gobierno Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/guillermo-zuluaga/que-el-deporte-gane-por-goleada-en-el-gobierno-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "El or\u00e9gano o la honra",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/el-oregano-o-la-honra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "Hoteles, poetas",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/hoteles-poetas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "Comunicaci\u00f3n de gobierno en ambiente crispado",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/comunicacion-de-gobierno-en-ambiente-crispado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "La oraci\u00f3n del ateo",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/la-oracion-del-ateo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "\u00bfC\u00f3mo llevar paz?",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/como-llevar-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ochoa",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "T\u00e1cticas de la derrota",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/tacticas-de-la-derrota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mart\u00edn Jaramillo",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "Arrancar con el pie derecho",
+        "url": "https://www.elespectador.com/opinion/columnistas/martin-jaramillo/arrancar-con-el-pie-derecho/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "Pand\u00e9mica y terrestre",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/pandemica-y-terrestre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "La Procuradur\u00eda tiene hu\u00e9rfana a la protecci\u00f3n de datos personales",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/la-procuraduria-tiene-huerfana-a-la-proteccion-de-datos-personales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "Orgullosamente f\u00fatbol femenino ",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/orgullosamente-futbol-femenino/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-07-09",
+        "publication": "el-espectador",
+        "title": "\u00bfPor qu\u00e9 las empresas deben tener un \u00e1rea de diversidad, equidad e inclusi\u00f3n?",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/por-que-las-empresas-deben-tener-un-area-de-diversidad-equidad-e-inclusion/"
     },
     {
         "article-type": "column",
@@ -102,30 +206,6 @@
         "publication": "el-espectador",
         "title": "La nueva gobernanza a la izquierda, con el continuismo de siempre",
         "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/la-nueva-gobernanza-a-la-izquierda-con-el-continuismo-de-siempre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "Por favor, no mientan",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/por-favor-no-mientan/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Botero",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "Verg\u00fcenza",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/verguenza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "La paz funcion\u00f3 \u2014hasta donde pudo\u2014",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/la-paz-funciono-hasta-donde-pudo/"
     },
     {
         "article-type": "column",
@@ -144,147 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/petro-y-el-valle/"
     },
     {
-        "article-type": "column",
-        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "Prueba de inmunidad contra el Covid",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/prueba-de-inmunidad-contra-el-covid/"
-    },
-    {
-        "article-type": "column",
-        "author": "Augusto Trujillo Mu\u00f1oz",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "Democracia de consenso",
-        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/democracia-de-consenso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "El pa\u00eds de los mil sabores",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/el-pais-de-los-mil-sabores/"
-    },
-    {
-        "article-type": "column",
-        "author": "Para serle franco",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "Restaurante Huun ",
-        "url": "https://www.elespectador.com/opinion/columnistas/para-serle-franco/restaurante-huun/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Bada",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "Efem\u00e9rides julianas",
-        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/efemerides-julianas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "Copa Am\u00e9rica Femenina",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/copa-america-femenina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "\u00bfY ahora, qui\u00e9n podr\u00e1 defendernos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/en-defensa-de-la-procuraduria-y-ahora-quien-podra-defendernos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos C\u00f3rdoba Mart\u00ednez",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "La mirada del espectador c\u00f3mplice",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-responsabilidad-de-los-que-creyeron-estar-fuera-del-conflicto-armado-en-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00c1lvaro Restrepo",
-        "date": "2022-07-08",
-        "publication": "el-espectador",
-        "title": "El Ministerio de la Creaci\u00f3n Colectiva",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-restrepo/el-ministerio-de-la-creacion-colectiva/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2022-07-07",
-        "publication": "el-espectador",
-        "title": "Peajes",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/peajes/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-08",
+        "date": "2022-07-09",
         "publication": "el-tiempo",
-        "title": "La salida de Johnson",
-        "url": "https://www.eltiempo.com/opinion/editorial/la-salida-de-johnson-editorial-el-tiempo-685608"
+        "title": "Conexi\u00f3n con el Llano",
+        "url": "https://www.eltiempo.com/opinion/editorial/conexion-con-el-llano-editorial-el-tiempo-685881"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2022-07-08",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2022-07-09",
         "publication": "el-tiempo",
-        "title": "A\u00f1o Internacional de las Ciencias B\u00e1sicas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/ano-internacional-de-las-ciencias-basicas-columna-de-moises-wasserman-685548"
+        "title": "La incertidumbre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/la-incertidumbre-columna-de-mauricio-cardenas-685889"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2022-07-08",
+        "author": "Elizabeth Castillo",
+        "date": "2022-07-09",
         "publication": "el-tiempo",
-        "title": "333",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/333-columna-de-ricardo-silva-romero-685555"
+        "title": "De la m\u00e1scara al tambor",
+        "url": "https://www.eltiempo.com/opinion/columnistas/elizabeth-castillo/de-la-mascara-al-tambor-columna-de-elizabeth-castillo-685819"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2022-07-08",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2022-07-09",
         "publication": "el-tiempo",
-        "title": "Temporada de museos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/temporada-de-museos-columna-de-claudia-hakim-685552"
+        "title": "Ellas nos representan",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/ellas-nos-representan-columna-de-luis-noe-ochoa-685882"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2022-07-08",
+        "author": "Juan Pablo Bocarejo",
+        "date": "2022-07-09",
         "publication": "el-tiempo",
-        "title": "Una vejez \u2018aut\u00e9ntica\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/una-vejez-autentica-columna-de-eduardo-posada-carbo-685554"
+        "title": "Es insuficiente para lograr las metas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-bocarejo/un-insuficiente-para-lograr-las-metas-columna-de-juan-pablo-bocarejo-685825"
     },
     {
         "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2022-07-08",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-07-09",
         "publication": "el-tiempo",
-        "title": "Sesenta a\u00f1os de cultura y paz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/sesenta-anos-de-cultura-y-paz-columna-de-salvo-basile-685557"
+        "title": "Celibato",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/celibato-columna-de-oscar-dominguez-giraldo-685829"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Laurens - Cine al Ojo",
-        "date": "2022-07-08",
+        "author": "Santiago Vargas Acebedo",
+        "date": "2022-07-09",
         "publication": "el-tiempo",
-        "title": "Or\u00edgenes de la cultura vallenata por sus autores",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/origenes-de-la-cultura-vallenata-por-sus-autores-mauricio-laurens-685563"
+        "title": "\u00bfPor qu\u00e9 fall\u00f3 la estrategia de \u2018Semana\u2019?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/por-que-fallo-la-estrategia-de-semana-columna-de-santiago-vargas-685834"
     },
     {
         "article-type": "column",
-        "author": "Javier Borda Diaz",
-        "date": "2022-07-08",
+        "author": "Fernando Posada",
+        "date": "2022-07-09",
         "publication": "el-tiempo",
-        "title": "En busca del tesoro perdido: las noticias positivas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/en-busca-del-tesoro-perdido-las-noticias-positivas-javier-borda-685566"
+        "title": "Hacia la regulaci\u00f3n de los usos alternativos de la hoja de coca",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/hacia-la-regulacion-de-los-usos-alternativos-de-la-hoja-de-coca-685853"
     }
 ]
