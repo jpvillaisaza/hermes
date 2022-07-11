@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-10",
+        "date": "2022-07-11",
         "publication": "el-colombiano",
-        "title": "\u00bfVenezuela para cu\u00e1ndo?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/venezuela-para-cuando-FJ18002777"
+        "title": "La Quinta del Covid ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-quinta-del-covid-JJ18004148"
+    },
+    {
+        "article-type": "column",
+        "author": "Proantioquia",
+        "date": "2022-07-11",
+        "publication": "el-colombiano",
+        "title": "Confianza sin intermediarios",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/confianza-sin-intermediarios-IJ18004059"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
+        "date": "2022-07-11",
+        "publication": "el-colombiano",
+        "title": "El reestreno del adanismo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-reestreno-del-adanismo-HJ18004131"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2022-07-11",
+        "publication": "el-colombiano",
+        "title": "Sin pruebas, pero sin dudas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sin-pruebas-pero-sin-dudas-CJ18004042"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Escobar Valencia",
+        "date": "2022-07-11",
+        "publication": "el-colombiano",
+        "title": "Para Putin, Ucrania es el instrumento y Europa, el objetivo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/para-putin-ucrania-es-el-instrumento-y-europa-el-objetivo-AJ18004114"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2022-07-11",
+        "publication": "el-colombiano",
+        "title": "El empalme para Hidroituango",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-empalme-para-hidroituango-DJ18004007"
     },
     {
         "article-type": "column",
@@ -48,52 +88,92 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/futurofilia-KJ18002181"
     },
     {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-07-10",
-        "publication": "el-colombiano",
-        "title": "El n\u00famero de votos no es igual al de seguidores",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-numero-de-votos-no-es-igual-al-de-seguidores-BJ18002164"
-    },
-    {
-        "article-type": "column",
-        "author": "Juliana Restrepo Cadavid",
-        "date": "2022-07-10",
-        "publication": "el-colombiano",
-        "title": "Escribir el cuerpo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/escribir-el-cuerpo-AJ18002147"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Hoyos",
-        "date": "2022-07-10",
-        "publication": "el-colombiano",
-        "title": "La luz que vence la muerte",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-luz-que-vence-la-muerte-MJ18002079"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2022-07-10",
-        "publication": "el-colombiano",
-        "title": "Eln: Algunos aprendizajes que tener en cuenta",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/eln-algunos-aprendizajes-que-tener-en-cuenta-OJ18002059"
-    },
-    {
-        "article-type": "column",
-        "author": "Adriana Correa Vel\u00e1squez",
-        "date": "2022-07-09",
-        "publication": "el-colombiano",
-        "title": "Una guerra contra nosotros mismos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/una-guerra-contra-nosotros-mismos-HG17999943"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2022-07-10",
         "publication": "el-espectador",
         "title": "Prudencia con los cambios, sin traicionarlos",
         "url": "https://www.elespectador.com/opinion/editorial/prudencia-con-los-cambios-sin-traicionarlos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2022-07-11",
+        "publication": "el-espectador",
+        "title": "Patricia Ariza ",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/patricia-ariza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2022-07-11",
+        "publication": "el-espectador",
+        "title": "Ah\u00ed vamos",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/ahi-vamos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2022-07-11",
+        "publication": "el-espectador",
+        "title": "El d\u00f3lar caro",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-dolar-caro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Leyva",
+        "date": "2022-07-11",
+        "publication": "el-espectador",
+        "title": "Para la transici\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/para-la-transicion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2022-07-11",
+        "publication": "el-espectador",
+        "title": "\u00bfLos nombres de pueblos ind\u00edgenas van en may\u00fascula?",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/los-nombres-de-pueblos-indigenas-van-en-mayuscula/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alvaro Forero Tasc\u00f3n",
+        "date": "2022-07-11",
+        "publication": "el-espectador",
+        "title": "\u00bfPetro el reformista?",
+        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/petro-el-reformista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2022-07-11",
+        "publication": "el-espectador",
+        "title": "Mineducaci\u00f3n: poco valiente adi\u00f3s a los subsidios a la demanda",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/mineducacion-poco-valiente-adios-a-los-subsidios-a-la-demanda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2022-07-11",
+        "publication": "el-espectador",
+        "title": "Concertar mejora la salud",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/concertar-mejora-la-salud/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2022-07-11",
+        "publication": "el-espectador",
+        "title": "Millos, segundo semestre ",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/millos-segundo-semestre-columna-de-antonio-casale-en-el-espectador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-07-11",
+        "publication": "el-espectador",
+        "title": "Editorial en video: prudencia con los cambios, sin traicionarlos",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-prudencia-con-los-cambios-sin-traicionarlos/"
     },
     {
         "article-type": "column",
@@ -112,187 +192,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/que-hacer-con-la-procuraduria/"
     },
     {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "Empleo para la otra Colombia (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/empleo-para-la-otra-colombia-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "Decisiones cada d\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/decisiones-cada-dia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "Por qu\u00e9 los asesinos en masa cometen tales maldades",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/por-que-los-asesinos-en-masa-cometen-tales-maldades/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "Entrevista con el senador \u201cMermelada\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/entrevista-con-el-senador-mermelada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Rivas",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "El progreso desapercibido",
-        "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/el-progreso-desapercibido/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "D\u00edas de fastidio",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/dias-de-fastidio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "Los nacionalistas cristianos est\u00e1n entusiasmados por lo que viene",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/los-nacionalistas-cristianos-estan-entusiasmados-por-lo-que-viene/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "Mientras Abe agonizaba",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/mientras-abe-agonizaba/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-51/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Camargo",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "S\u00ed al no: Una mirada a la disciplina positiva",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/si-al-no-una-mirada-a-la-disciplina-positiva/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Pel\u00e1ez Restrepo",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "Hasta aqu\u00ed",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-pelaez-restrepo/hasta-aqui/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "Devaluaci\u00f3n y tasas de inter\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/devaluacion-y-tasas-de-interes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "Harapiento o brillante, pero nuestro arte",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/harapiento-o-brillante-pero-nuestro-arte/"
-    },
-    {
-        "article-type": "column",
-        "author": "Federico Montes*",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "\u00a1Pap\u00e1, b\u00e1jame la luna!",
-        "url": "https://www.elespectador.com/colombia-20/analistas/papa-bajame-la-luna/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-10",
+        "date": "2022-07-11",
         "publication": "el-tiempo",
-        "title": "El mundo tiembla",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-10-de-julio-de-2022-el-mundo-tiembla-686047"
+        "title": "Tres l\u00edderes",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-11-de-julio-de-2022-tres-lideres-686200"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2022-07-10",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2022-07-11",
         "publication": "el-tiempo",
-        "title": "Terrible despedida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-terrible-despedida-686048"
+        "title": "\u00bfPropuestas o globos?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-propuestas-o-globos-686207"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2022-07-10",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2022-07-11",
         "publication": "el-tiempo",
-        "title": "\u00bfNos quitar\u00e1n las EPS?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-nos-quitaran-las-eps-686062"
+        "title": "La nueva ministra de Salud",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/columna-de-fernando-sanchez-torres-la-nueva-ministra-de-salud-686203"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2022-07-10",
+        "author": "Alejandro Higuera Sotomayor",
+        "date": "2022-07-11",
         "publication": "el-tiempo",
-        "title": "Ministra: los impuestos sobre la tierra son municipales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-h-martinez-impuestos-sobre-la-tierra-son-municipales-686068"
+        "title": "Un problema vocacional",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-un-problema-vocacional-686202"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2022-07-10",
+        "author": "Diego Santos",
+        "date": "2022-07-11",
         "publication": "el-tiempo",
-        "title": "La nueva administraci\u00f3n 2022-2026",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-la-nueva-administracion-2022-2026-686064"
+        "title": "La tecnolog\u00eda, para los adultos... para los ni\u00f1os, NO",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-tecnologia-para-adultos-para-ninos-no-686209"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2022-07-10",
+        "author": "Yolanda Reyes",
+        "date": "2022-07-11",
         "publication": "el-tiempo",
-        "title": "Empanada chilena",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-empanada-chilena-686063"
+        "title": "El comienzo de la revoluci\u00f3n educativa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-el-comienzo-de-la-revolucion-educativa-686205"
     },
     {
         "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2022-07-10",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2022-07-11",
         "publication": "el-tiempo",
-        "title": "Vivir sabroso",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/columna-de-martha-senn-vivir-sabroso-686050"
+        "title": "A cambiar la forma de pensar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-a-cambiar-la-forma-de-pensar-686201"
     },
     {
         "article-type": "column",
-        "author": "Hugo Acero Vel\u00e1squez",
-        "date": "2022-07-10",
+        "author": "Manuel Rodr\u00edguez Becerra",
+        "date": "2022-07-11",
         "publication": "el-tiempo",
-        "title": "La Polic\u00eda del gran Acuerdo Nacional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/columna-de-hugo-acero-velasquez-la-policia-del-gran-acuerdo-nacional-686071"
+        "title": "Balance ambiental del gobierno Duque",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/columna-de-manuel-rodriguez-becerra-balance-ambiental-del-gobierno-duque-686204"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2022-07-10",
+        "author": "Jorge Barraza",
+        "date": "2022-07-11",
         "publication": "el-tiempo",
-        "title": "EE. UU.: el quiebre de una democracia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/columna-de-antonio-albinana-ee-uu-el-quiebre-de-una-democracia-686072"
+        "title": "\u2018No sea tribunero, Berm\u00fadez\u2026\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-no-sea-tribunero-bermudez-686206"
     }
 ]
