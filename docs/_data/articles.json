@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-11",
+        "date": "2022-07-12",
         "publication": "el-colombiano",
-        "title": "La Quinta del Covid ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-quinta-del-covid-JJ18004148"
+        "title": "\u00a1No hay autoridad!",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/no-hay-autoridad-DI18011750"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-07-12",
+        "publication": "el-colombiano",
+        "title": "De la incertidumbre a la sobriedad",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/de-la-incertidumbre-a-la-sobriedad-OI18011179"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-07-12",
+        "publication": "el-colombiano",
+        "title": "Omisi\u00f3n de la verdad",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/omision-de-la-verdad-CI18011289"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-07-12",
+        "publication": "el-colombiano",
+        "title": "Tiempos violentos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/tiempos-violentos-CI18011146"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-07-12",
+        "publication": "el-colombiano",
+        "title": "Paso a paso, un yuan convertible",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/paso-a-paso-un-yuan-convertible-CI18011245"
+    },
+    {
+        "article-type": "column",
+        "author": "Armando Estrada Villa",
+        "date": "2022-07-12",
+        "publication": "el-colombiano",
+        "title": "Democracia y oposici\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/democracia-y-oposicion-NI18011095"
     },
     {
         "article-type": "column",
@@ -48,219 +88,171 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/el-empalme-para-hidroituango-DJ18004007"
     },
     {
-        "article-type": "column",
-        "author": "Juan Carlos Echeverry",
-        "date": "2022-07-10",
-        "publication": "el-colombiano",
-        "title": "El d\u00f3lar",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-dolar-NJ18002096"
+        "article-type": "editorial",
+        "author": null,
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "En Colombia, el aborto s\u00ed es un derecho",
+        "url": "https://www.elespectador.com/opinion/editorial/en-colombia-el-aborto-si-es-un-derecho/"
     },
     {
         "article-type": "column",
-        "author": "Elbac\u00e9 Restrepo",
-        "date": "2022-07-10",
-        "publication": "el-colombiano",
-        "title": "Ecos de un problema",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/ecos-de-un-problema-BJ18002113"
+        "author": "Cristina de la Torre",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "Se robaron hasta la paz",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/se-robaron-hasta-la-paz/"
     },
     {
         "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-07-10",
-        "publication": "el-colombiano",
-        "title": "Antioquia ante el cuatrienio",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/antioquia-ante-el-cuatrienio-AJ18002130"
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "Las propuestas de Petro sobre la Procuradur\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/las-propuestas-de-petro-sobre-la-procuraduria/"
     },
     {
         "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-07-10",
-        "publication": "el-colombiano",
-        "title": "Ruralidad olvidada",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/ruralidad-olvidada-EJ18002215"
+        "author": "Gloria Arias Nieto",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "\u00a1Pilas, Colombia!",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/pilas-colombia/"
     },
     {
         "article-type": "column",
-        "author": "David Escobar Arango",
-        "date": "2022-07-10",
-        "publication": "el-colombiano",
-        "title": "Futurofilia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/futurofilia-KJ18002181"
+        "author": "Aldo Civico",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "Devenir",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/devenir/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "La familia Leyva",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-familia-leyva/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "Mano a mano",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/mano-a-mano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "Rishi, Sajid, Nadhim, Suella y Priti",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/rishi-sajid-nadhim-suella-y-priti/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "Un whiskicito para Faulkner",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/un-whiskicito-para-faulkner/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "Petro y la foto oculta",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/petro-y-la-foto-oculta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "Divisi\u00f3n sexual del trabajo",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/division-sexual-del-trabajo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "\u00bfBailarines o bailaoras? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/bailarines-o-bailaoras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Guillermo Gonz\u00e1lez Uribe",
+        "date": "2022-07-12",
+        "publication": "el-espectador",
+        "title": "Se respira un aire nuevo",
+        "url": "https://www.elespectador.com/opinion/columnistas/guillermo-gonzalez-uribe/se-respira-un-aire-nuevo/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "Prudencia con los cambios, sin traicionarlos",
-        "url": "https://www.elespectador.com/opinion/editorial/prudencia-con-los-cambios-sin-traicionarlos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2022-07-11",
-        "publication": "el-espectador",
-        "title": "Patricia Ariza ",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/patricia-ariza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2022-07-11",
-        "publication": "el-espectador",
-        "title": "Ah\u00ed vamos",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/ahi-vamos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2022-07-11",
-        "publication": "el-espectador",
-        "title": "El d\u00f3lar caro",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-dolar-caro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Leyva",
-        "date": "2022-07-11",
-        "publication": "el-espectador",
-        "title": "Para la transici\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/para-la-transicion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2022-07-11",
-        "publication": "el-espectador",
-        "title": "\u00bfLos nombres de pueblos ind\u00edgenas van en may\u00fascula?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/los-nombres-de-pueblos-indigenas-van-en-mayuscula/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2022-07-11",
-        "publication": "el-espectador",
-        "title": "\u00bfPetro el reformista?",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/petro-el-reformista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-07-11",
-        "publication": "el-espectador",
-        "title": "Mineducaci\u00f3n: poco valiente adi\u00f3s a los subsidios a la demanda",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/mineducacion-poco-valiente-adios-a-los-subsidios-a-la-demanda/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-07-11",
-        "publication": "el-espectador",
-        "title": "Concertar mejora la salud",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/concertar-mejora-la-salud/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-07-11",
-        "publication": "el-espectador",
-        "title": "Millos, segundo semestre ",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/millos-segundo-semestre-columna-de-antonio-casale-en-el-espectador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-07-11",
-        "publication": "el-espectador",
-        "title": "Editorial en video: prudencia con los cambios, sin traicionarlos",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-prudencia-con-los-cambios-sin-traicionarlos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "La pol\u00edtica es din\u00e1mica",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/la-politica-es-dinamica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2022-07-10",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 hacer con la Procuradur\u00eda? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/que-hacer-con-la-procuraduria/"
-    },
-    {
-        "article-type": "editorial",
-        "author": null,
-        "date": "2022-07-11",
+        "date": "2022-07-12",
         "publication": "el-tiempo",
-        "title": "Tres l\u00edderes",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-11-de-julio-de-2022-tres-lideres-686200"
+        "title": "V\u00edas m\u00e1s seguras",
+        "url": "https://www.eltiempo.com/opinion/editorial/vias-mas-seguras-editorial-el-tiempo-686467"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-07-11",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-07-12",
         "publication": "el-tiempo",
-        "title": "\u00bfPropuestas o globos?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-propuestas-o-globos-686207"
+        "title": "Confianza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/confianza-columna-de-jose-manuel-acevedo-686403"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2022-07-11",
+        "author": "Viviane Morales Hoyos",
+        "date": "2022-07-12",
         "publication": "el-tiempo",
-        "title": "La nueva ministra de Salud",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/columna-de-fernando-sanchez-torres-la-nueva-ministra-de-salud-686203"
+        "title": "El \u2018fast track\u2019 de Roy",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/el-fast-track-de-roy-columna-de-viviane-morales-hoyos-686388"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2022-07-11",
+        "author": "Juan Pablo Calv\u00e1s",
+        "date": "2022-07-12",
         "publication": "el-tiempo",
-        "title": "Un problema vocacional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-un-problema-vocacional-686202"
+        "title": "El empleo seg\u00fan Petro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/el-empleo-segun-petro-columna-de-juan-pablo-calvas-686409"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-07-11",
+        "author": "Eduardo Escobar",
+        "date": "2022-07-12",
         "publication": "el-tiempo",
-        "title": "La tecnolog\u00eda, para los adultos... para los ni\u00f1os, NO",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-tecnologia-para-adultos-para-ninos-no-686209"
+        "title": "Nada\u00edstas en los ministerios",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/nadaistas-en-los-ministerios-columna-de-eduardo-escobar-686383"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-07-11",
+        "author": "Armando Silva",
+        "date": "2022-07-12",
         "publication": "el-tiempo",
-        "title": "El comienzo de la revoluci\u00f3n educativa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-el-comienzo-de-la-revolucion-educativa-686205"
+        "title": "Tatuajes y grafitis",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/tatuajes-y-grafitis-columna-de-armando-silva-686436"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-07-11",
+        "author": "Miguel\u00e1ngel Epeey\u00fci L\u00f3pez-H.",
+        "date": "2022-07-12",
         "publication": "el-tiempo",
-        "title": "A cambiar la forma de pensar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-a-cambiar-la-forma-de-pensar-686201"
+        "title": "Es la cultura, est\u00fapido",
+        "url": "https://www.eltiempo.com/opinion/columnistas/miguelangel-epeeyui-lopez-h/es-la-cultura-estupido-columna-de-miguelangel-epeeyuei-686471"
     },
     {
         "article-type": "column",
-        "author": "Manuel Rodr\u00edguez Becerra",
-        "date": "2022-07-11",
+        "author": "Carolina Avenda\u00f1o",
+        "date": "2022-07-12",
         "publication": "el-tiempo",
-        "title": "Balance ambiental del gobierno Duque",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/columna-de-manuel-rodriguez-becerra-balance-ambiental-del-gobierno-duque-686204"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2022-07-11",
-        "publication": "el-tiempo",
-        "title": "\u2018No sea tribunero, Berm\u00fadez\u2026\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-no-sea-tribunero-bermudez-686206"
+        "title": "Un caf\u00e9 cargado de culpa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carolina-avendano/un-cafe-cargado-de-culpa-columna-de-carolina-avendano-686473"
     }
 ]
