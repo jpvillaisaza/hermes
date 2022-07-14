@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-13",
+        "date": "2022-07-14",
         "publication": "el-colombiano",
-        "title": "Un asesinato en Jap\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/un-asesinato-en-japon-KI18018839"
+        "title": "Los archivos Uber",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/los-archivos-uber-FK18034771"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Perfetti del Corral",
+        "date": "2022-07-14",
+        "publication": "el-colombiano",
+        "title": "Los retos del ministro Gaviria",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/los-retos-del-ministro-gaviria-HL18029943"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2022-07-14",
+        "publication": "el-colombiano",
+        "title": "Y el alcalde no ha podido",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/y-el-alcalde-no-ha-podido-GL18029960"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2022-07-14",
+        "publication": "el-colombiano",
+        "title": "La miseria del artista",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-miseria-del-artista-AL18029854"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2022-07-14",
+        "publication": "el-colombiano",
+        "title": "Adi\u00f3s al \u201cgive me two\u201d",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/adios-al-give-me-two-ML18029984"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-07-14",
+        "publication": "el-colombiano",
+        "title": "Historia de locos bajitos (50)",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/historia-de-locos-bajitos-50-EL18029926"
     },
     {
         "article-type": "column",
@@ -48,52 +88,132 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/que-decepcion-LI18017972"
     },
     {
-        "article-type": "column",
-        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez G.",
-        "date": "2022-07-13",
-        "publication": "el-colombiano",
-        "title": "Estudiar bien las reformas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/estudiar-bien-las-reformas-NI18017903"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Ram\u00edrez Correa",
-        "date": "2022-07-12",
-        "publication": "el-colombiano",
-        "title": "De la incertidumbre a la sobriedad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/de-la-incertidumbre-a-la-sobriedad-OI18011179"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2022-07-12",
-        "publication": "el-colombiano",
-        "title": "Omisi\u00f3n de la verdad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/omision-de-la-verdad-CI18011289"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Camilo Quintero",
-        "date": "2022-07-12",
-        "publication": "el-colombiano",
-        "title": "Tiempos violentos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/tiempos-violentos-CI18011146"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2022-07-12",
-        "publication": "el-colombiano",
-        "title": "Paso a paso, un yuan convertible",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/paso-a-paso-un-yuan-convertible-CI18011245"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-13",
+        "date": "2022-07-14",
         "publication": "el-espectador",
-        "title": "La ruta alterna de Uber",
-        "url": "https://www.elespectador.com/opinion/editorial/la-ruta-alterna-de-uber/"
+        "title": "Dado que las mujeres conducen mejor que los hombres...",
+        "url": "https://www.elespectador.com/opinion/editorial/dado-que-las-mujeres-conducen-mejor-que-los-hombres/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Barbosa",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "Abe Shinz\u00f4: v\u00edctima del rencor",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/abe-shinzo-victima-del-rencor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "Escrito en las estrellas ",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/escrito-en-las-estrellas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "\u00bfCu\u00e1ntas Colombias?",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/cuantas-colombias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo Gall\u00f3n",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "\u201cLa Colombia herida\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/la-colombia-herida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "Fin de la econom\u00eda naranja",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/fin-de-la-economia-naranja/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "Parece inveros\u00edmil, pero es verdad",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/parece-inverosimil-pero-es-verdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "Vladimir Putin: \u00bfgay reprimido?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/vladimir-putin-gay-reprimido/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Charria",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "\u201cEl negacionismo no es un delito\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-charria/el-negacionismo-no-es-un-delito/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Manuel Ospina",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "La gran guerra pendiente",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/la-gran-guerra-pendiente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "De la vulnerabilidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/de-la-vulnerabilidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "Hechos que se convierten en un legado deportivo",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/hechos-que-se-convierten-en-un-legado-deportivo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Felipe Carrillo G\u00e1faro",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "\u201cLa Colombia Herida\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/la-colombia-herida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "Sent\u00e9monos todos a la mesa de la generaci\u00f3n y distribuci\u00f3n del conocimiento",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/sentemonos-todos-a-la-mesa-de-la-generacion-y-distribucion-del-conocimiento/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Pereira Arana*",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "Drogas y verdades: \u00bfQu\u00e9 sigue despu\u00e9s del Informe?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/drogas-y-verdades-que-sigue-despues-del-informe/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-07-14",
+        "publication": "el-espectador",
+        "title": "Nos inventamos una palabra y la pusimos en un titular",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nos-inventamos-una-palabra-y-la-pusimos-en-un-titular/"
     },
     {
         "article-type": "column",
@@ -104,179 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/despelote-noticias-hoy/"
     },
     {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2022-07-13",
-        "publication": "el-espectador",
-        "title": "Ilusiones catastr\u00f3ficas",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/ilusiones-catastroficas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-07-13",
-        "publication": "el-espectador",
-        "title": "Herej\u00eda positiva: los pilotos de \u201cfracking\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/herejia-positiva-los-pilotos-de-fracking/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2022-07-13",
-        "publication": "el-espectador",
-        "title": "\u00bfD\u00f3nde est\u00e1bamos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/donde-estabamos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-07-13",
-        "publication": "el-espectador",
-        "title": "El periodismo, a examen ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/el-periodismo-a-examen/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2022-07-13",
-        "publication": "el-espectador",
-        "title": "La impostura de Marquetalia",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/la-impostura-de-marquetalia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arlene B. Tickner",
-        "date": "2022-07-13",
-        "publication": "el-espectador",
-        "title": "Verdades internacionales",
-        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/verdades-internacionales-sobre-la-comision-de-la-verdad-de-colombia-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2022-07-13",
-        "publication": "el-espectador",
-        "title": "Los pantalones de Roa Sierra",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/los-pantalones-de-roa-sierra/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2022-07-13",
-        "publication": "el-espectador",
-        "title": "No jueguen con candela",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/no-jueguen-con-candela/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2022-07-13",
-        "publication": "el-espectador",
-        "title": "Periodismo y democracia. Reflexiones (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/periodismo-y-democracia-reflexiones-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2022-07-13",
-        "publication": "el-espectador",
-        "title": "\u00bfDesespero, torpeza o persecuci\u00f3n de la Fiscal\u00eda?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/desespero-torpeza-o-persecucion-de-la-fiscalia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Forero Neme - Elementa DDHH",
-        "date": "2022-07-13",
-        "publication": "el-espectador",
-        "title": "Los retos del nuevo Congreso frente a la agenda del gobierno Petro",
-        "url": "https://www.elespectador.com/colombia-20/analistas/los-retos-del-nuevo-congreso-frente-a-la-agenda-del-gobierno-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2022-07-12",
-        "publication": "el-espectador",
-        "title": "\u00a1Pilas, Colombia!",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/pilas-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2022-07-12",
-        "publication": "el-espectador",
-        "title": "Se robaron hasta la paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/se-robaron-hasta-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2022-07-12",
-        "publication": "el-espectador",
-        "title": "Las propuestas de Petro sobre la Procuradur\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/las-propuestas-de-petro-sobre-la-procuraduria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2022-07-12",
-        "publication": "el-espectador",
-        "title": "Devenir",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/devenir/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-13",
+        "date": "2022-07-14",
         "publication": "el-tiempo",
-        "title": "Radiograf\u00eda de la paz",
-        "url": "https://www.eltiempo.com/opinion/editorial/radiografia-de-la-paz-editorial-el-tiempo-686790"
+        "title": "Contra la inflaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/editorial/contra-la-inflacion-editorial-el-tiempo-687082"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2022-07-13",
+        "author": "Pedro Medellin",
+        "date": "2022-07-14",
         "publication": "el-tiempo",
-        "title": "\u00bf\u2018Estado de necesidad\u2019 pol\u00edtica?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/estado-de-necesidad-politica-columna-de-alfonso-gomez-mendez-686750"
+        "title": "Las audacias mayores de 70",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/las-audacias-mayores-de-70-columna-de-pedro-medellin-687041"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2022-07-13",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2022-07-14",
         "publication": "el-tiempo",
-        "title": "Pesimismo al galope",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/pesimismo-al-galope-columna-de-vladdo-686768"
+        "title": "Bienvenidos al pasado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/bienvenidos-al-pasado-columna-de-juan-esteban-constain-687042"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2022-07-13",
+        "author": "Jineth Bedoya Lima",
+        "date": "2022-07-14",
         "publication": "el-tiempo",
-        "title": "Duque, el retardatario",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/duque-el-retardatario-columna-de-florence-thomas-686755"
+        "title": "El covid sigue ah\u00ed",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/el-covid-sigue-ahi-columna-de-jineth-bedoya-687056"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2022-07-13",
+        "author": "Fr\u00e9d\u00e9ric Dor\u00e9",
+        "date": "2022-07-14",
         "publication": "el-tiempo",
-        "title": "Tiempo de vivir",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/tiempo-de-vivir-columna-de-jotamario-arbelaez-686752"
+        "title": "Francia y Colombia, una amistad hist\u00f3rica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/frederic-dore/francia-y-colombia-una-amistad-historica-frederic-dore-687038"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2022-07-13",
+        "author": "Diana Pardo",
+        "date": "2022-07-14",
         "publication": "el-tiempo",
-        "title": "Posesi\u00f3n presidencial, y se pelean invitaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/posesion-presidencial-y-se-pelean-invitacion-poncho-renteria-686756"
+        "title": "Trapos al sol",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/trapos-al-sol-columna-de-diana-pardo-687033"
     },
     {
         "article-type": "column",
-        "author": "Paula Avila-Guillen",
-        "date": "2022-07-13",
+        "author": "Cristina Esguerra Miranda",
+        "date": "2022-07-14",
         "publication": "el-tiempo",
-        "title": "La lucha por los derechos de las mujeres no conoce fronteras",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paula-avila-guillen/la-lucha-por-los-derechos-de-las-mujeres-no-conoce-fronteras-686766"
+        "title": "La filosof\u00eda de los guardianes de la Tierra",
+        "url": "https://www.eltiempo.com/opinion/columnistas/cristina-esguerra-miranda/la-filosofia-de-los-guardianes-de-la-tierra-columna-de-cristina-esguerra-687052"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo Estrada",
+        "date": "2022-07-14",
+        "publication": "el-tiempo",
+        "title": "La telepat\u00eda: \u00bfciencia o creencia?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-estrada/la-telepatia-ciencia-o-creencia-columna-de-gustavo-estrada-687049"
     }
 ]
