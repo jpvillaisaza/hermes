@@ -63,5 +63,8 @@
         </time>
       </p>
     </footer>
+    {%- if jekyll.environment == "production" %}
+    <script async data-goatcounter="https://hermes.goatcounter.com/count" src="//gc.zgo.at/count.js"></script>
+    {%- endif %}
   </body>
 </html>
