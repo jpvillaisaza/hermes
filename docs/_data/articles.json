@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-17",
+        "date": "2022-07-18",
         "publication": "el-colombiano",
-        "title": "\u00bfLa negligencia mata?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-negligencia-mata-HO18070025"
+        "title": "\u00a1Ay, que d\u00f3lar!",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/ay-que-dolar-GB18083775"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
+        "date": "2022-07-18",
+        "publication": "el-colombiano",
+        "title": "Defensa racional de Medell\u00edn",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/defensa-racional-de-medellin-HB18083721"
+    },
+    {
+        "article-type": "column",
+        "author": "Proantioquia",
+        "date": "2022-07-18",
+        "publication": "el-colombiano",
+        "title": "Medell\u00edn: educaci\u00f3n en reversa",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/medellin-educacion-en-reversa-AB18083704"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Vargas Llosa",
+        "date": "2022-07-18",
+        "publication": "el-colombiano",
+        "title": "Derechos de autor",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/derechos-de-autor-JB18083684"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Escobar Valencia",
+        "date": "2022-07-18",
+        "publication": "el-colombiano",
+        "title": "Lo que dicen los gestos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/lo-que-dicen-los-gestos-JB18083758"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2022-07-18",
+        "publication": "el-colombiano",
+        "title": "Hidroituango en manos de Petro Urrego",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/hidroituango-en-manos-de-petro-urrego-BB18083741"
     },
     {
         "article-type": "column",
@@ -25,6 +65,22 @@
     },
     {
         "article-type": "column",
+        "author": "Bernardo A. Guerra Hoyos",
+        "date": "2022-07-18",
+        "publication": "el-colombiano",
+        "title": "Ilegales a sus anchas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ilegales-a-sus-anchas-FP18064188"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejo Vargas Vel\u00e1squez",
+        "date": "2022-07-18",
+        "publication": "el-colombiano",
+        "title": "Inicia nuevo gobierno: vendr\u00e1n los cambios",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/inicia-nuevo-gobierno-vendran-los-cambios-HP18064333"
+    },
+    {
+        "article-type": "column",
         "author": "Cartas a la Directora",
         "date": "2022-07-17",
         "publication": "el-colombiano",
@@ -32,52 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/gracias-presidente-duque-NP18064238"
     },
     {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Hoyos",
-        "date": "2022-07-17",
-        "publication": "el-colombiano",
-        "title": "China limpia sus cielos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/china-limpia-sus-cielos-BP18064151"
-    },
-    {
-        "article-type": "column",
-        "author": "Juliana Vel\u00e1squez Rodr\u00edguez",
-        "date": "2022-07-17",
-        "publication": "el-colombiano",
-        "title": "Los hijos pol\u00edticos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-hijos-politicos-EP18064110"
-    },
-    {
-        "article-type": "column",
-        "author": "Llu\u00eds Bassets",
-        "date": "2022-07-17",
-        "publication": "el-colombiano",
-        "title": "Pactos con el diablo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/pactos-con-el-diablo-OP18064093"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carlos Villegas",
-        "date": "2022-07-17",
-        "publication": "el-colombiano",
-        "title": "Aumento del costo de vida: \u00bfhay esperanza?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/aumento-del-costo-de-vida-hay-esperanza-FP18064076"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n Posada",
-        "date": "2022-07-16",
-        "publication": "el-colombiano",
-        "title": "\u00bfPor qu\u00e9?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/por-que-FP18061895"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-17",
+        "date": "2022-07-18",
         "publication": "el-espectador",
-        "title": "Con Ecopetrol no se juega",
-        "url": "https://www.elespectador.com/opinion/editorial/con-ecopetrol-no-se-juega/"
+        "title": "El desastre de Do\u00f1a Juana",
+        "url": "https://www.elespectador.com/opinion/editorial/el-desastre-de-dona-juana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "\u00bfCu\u00e1l es la diferencia entre \u00abgobierno\u00bb y \u00abGobierno\u00bb?",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/cual-es-la-diferencia-entre-gobierno-y-gobierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "Expulsiones que liberan",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/expulsiones-que-liberan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "Viajeros por Italia",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/viajeros-por-italia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "La suerte de Ecopetrol",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-suerte-de-ecopetrol/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "Emprender juntos un viaje hacia un mejor pa\u00eds",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/emprender-juntos-un-viaje-hacia-un-mejor-pais/"
+    },
+    {
+        "article-type": "column",
+        "author": "Guillermo Rivera",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "Una segunda oportunidad para la paz",
+        "url": "https://www.elespectador.com/opinion/columnistas/grivera/una-segunda-oportunidad-para-la-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "El agro que so\u00f1amos",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/el-agro-que-sonamos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "Gobierno entrante: a unificar pol\u00edticas y discurso",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/gobierno-entrante-a-unificar-politicas-y-discurso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "Mineducaci\u00f3n: \u00bfgastar m\u00e1s y/o gastar mejor?",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/mineducacion-gastar-mas-yo-gastar-mejor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "Futbolistas colombianos a la baja ",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/futbolistas-colombianos-a-la-baja/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "Desaparecer del mundo digital",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/desaparecer-del-mundo-digital/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2022-07-18",
+        "publication": "el-espectador",
+        "title": "Editorial en video: con Ecopetrol no se juega",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-con-ecopetrol-no-se-juega/"
     },
     {
         "article-type": "column",
@@ -112,171 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/sinfonia-del-retiro/"
     },
     {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2022-07-17",
-        "publication": "el-espectador",
-        "title": "\u00bfPara d\u00f3nde va Colombia?",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/para-donde-va-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Leal Buitrago",
-        "date": "2022-07-17",
-        "publication": "el-espectador",
-        "title": "Fuerza p\u00fablica (r) vs. Comisi\u00f3n de la Verdad (I)",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/fuerza-publica-r-vs-comision-de-la-verdad-i/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2022-07-17",
-        "publication": "el-espectador",
-        "title": "Los derechos de la naturaleza",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/los-derechos-de-la-naturaleza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2022-07-17",
-        "publication": "el-espectador",
-        "title": "Parcialmente de acuerdo con usted, padre De Roux",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/parcialmente-de-acuerdo-con-usted-padre-de-roux/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2022-07-17",
-        "publication": "el-espectador",
-        "title": "Una de las peores columnas que he le\u00eddo en mi vida",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/una-de-las-peores-columnas-que-he-leido-en-mi-vida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2022-07-17",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 hacer con la Procuradur\u00eda (II)?",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/que-hacer-con-la-procuraduria-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-07-17",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-52/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Pel\u00e1ez Restrepo",
-        "date": "2022-07-17",
-        "publication": "el-espectador",
-        "title": "Autodidactas",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-pelaez-restrepo/autodidactas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2022-07-17",
-        "publication": "el-espectador",
-        "title": "Alza de la tasa de inter\u00e9s, devaluaci\u00f3n e inflaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/alza-de-la-tasa-de-interes-devaluacion-e-inflacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2022-07-17",
-        "publication": "el-espectador",
-        "title": "Deje as\u00ed",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/deje-asi/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2022-07-16",
-        "publication": "el-espectador",
-        "title": "Cap\u00edtulo 30: Enemigos internos",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/extradicion-de-alvaro-cordoba-hermano-de-piedad-la-decidira-petro-y-no-duque/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-07-17",
-        "publication": "el-espectador",
-        "title": "La pol\u00edtica cient\u00edfica en discusi\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/la-politica-cientifica-en-discusion/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-17",
+        "date": "2022-07-18",
         "publication": "el-tiempo",
-        "title": "La tormenta del d\u00f3lar",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-17-de-julio-de-2022-la-tormenta-del-dolar-687840"
+        "title": "El Dique y La Mojana",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-18-de-julio-de-2022-el-dique-y-la-mojana-687985"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2022-07-17",
+        "author": "Juan Lozano",
+        "date": "2022-07-18",
         "publication": "el-tiempo",
-        "title": "M\u00e1s de regal\u00edas; todo bien, todo bien",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-mas-de-regalias-todo-bien-todo-bien-687841"
+        "title": "Ni arrodillados ni enceguecidos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-ni-arrodillados-ni-enceguecidos-687991"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2022-07-17",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2022-07-18",
         "publication": "el-tiempo",
-        "title": "Prohibido asomarse al futuro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-prohibido-asomarse-al-futuro-687847"
+        "title": "Cuando la cobija no alcanza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-cuando-la-cobija-no-alcanza-687992"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2022-07-17",
+        "author": "Paola Ochoa",
+        "date": "2022-07-18",
         "publication": "el-tiempo",
-        "title": "Velitas por el minhacienda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-velitas-por-el-minhacienda-687852"
+        "title": "Petro el pragm\u00e1tico",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-petro-el-pragmatico-687997"
     },
     {
         "article-type": "column",
-        "author": "Patricia Rinc\u00f3n Mazo",
-        "date": "2022-07-17",
+        "author": "Diego Santos",
+        "date": "2022-07-18",
         "publication": "el-tiempo",
-        "title": "Educaci\u00f3n sostenible para el desarrollo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/patricia-rincon-mazo/columna-de-patricia-rincon-educacion-sostenible-para-el-desarrollo-687842"
+        "title": "Guillo: el estafador colombiano al que nadie ha querido denunciar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-guillo-el-estafador-colombiano-687996"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2022-07-17",
+        "author": "Alejandra Botero Barco",
+        "date": "2022-07-18",
         "publication": "el-tiempo",
-        "title": "La lecci\u00f3n ceilandesa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-la-leccion-ceilandesa-687848"
+        "title": "Regal\u00edas, fundamentales para el desarrollo de las regiones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandra-botero-barco/columna-de-alejandra-botero-regalias-fundamentales-para-las-regiones-687989"
     },
     {
         "article-type": "column",
-        "author": "Mabel Torres Torres",
-        "date": "2022-07-17",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2022-07-18",
         "publication": "el-tiempo",
-        "title": "La sostenibilidad sigue siendo un reto",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mabel-torres-torres/columna-de-mabel-torres-la-sostenibilidad-sigue-siendo-un-reto-687858"
+        "title": "Estado y la tecnolog\u00eda bajo el tapete",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-c-estado-y-la-tecnologia-bajo-el-tapete-687987"
     },
     {
         "article-type": "column",
-        "author": "Juan Camilo Nari\u00f1o",
-        "date": "2022-07-17",
+        "author": "Melba Escobar",
+        "date": "2022-07-18",
         "publication": "el-tiempo",
-        "title": "Miner\u00eda para la vida, la energ\u00eda y el futuro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-camilo-narino/columna-de-juan-camilo-narino-mineria-para-la-vida-y-el-futuro-687850"
-    },
-    {
-        "article-type": "column",
-        "author": "Otros columnistas",
-        "date": "2022-07-17",
-        "publication": "el-tiempo",
-        "title": "Boris Johnson, el fin del delirio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-raj-persaud-boris-johnson-el-fin-del-delirio-687853"
+        "title": "Parir no te hace grande",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-parir-no-te-hace-grande-687993"
     }
 ]
