@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-29",
+        "date": "2022-07-30",
         "publication": "el-colombiano",
-        "title": "Ni Biden, ni Trump",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/ni-biden-ni-trump-ML18209173"
+        "title": "Remez\u00f3n en Panam\u00e1",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/remezon-en-panama-EP18244990"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2022-07-30",
+        "publication": "el-colombiano",
+        "title": "La noche oscura de la nostalgia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-noche-oscura-de-la-nostalgia-CP18244798"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2022-07-30",
+        "publication": "el-colombiano",
+        "title": "Nacer pa\u2019 semilla",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/nacer-pa-semilla-KP18244781"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2022-07-30",
+        "publication": "el-colombiano",
+        "title": "Sobre basuras",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-basuras-BP18244764"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez G.",
+        "date": "2022-07-30",
+        "publication": "el-colombiano",
+        "title": "El nuevo gobierno",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-nuevo-gobierno-EP18244725"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2022-07-30",
+        "publication": "el-colombiano",
+        "title": "Prosocialidad o burocracia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/prosocialidad-o-burocracia-LP18244708"
     },
     {
         "article-type": "column",
@@ -48,52 +88,132 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/autonomia-de-las-entidades-territoriales-OL18206945"
     },
     {
-        "article-type": "column",
-        "author": "Agostinho J. Almeida",
-        "date": "2022-07-29",
-        "publication": "el-colombiano",
-        "title": "Transici\u00f3n energ\u00e9tica",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/transicion-energetica-IL18206907"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2022-07-28",
-        "publication": "el-colombiano",
-        "title": "\u00a1Buena esa, presidente!",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/buena-esa-presidente-BB18190607"
-    },
-    {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2022-07-28",
-        "publication": "el-colombiano",
-        "title": "Estamos comiendo ropa",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/estamos-comiendo-ropa-NB18190049"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Perfetti del Corral",
-        "date": "2022-07-28",
-        "publication": "el-colombiano",
-        "title": "Promesas, hechos y eufemismos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/promesas-hechos-y-eufemismos-CB18190525"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-07-28",
-        "publication": "el-colombiano",
-        "title": "La victoria despu\u00e9s",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-victoria-despues-AB18190415"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-29",
+        "date": "2022-07-30",
         "publication": "el-espectador",
-        "title": "Antes que prohibir, mejor regular los bicitaxis y mototaxis ",
-        "url": "https://www.elespectador.com/opinion/editorial/antes-que-prohibir-mejor-regular-los-bicitaxis-y-mototaxis/"
+        "title": "Colombia ya triunf\u00f3 en la Copa Am\u00e9rica",
+        "url": "https://www.elespectador.com/opinion/editorial/colombia-ya-triunfo-en-la-copa-america/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "Ciencias, saberes y pedanter\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/ciencias-saberes-y-pedanteria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "Una pose",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/una-pose/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "Rosario Castellanos: reescrituras del mito",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/rosario-castellanos-reescrituras-del-mito/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "El hombre que muerde al perro y la mujer que acosa al hombre",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/el-hombre-que-muerde-al-perro-y-la-mujer-que-acosa-al-hombre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "El papa y los mocasines ",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/el-papa-y-los-mocasines/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "El se\u00f1or del saco azul",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/el-senor-del-saco-azul/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "Asesinos",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/asesinos/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "Alfredo Molano revisitado",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/alfredo-molano-revisitado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dolly Montoya Casta\u00f1o",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "Hospital Universitario Nacional: \u201cConectando la Salud a la regi\u00f3n\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/hospital-universitario-nacional-conectando-la-salud-a-la-region/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "La seguridad digital en los pr\u00f3ximos a\u00f1os, de la ONU a Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/la-seguridad-digital-en-los-proximos-anos-de-la-onu-a-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ochoa",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "Escaz\u00fa",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/escazu/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Valencia",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "Un nuevo consenso econ\u00f3mico",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-valencia/un-nuevo-consenso-economico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael N\u00fa\u00f1ez",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "La sonrisa del dolor",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-sonrisa-del-dolor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio Borges",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "Zonas de corruptos especiales",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/zonas-de-corruptos-especiales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2022-07-30",
+        "publication": "el-espectador",
+        "title": "Columna de Andr\u00e9s Marocco: Ganarle a Brasil",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/columna-de-andres-marocco-ganarle-a-brasil/"
     },
     {
         "article-type": "column",
@@ -104,187 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/carlos-granes/la-utopia-siempre-deja-a-alguien-por-fuera/"
     },
     {
-        "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "Se acab\u00f3 la guachafita",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/se-acabo-la-guachafita/"
-    },
-    {
-        "article-type": "column",
-        "author": "Claudia Morales",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "El cierre de una librer\u00eda independiente",
-        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/el-cierre-de-una-libreria-independiente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "Entre el cielo y el suelo del burdel",
-        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/entre-el-cielo-y-el-suelo-del-burdel/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "Nombramientos",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/nombramientos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "\u201cNadie es eterno en el mundo\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/nadie-es-eterno-en-el-mundo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "Ganitas de comer caserito",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/ganitas-de-comer-caserito/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "\u201cViajar a una ciudad llamada Pablus\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/viajar-a-una-ciudad-llamada-pablus/"
-    },
-    {
-        "article-type": "column",
-        "author": "Augusto Trujillo Mu\u00f1oz",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "El Congreso, \u00bfpara qu\u00e9?",
-        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/el-congreso-para-que/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "China: carne de laboratorio",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/china-carne-de-laboratorio/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Sevillano",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "\u00bfCreci\u00f3 el bicitaxismo y nadie se dio cuenta?",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/crecio-el-bicitaxismo-y-nadie-se-dio-cuenta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Para serle franco",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "El Casual de Leo Espinosa",
-        "url": "https://www.elespectador.com/opinion/columnistas/para-serle-franco/el-casual-de-leo-espinosa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juliana Mu\u00f1oz Toro",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "Hermandad literaria",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/hermandad-literaria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Amaya",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "Columna de Camilo Amaya: Las Dick Kerr\u2019s Ladies",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-amaya/las-dick-kerrs-ladies-columna-de-camilo-amaya-en-el-espectador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jenny Moreno Socha* y Rodrigo Ante**",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "Lecciones del estallido social en Cali para la nueva agenda de di\u00e1logo nacional",
-        "url": "https://www.elespectador.com/colombia-20/analistas/lecciones-del-estallido-social-en-cali-para-la-nueva-agenda-de-dialogo-nacional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-07-29",
-        "publication": "el-espectador",
-        "title": "Vivienda y agua: las cifras del cuatrienio",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/vivienda-y-agua-las-cifras-del-cuatrienio/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-07-29",
+        "date": "2022-07-30",
         "publication": "el-tiempo",
-        "title": "Viaje penitencial",
-        "url": "https://www.eltiempo.com/opinion/editorial/viaje-penitencial-editorial-el-tiempo-690876"
+        "title": "Bicitaxis y seguridad vial",
+        "url": "https://www.eltiempo.com/opinion/editorial/bicitaxis-y-seguridad-vial-editorial-el-tiempo-691183"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2022-07-29",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2022-07-30",
         "publication": "el-tiempo",
-        "title": "Malthus vs. Haber",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/malthus-vs-haber-columna-de-moises-wasserman-690804"
+        "title": "Paradoja y punto de quiebre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/paradoja-y-punto-de-quiebre-columna-de-carlos-caballero-argaez-691133"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2022-07-29",
+        "author": "Lucy Nieto de Samper",
+        "date": "2022-07-30",
         "publication": "el-tiempo",
-        "title": "Extremistas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/extremistas-columna-de-ricardo-silva-romero-690803"
+        "title": "Le lleg\u00f3 la hora",
+        "url": "https://www.eltiempo.com/opinion/columnistas/lucy-nieto-de-samper/le-llego-la-hora-columna-de-lucy-nieto-de-samper-691140"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2022-07-29",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2022-07-30",
         "publication": "el-tiempo",
-        "title": "Una falsa democratizaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/una-falsa-democratizacion-columna-de-eduardo-posada-carbo-690806"
+        "title": "Soldado de McLovin",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/soldado-de-mclovin-columna-de-adolfo-zableh-duran-691135"
     },
     {
         "article-type": "column",
-        "author": "Billy Escobar Perez",
-        "date": "2022-07-29",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2022-07-30",
         "publication": "el-tiempo",
-        "title": "El ejemplo de Mon\u00f3meros en la eficacia del control",
-        "url": "https://www.eltiempo.com/opinion/columnistas/billy-escobar-perez/el-ejemplo-de-monomeros-en-la-eficacia-del-control-billy-escobar-perez-690812"
+        "title": "Los hijos de \u00fatero",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/los-hijos-de-utero-columna-de-fernando-sanchez-torres-691149"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2022-07-29",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-07-30",
         "publication": "el-tiempo",
-        "title": "Una propuesta global",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/una-propuesta-global-columna-de-manuel-guzman-hennessey-690797"
+        "title": "Inspector de z\u00f3calos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/inspector-de-zocalos-columna-de-oscar-dominguez-691146"
     },
     {
         "article-type": "column",
-        "author": "Javier Borda Diaz",
-        "date": "2022-07-29",
+        "author": "John Mario Gonz\u00e1lez",
+        "date": "2022-07-30",
         "publication": "el-tiempo",
-        "title": "El periodismo no est\u00e1 para memes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/el-periodismo-no-esta-para-memes-columna-de-javier-borda-690833"
+        "title": "El metro, ya casito",
+        "url": "https://www.eltiempo.com/opinion/columnistas/john-mario-gonzalez/el-metro-ya-casito-columna-de-john-mario-gonzalez-691156"
     },
     {
         "article-type": "column",
-        "author": "Haidy S\u00e1nchez Mattsson",
-        "date": "2022-07-29",
+        "author": "Gustavo Estrada",
+        "date": "2022-07-30",
         "publication": "el-tiempo",
-        "title": "\u00a1Nuestros ni\u00f1os, ni\u00f1as y adolescentes necesitan liderazgos amigables!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/haidy-sanchez-mattsson/nuestros-ninos-ninas-y-adolescentes-necesitan-liderazgos-amigables-690837"
+        "title": "Soledad emocional",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-estrada/soledad-emocional-columna-de-gustavo-estrada-691152"
     }
 ]
