@@ -2,10 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-06",
+        "date": "2022-08-07",
         "publication": "el-colombiano",
-        "title": "Refrigerio por sorteo ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/refrigerio-por-sorteo-IJ18334396"
+        "title": "El nuevo presidente",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-nuevo-presidente-LJ18336519"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Echeverry",
+        "date": "2022-08-07",
+        "publication": "el-colombiano",
+        "title": "\u00bfEl progresismo es marxismo?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-progresismo-es-marxismo-OJ18336459"
+    },
+    {
+        "article-type": "column",
+        "author": "Bernardo A. Guerra Hoyos",
+        "date": "2022-08-07",
+        "publication": "el-colombiano",
+        "title": "Inquietudes sobre el nuevo gobierno",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/inquietudes-sobre-el-nuevo-gobierno-HJ18336414"
+    },
+    {
+        "article-type": "column",
+        "author": "Elbac\u00e9 Restrepo",
+        "date": "2022-08-07",
+        "publication": "el-colombiano",
+        "title": "Buscando a Leidy Andrea",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/buscando-a-leidy-andrea-NJ18336496"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas a la Directora",
+        "date": "2022-08-07",
+        "publication": "el-colombiano",
+        "title": "El pa\u00eds necesita un di\u00e1logo amplio sobre educaci\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-pais-necesita-un-dialogo-amplio-sobre-educacion-AJ18336431"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Rengifo Botero",
+        "date": "2022-08-07",
+        "publication": "el-colombiano",
+        "title": "\u00bfAnalfabeta emocional?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/analfabeta-emocional-MJ18336390"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Giraldo Ram\u00edrez",
+        "date": "2022-08-07",
+        "publication": "el-colombiano",
+        "title": "El poeta en su tierra",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-poeta-en-su-tierra-CJ18336352"
+    },
+    {
+        "article-type": "column",
+        "author": "David Escobar Arango",
+        "date": "2022-08-07",
+        "publication": "el-colombiano",
+        "title": "La escuela infinita",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-escuela-infinita-DJ18336335"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Hoyos",
+        "date": "2022-08-07",
+        "publication": "el-colombiano",
+        "title": "Nosotros y las canciones de Dar\u00edo G\u00f3mez (2)",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/nosotros-y-las-canciones-de-dario-gomez-2-EJ18336301"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejo Vargas Vel\u00e1squez",
+        "date": "2022-08-07",
+        "publication": "el-colombiano",
+        "title": "Comienza el gobierno del cambio",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/comienza-el-gobierno-del-cambio-BJ18336241"
     },
     {
         "article-type": "column",
@@ -16,275 +88,211 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/animales-que-se-drogan-GJ18333603"
     },
     {
-        "article-type": "column",
-        "author": "Ernesto Ochoa Moreno",
-        "date": "2022-08-06",
-        "publication": "el-colombiano",
-        "title": "Meditaci\u00f3n sobre las fronteras",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/meditacion-sobre-las-fronteras-PJ18333581"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n Posada",
-        "date": "2022-08-06",
-        "publication": "el-colombiano",
-        "title": "Salvarlos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/salvarlos-DJ18333563"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Guillermo \u00c1ngel",
-        "date": "2022-08-06",
-        "publication": "el-colombiano",
-        "title": "Sobre posesiones presidenciales",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-posesiones-presidenciales-EJ18333546"
-    },
-    {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2022-08-06",
-        "publication": "el-colombiano",
-        "title": "Econom\u00eda y sociedad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/economia-y-sociedad-NJ18333529"
-    },
-    {
-        "article-type": "column",
-        "author": "Henry Medina Uribe",
-        "date": "2022-08-05",
-        "publication": "el-colombiano",
-        "title": "Nuevo ministro de Defensa",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/nuevo-ministro-de-defensa-HI18328528"
-    },
-    {
-        "article-type": "column",
-        "author": "David Gonz\u00e1lez Escobar",
-        "date": "2022-08-05",
-        "publication": "el-colombiano",
-        "title": "Mi obituario de Iv\u00e1n Duque",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/mi-obituario-de-ivan-duque-OI18328622"
-    },
-    {
-        "article-type": "column",
-        "author": "Diego Aristiz\u00e1bal",
-        "date": "2022-08-05",
-        "publication": "el-colombiano",
-        "title": "James Baldwin",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/james-baldwin-BI18328584"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez G.",
-        "date": "2022-08-05",
-        "publication": "el-colombiano",
-        "title": "Derechos humanos: un compromiso indeclinable",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/derechos-humanos-un-compromiso-indeclinable-MI18328567"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando \u00c1lvarez",
-        "date": "2022-08-05",
-        "publication": "el-colombiano",
-        "title": "Crisis del gobierno presidencialista",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/crisis-del-gobierno-presidencialista-II18328550"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-05",
+        "date": "2022-08-07",
         "publication": "el-espectador",
-        "title": "Una cosa es estar vigilantes; otra, ignorar delitos",
-        "url": "https://www.elespectador.com/opinion/editorial/una-cosa-es-estar-vigilantes-otra-ignorar-delitos/"
+        "title": "\u00bfPasaremos del simbolismo a la ponderaci\u00f3n?",
+        "url": "https://www.elespectador.com/opinion/editorial/pasaremos-del-simbolismo-a-la-ponderacion/"
     },
     {
         "article-type": "column",
-        "author": "Weildler Guerra",
-        "date": "2022-08-06",
+        "author": "Armando Montenegro",
+        "date": "2022-08-07",
         "publication": "el-espectador",
-        "title": "Un pa\u00eds nutriente",
-        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/un-pais-nutriente/"
+        "title": "Acuerdos para el desarrollo",
+        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/acuerdos-para-el-desarrollo/"
     },
     {
         "article-type": "column",
-        "author": "Julio C\u00e9sar Londo\u00f1o",
-        "date": "2022-08-06",
+        "author": "H\u00e9ctor Abad Faciolince",
+        "date": "2022-08-07",
         "publication": "el-espectador",
-        "title": "Es la est\u00fapida econom\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/es-la-estupida-economia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Uribe Rinc\u00f3n",
-        "date": "2022-08-06",
-        "publication": "el-espectador",
-        "title": "Secuestradas para tr\u00e1fico sexual",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/secuestradas-para-trafico-sexual/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Escobar",
-        "date": "2022-08-06",
-        "publication": "el-espectador",
-        "title": "El programa de gobierno del Pacto Hist\u00f3rico y los desaf\u00edos planetarios",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-escobar/el-programa-de-gobierno-del-pacto-historico-y-los-desafios-planetarios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Valencia",
-        "date": "2022-08-06",
-        "publication": "el-espectador",
-        "title": "La econom\u00eda que entrega el gobierno Duque",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-valencia/la-economia-que-entrega-el-gobierno-duque/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejandro \u00c1lvarez",
-        "date": "2022-08-06",
-        "publication": "el-espectador",
-        "title": "La pedagog\u00eda: entre la ciencia y los saberes",
-        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-alvarez/la-pedagogia-entre-la-ciencia-y-los-saberes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carolina Botero Cabrera",
-        "date": "2022-08-06",
-        "publication": "el-espectador",
-        "title": "Detecci\u00f3n autom\u00e1tica de derechos de autor: una herramienta de desigualdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/deteccion-automatica-de-derechos-de-autor-una-herramienta-de-desigualdad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Ochoa",
-        "date": "2022-08-06",
-        "publication": "el-espectador",
-        "title": "El destructor",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/el-destructor/"
-    },
-    {
-        "article-type": "column",
-        "author": "John Gal\u00e1n Casanova",
-        "date": "2022-08-06",
-        "publication": "el-espectador",
-        "title": "A prop\u00f3sito de la palabra indio",
-        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/a-proposito-de-la-palabra-indio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2022-08-06",
-        "publication": "el-espectador",
-        "title": "El ministro Restrepo",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/el-ministro-restrepo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Bada",
-        "date": "2022-08-06",
-        "publication": "el-espectador",
-        "title": "Rolando Hinojosa",
-        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/rolando-hinojosa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Marocco",
-        "date": "2022-08-06",
-        "publication": "el-espectador",
-        "title": "Columna de Andr\u00e9s Marocco: El \u00faltimo baile",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/columna-de-andres-marocco-el-ultimo-baile/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2022-08-06",
-        "publication": "el-espectador",
-        "title": "Tolima, en suspenso",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/tolima-en-suspenso/"
+        "title": "Recen lo que se sepan",
+        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/recen-lo-que-se-sepan/"
     },
     {
         "article-type": "column",
         "author": "Columnista invitado EE",
-        "date": "2022-08-06",
+        "date": "2022-08-07",
         "publication": "el-espectador",
-        "title": "Una oportunidad dorada para las relaciones internacionales de Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/una-oportunidad-dorada-para-las-relaciones-internacionales-de-colombia/"
+        "title": "Estados Unidos respaldar\u00e1 a Taiw\u00e1n de esta manera",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/estados-unidos-respaldara-a-taiwan-de-esta-manera/"
     },
     {
         "article-type": "column",
-        "author": "Daniel Ospina Celis*",
-        "date": "2022-08-06",
+        "author": "Carlos Enrique Moreno",
+        "date": "2022-08-07",
         "publication": "el-espectador",
-        "title": "Desclasifiquemos los archivos de inteligencia previos a la Constituci\u00f3n de 1991",
-        "url": "https://www.elespectador.com/colombia-20/analistas/archivos-de-inteligencia-por-que-deben-ser-desclasificados-como-recomendo-comision-de-la-verdad/"
+        "title": "Tierra legal (I)",
+        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/tierra-legal-i/"
     },
     {
         "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2022-08-05",
+        "author": "Piedad Bonnett",
+        "date": "2022-08-07",
         "publication": "el-espectador",
-        "title": "Dar\u00edo G\u00f3mez y la fatalidad del guaro",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/dario-gomez-y-la-fatalidad-del-guaro/"
+        "title": "Sin verdad no hay futuro",
+        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/sin-verdad-no-hay-futuro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Botero Caicedo",
+        "date": "2022-08-07",
+        "publication": "el-espectador",
+        "title": "Revisionismo venteado",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/revisionismo-venteado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Clara L\u00f3pez Obreg\u00f3n",
+        "date": "2022-08-07",
+        "publication": "el-espectador",
+        "title": "Cambiemos para avanzar",
+        "url": "https://www.elespectador.com/opinion/columnistas/clara-lopez-obregon/cambiemos-para-avanzar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ramiro Bejarano Guzm\u00e1n",
+        "date": "2022-08-07",
+        "publication": "el-espectador",
+        "title": "En modo Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/en-modo-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tatiana Acevedo Guerrero",
+        "date": "2022-08-07",
+        "publication": "el-espectador",
+        "title": "Barranquilla 2022",
+        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/barranquilla-2022/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Uprimny",
+        "date": "2022-08-07",
+        "publication": "el-espectador",
+        "title": "Petro, progresismo y Estado de derecho ",
+        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/petro-progresismo-y-estado-de-derecho/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-08-07",
+        "publication": "el-espectador",
+        "title": "Dos pol\u00edticas culturales, un pa\u00eds",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/dos-politicas-culturales-un-pais/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-08-07",
+        "publication": "el-espectador",
+        "title": "Predicciones",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/predicciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Felipe Zuleta Lleras",
+        "date": "2022-08-07",
+        "publication": "el-espectador",
+        "title": "Cosas s\u00ed hizo",
+        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/cosas-si-hizo/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-08-07",
+        "publication": "el-espectador",
+        "title": "MICROLINGOTES",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-55/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Camargo",
+        "date": "2022-08-07",
+        "publication": "el-espectador",
+        "title": "La verdad que incomoda",
+        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/la-verdad-que-incomoda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Ara\u00fajo V\u00e9lez",
+        "date": "2022-08-07",
+        "publication": "el-espectador",
+        "title": "Vivir mil vidas",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/vivir-mil-vidas/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-06",
+        "date": "2022-08-07",
         "publication": "el-tiempo",
-        "title": "S\u00ed fue posible",
-        "url": "https://www.eltiempo.com/opinion/editorial/si-fue-posible-editorial-el-tiempo-692844"
+        "title": "El nuevo gobierno",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-7-de-agosto-de-2022-el-nuevo-gobierno-692974"
     },
     {
         "article-type": "column",
-        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
-        "date": "2022-08-06",
+        "author": "Germ\u00e1n Vargas Lleras",
+        "date": "2022-08-07",
         "publication": "el-tiempo",
-        "title": "Aterrizaje suave",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/aterrizaje-suave-columna-de-mauricio-cardenas-692789"
+        "title": "Cambio de mando",
+        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-cambio-de-mando-692975"
     },
     {
         "article-type": "column",
-        "author": "Elizabeth Castillo",
-        "date": "2022-08-06",
+        "author": "Mar\u00eda Isabel Rueda",
+        "date": "2022-08-07",
         "publication": "el-tiempo",
-        "title": "Yo cuento",
-        "url": "https://www.eltiempo.com/opinion/columnistas/elizabeth-castillo/yo-cuento-columna-de-elizabeth-castillo-692759"
+        "title": "El galimat\u00edas de la paz total",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-el-galimatias-de-la-paz-total-692983"
     },
     {
         "article-type": "column",
-        "author": "Luis No\u00e9 Ochoa",
-        "date": "2022-08-06",
+        "author": "N\u00e9stor Humberto Mart\u00ednez",
+        "date": "2022-08-07",
         "publication": "el-tiempo",
-        "title": "Duque, a vivir \u2018sabroso\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/duque-a-vivir-sabroso-columna-de-luis-noe-ochoa-692796"
+        "title": "Fui testigo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-fui-testigo-692990"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2022-08-06",
+        "author": "Sergio Clavijo",
+        "date": "2022-08-07",
         "publication": "el-tiempo",
-        "title": "Sin contrapesos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/sin-contrapesos-columna-de-luis-felipe-henao-692766"
+        "title": "Pioneros en pol\u00edticas p\u00fablicas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-pioneros-en-politicas-publicas-692986"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2022-08-06",
+        "author": "Thierry Ways",
+        "date": "2022-08-07",
         "publication": "el-tiempo",
-        "title": "Imaginarios urbanos en Bienal de Shenzhen",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/imaginarios-urbanos-en-bienal-de-shenzhen-columna-de-armando-silva-692768"
+        "title": "Cr\u00f3nica de un mandato imposible",
+        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-cronica-de-un-mandato-imposible-692984"
     },
     {
         "article-type": "column",
-        "author": "Santiago Vargas",
-        "date": "2022-08-06",
+        "author": "Martha Senn",
+        "date": "2022-08-07",
         "publication": "el-tiempo",
-        "title": "El legado de la econom\u00eda naranja",
-        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas/el-legado-de-la-economia-naranja-columna-de-santiago-vargas-692798"
+        "title": "\u2018Ariadna en Naxos\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/columna-de-martha-senn-ariadna-en-naxos-692977"
     },
     {
         "article-type": "column",
-        "author": "Fabio Mart\u00ednez",
-        "date": "2022-08-06",
+        "author": "Manuel Rodr\u00edguez Becerra",
+        "date": "2022-08-07",
         "publication": "el-tiempo",
-        "title": "El gobierno del cambio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/el-gobierno-del-cambio-columna-de-fabio-martinez-692802"
+        "title": "Ernesto Guhl, un ciudadano ejemplar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/columna-de-manuel-rodriguez-becerra-ernesto-guhl-un-ciudadano-ejemplar-692991"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2022-08-07",
+        "publication": "el-tiempo",
+        "title": "Inflaci\u00f3n econ\u00f3mica: una imprevisible tormenta global",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/columna-de-antonio-albinana-inflacion-economica-una-tormenta-global-692992"
     }
 ]
