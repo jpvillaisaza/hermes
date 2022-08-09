@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-08",
+        "date": "2022-08-09",
         "publication": "el-colombiano",
-        "title": "Un buen arranque",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/un-buen-arranque-MJ18339173"
+        "title": "Al\u00f3, Caracas",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/alo-caracas-DO18345978"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2022-08-09",
+        "publication": "el-colombiano",
+        "title": "Maduro gratis",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/maduro-gratis-FO18345231"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-08-09",
+        "publication": "el-colombiano",
+        "title": "Pragmatismo en la Ciencia e Innovaci\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/pragmatismo-en-la-ciencia-e-innovacion-CO18345214"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-08-09",
+        "publication": "el-colombiano",
+        "title": "Taiw\u00e1n: la parte d\u00e9bil de la ecuaci\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/taiwan-la-parte-debil-de-la-ecuacion-LO18345284"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-08-09",
+        "publication": "el-colombiano",
+        "title": "Balance agridulce",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/balance-agridulce-KO18345249"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-08-09",
+        "publication": "el-colombiano",
+        "title": "Esto ya comenz\u00f3",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/esto-ya-comenzo-LO18345196"
     },
     {
         "article-type": "column",
@@ -48,60 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-realidad-disminuida-IJ18338572"
     },
     {
-        "article-type": "column",
-        "author": "Juan Carlos Echeverry",
-        "date": "2022-08-07",
-        "publication": "el-colombiano",
-        "title": "\u00bfEl progresismo es marxismo?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-progresismo-es-marxismo-OJ18336459"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-08-07",
-        "publication": "el-colombiano",
-        "title": "Inquietudes sobre el nuevo gobierno",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/inquietudes-sobre-el-nuevo-gobierno-HJ18336414"
-    },
-    {
-        "article-type": "column",
-        "author": "Elbac\u00e9 Restrepo",
-        "date": "2022-08-07",
-        "publication": "el-colombiano",
-        "title": "Buscando a Leidy Andrea",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/buscando-a-leidy-andrea-NJ18336496"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-08-07",
-        "publication": "el-colombiano",
-        "title": "El pa\u00eds necesita un di\u00e1logo amplio sobre educaci\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-pais-necesita-un-dialogo-amplio-sobre-educacion-AJ18336431"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Rengifo Botero",
-        "date": "2022-08-07",
-        "publication": "el-colombiano",
-        "title": "\u00bfAnalfabeta emocional?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/analfabeta-emocional-MJ18336390"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-08",
+        "date": "2022-08-09",
         "publication": "el-espectador",
-        "title": "El discurso del presidente Gustavo Petro le apuesta a la paz",
-        "url": "https://www.elespectador.com/opinion/editorial/el-discurso-del-presidente-gustavo-petro-le-apuesta-a-la-paz/"
+        "title": "Necesitamos la Comisi\u00f3n de la Verdad en los colegios",
+        "url": "https://www.elespectador.com/opinion/editorial/necesitamos-la-comision-de-la-verdad-en-los-colegios/"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2022-08-08",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-08-09",
         "publication": "el-espectador",
-        "title": "\u00bfEl verbo \u00abaperturar\u00bb existe?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/el-verbo-aperturar-existe/"
+        "title": "Posesiones presidenciales",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/posesiones-presidenciales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2022-08-09",
+        "publication": "el-espectador",
+        "title": "La era Petro en ambiente VICA",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/la-era-petro-en-ambiente-vica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-08-09",
+        "publication": "el-espectador",
+        "title": "Paz total",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/paz-total/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-08-09",
+        "publication": "el-espectador",
+        "title": "Paz total o guerra sin fin",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/paz-total-o-guerra-sin-fin/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-08-09",
+        "publication": "el-espectador",
+        "title": "Desde \u00cdtaca",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/desde-itaca/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2022-08-09",
+        "publication": "el-espectador",
+        "title": "Descolonizaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/descolonizacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-08-09",
+        "publication": "el-espectador",
+        "title": "La escuela y la verdad",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/la-escuela-y-la-verdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2022-08-09",
+        "publication": "el-espectador",
+        "title": "Los j\u00f3venes abrazan la verdad",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/los-jovenes-abrazan-la-verdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-08-09",
+        "publication": "el-espectador",
+        "title": "Tenemos que sacar este pa\u00eds adelante",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/tenemos-que-sacar-este-pais-adelante/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-08-09",
+        "publication": "el-espectador",
+        "title": "El cambio y otros rezos",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-cambio-y-otros-rezos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Vanegas Ath\u00edas",
+        "date": "2022-08-09",
+        "publication": "el-espectador",
+        "title": "Los cr\u00edmenes de Estado: un legado",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/los-crimenes-de-estado-un-legado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Miranda",
+        "date": "2022-08-09",
+        "publication": "el-espectador",
+        "title": "\u00a1Colombia, cantemos, cantemos todos, grito de paz y alegr\u00eda!",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/colombia-cantemos-cantemos-todos-grito-de-paz-y-alegria/"
     },
     {
         "article-type": "column",
@@ -113,27 +201,19 @@
     },
     {
         "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2022-08-08",
+        "publication": "el-espectador",
+        "title": "\u00bfEl verbo \u00abaperturar\u00bb existe?",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/el-verbo-aperturar-existe/"
+    },
+    {
+        "article-type": "column",
         "author": "Salom\u00f3n Kalmanovitz",
         "date": "2022-08-08",
         "publication": "el-espectador",
         "title": "La herencia de Duque         ",
         "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-herencia-de-duque/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "Luis Alfredo, Fernando y Ciro",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/luis-alfredo-fernando-y-ciro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "Transici\u00f3n del manejo econ\u00f3mico",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/transicion-del-manejo-economico/"
     },
     {
         "article-type": "column",
@@ -144,147 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/cambio-de-era-o-periodo-de-transicion/"
     },
     {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "La nueva banca rural",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/la-nueva-banca-rural/"
-    },
-    {
-        "article-type": "column",
-        "author": "Vanessa Rosales A.",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "Elvis",
-        "url": "https://www.elespectador.com/opinion/columnistas/vanessa-rosales-a-/elvis/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "Petro: tiempo de gobernar",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/petro-tiempo-de-gobernar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "El declive de la calidad de la clase pol\u00edtica",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/el-declive-de-la-calidad-de-la-clase-politica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "\u00bfTodo a la vez, o poco a poco?",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/todo-a-la-vez-o-poco-a-poco/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "La promesa de un cambio motiv\u00f3 a millones de colombianos y debe respetarse",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-pasaremos-del-simbolismo-a-la-ponderacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: La presidencia de la Dimayor",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-la-presidencia-de-la-dimayor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "Trabajadoras dom\u00e9sticas le hablan a Francia M\u00e1rquez ",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/trabajadoras-domesticas-le-hablan-a-francia-marquez-las-igualadas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2022-08-07",
-        "publication": "el-espectador",
-        "title": "Acuerdos para el desarrollo",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/acuerdos-para-el-desarrollo/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2022-08-07",
-        "publication": "el-espectador",
-        "title": "Recen lo que se sepan",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/recen-lo-que-se-sepan/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-08",
+        "date": "2022-08-09",
         "publication": "el-tiempo",
-        "title": "El arranque de Petro",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-8-de-agosto-de-2022-el-arranque-de-petro-693142"
+        "title": "Prioridad inevitable",
+        "url": "https://www.eltiempo.com/opinion/editorial/prioridad-inevitable-editorial-el-tiempo-693405"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-08-08",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-08-09",
         "publication": "el-tiempo",
-        "title": "Que a Colombia le vaya bien",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-que-a-colombia-le-vaya-bien-693125"
+        "title": "Los acogidos y los encogidos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/los-acogidos-y-los-encogidos-columna-de-jose-manuel-acevedo-693345"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-08-08",
+        "author": "Viviane Morales Hoyos",
+        "date": "2022-08-09",
         "publication": "el-tiempo",
-        "title": "La organizaci\u00f3n popular",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-la-organizacion-popular-693132"
+        "title": "Sorprendi\u00f3 Petro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/sorprendio-petro-columna-de-viviane-morales-693331"
     },
     {
         "article-type": "column",
-        "author": "Christian Cantor",
-        "date": "2022-08-08",
+        "author": "Eduardo Escobar",
+        "date": "2022-08-09",
         "publication": "el-tiempo",
-        "title": "Columna para una despedida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/christian-cantor/columna-de-christian-cantor-columna-para-una-despedida-693137"
+        "title": "El discurso de Petro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/el-discurso-de-petro-columna-de-eduardo-escobar-693337"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-08-08",
+        "author": "Alberto Parra",
+        "date": "2022-08-09",
         "publication": "el-tiempo",
-        "title": "En el primer d\u00eda de gobierno",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-en-el-primer-dia-de-gobierno-693128"
+        "title": "De Colombia para el mundo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alberto-parra/de-colombia-para-el-mundo-columna-de-alberto-parra-693378"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-08-08",
+        "author": "Adriana Pombo",
+        "date": "2022-08-09",
         "publication": "el-tiempo",
-        "title": "Estrategia digital para el Estado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-estrategia-digital-para-el-estado-693136"
+        "title": "Hablar sin hablar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adriana-pombo/hablar-sin-hablar-columna-de-adriana-pombo-693365"
     },
     {
         "article-type": "column",
-        "author": "Hugo Acero Vel\u00e1squez",
-        "date": "2022-08-08",
+        "author": "Sonia G\u00f3mez G\u00f3mez",
+        "date": "2022-08-09",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 tan total debe ser la paz propuesta?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/columna-de-hugo-acero-que-tan-total-debe-ser-la-paz-propuesta-693126"
+        "title": "As\u00ed es como hacemos milagros",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sonia-gomez-gomez/asi-es-como-hacemos-milagros-columna-de-sonia-gomez-693372"
     },
     {
         "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2022-08-08",
+        "author": "Gustavo Estrada",
+        "date": "2022-08-09",
         "publication": "el-tiempo",
-        "title": "M\u00e9rito, suerte y trampa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-merito-suerte-y-trampa-693133"
+        "title": "Espacio y tiempo: \u00bfson infinitos?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-estrada/espacio-y-tiempo-son-infinitos-columna-de-gustavo-estrada-693370"
     }
 ]
