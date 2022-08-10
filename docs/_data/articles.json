@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-09",
+        "date": "2022-08-10",
         "publication": "el-colombiano",
-        "title": "Al\u00f3, Caracas",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/alo-caracas-DO18345978"
+        "title": "La tributaria de Petro ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-tributaria-de-petro-AO18349876"
+    },
+    {
+        "article-type": "column",
+        "author": "David E. Santos G\u00f3mez",
+        "date": "2022-08-10",
+        "publication": "el-colombiano",
+        "title": "El nuevo papel de Bogot\u00e1",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-nuevo-papel-de-bogota-DO18348469"
+    },
+    {
+        "article-type": "column",
+        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
+        "date": "2022-08-10",
+        "publication": "el-colombiano",
+        "title": "Vol\u00f3 en pedazos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/volo-en-pedazos-OO18348503"
+    },
+    {
+        "article-type": "column",
+        "author": "David Yanovich",
+        "date": "2022-08-10",
+        "publication": "el-colombiano",
+        "title": "DesAcuerdo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/desacuerdo-CO18348486"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2022-08-10",
+        "publication": "el-colombiano",
+        "title": "Sin partitura",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sin-partitura-JO18348450"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Oppenheimer",
+        "date": "2022-08-10",
+        "publication": "el-colombiano",
+        "title": "La tensi\u00f3n mundial por Taiw\u00e1n podr\u00eda beneficiar a Latinoam\u00e9rica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-tension-mundial-por-taiwan-podria-beneficiar-a-latinoamerica-LO18348399"
     },
     {
         "article-type": "column",
@@ -48,243 +88,203 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/esto-ya-comenzo-LO18345196"
     },
     {
-        "article-type": "column",
-        "author": "Proantioquia",
-        "date": "2022-08-08",
-        "publication": "el-colombiano",
-        "title": "#ComerEsPrimero",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/comeresprimero-DJ18338658"
+        "article-type": "editorial",
+        "author": null,
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "Cuidado con las relaciones con Venezuela",
+        "url": "https://www.elespectador.com/opinion/editorial/cuidado-con-las-relaciones-con-venezuela/"
     },
     {
         "article-type": "column",
-        "author": "Juan David Escobar Valencia",
-        "date": "2022-08-08",
-        "publication": "el-colombiano",
-        "title": "El envase retornable y el reciclaje humano",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-envase-retornable-y-el-reciclaje-humano-IJ18338624"
+        "author": "Juan Pablo Ruiz Soto",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "Compromisos, bald\u00edos y expectativas",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/compromisos-baldios-y-expectativas/"
     },
     {
         "article-type": "column",
-        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
-        "date": "2022-08-08",
-        "publication": "el-colombiano",
-        "title": "Gobierno ignorante",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/gobierno-ignorante-LJ18338641"
+        "author": "Mario Morales",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "Ese periodismo de dron",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/ese-periodismo-de-dron/"
     },
     {
         "article-type": "column",
-        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
-        "date": "2022-08-08",
-        "publication": "el-colombiano",
-        "title": "Son colegas, no simples chicos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/son-colegas-no-simples-chicos-MJ18338589"
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "Los rigores del cambio",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/los-rigores-del-cambio/"
     },
     {
         "article-type": "column",
-        "author": "Mario Vargas Llosa",
-        "date": "2022-08-08",
-        "publication": "el-colombiano",
-        "title": "La realidad disminuida",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-realidad-disminuida-IJ18338572"
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "La mezquindad de Duque ",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/la-mezquindad-de-duque/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "De tres puntos ",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/de-tres-puntos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Segovia",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "Ojal\u00e1 se equivoquen",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/ojala-se-equivoquen/"
+    },
+    {
+        "article-type": "column",
+        "author": "Oscar Guardiola-Rivera",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "C\u00f3mo transformar la pol\u00edtica antidrogas",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/como-transformar-la-politica-antidrogas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arlene B. Tickner",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "Trabajo es lo que hay",
+        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/trabajo-es-lo-que-hay-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "No m\u00e1s circo, lleg\u00f3 la hora de trabajar",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/no-mas-circo-llego-la-hora-de-trabajar/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "Profesi\u00f3n: mit\u00f3grafo",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/profesion-mitografo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "Integraci\u00f3n, ideolog\u00eda e identidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/integracion-ideologia-e-identidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "No fluy\u00f3 el nuevo petr\u00f3leo",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/no-fluyo-el-nuevo-petroleo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando Roa Su\u00e1rez",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "De nuevo: El papel del Estado (I)",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/de-nuevo-el-papel-del-estado-i/"
+    },
+    {
+        "article-type": "column",
+        "author": "Guillermo Gonz\u00e1lez Uribe",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "Posesi\u00f3n, ni\u00f1os, guerra, aulas y cultura",
+        "url": "https://www.elespectador.com/opinion/columnistas/guillermo-gonzalez-uribe/posesion-ninos-guerra-aulas-y-cultura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sonia Eljach, ex asesora de la Canciller\u00eda para el debate internacional sobre pol\u00edticas de drogas",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "Hacia la regulaci\u00f3n de drogas il\u00edcitas: blindajes internacionales contra el cambio",
+        "url": "https://www.elespectador.com/colombia-20/analistas/hacia-la-regulacion-de-las-drogas-ilicitas-blindajes-internacionales-contra-el-cambio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Tovar",
+        "date": "2022-08-10",
+        "publication": "el-espectador",
+        "title": "El camino del f\u00fatbol femenino",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-el-camino-del-futbol-femenino/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "Necesitamos la Comisi\u00f3n de la Verdad en los colegios",
-        "url": "https://www.elespectador.com/opinion/editorial/necesitamos-la-comision-de-la-verdad-en-los-colegios/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "Posesiones presidenciales",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/posesiones-presidenciales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pedro Viveros",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "La era Petro en ambiente VICA",
-        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/la-era-petro-en-ambiente-vica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "Paz total",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/paz-total/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "Paz total o guerra sin fin",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/paz-total-o-guerra-sin-fin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "Desde \u00cdtaca",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/desde-itaca/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "Descolonizaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/descolonizacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "La escuela y la verdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/la-escuela-y-la-verdad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "Los j\u00f3venes abrazan la verdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/los-jovenes-abrazan-la-verdad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Barajas Sandoval",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "Tenemos que sacar este pa\u00eds adelante",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/tenemos-que-sacar-este-pais-adelante/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "El cambio y otros rezos",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-cambio-y-otros-rezos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz Vanegas Ath\u00edas",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "Los cr\u00edmenes de Estado: un legado",
-        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/los-crimenes-de-estado-un-legado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz Miranda",
-        "date": "2022-08-09",
-        "publication": "el-espectador",
-        "title": "\u00a1Colombia, cantemos, cantemos todos, grito de paz y alegr\u00eda!",
-        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/colombia-cantemos-cantemos-todos-grito-de-paz-y-alegria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "Tres palacios",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/tres-palacios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "\u00bfEl verbo \u00abaperturar\u00bb existe?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/el-verbo-aperturar-existe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "La herencia de Duque         ",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-herencia-de-duque/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2022-08-08",
-        "publication": "el-espectador",
-        "title": "Cambio de era o periodo de transici\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/cambio-de-era-o-periodo-de-transicion/"
-    },
-    {
-        "article-type": "editorial",
-        "author": null,
-        "date": "2022-08-09",
+        "date": "2022-08-10",
         "publication": "el-tiempo",
-        "title": "Prioridad inevitable",
-        "url": "https://www.eltiempo.com/opinion/editorial/prioridad-inevitable-editorial-el-tiempo-693405"
+        "title": "El l\u00edo con la Ptar Salitre",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-lio-con-la-ptar-salitre-editorial-el-tiempo-693682"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2022-08-09",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2022-08-10",
         "publication": "el-tiempo",
-        "title": "Los acogidos y los encogidos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/los-acogidos-y-los-encogidos-columna-de-jose-manuel-acevedo-693345"
+        "title": "Los cien a\u00f1os de la Contralor\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/los-cien-anos-de-la-contraloria-columna-de-alfonso-gomez-mendez-693643"
     },
     {
         "article-type": "column",
-        "author": "Viviane Morales Hoyos",
-        "date": "2022-08-09",
+        "author": "Vladdo",
+        "date": "2022-08-10",
         "publication": "el-tiempo",
-        "title": "Sorprendi\u00f3 Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/sorprendio-petro-columna-de-viviane-morales-693331"
+        "title": "Domingo de contrastes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/domingo-de-contrastes-columna-de-vladdo-693660"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2022-08-09",
+        "author": "Florence Thomas",
+        "date": "2022-08-10",
         "publication": "el-tiempo",
-        "title": "El discurso de Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/el-discurso-de-petro-columna-de-eduardo-escobar-693337"
+        "title": "Mujeres imparables",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/mujeres-imparables-columna-de-florence-thomas-693621"
     },
     {
         "article-type": "column",
-        "author": "Alberto Parra",
-        "date": "2022-08-09",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2022-08-10",
         "publication": "el-tiempo",
-        "title": "De Colombia para el mundo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alberto-parra/de-colombia-para-el-mundo-columna-de-alberto-parra-693378"
+        "title": "Con la espada de Bol\u00edvar, al poder",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/m-19-con-la-espada-de-bolivar-al-poder-jotamario-arbelaez-693640"
     },
     {
         "article-type": "column",
-        "author": "Adriana Pombo",
-        "date": "2022-08-09",
+        "author": "Poncho Renter\u00eda",
+        "date": "2022-08-10",
         "publication": "el-tiempo",
-        "title": "Hablar sin hablar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/adriana-pombo/hablar-sin-hablar-columna-de-adriana-pombo-693365"
+        "title": "Coronaron a Petro como a un emperador",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/coronaron-a-petro-como-a-un-emperador-columna-de-poncho-renteria-693618"
     },
     {
         "article-type": "column",
-        "author": "Sonia G\u00f3mez G\u00f3mez",
-        "date": "2022-08-09",
+        "author": "Pedro Javier Rojas Guevara",
+        "date": "2022-08-10",
         "publication": "el-tiempo",
-        "title": "As\u00ed es como hacemos milagros",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sonia-gomez-gomez/asi-es-como-hacemos-milagros-columna-de-sonia-gomez-693372"
+        "title": "Los militares y el poder civil",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-javier-rojas-guevara/los-militares-y-el-poder-civil-columna-de-pedro-javier-rojas-693625"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Estrada",
-        "date": "2022-08-09",
+        "author": "Haidy S\u00e1nchez Mattsson",
+        "date": "2022-08-10",
         "publication": "el-tiempo",
-        "title": "Espacio y tiempo: \u00bfson infinitos?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-estrada/espacio-y-tiempo-son-infinitos-columna-de-gustavo-estrada-693370"
+        "title": "Presidente Petro, no olvide su compromiso hist\u00f3rico con el Choc\u00f3",
+        "url": "https://www.eltiempo.com/opinion/columnistas/haidy-sanchez-mattsson/presidente-petro-no-olvide-su-compromiso-historico-con-el-choco-693627"
     }
 ]
