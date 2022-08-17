@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-16",
+        "date": "2022-08-17",
         "publication": "el-colombiano",
-        "title": "Experimento temerario (y 2)",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/experimento-temerario-y-2-MN18408523"
+        "title": "Un descalabro",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/un-descalabro-JP18428302"
+    },
+    {
+        "article-type": "column",
+        "author": "David E. Santos G\u00f3mez",
+        "date": "2022-08-17",
+        "publication": "el-colombiano",
+        "title": "\u00bfQu\u00e9 le pasa a Joe Biden?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/que-le-pasa-a-joe-biden-AP18427326"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2022-08-17",
+        "publication": "el-colombiano",
+        "title": "El testamento de los paisas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-testamento-de-los-paisas-DP18427361"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Oppenheimer",
+        "date": "2022-08-17",
+        "publication": "el-colombiano",
+        "title": "El silencio del papa Francisco sobre Nicaragua",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-silencio-del-papa-francisco-sobre-nicaragua-DP18427343"
+    },
+    {
+        "article-type": "column",
+        "author": "Dany Alejandro Hoyos",
+        "date": "2022-08-17",
+        "publication": "el-colombiano",
+        "title": "Propuestas para Petro y su reforma",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/propuestas-para-petro-y-su-reforma-FP18427299"
+    },
+    {
+        "article-type": "column",
+        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
+        "date": "2022-08-17",
+        "publication": "el-colombiano",
+        "title": "La fuga de cerebros",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-fuga-de-cerebros-JP18427097"
     },
     {
         "article-type": "column",
@@ -48,60 +88,92 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/china-acapara-el-mercado-de-lujo-IN18407807"
     },
     {
-        "article-type": "column",
-        "author": "Proantioquia",
-        "date": "2022-08-15",
-        "publication": "el-colombiano",
-        "title": "Cabemos todos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/cabemos-todos-NN18405998"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Escobar Valencia",
-        "date": "2022-08-15",
-        "publication": "el-colombiano",
-        "title": "La experiencia y la caca ajena nadie las quiere",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-experiencia-y-la-caca-ajena-nadie-las-quiere-PN18405947"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
-        "date": "2022-08-15",
-        "publication": "el-colombiano",
-        "title": "La cara socialdem\u00f3crata",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-cara-socialdemocrata-FN18405981"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-08-15",
-        "publication": "el-colombiano",
-        "title": "No son ni\u00f1as",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/no-son-ninas-BN18406766"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
-        "date": "2022-08-15",
-        "publication": "el-colombiano",
-        "title": "El gran saqueo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-gran-saqueo-GN18406033"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-16",
+        "date": "2022-08-17",
         "publication": "el-espectador",
-        "title": "\u00bfOtras tres ejecuciones extrajudiciales en Sucre?",
-        "url": "https://www.elespectador.com/opinion/editorial/otras-tres-ejecuciones-extrajudiciales-en-sucre/"
+        "title": "La guerra cultural y Salman Rushdie",
+        "url": "https://www.elespectador.com/opinion/editorial/la-guerra-cultural-y-salman-rushdie/"
     },
     {
         "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2022-08-16",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2022-08-17",
         "publication": "el-espectador",
-        "title": "Petro: la revoluci\u00f3n de la no violencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/petro-la-revolucion-de-la-no-violencia/"
+        "title": "El bot\u00edn de las notar\u00edas nombradas a dedo",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-botin-de-las-notarias-nombradas-a-dedo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2022-08-17",
+        "publication": "el-espectador",
+        "title": "Ni Cantinflas",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/ni-cantinflas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Pablo Ruiz Soto",
+        "date": "2022-08-17",
+        "publication": "el-espectador",
+        "title": "Pilotos, no \u201cfracking\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/pilotos-no-fracking/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2022-08-17",
+        "publication": "el-espectador",
+        "title": "Informaci\u00f3n (\u00bfmal?)interpretada",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/informacion-malinterpretada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2022-08-17",
+        "publication": "el-espectador",
+        "title": "\u201cNational pornographic\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/national-pornographic/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2022-08-17",
+        "publication": "el-espectador",
+        "title": "Hasta que la dignidad se haga costumbre ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/hasta-que-la-dignidad-se-haga-costumbre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arlene B. Tickner",
+        "date": "2022-08-17",
+        "publication": "el-espectador",
+        "title": "Negociar con criminales",
+        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/negociar-con-criminales-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Oscar Guardiola-Rivera",
+        "date": "2022-08-17",
+        "publication": "el-espectador",
+        "title": "Am\u00e9ricas",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/americas-por-oscar-guardiola-rivera-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando Roa Su\u00e1rez",
+        "date": "2022-08-17",
+        "publication": "el-espectador",
+        "title": "De nuevo: El papel del Estado (II)",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/de-nuevo-el-papel-del-estado-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Kenneth Burbano Villamar\u00edn",
+        "date": "2022-08-17",
+        "publication": "el-espectador",
+        "title": "Pueblo y esperanza",
+        "url": "https://www.elespectador.com/colombia-20/analistas/pueblo-y-esperanza/"
     },
     {
         "article-type": "column",
@@ -121,11 +193,11 @@
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
+        "author": "Cristina de la Torre",
         "date": "2022-08-16",
         "publication": "el-espectador",
-        "title": "La espada y los restos de Bol\u00edvar",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-espada-y-los-restos-de-bolivar/"
+        "title": "Petro: la revoluci\u00f3n de la no violencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/petro-la-revolucion-de-la-no-violencia/"
     },
     {
         "article-type": "column",
@@ -137,6 +209,14 @@
     },
     {
         "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-08-16",
+        "publication": "el-espectador",
+        "title": "La espada y los restos de Bol\u00edvar",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-espada-y-los-restos-de-bolivar/"
+    },
+    {
+        "article-type": "column",
         "author": "Rafael Rivas",
         "date": "2022-08-16",
         "publication": "el-espectador",
@@ -144,139 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/impuestos-sobre-la-inversion-y-el-capital/"
     },
     {
-        "article-type": "column",
-        "author": "Pedro Viveros",
-        "date": "2022-08-16",
-        "publication": "el-espectador",
-        "title": "La derecha no est\u00e1 viviendo sabroso",
-        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/la-derecha-no-esta-viviendo-sabroso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2022-08-16",
-        "publication": "el-espectador",
-        "title": "Acostumbrarnos al modo paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/acostumbrarnos-al-modo-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2022-08-16",
-        "publication": "el-espectador",
-        "title": "\u00bfTe acuerdas de m\u00ed?",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/te-acuerdas-de-mi/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Barajas Sandoval",
-        "date": "2022-08-16",
-        "publication": "el-espectador",
-        "title": "Engendro de dos cabezas",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/engendro-de-dos-cabezas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2022-08-16",
-        "publication": "el-espectador",
-        "title": "Fanatismo, peligro a la vista",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/fanatismo-peligro-a-la-vista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Orduz",
-        "date": "2022-08-16",
-        "publication": "el-espectador",
-        "title": "Gobierno Petro: ojo con el fuego amigo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/rafael-orduz/gobierno-petro-ojo-con-el-fuego-amigo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Teresa Ronderos",
-        "date": "2022-08-15",
-        "publication": "el-espectador",
-        "title": "Pagar los d\u00e9ficits para vivir sabroso",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/pagar-los-deficits-para-vivir-sabroso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2022-08-15",
-        "publication": "el-espectador",
-        "title": "La primera reforma tributaria",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-primera-reforma-tributaria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Guillermo Rivera",
-        "date": "2022-08-15",
-        "publication": "el-espectador",
-        "title": "Es la solidaridad, no la competencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/grivera/es-la-solidaridad-no-la-competencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2022-08-15",
-        "publication": "el-espectador",
-        "title": "El poder es un s\u00edmbolo",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/el-poder-es-un-simbolo/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-16",
+        "date": "2022-08-17",
         "publication": "el-tiempo",
-        "title": "Dos zonas bajo fuego",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-16-de-agosto-de-2022-dos-zonas-bajo-fuego-694930"
+        "title": "Lamentable ausencia",
+        "url": "https://www.eltiempo.com/opinion/editorial/lamentable-ausencia-editorial-el-tiempo-695207"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2022-08-16",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2022-08-17",
         "publication": "el-tiempo",
-        "title": "\u00bfLa hora de los j\u00f3venes?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-la-hora-de-los-jovenes-694942"
+        "title": "Sueldo de congresistas y corrupci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/sueldo-de-congresistas-y-corrupcion-columna-de-alfonso-gomez-mendez-695178"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2022-08-16",
+        "author": "Vladdo",
+        "date": "2022-08-17",
         "publication": "el-tiempo",
-        "title": "P\u00fablico femenino",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-publico-femenino-694937"
+        "title": "De la coherencia a la conveniencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/de-la-coherencia-a-la-conveniencia-columna-de-vladdo-695184"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2022-08-16",
+        "author": "Andr\u00e9s Hurtado Garc\u00eda",
+        "date": "2022-08-17",
         "publication": "el-tiempo",
-        "title": "Para conservar la armon\u00eda con Estados Unidos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/columna-de-sergio-munoz-para-conservar-la-armonia-con-estados-unidos-694945"
+        "title": "Lo siento, presidente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/lo-siento-presidente-columna-de-andres-hurtado-garcia-695162"
     },
     {
         "article-type": "column",
-        "author": "Marcela Mel\u00e9ndez",
-        "date": "2022-08-16",
+        "author": "Gustavo Duncan",
+        "date": "2022-08-17",
         "publication": "el-tiempo",
-        "title": "Llegar a tiempo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/columna-de-marcela-melendez-llegar-a-tiempo-694946"
+        "title": "Paz total",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/paz-total-columna-de-gustavo-duncan-695173"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2022-08-16",
+        "author": "Poncho Renter\u00eda",
+        "date": "2022-08-17",
         "publication": "el-tiempo",
-        "title": "\u00bfY la educaci\u00f3n b\u00e1sica?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/columna-de-francisco-cajiao-y-la-educacion-basica-694948"
+        "title": "Escojan a mujeres, y muy preparadas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/escojan-a-mujeres-y-muy-preparadas-columna-de-poncho-renteria-695170"
     },
     {
         "article-type": "column",
-        "author": "Alpher Rojas C.",
-        "date": "2022-08-16",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2022-08-17",
         "publication": "el-tiempo",
-        "title": "El siglo breve de don Ferm\u00edn Rodr\u00edguez",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/columna-de-alpher-rojas-el-siglo-breve-de-don-fermin-rodriguez-694950"
+        "title": "El informe de la Comisi\u00f3n de la Verdad: \u00bfdocumento sesgado?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/el-informe-de-la-comision-de-la-verdad-documento-sesgado-695142"
+    },
+    {
+        "article-type": "column",
+        "author": "Otros columnistas",
+        "date": "2022-08-17",
+        "publication": "el-tiempo",
+        "title": "Coberturas cambiarias: mitos y realidades",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/coberturas-cambiarias-mitos-y-realidades-columna-de-carlos-arango-694191"
     }
 ]
