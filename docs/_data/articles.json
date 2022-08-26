@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-25",
+        "date": "2022-08-26",
         "publication": "el-colombiano",
-        "title": "La encrucijada de Chile",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-encrucijada-de-chile-PM18500285"
+        "title": "ELN: \u00bfsuave y sin condiciones?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/eln-suave-y-sin-condiciones-CO18524611"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-08-26",
+        "publication": "el-colombiano",
+        "title": "Crecimiento s\u00ed, pero no as\u00ed (?)",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/crecimiento-si-pero-no-asi-AO18523232"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Manrique",
+        "date": "2022-08-26",
+        "publication": "el-colombiano",
+        "title": "En Cartagena no se apag\u00f3 la fiesta",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/en-cartagena-no-se-apago-la-fiesta-MO18523179"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-08-26",
+        "publication": "el-colombiano",
+        "title": "Acompa\u00f1arse de uno mismo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/acompanarse-de-uno-mismo-KO18522989"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-08-26",
+        "publication": "el-colombiano",
+        "title": "Desnaturalizar la funci\u00f3n de control",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/desnaturalizar-la-funcion-de-control-GO18523162"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2022-08-26",
+        "publication": "el-colombiano",
+        "title": "R\u00e9quiem por las cajeras",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/requiem-por-las-cajeras-MO18522970"
     },
     {
         "article-type": "column",
@@ -48,52 +88,36 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/no-sabes-lo-que-tienes-HE18499439"
     },
     {
-        "article-type": "column",
-        "author": "David Yanovich",
-        "date": "2022-08-24",
-        "publication": "el-colombiano",
-        "title": "Fervor o rigor",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/fervor-o-rigor-PK18477855"
-    },
-    {
-        "article-type": "column",
-        "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2022-08-24",
-        "publication": "el-colombiano",
-        "title": "Privadas de la... Justicia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/privadas-de-la-justicia-OK18477889"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-08-24",
-        "publication": "el-colombiano",
-        "title": "La creciente radicalizaci\u00f3n del presidente de M\u00e9xico",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-creciente-radicalizacion-del-presidente-de-mexico-JK18477817"
-    },
-    {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-08-24",
-        "publication": "el-colombiano",
-        "title": "Disputa por Am\u00e9rica Latina",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/disputa-por-america-latina-HK18478249"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-08-24",
-        "publication": "el-colombiano",
-        "title": "Gestionar el riesgo con las comunidades",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/gestionar-el-riesgo-con-las-comunidades-KK18477872"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-25",
+        "date": "2022-08-26",
         "publication": "el-espectador",
-        "title": "Bienvenido el respaldo presidencial a los refugiados",
-        "url": "https://www.elespectador.com/opinion/editorial/bienvenido-el-respaldo-presidencial-a-los-refugiados/"
+        "title": "Bienvenidos los cambios al Esmad",
+        "url": "https://www.elespectador.com/opinion/editorial/bienvenidos-los-cambios-al-esmad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carlos Gran\u00e9s",
+        "date": "2022-08-26",
+        "publication": "el-espectador",
+        "title": "Salman Rushdie, Alexandr Dugin y el poder de las ideas",
+        "url": "https://www.elespectador.com/opinion/columnistas/carlos-granes/salman-rushdie-alexandr-dugin-y-el-poder-de-las-ideas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juliana Mu\u00f1oz Toro",
+        "date": "2022-08-26",
+        "publication": "el-espectador",
+        "title": "Llamarse fuego",
+        "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/llamarse-fuego/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Antequera",
+        "date": "2022-08-26",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 hacemos con el informe final de la Comisi\u00f3n de la Verdad?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/que-hacemos-con-el-informe-final-de-la-comision-de-la-verdad/"
     },
     {
         "article-type": "column",
@@ -200,91 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nos-criticaron-por-contar-que-el-17-de-colombia-no-reconoce-la-victoria-de-petro/"
     },
     {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2022-08-24",
-        "publication": "el-espectador",
-        "title": "Reducci\u00f3n de da\u00f1os",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/reduccion-de-danos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2022-08-24",
-        "publication": "el-espectador",
-        "title": "Muchos honores y \u00bfpocos m\u00e9ritos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/muchos-honores-y-pocos-meritos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2022-08-24",
-        "publication": "el-espectador",
-        "title": "M\u00e1s de lo mismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/mas-de-lo-mismo/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-25",
+        "date": "2022-08-26",
         "publication": "el-tiempo",
-        "title": "Reformas en la Polic\u00eda",
-        "url": "https://www.eltiempo.com/opinion/editorial/reformas-en-la-policia-editorial-el-tiempo-697204"
+        "title": "Justicia restaurativa",
+        "url": "https://www.eltiempo.com/opinion/editorial/justicia-restaurativa-editorial-el-tiempo-697493"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-08-25",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-08-26",
         "publication": "el-tiempo",
-        "title": "Desbloquear la econom\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/desbloquear-la-economia-columna-de-pedro-medellin-697169"
+        "title": "Una mirada a Sri Lanka",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/una-mirada-a-sri-lanka-columna-de-moises-wasserman-697423"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2022-08-25",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-08-26",
         "publication": "el-tiempo",
-        "title": "Sexo, placer y violencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/sexo-placer-y-violencia-columna-de-jineth-bedoya-697181"
+        "title": "Cambios",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/cambios-columna-de-ricardo-silva-romero-697452"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-08-25",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2022-08-26",
         "publication": "el-tiempo",
-        "title": "Ni un trago menos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/ni-un-trago-menos-columna-de-juan-esteban-constain-697145"
+        "title": "\u00bfEstamos en riesgo de guerra nuclear?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/estamos-en-riesgo-de-guerra-nuclear-columna-de-antonio-albinana-697428"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Lloreda",
-        "date": "2022-08-25",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-08-26",
         "publication": "el-tiempo",
-        "title": "La nueva vieja Providencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/la-nueva-vieja-providencia-columna-de-mauricio-lloreda-697154"
+        "title": "Democracia, \u00bfpara qu\u00e9?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/democracia-para-que-columna-de-eduardo-posada-carbo-697433"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2022-08-25",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2022-08-26",
         "publication": "el-tiempo",
-        "title": "La magia de la memoria",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/la-magia-de-la-memoria-columna-de-diana-pardo-697149"
+        "title": "Esp\u00edritu del manglar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/espiritu-del-manglar-columna-de-manuel-guzman-hennessey-697437"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2022-08-25",
+        "author": "Catalina Mart\u00ednez Coral",
+        "date": "2022-08-26",
         "publication": "el-tiempo",
-        "title": "Reducci\u00f3n de la pobreza: \u00bfsubsidios o inclusi\u00f3n productiva?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/reduccion-de-la-pobreza-subsidios-o-inclusion-productiva-juliana-mejia-697180"
+        "title": "Tenemos que hablar de las violencias reproductivas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/catalina-martinez-coral/tenemos-que-hablar-de-las-violencias-reproductivas-catalina-martinez-697448"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Estrada",
-        "date": "2022-08-25",
+        "author": "Women in Connection",
+        "date": "2022-08-26",
         "publication": "el-tiempo",
-        "title": "Proyectos estatales de informaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-estrada/proyectos-estatales-de-informacion-columna-de-gustavo-estrada-697158"
+        "title": "Por el m\u00e9rito y la oportunidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/por-el-merito-y-la-oportunidad-columna-de-women-in-connection-697446"
     }
 ]
