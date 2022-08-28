@@ -2,10 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-27",
+        "date": "2022-08-28",
         "publication": "el-colombiano",
-        "title": "El secreto mejor guardado",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-secreto-mejor-guardado-DP18533725"
+        "title": "Los s\u00edmbolos de Petro",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/los-simbolos-de-petro-FP18535426"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Pardo Rueda",
+        "date": "2022-08-28",
+        "publication": "el-colombiano",
+        "title": "Mariana Mazzucato. La economista de moda",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/mariana-mazzucato-la-economista-de-moda-HP18535310"
+    },
+    {
+        "article-type": "column",
+        "author": "Bernardo A. Guerra Hoyos",
+        "date": "2022-08-28",
+        "publication": "el-colombiano",
+        "title": "Un desastre llamado Metrosalud",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-desastre-llamado-metrosalud-HP18535406"
+    },
+    {
+        "article-type": "column",
+        "author": "Elbac\u00e9 Restrepo",
+        "date": "2022-08-28",
+        "publication": "el-colombiano",
+        "title": "\u00a1Su\u00e9ltelo un ratico!",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sueltelo-un-ratico-KP18535348"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Hoyos",
+        "date": "2022-08-28",
+        "publication": "el-colombiano",
+        "title": "El fantasma de Chern\u00f3bil",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-fantasma-de-chernobil-GP18535388"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas a la Directora",
+        "date": "2022-08-28",
+        "publication": "el-colombiano",
+        "title": "Sin autenticidad total, no hay integridad en los gobernantes",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sin-autenticidad-total-no-hay-integridad-en-los-gobernantes-AP18535371"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Giraldo Ram\u00edrez",
+        "date": "2022-08-28",
+        "publication": "el-colombiano",
+        "title": "Sobre un editorial",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-un-editorial-FP18535275"
+    },
+    {
+        "article-type": "column",
+        "author": "David Escobar Arango",
+        "date": "2022-08-28",
+        "publication": "el-colombiano",
+        "title": "Buscar al poeta",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/buscar-al-poeta-KP18535258"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Luisa Zapata",
+        "date": "2022-08-28",
+        "publication": "el-colombiano",
+        "title": "Lo que deja huella",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/lo-que-deja-huella-EP18535221"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejo Vargas Vel\u00e1squez",
+        "date": "2022-08-28",
+        "publication": "el-colombiano",
+        "title": "Anuncios de pol\u00edtica p\u00fablica del gobierno de Petro",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/anuncios-de-politica-publica-del-gobierno-de-petro-FP18535176"
     },
     {
         "article-type": "column",
@@ -16,84 +88,52 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/protejamos-la-transformacion-de-la-iguana-CP18532990"
     },
     {
-        "article-type": "column",
-        "author": "Juli\u00e1n Posada",
-        "date": "2022-08-27",
-        "publication": "el-colombiano",
-        "title": "M\u00e1s",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/mas-IP18532930"
-    },
-    {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2022-08-27",
-        "publication": "el-colombiano",
-        "title": "La conexi\u00f3n al Oriente no ha tenido continuidad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-conexion-al-oriente-no-ha-tenido-continuidad-AP18532893"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Guillermo \u00c1ngel",
-        "date": "2022-08-27",
-        "publication": "el-colombiano",
-        "title": "Sobre la cultura",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-la-cultura-LP18532876"
-    },
-    {
-        "article-type": "column",
-        "author": "Ernesto Ochoa Moreno",
-        "date": "2022-08-27",
-        "publication": "el-colombiano",
-        "title": "San Tito Brandsma, periodista y m\u00e1rtir",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/san-tito-brandsma-periodista-y-martir-HP18532858"
-    },
-    {
-        "article-type": "column",
-        "author": "David Gonz\u00e1lez Escobar",
-        "date": "2022-08-26",
-        "publication": "el-colombiano",
-        "title": "Crecimiento s\u00ed, pero no as\u00ed (?)",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/crecimiento-si-pero-no-asi-AO18523232"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Manrique",
-        "date": "2022-08-26",
-        "publication": "el-colombiano",
-        "title": "En Cartagena no se apag\u00f3 la fiesta",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/en-cartagena-no-se-apago-la-fiesta-MO18523179"
-    },
-    {
-        "article-type": "column",
-        "author": "Diego Aristiz\u00e1bal",
-        "date": "2022-08-26",
-        "publication": "el-colombiano",
-        "title": "Acompa\u00f1arse de uno mismo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/acompanarse-de-uno-mismo-KO18522989"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando \u00c1lvarez",
-        "date": "2022-08-26",
-        "publication": "el-colombiano",
-        "title": "Desnaturalizar la funci\u00f3n de control",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/desnaturalizar-la-funcion-de-control-GO18523162"
-    },
-    {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2022-08-26",
-        "publication": "el-colombiano",
-        "title": "R\u00e9quiem por las cajeras",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/requiem-por-las-cajeras-MO18522970"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-27",
+        "date": "2022-08-28",
         "publication": "el-espectador",
-        "title": "Coherencia con el derecho al aborto",
-        "url": "https://www.elespectador.com/opinion/editorial/coherencia-con-el-derecho-al-aborto/"
+        "title": "Los cambios profundos en la fuerza p\u00fablica",
+        "url": "https://www.elespectador.com/opinion/editorial/los-cambios-profundos-en-la-fuerza-publica/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-08-28",
+        "publication": "el-espectador",
+        "title": "Microlingotes",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-58/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marc Hofstetter",
+        "date": "2022-08-28",
+        "publication": "el-espectador",
+        "title": "No aplica el 35 %",
+        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/no-aplica-el-35/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Candidata",
+        "date": "2022-08-28",
+        "publication": "el-espectador",
+        "title": "Cap\u00edtulo 33: Remez\u00f3n antidrogas",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/nueva-estrategia-antidrogas-relevo-de-52-generales-y-negociacion-con-joe-biden/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Pel\u00e1ez Restrepo",
+        "date": "2022-08-28",
+        "publication": "el-espectador",
+        "title": "Columna de Hern\u00e1n Pel\u00e1ez: las apuestas",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-pelaez-restrepo/las-apuestas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Max Yuri Gil Ram\u00edrez",
+        "date": "2022-08-28",
+        "publication": "el-espectador",
+        "title": "\u00bfC\u00f3mo tramitar las disputas por la verdad del conflicto armado colombiano?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/como-tramitar-las-disputas-por-la-verdad-del-conflicto-armado-colombiano/"
     },
     {
         "article-type": "column",
@@ -184,107 +224,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/aprendizajes-de-una-millonaria-estafa-a-cantantes-latinos/"
     },
     {
-        "article-type": "column",
-        "author": "Gustavo P\u00e1ez Escobar",
-        "date": "2022-08-27",
-        "publication": "el-espectador",
-        "title": "Cartas entre Pellicer y Arciniegas",
-        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-paez-escobar/cartas-entre-pellicer-y-arciniegas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2022-08-27",
-        "publication": "el-espectador",
-        "title": "Es un comienzo",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/es-un-comienzo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Marocco",
-        "date": "2022-08-27",
-        "publication": "el-espectador",
-        "title": "Columna de Andr\u00e9s Marocco: Ha vuelto la alegr\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/ha-vuelto-la-alegria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2022-08-27",
-        "publication": "el-espectador",
-        "title": "Trabajar en dictadura",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/trabajar-en-dictadura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-08-27",
-        "publication": "el-espectador",
-        "title": "\u00bfCu\u00e1l es el miedo de las Iglesias a pagar impuestos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/cual-es-el-miedo-de-las-iglesias-a-pagar-impuestos/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-27",
+        "date": "2022-08-28",
         "publication": "el-tiempo",
-        "title": "Hora de negociar",
-        "url": "https://www.eltiempo.com/opinion/editorial/hora-de-negociar-editorial-el-tiempo-697798"
+        "title": "Sobre la extradici\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-28-de-agosto-de-2022-sobre-la-extradicion-697941"
     },
     {
         "article-type": "column",
-        "author": "Carlos Caballero Arg\u00e1ez",
-        "date": "2022-08-27",
+        "author": "Germ\u00e1n Vargas Lleras",
+        "date": "2022-08-28",
         "publication": "el-tiempo",
-        "title": "La prioridad es la informalidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/la-prioridad-es-la-informalidad-columna-de-carlos-caballero-argaez-697738"
+        "title": "\u00bfAusteridad en el gasto?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-austeridad-en-el-gasto-697942"
     },
     {
         "article-type": "column",
-        "author": "Lucy Nieto de Samper",
-        "date": "2022-08-27",
+        "author": "Mar\u00eda Isabel Rueda",
+        "date": "2022-08-28",
         "publication": "el-tiempo",
-        "title": "Socializando",
-        "url": "https://www.eltiempo.com/opinion/columnistas/lucy-nieto-de-samper/socializando-columna-de-lucy-nieto-de-samper-697748"
+        "title": "San Jes\u00fas Santrich",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-san-jesus-santrich-697947"
     },
     {
         "article-type": "column",
-        "author": "Luis No\u00e9 Ochoa",
-        "date": "2022-08-27",
+        "author": "N\u00e9stor Humberto Mart\u00ednez",
+        "date": "2022-08-28",
         "publication": "el-tiempo",
-        "title": "Las propuestas de Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/las-propuestas-de-petro-columna-de-luis-noe-ochoa-697776"
+        "title": "Dudas de la pol\u00edtica antidrogas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-dudas-de-la-politica-antidrogas-697955"
     },
     {
         "article-type": "column",
-        "author": "Adolfo Zableh Dur\u00e1n",
-        "date": "2022-08-27",
+        "author": "Patricia Rinc\u00f3n Mazo",
+        "date": "2022-08-28",
         "publication": "el-tiempo",
-        "title": "\u00bfAlcanza el sueldo para los tenis?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/alcanza-el-sueldo-para-los-tenis-columna-de-adolfo-zableh-697743"
+        "title": "Revictimizaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/patricia-rincon-mazo/columna-de-patricia-rincon-mazo-revictimizacion-697944"
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-08-27",
+        "author": "Thierry Ways",
+        "date": "2022-08-28",
         "publication": "el-tiempo",
-        "title": "Langostinos para el T\u00edo Sam",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/langostinos-para-el-tio-sam-columna-de-oscar-dominguez-697753"
+        "title": "Una reforma antiafrodis\u00edaca",
+        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-una-reforma-antiafrodisiaca-697948"
     },
     {
         "article-type": "column",
-        "author": "Alex\u00e1nder Cambero",
-        "date": "2022-08-27",
+        "author": "Stefano Farn\u00e9",
+        "date": "2022-08-28",
         "publication": "el-tiempo",
-        "title": "Fuerza Vecinal como alternativa del venezolano",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/fuerza-vecinal-como-alternativa-del-venezolano-alexander-cambero-697761"
+        "title": "\u00bfEs importante saber cu\u00e1ndo empieza la noche?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/stefano-farne/columna-de-stefano-farne-es-importante-saber-cuando-empieza-la-noche-697949"
     },
     {
         "article-type": "column",
-        "author": "Proyect Syndicate",
-        "date": "2022-08-27",
+        "author": "Ivan Trujillo",
+        "date": "2022-08-28",
         "publication": "el-tiempo",
-        "title": "El federalismo progresista contra el extremismo judicial",
-        "url": "https://www.eltiempo.com/opinion/columnistas/proyect-syndicate/el-federalismo-progresista-contra-el-extremismo-judicial-697773"
+        "title": "El m\u00edtico GEA",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ivan-trujillo/columna-de-ivan-trujillo-el-mitico-gea-697957"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Riveros Gonz\u00e1lez",
+        "date": "2022-08-28",
+        "publication": "el-tiempo",
+        "title": "Los 500 de Magallanes y los 13.500 millones de la Nasa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/alejandro-riveros-los-500-de-magallanes-y-los-13-500-millones-de-la-nasa-697959"
     }
 ]
