@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-31",
+        "date": "2022-09-01",
         "publication": "el-colombiano",
-        "title": "Las invasiones de tierras",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/las-invasiones-de-tierras-BJ18552399"
+        "title": "Europa la est\u00e1 viendo negra",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/europa-la-esta-viendo-negra-JJ18557970"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2022-09-01",
+        "publication": "el-colombiano",
+        "title": "El ejemplo de Guineo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-ejemplo-de-guineo-AJ18557520"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2022-09-01",
+        "publication": "el-colombiano",
+        "title": "Con los tenis puestos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/con-los-tenis-puestos-PJ18557484"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2022-09-01",
+        "publication": "el-colombiano",
+        "title": "Eldorado Blanco",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/eldorado-blanco-EJ18557388"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-09-01",
+        "publication": "el-colombiano",
+        "title": "Tiziano Carrizo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/tiziano-carrizo-BJ18557503"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Botero Montoya",
+        "date": "2022-09-01",
+        "publication": "el-colombiano",
+        "title": "La banca y el comercio",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-banca-y-el-comercio-EJ18557461"
     },
     {
         "article-type": "column",
@@ -48,52 +88,132 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/ensenanzas-de-un-cambio-chileno-LJ18551219"
     },
     {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2022-08-31",
-        "publication": "el-colombiano",
-        "title": "Me llamo Marleny, soy trabajadora sexual",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/me-llamo-marleny-soy-trabajadora-sexual-KJ18551128"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2022-08-30",
-        "publication": "el-colombiano",
-        "title": "Narcocracia, de sospecha a realidad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/narcocracia-de-sospecha-a-realidad-PI18543419"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Mej\u00eda Cubillos",
-        "date": "2022-08-30",
-        "publication": "el-colombiano",
-        "title": "El presente y el futuro de Colombia est\u00e1 en los servicios",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-presente-y-el-futuro-de-colombia-esta-en-los-servicios-AI18543298"
-    },
-    {
-        "article-type": "column",
-        "author": "Amalia Londo\u00f1o Duque",
-        "date": "2022-08-30",
-        "publication": "el-colombiano",
-        "title": "Habitar la calle \u201cm\u00e1s cool\u201d",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/habitar-la-calle-mas-cool-DI18543347"
-    },
-    {
-        "article-type": "column",
-        "author": "Federico Hoyos Salazar",
-        "date": "2022-08-30",
-        "publication": "el-colombiano",
-        "title": "Cambio de principios",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/cambio-de-principios-KI18543911"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-31",
+        "date": "2022-09-01",
         "publication": "el-espectador",
-        "title": "Bienvenidos los espacios diversos de reflexi\u00f3n religiosa",
-        "url": "https://www.elespectador.com/opinion/editorial/bienvenidos-los-espacios-diversos-de-reflexion-religiosa/"
+        "title": "El mundo est\u00e1 en deuda con Mija\u00edl Gorbachov",
+        "url": "https://www.elespectador.com/opinion/editorial/el-mundo-esta-en-deuda-con-mijail-gorbachov/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "Ensanchar el pecho",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/ensanchar-el-pecho/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "Tierra quemada",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/tierra-quemada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "Miner\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/mineria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 es discurso de odio?",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/que-es-discurso-de-odio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcelo Caruso A.",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "Se decide el futuro de Chile",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/se-decide-el-futuro-de-chile/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "Un invierno largo",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/un-invierno-largo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "Cuando la supercorte era sabia",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/cuando-la-supercorte-era-sabia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "\u00bfLibertad de odio?",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/libertad-de-odio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "Las pandemias del turismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/las-pandemias-del-turismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Manuel Ospina",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "Vuelve el tren",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/vuelve-el-tren/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "\u201cTeo\u201d Guti\u00e9rrez, autocontrol ",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/teo-gutierrez-autocontrol-columna-semanal-de-luis-fernando-galan/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Candidata",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "Petro y la Candidata escandalizan al establecimiento con pol\u00edtica antidrogas ",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/politica-antidrogas-de-petro-purga-de-52-generales-descriminalizacion-y-biden/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arlene B. Tickner",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "Desnaturalizar la extradici\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/desnaturalizar-la-extradicion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "Quedamos en aprietos por columna sobre expresidente que no pudo abordar un avi\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/quedamos-en-aprietos-por-columna-sobre-expresidente-que-no-pudo-abordar-un-avion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Amaya",
+        "date": "2022-09-01",
+        "publication": "el-espectador",
+        "title": "El adi\u00f3s a la mujer que revolucion\u00f3 el tenis femenino",
+        "url": "https://www.elespectador.com/opinion/columnistas/camilo-amaya/columna-de-camilo-amaya-el-adios-a-la-mujer-que-revoluciono-el-tenis-femenino/"
     },
     {
         "article-type": "column",
@@ -104,187 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/de-principios-y-maturrangas/"
     },
     {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2022-08-31",
-        "publication": "el-espectador",
-        "title": "Vueltas que da la vida",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/vueltas-que-da-la-vida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2022-08-31",
-        "publication": "el-espectador",
-        "title": "Vida domesticada ",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/vida-domesticada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2022-08-31",
-        "publication": "el-espectador",
-        "title": "La econom\u00eda misional",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/la-economia-misional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-08-31",
-        "publication": "el-espectador",
-        "title": "Corte Constitucional, bald\u00edos y deforestaci\u00f3n ",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/corte-constitucional-baldios-y-deforestacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2022-08-31",
-        "publication": "el-espectador",
-        "title": "El fantasma de \u201cSantrich\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-fantasma-de-santrich/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2022-08-31",
-        "publication": "el-espectador",
-        "title": "Las apariencias enga\u00f1an",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/las-apariencias-enganan/"
-    },
-    {
-        "article-type": "column",
-        "author": "Oscar Guardiola-Rivera",
-        "date": "2022-08-31",
-        "publication": "el-espectador",
-        "title": "Maquiavelo para progres",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/maquiavelo-para-progres/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-08-31",
-        "publication": "el-espectador",
-        "title": "\u00bfLas mujeres buscamos relaciones con personas mayores que nosotras?",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/las-mujeres-buscamos-relaciones-con-personas-mayores-que-nosotras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Escobar",
-        "date": "2022-08-31",
-        "publication": "el-espectador",
-        "title": "El Pacto Hist\u00f3rico y los desaf\u00edos planetarios (3)",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-escobar/el-pacto-historico-y-los-desafios-planetarios-3/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Leyva",
-        "date": "2022-08-30",
-        "publication": "el-espectador",
-        "title": "No podemos fallar* ",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/no-podemos-fallar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2022-08-30",
-        "publication": "el-espectador",
-        "title": "Sin palabras",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/sin-palabras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2022-08-30",
-        "publication": "el-espectador",
-        "title": "Reforma agraria: manos a la obra",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/reforma-agraria-manos-a-la-obra/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-08-30",
-        "publication": "el-espectador",
-        "title": "Pastrana Borrero y las UPAC",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/pastrana-borrero-y-las-upac/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alfredo Molano Jimeno",
-        "date": "2022-08-30",
-        "publication": "el-espectador",
-        "title": "El cangrejo sabanero que no come concreto",
-        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/el-cangrejo-sabanero-que-no-come-concreto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2022-08-30",
-        "publication": "el-espectador",
-        "title": "Secretos de Madrid",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/secretos-de-madrid/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-08-31",
+        "date": "2022-09-01",
         "publication": "el-tiempo",
-        "title": "Ojo con el sicariato",
-        "url": "https://www.eltiempo.com/opinion/editorial/ojo-con-el-sicariato-editorial-el-tiempo-698659"
+        "title": "Venezuela otra vez",
+        "url": "https://www.eltiempo.com/opinion/editorial/venezuela-otra-vez-editorial-el-tiempo-698951"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2022-08-31",
+        "author": "Pedro Medellin",
+        "date": "2022-09-01",
         "publication": "el-tiempo",
-        "title": "Extradici\u00f3n y pol\u00edtica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/extradicion-y-politica-columna-de-alfonso-gomez-mendez-698616"
+        "title": "\u00bfAcogimiento o abdicaci\u00f3n? (I)",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/acogimiento-o-abdicacion-i-columna-de-pedro-medellin-698929"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2022-08-31",
+        "author": "Claudia Palacios",
+        "date": "2022-09-01",
         "publication": "el-tiempo",
-        "title": "Obreg\u00f3n a grandes trazos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/obregon-a-grandes-trazos-columna-de-vladdo-698636"
+        "title": "Igualdad con \u2018plastilina\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/igualdad-con-plastilina-columna-de-claudia-palacios-698880"
     },
     {
         "article-type": "column",
-        "author": "Francisco Jos\u00e9 Lloreda",
-        "date": "2022-08-31",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2022-09-01",
         "publication": "el-tiempo",
-        "title": "La mejor austeridad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-jose-lloreda/la-mejor-austeridad-columna-de-francisco-jose-lloreda-698583"
+        "title": "Los ayatolas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/los-ayatolas-columna-de-juan-esteban-constain-698910"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2022-08-31",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2022-09-01",
         "publication": "el-tiempo",
-        "title": "Di\u00e1logos vinculantes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/dialogos-vinculantes-columna-de-gustavo-duncan-698626"
+        "title": "A qu\u00e9 le temes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/a-que-le-temes-columna-de-sergio-ramirez-698895"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2022-08-31",
+        "author": "Adriana Pombo",
+        "date": "2022-09-01",
         "publication": "el-tiempo",
-        "title": "Son amantes, pero clandestinos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/son-amantes-pero-clandestinos-columna-de-poncho-renteria-698613"
+        "title": "\u00a1Calma, renacuajo paseador!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adriana-pombo/calma-renacuajo-paseador-columna-de-adriana-pombo-698876"
     },
     {
         "article-type": "column",
-        "author": "Nubia Stella Mart\u00ednez",
-        "date": "2022-08-31",
+        "author": "Carlos Camargo Assis",
+        "date": "2022-09-01",
         "publication": "el-tiempo",
-        "title": "La verdad pura, no la verdad de las FARC",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nubia-stella-martinez/la-verdad-pura-no-la-verdad-de-las-farc-nubia-stella-martinez-698610"
+        "title": "El acceso legal a las tierras, un derecho de todos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-camargo-assis/el-acceso-legal-a-las-tierras-un-derecho-de-todos-carlos-camargo-assis-698902"
     },
     {
         "article-type": "column",
-        "author": "Bj\u00f8rn Lomborg",
-        "date": "2022-08-31",
+        "author": "Women in Connection",
+        "date": "2022-09-01",
         "publication": "el-tiempo",
-        "title": "Combustibles f\u00f3siles: la hipocres\u00eda de los pa\u00edses ricos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/combustibles-fosiles-la-hipocresia-de-los-paises-ricos-bjorn-lomborg-698599"
+        "title": "Resiliencia para un crecimiento sostenible e inclusivo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/resiliencia-para-un-crecimiento-sostenible-e-inclusivo-698905"
     }
 ]
