@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-05",
+        "date": "2022-09-06",
         "publication": "el-colombiano",
-        "title": "\u00bfQui\u00e9n defiende a los turistas?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/quien-defiende-a-los-turistas-GL18573630"
+        "title": "Chile alza su voz",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/chile-alza-su-voz-HE18582173"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2022-09-06",
+        "publication": "el-colombiano",
+        "title": "Burla doctoral",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/burla-doctoral-BE18581635"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-09-06",
+        "publication": "el-colombiano",
+        "title": "Ejemplo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ejemplo-NE18581518"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-09-06",
+        "publication": "el-colombiano",
+        "title": "Un mes malo, muy malo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-mes-malo-muy-malo-CE18581560"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-09-06",
+        "publication": "el-colombiano",
+        "title": "Uigures: el mundo se cruza de brazos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/uigures-el-mundo-se-cruza-de-brazos-AE18581537"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-09-06",
+        "publication": "el-colombiano",
+        "title": "La vida como designio",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-vida-como-designio-FE18581501"
     },
     {
         "article-type": "column",
@@ -13,7 +53,7 @@
         "date": "2022-09-05",
         "publication": "el-colombiano",
         "title": "\u00a1Paren el mundo, quiero bajarme!",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/paren-el-mundo-quiero-bajarme-IL18573685"
+        "url": "https://www.elcolombiano.com/opinion/columna-destacada/paren-el-mundo-quiero-bajarme-IL18573685"
     },
     {
         "article-type": "column",
@@ -48,52 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/hombre-de-teatro-LL18573585"
     },
     {
-        "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2022-09-04",
-        "publication": "el-colombiano",
-        "title": "La necesaria reforma pol\u00edtica",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-necesaria-reforma-politica-BL18572344"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-09-04",
-        "publication": "el-colombiano",
-        "title": "Preocupante porvenir",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/preocupante-porvenir-DL18572313"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-09-04",
-        "publication": "el-colombiano",
-        "title": "rrrrrrrr",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/rrrrrrrr-PL18572296"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-09-04",
-        "publication": "el-colombiano",
-        "title": "San Lucas evangelista, dadnos luz en San Lucas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/san-lucas-evangelista-dadnos-luz-en-san-lucas-BL18572245"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Guti\u00e9rrez Ram\u00edrez",
-        "date": "2022-09-04",
-        "publication": "el-colombiano",
-        "title": "Una deuda por pagar",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/una-deuda-por-pagar-GL18572224"
-    },
-    {
         "article-type": "editorial",
         "author": null,
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "Ecos del 6 de septiembre de 1952 que a\u00fan se escuchan hoy",
+        "url": "https://www.elespectador.com/opinion/editorial/ecos-del-6-de-septiembre-de-1952-que-aun-se-escuchan-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "Pa\u00eds pendular",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/pais-pendular/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "De entrampamientos y otros ardides",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/de-entrampamientos-y-otros-ardides/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "\u201cJournaling\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/journaling/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "Los \u201cmamertos\u201d al poder",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/los-mamertos-al-poder/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "Calibrar di\u00e1logo con el Eln",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/calibrar-dialogo-con-el-eln/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "Las entra\u00f1as de las momias",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/las-entranas-de-las-momias/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. William Pearl",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "Tierra",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/tierra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "Los padres sobreprotectores forman hijos inseguros",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/los-padres-sobreprotectores-forman-hijos-inseguros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "La muerte del estafeta ",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/la-muerte-del-estafeta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "Entre Chaplin y Napole\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/entre-chaplin-y-napoleon/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Felipe Carrillo G\u00e1faro",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "Amani",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/amani/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fabiola Calvo",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "\u201cSolo soy un profesor\u201d",
+        "url": "https://www.elespectador.com/colombia-20/analistas/solo-soy-un-profesor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Laura Ang\u00e9lica  Ospina",
+        "date": "2022-09-06",
+        "publication": "el-espectador",
+        "title": "\u00bfPuede haber celos en el poliamor?",
+        "url": "https://www.elespectador.com/genero-y-diversidad/las-igualadas/pueden-haber-celos-en-el-poliamor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
         "date": "2022-09-05",
         "publication": "el-espectador",
-        "title": "La masacre de polic\u00edas en Huila hace urgente la paz",
-        "url": "https://www.elespectador.com/opinion/editorial/la-masacre-de-policias-en-huila-hace-urgente-la-paz/"
+        "title": "Razones humanitarias",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/razones-humanitarias/"
     },
     {
         "article-type": "column",
@@ -112,155 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/las-nuevas-herejias/"
     },
     {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2022-09-05",
-        "publication": "el-espectador",
-        "title": "\u00bfSe dice \u00abbrasilero\u00bb o \u00abbrasile\u00f1o\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-dice-brasilero-o-brasileno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2022-09-05",
-        "publication": "el-espectador",
-        "title": "Razones humanitarias",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/razones-humanitarias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2022-09-05",
-        "publication": "el-espectador",
-        "title": "Las tribulaciones de la reforma",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/las-tribulaciones-de-la-reforma/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2022-09-05",
-        "publication": "el-espectador",
-        "title": "El papa, crucificado",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/el-papa-crucificado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-09-05",
-        "publication": "el-espectador",
-        "title": "Nuevas reglas para el agro",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/nuevas-reglas-para-el-agro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-09-05",
-        "publication": "el-espectador",
-        "title": "\u00bfPara d\u00f3nde va Petro?",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/para-donde-va-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-09-05",
-        "publication": "el-espectador",
-        "title": "Gratuidad en escuelas militares: de Duque a Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/gratuidad-en-escuelas-militares-de-duque-a-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2022-09-05",
-        "publication": "el-espectador",
-        "title": "Gorbachov, ese bello proscrito",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/gorbachov-ese-bello-proscrito/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2022-09-05",
-        "publication": "el-espectador",
-        "title": "La columna de Jorge Tovar: Gorbachov y el f\u00fatbol",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/gorbachov-y-el-futbol/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-09-05",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Serena Williams",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/serena-williams/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-05",
+        "date": "2022-09-06",
         "publication": "el-tiempo",
-        "title": "Cobarde atentado",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-5-de-septiembre-de-2022-cobarde-atentado-699844"
+        "title": "Rechazo chileno",
+        "url": "https://www.eltiempo.com/opinion/editorial/rechazo-chileno-editorial-el-tiempo-700146"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-09-05",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-09-06",
         "publication": "el-tiempo",
-        "title": "Los 4 \u2018shows\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-los-4-shows-699854"
+        "title": "Un papelito llamado ley",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/un-papelito-llamado-ley-columna-de-jose-manuel-acevedo-700077"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-09-05",
+        "author": "Viviane Morales Hoyos",
+        "date": "2022-09-06",
         "publication": "el-tiempo",
-        "title": "La torre de Babel",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-la-torre-de-babel-699862"
+        "title": "El general Sanabria en su laberinto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/el-general-sanabria-en-su-laberinto-columna-de-viviane-morales-700079"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2022-09-05",
+        "author": "Juan Pablo Calv\u00e1s",
+        "date": "2022-09-06",
         "publication": "el-tiempo",
-        "title": "\u2018D\u00e9j\u00e0 vu\u2019 en la paz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-deja-vu-en-la-paz-699853"
+        "title": "Prioridades",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/prioridades-columna-de-juan-pablo-calvas-700085"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-09-05",
+        "author": "Eduardo Escobar",
+        "date": "2022-09-06",
         "publication": "el-tiempo",
-        "title": "La tecnolog\u00eda para combatir el cambio clim\u00e1tico",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-tecnologia-para-combatir-el-cambio-climatico-699860"
+        "title": "Mis respetos, se\u00f1or Gorbachov",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/mis-respetos-senor-gorbachov-columna-de-eduardo-escobar-700080"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2022-09-05",
+        "author": "Alfonso Carvajal",
+        "date": "2022-09-06",
         "publication": "el-tiempo",
-        "title": "\u00bfReforma estructural, o ajustes?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/columna-de-fernando-sanchez-torres-reforma-estructural-o-ajustes-699858"
+        "title": "\u2018Filosof\u00eda felina\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/filosofia-felina-columna-de-alfonso-carvajal-700070"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2022-09-05",
+        "author": "Alpher Rojas C.",
+        "date": "2022-09-06",
         "publication": "el-tiempo",
-        "title": "\u00bfSomos bonitos?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-somos-bonitos-699845"
+        "title": "La verdad, patrimonio cultural de la naci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/la-verdad-patrimonio-cultural-de-la-nacion-columna-de-alpher-rojas-700092"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-09-05",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2022-09-06",
         "publication": "el-tiempo",
-        "title": "Sola en un carro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-sola-en-un-carro-699859"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2022-09-05",
-        "publication": "el-tiempo",
-        "title": "Las estrellas iluminan Europa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-las-estrellas-iluminan-europa-699865"
+        "title": "El ensayo y la vida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/el-ensayo-y-la-vida-columna-de-fabio-martinez-700088"
     }
 ]
