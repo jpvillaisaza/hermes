@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-11",
+        "date": "2022-09-12",
         "publication": "el-colombiano",
-        "title": "La tentaci\u00f3n del poder",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-tentacion-del-poder-OP18606899"
+        "title": "\u00a1Qu\u00e9 viva la fiesta!",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/que-viva-la-fiesta-BP18609109"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Escobar Valencia",
+        "date": "2022-09-12",
+        "publication": "el-colombiano",
+        "title": "\u00bfPor qu\u00e9 ganan los populistas embaucadores y neocomunistas?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/por-que-ganan-los-populistas-embaucadores-y-neocomunistas-AP18609090"
+    },
+    {
+        "article-type": "column",
+        "author": "Josefina Agudelo Trujillo",
+        "date": "2022-09-12",
+        "publication": "el-colombiano",
+        "title": "\u00bfCerrar brechas o profundizarlas?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cerrar-brechas-o-profundizarlas-PP18609053"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
+        "date": "2022-09-12",
+        "publication": "el-colombiano",
+        "title": "Antioquia s\u00ed est\u00e1 amenazada",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/antioquia-si-esta-amenazada-LP18609031"
+    },
+    {
+        "article-type": "column",
+        "author": "Proantioquia",
+        "date": "2022-09-12",
+        "publication": "el-colombiano",
+        "title": "La revoluci\u00f3n de la incomodidad",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-revolucion-de-la-incomodidad-NP18609073"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2022-09-12",
+        "publication": "el-colombiano",
+        "title": "La reforma tributaria es ileg\u00edtima",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-reforma-tributaria-es-ilegitima-MP18609014"
     },
     {
         "article-type": "column",
@@ -48,52 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/de-fiesta-MP18606381"
     },
     {
-        "article-type": "column",
-        "author": "David Escobar Arango",
-        "date": "2022-09-11",
-        "publication": "el-colombiano",
-        "title": "\u00bfDecrecimiento?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/decrecimiento-AP18606363"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Rengifo Botero",
-        "date": "2022-09-11",
-        "publication": "el-colombiano",
-        "title": "El dolor en la divisi\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-dolor-en-la-division-EP18606345"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Pardo Rueda",
-        "date": "2022-09-11",
-        "publication": "el-colombiano",
-        "title": "No es suficiente con el discurso",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/no-es-suficiente-con-el-discurso-CP18606325"
-    },
-    {
-        "article-type": "column",
-        "author": "Diego Mesa Puyo",
-        "date": "2022-09-10",
-        "publication": "el-colombiano",
-        "title": "Una oportunidad dorada",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/una-oportunidad-dorada-MP18602358"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Estrada Villa",
-        "date": "2022-09-10",
-        "publication": "el-colombiano",
-        "title": "El presidente Petro contra la corrupci\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-presidente-petro-contra-la-corrupcion-EP18602341"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-11",
+        "date": "2022-09-12",
         "publication": "el-espectador",
-        "title": "Una reforma tributaria necesaria que se debe afinar",
-        "url": "https://www.elespectador.com/opinion/editorial/una-reforma-tributaria-necesaria-que-se-debe-afinar/"
+        "title": "La coalici\u00f3n del Gobierno Petro ama la burocracia",
+        "url": "https://www.elespectador.com/opinion/editorial/la-coalicion-del-gobierno-petro-ama-la-burocracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "Insertar a Colombia en el mundo",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/insertar-a-colombia-en-el-mundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "Las circunstancias de la reforma tributaria",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/las-circunstancias-de-la-reforma-tributaria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Guillermo Rivera",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "La justicia no es venganza",
+        "url": "https://www.elespectador.com/opinion/columnistas/grivera/la-justicia-no-es-venganza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "La pausa de la vida",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/la-pausa-de-la-vida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Reyes Posada",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "Reforma agraria y cambio clim\u00e1tico",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/reforma-agraria-y-cambio-climatico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "\u00bfIsabel II era carism\u00e1tica?",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/isabel-ii-era-carismatica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Vanessa Rosales A.",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "Amores inc\u00f3modos",
+        "url": "https://www.elespectador.com/opinion/columnistas/vanessa-rosales-a-/amores-incomodos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "Descentralizaci\u00f3n pol\u00edtica, pero no administrativa como se conoce",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/descentralizacion-politica-pero-no-administrativa-como-se-conoce/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "Sin plata para la comida",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/sin-plata-para-la-comida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "Al sector el\u00e9ctrico se le fueron las luces",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/al-sector-electrico-se-le-fueron-las-luces/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "\u00bfUna empresa p\u00fablica para 5G?",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/una-empresa-publica-para-5g/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Barreto Barreto",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "El estallido de las \u00e9lites",
+        "url": "https://www.elespectador.com/colombia-20/analistas/el-estallido-de-las-elites/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cUna reforma tributaria necesaria que se debe afinar\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-una-reforma-tributaria-necesaria-que-se-debe-afinar/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Candidata",
+        "date": "2022-09-12",
+        "publication": "el-espectador",
+        "title": "Cap\u00edtulo 34: \u00bfCoca\u00edna legal? S\u00ed. \u00bfExtradici\u00f3n? Tambi\u00e9n",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/alvaro-cordoba-hermano-de-piedad-cordoba-pudo-evitar-extradicion/"
     },
     {
         "article-type": "column",
@@ -112,187 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/la-conferencia-del-nobel-en-bogota/"
     },
     {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "Decrecimiento: crezcamos el debate",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/decrecimiento-crezcamos-el-debate/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "Invivible",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/invivible/"
-    },
-    {
-        "article-type": "column",
-        "author": "William Ospina",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "El m\u00e9todo gratuito para salvar el mundo",
-        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/el-metodo-gratuito-para-salvar-el-mundo/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "Reina y madre ",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/reina-y-madre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "Un llamado desde Colombia: Terminemos la guerra contra las drogas",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/un-llamado-desde-colombia-terminemos-la-guerra-contra-las-drogas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "La promesa del Estado",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/la-promesa-del-estado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "Terrores y hogares",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/terrores-y-hogares/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "Paz total, \u00bfun espejismo? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/paz-total-un-espejismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "Mal condenada",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/mal-condenada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "Petro y la Procuradur\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/petro-y-la-procuraduria/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "Microlingotes",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-60/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "Los desajustes de chile y Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/los-desajustes-de-chile-y-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "De tierras y distop\u00edas",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/de-tierras-y-distopias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Pel\u00e1ez Restrepo",
-        "date": "2022-09-11",
-        "publication": "el-espectador",
-        "title": "Columna de Hern\u00e1n Pel\u00e1ez: Barah\u00fanda",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-pelaez-restrepo/barahunda/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-11",
+        "date": "2022-09-12",
         "publication": "el-tiempo",
-        "title": "Hay que rodear a Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-del-11-de-septiembre-de-2022-hay-que-rodear-a-bogota-701508"
+        "title": "Rectificaci\u00f3n oportuna",
+        "url": "https://www.eltiempo.com/opinion/editorial/rectificacion-oportuna-editorial-el-tiempo-701659"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2022-09-11",
+        "author": "Juan Lozano",
+        "date": "2022-09-12",
         "publication": "el-tiempo",
-        "title": "A la brava",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-a-la-brava-701507"
+        "title": "Cinco \u2018tips\u2019 para neopetristas tras la voltereta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/cinco-tips-para-neopetristas-tras-la-voltereta-columna-de-juan-lozano-701670"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2022-09-11",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2022-09-12",
         "publication": "el-tiempo",
-        "title": "El pacto de la Torre del Reloj",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-el-pacto-de-la-torre-del-reloj-701514"
+        "title": "\u00bfUn alcalde, comandante en jefe?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/un-alcalde-comandante-en-jefe-columna-de-nancy-patricia-gutierrez-701674"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2022-09-11",
+        "author": "Paola Ochoa",
+        "date": "2022-09-12",
         "publication": "el-tiempo",
-        "title": "Tambi\u00e9n sube el impuesto inflacionario",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-tambien-sube-el-impuesto-inflacionario-701521"
+        "title": "Alto voltaje",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/alto-voltaje-columna-de-paola-ochoa-701681"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2022-09-11",
+        "author": "Diego Santos",
+        "date": "2022-09-12",
         "publication": "el-tiempo",
-        "title": "\u00bfApoyo o secuestro?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-apoyo-o-secuestro-701509"
+        "title": "\u00bfSabemos qu\u00e9 es la transformaci\u00f3n digital?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/sabemos-que-es-la-transformacion-digital-columna-de-diego-santos-701678"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2022-09-11",
+        "author": "Paula Acosta",
+        "date": "2022-09-12",
         "publication": "el-tiempo",
-        "title": "Godwin, Petro y Pinochet",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-godwin-petro-y-pinochet-701515"
+        "title": "Se les fue la mano",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paula-acosta/se-les-fue-la-mano-columna-de-paula-acosta-701667"
     },
     {
         "article-type": "column",
-        "author": "Gonzalo Perez Rojas",
-        "date": "2022-09-11",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2022-09-12",
         "publication": "el-tiempo",
-        "title": "El valor de la confianza",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gonzalo-perez-rojas/columna-de-gonzalo-perez-rojas-el-valor-de-la-confianza-701517"
+        "title": "Soluciones para seguridad y tr\u00e1nsito",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/soluciones-para-seguridad-y-transito-columna-de-guillermo-santos-calderon-701661"
     },
     {
         "article-type": "column",
-        "author": "Manuel Rodr\u00edguez Becerra",
-        "date": "2022-09-11",
+        "author": "Melba Escobar",
+        "date": "2022-09-12",
         "publication": "el-tiempo",
-        "title": "Descarbonizaci\u00f3n de la econom\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/columna-de-manuel-rodriguez-becerra-descarbonizacion-de-la-economia-701526"
-    },
-    {
-        "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2022-09-11",
-        "publication": "el-tiempo",
-        "title": "Prisioneros de nosotros mismos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/columna-de-victor-corcoba-herrero-prisioneros-de-nosotros-mismos-701535"
+        "title": "La gran matriarca",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/la-gran-matriarca-columna-de-melba-escobar-701676"
     }
 ]
