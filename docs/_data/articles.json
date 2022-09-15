@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-14",
+        "date": "2022-09-15",
         "publication": "el-colombiano",
-        "title": "Siete tragedias diarias",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/siete-tragedias-diarias-IN18621810"
+        "title": "El dilema de vender UNE",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-dilema-de-vender-une-AN18627755"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Botero Montoya",
+        "date": "2022-09-15",
+        "publication": "el-colombiano",
+        "title": "Energ\u00eda y poder nacional",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/energia-y-poder-nacional-IN18626680"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2022-09-15",
+        "publication": "el-colombiano",
+        "title": "Leer para salvarse",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/leer-para-salvarse-HN18626607"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2022-09-15",
+        "publication": "el-colombiano",
+        "title": "El sif\u00f3n del presidente",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-sifon-del-presidente-GN18626624"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2022-09-15",
+        "publication": "el-colombiano",
+        "title": "La rosa y el cardo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-rosa-y-el-cardo-MN18626659"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-09-15",
+        "publication": "el-colombiano",
+        "title": "Historias de locos bajitos (51)",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/historias-de-locos-bajitos-51-GN18626642"
     },
     {
         "article-type": "column",
@@ -48,52 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-amistad-la-gran-reina-DN18621442"
     },
     {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-09-14",
-        "publication": "el-colombiano",
-        "title": "Votos y violencia ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/votos-y-violencia-CN18621407"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Mej\u00eda Cubillos",
-        "date": "2022-09-13",
-        "publication": "el-colombiano",
-        "title": "El problema de la politizaci\u00f3n de la educaci\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-problema-de-la-politizacion-de-la-educacion-AO18613517"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2022-09-13",
-        "publication": "el-colombiano",
-        "title": "Necesidad de la tributaria",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/necesidad-de-la-tributaria-PO18613628"
-    },
-    {
-        "article-type": "column",
-        "author": "Federico Hoyos Salazar",
-        "date": "2022-09-13",
-        "publication": "el-colombiano",
-        "title": "Sobre el sentido del deber",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-el-sentido-del-deber-OO18613591"
-    },
-    {
-        "article-type": "column",
-        "author": "Amalia Londo\u00f1o Duque",
-        "date": "2022-09-13",
-        "publication": "el-colombiano",
-        "title": "Despedir a un escritor",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/despedir-a-un-escritor-EO18613610"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-14",
+        "date": "2022-09-15",
         "publication": "el-espectador",
-        "title": "La Mojana no resiste m\u00e1s de lo mismo como respuesta",
-        "url": "https://www.elespectador.com/opinion/editorial/la-mojana-no-resiste-mas-de-lo-mismo-como-respuesta/"
+        "title": "\u00bfSe pueden  condonar los cr\u00e9ditos del Icetex? Faltan datos ",
+        "url": "https://www.elespectador.com/opinion/editorial/se-pueden-condonar-los-creditos-del-icetex-faltan-datos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "Vocaci\u00f3n territorial",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/vocacion-territorial/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Cabrera",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "\u00bfY si se pierde la oportunidad?",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscarcabrera/y-si-se-pierde-la-oportunidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "Goodbye, Elizabeth",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/goodbye-elizabeth/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "Mensaje",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/mensaje/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "Como plumas al viento",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/como-plumas-al-viento/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "\u00bfEs antiderechos el nuevo director de la Polic\u00eda?",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/es-antiderechos-el-nuevo-director-de-la-policia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Manuel Ospina",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "La gasolina, cr\u00f3nica de un alza anunciada",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/la-gasolina-cronica-de-un-alza-anunciada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "La ciencia l\u00fagubre",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/la-ciencia-lugubre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "Las instituciones chilenas y las inglesas",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/las-instituciones-chilenas-y-las-inglesas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "\u00bfFrancia M\u00e1rquez tendr\u00e1 realmente un rol relevante en el gobierno de Petro?",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/francia-marquez-de-verdad-tendra-un-rol-relevante-en-el-gobierno-de-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "El agua: prioridad del di\u00e1logo social vinculante",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-agua-prioridad-del-dialogo-social-vinculante/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Candidata",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "\u00c1lvaro C\u00f3rdoba, hermano de Piedad C\u00f3rdoba, pudo evitar extradici\u00f3n: la Candidata",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/felipe-tascon-mal-llamado-zar-antidrogas-combate-prohibicion-de-las-drogas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-09-15",
+        "publication": "el-espectador",
+        "title": "Usamos un t\u00e9rmino errado para referirnos a los cuerpos encontrados en Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/usamos-un-termino-errado-para-referirnos-a-los-cuerpos-desmembrados-encontrados-en-bogota/"
     },
     {
         "article-type": "column",
@@ -120,163 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/los-juriscorruptos/"
     },
     {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2022-09-14",
-        "publication": "el-espectador",
-        "title": "Izium",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/izium/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-09-14",
-        "publication": "el-espectador",
-        "title": "Deforestaci\u00f3n: \u00bfcu\u00e1l es la alternativa?",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/deforestacion-cual-es-la-alternativa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2022-09-14",
-        "publication": "el-espectador",
-        "title": "Periodistas cr\u00edticos, \u00bftras las rejas?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/periodistas-criticos-tras-las-rejas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Oscar Guardiola-Rivera",
-        "date": "2022-09-14",
-        "publication": "el-espectador",
-        "title": "[Opini\u00f3n] La reina ha muerto",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/opinion-la-reina-ha-muerto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2022-09-14",
-        "publication": "el-espectador",
-        "title": "A tomar las riendas",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/a-tomar-las-riendas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-09-14",
-        "publication": "el-espectador",
-        "title": "Por favor no hagan un universo cinematogr\u00e1fico de Tolkien",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/por-favor-no-hagan-un-universo-cinematografico-de-tolkien/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2022-09-14",
-        "publication": "el-espectador",
-        "title": "Nueva definici\u00f3n de \u201cmuseo\u201d ",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/nueva-definicion-de-museo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Amaya",
-        "date": "2022-09-14",
-        "publication": "el-espectador",
-        "title": "Columna de Camilo Amaya: El hombre de las primeras veces ",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-amaya/el-hombre-de-las-primeras-veces/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2022-09-13",
-        "publication": "el-espectador",
-        "title": "Ecos del fascismo en Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/ecos-del-fascismo-en-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alfredo Molano Jimeno",
-        "date": "2022-09-13",
-        "publication": "el-espectador",
-        "title": "Vigilia en el sur de Bol\u00edvar",
-        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/vigilia-en-el-sur-de-bolivar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2022-09-13",
-        "publication": "el-espectador",
-        "title": "\u201cMemento mori, memento vivere\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/memento-mori-memento-vivere/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-09-13",
-        "publication": "el-espectador",
-        "title": "Los brit\u00e1nicos y la reina",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/los-britanicos-y-la-reina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2022-09-13",
-        "publication": "el-espectador",
-        "title": "\u201cFlashback\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/flashback/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-14",
+        "date": "2022-09-15",
         "publication": "el-tiempo",
-        "title": "Horror en Land\u00e1zuri",
-        "url": "https://www.eltiempo.com/opinion/editorial/horror-en-landazuri-editorial-el-tiempo-702250"
+        "title": "Una salida institucional",
+        "url": "https://www.eltiempo.com/opinion/editorial/una-salida-institucional-editorial-el-tiempo-702540"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2022-09-14",
+        "author": "Pedro Medellin",
+        "date": "2022-09-15",
         "publication": "el-tiempo",
-        "title": "Ilusionismo constitucional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/ilusionismo-constitucional-columna-de-alfonso-gomez-mendez-702231"
+        "title": "Pol\u00edtica y no academia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/politica-y-no-academia-columna-de-pedro-medellin-702521"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2022-09-14",
+        "author": "Claudia Palacios",
+        "date": "2022-09-15",
         "publication": "el-tiempo",
-        "title": "La muerte como paisaje",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/la-muerte-como-paisaje-columna-de-vladdo-702222"
+        "title": "Ministra, no todo es por ser mujer",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/ministra-no-todo-es-por-ser-mujer-columna-de-claudia-palacios-702476"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2022-09-14",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2022-09-15",
         "publication": "el-tiempo",
-        "title": "Nostalgia e indulgencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/nostalgia-e-indulgencia-columna-de-gustavo-duncan-702202"
+        "title": "Seres queridos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/seres-queridos-columna-de-juan-esteban-constain-702490"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Trujillo",
-        "date": "2022-09-14",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2022-09-15",
         "publication": "el-tiempo",
-        "title": "Septiembre se viste de jazz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-trujillo/septiembre-se-viste-de-jazz-columna-de-mauricio-trujillo-uribe-702210"
+        "title": "\u2018Trilce\u2019: una puerta en las entra\u00f1as del espejo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/trilce-una-puerta-en-las-entranas-del-espejo-columna-de-sergio-ramirez-702482"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2022-09-14",
+        "author": "Adriana Pombo",
+        "date": "2022-09-15",
         "publication": "el-tiempo",
-        "title": "Una reina hist\u00f3rica que s\u00ed supo gobernar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/una-reina-historica-que-si-supo-gobernar-columna-de-poncho-renteria-702206"
+        "title": "Entre motosierras y chuspas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adriana-pombo/entre-motosierras-y-chuspas-columna-de-adriana-pombo-702458"
     },
     {
         "article-type": "column",
-        "author": "Ximena Duque",
-        "date": "2022-09-14",
+        "author": "Women in Connection",
+        "date": "2022-09-15",
         "publication": "el-tiempo",
-        "title": "A creernos el cuento",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ximena-duque/a-creernos-el-cuento-columna-de-ximena-duque-702226"
+        "title": "La ciberseguridad empieza en casa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/la-ciberseguridad-empieza-en-casa-columna-de-women-in-connection-702506"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Luis Esparza",
+        "date": "2022-09-15",
+        "publication": "el-tiempo",
+        "title": "Purgas y militares",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/purgas-y-militares-columna-de-jose-luis-esparza-702500"
     }
 ]
