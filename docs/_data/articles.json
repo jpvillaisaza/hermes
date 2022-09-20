@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-19",
+        "date": "2022-09-20",
         "publication": "el-colombiano",
-        "title": "La par\u00e1bola de James",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-parabola-de-james-IK18653759"
+        "title": "Enfermando al paciente",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/enfermando-al-paciente-FK18659268"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2022-09-20",
+        "publication": "el-colombiano",
+        "title": "Amnesia y paz",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/amnesia-y-paz-JK18658717"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-09-20",
+        "publication": "el-colombiano",
+        "title": "Tributaria, crecimiento y pobreza",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/tributaria-crecimiento-y-pobreza-CK18658648"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-09-20",
+        "publication": "el-colombiano",
+        "title": "Aguas turbulentas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/aguas-turbulentas-EK18658682"
+    },
+    {
+        "article-type": "column",
+        "author": "Kenneth Mendiwelson",
+        "date": "2022-09-20",
+        "publication": "el-colombiano",
+        "title": "Valor intr\u00ednseco del emprendimiento",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/valor-intrinseco-del-emprendimiento-PK18658700"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-09-20",
+        "publication": "el-colombiano",
+        "title": "Regenerar sin tener que decrecer",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/regenerar-sin-tener-que-decrecer-LK18658614"
     },
     {
         "article-type": "column",
@@ -48,52 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/marchare-el-26-de-septiembre-JK18653684"
     },
     {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-09-18",
-        "publication": "el-colombiano",
-        "title": "Cr\u00f3nica de un colapso anunciado",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/cronica-de-un-colapso-anunciado-HK18651754"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Echeverry",
-        "date": "2022-09-18",
-        "publication": "el-colombiano",
-        "title": "Conservadores izquierdistas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/conservadores-izquierdistas-DK18651736"
-    },
-    {
-        "article-type": "column",
-        "author": "Elbac\u00e9 Restrepo",
-        "date": "2022-09-18",
-        "publication": "el-colombiano",
-        "title": "Un mont\u00f3n de hermanos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/un-monton-de-hermanos-EK18651702"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-09-18",
-        "publication": "el-colombiano",
-        "title": "Los cubanos, los grandes olvidados del continente",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-cubanos-los-grandes-olvidados-del-continente-OK18651719"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-09-18",
-        "publication": "el-colombiano",
-        "title": "Bibliotecas personales",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/bibliotecas-personales-LK18651684"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-19",
+        "date": "2022-09-20",
         "publication": "el-espectador",
-        "title": "Una oportunidad de construir el pa\u00eds desde las regiones",
-        "url": "https://www.elespectador.com/opinion/editorial/una-oportunidad-de-construir-el-pais-desde-las-regiones/"
+        "title": "No podemos seguir normalizando el autoritarismo",
+        "url": "https://www.elespectador.com/opinion/editorial/no-podemos-seguir-normalizando-el-autoritarismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "La falta de confianza en la justicia",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/la-falta-de-confianza-en-la-justicia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "De Tarz\u00e1n al bar\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/de-tarzan-al-baron/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "La paz total necesita un viraje",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-paz-total-necesita-un-viraje/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "Coldplay",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/coldplay/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "C\u00f3mo hacer una Constituci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/como-hacer-una-constitucion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "Palos de ciego",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/palos-de-ciego/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "Masacre de Sabra y Chatila",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/masacre-de-sabra-y-chatila/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "Descubridores de nuevas fronteras",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/descubridores-de-nuevas-fronteras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "\u00bfPor qu\u00e9 se han vuelto m\u00e1s frecuentes las crisis emocionales en los j\u00f3venes?",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/por-que-se-han-vuelto-mas-frecuentes-las-crisis-emocionales-en-los-jovenes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "\u00bfSer\u00e1 absurdo?",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/sera-absurdo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "Las regionales, nuevo \u201cround\u201d de poder",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/las-regionales-nuevo-round-de-poder/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Vanegas Ath\u00edas",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "La guerra es la paz",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/la-guerra-es-la-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-09-20",
+        "publication": "el-espectador",
+        "title": "\u00bfTe cae mal la ex de tu novio? Este video te interesa",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/te-cae-mal-la-ex-de-tu-novio-este-video-te-interesa/"
     },
     {
         "article-type": "column",
@@ -120,179 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/paz-total/"
     },
     {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2022-09-19",
-        "publication": "el-espectador",
-        "title": "Con la propiedad topamos",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/con-la-propiedad-topamos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Santiago Montenegro",
-        "date": "2022-09-19",
-        "publication": "el-espectador",
-        "title": "Lecciones de Chile para Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/santiago-montenegro/lecciones-de-chile-para-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-09-19",
-        "publication": "el-espectador",
-        "title": "R\u00e9quiem por la democracia participativa, v\u00edctima de sus padres putativos",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/requiem-por-la-democracia-participativa-victima-de-sus-padres-putativos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-09-19",
-        "publication": "el-espectador",
-        "title": "\u00bfReformar sin renovar?",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/reformar-sin-renovar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-09-19",
-        "publication": "el-espectador",
-        "title": "La plat\u00edca del agro",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/la-platica-del-agro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-09-19",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: la selecci\u00f3n y Colombia, una relaci\u00f3n t\u00f3xica",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-la-seleccion-y-colombia-una-relacion-toxica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2022-09-19",
-        "publication": "el-espectador",
-        "title": "La vaca lechera",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-vaca-lechera/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2022-09-19",
-        "publication": "el-espectador",
-        "title": "Columna de Jorge Tovar: El poder por explotar en la Dimayor",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-el-poder-por-explotar-en-la-dimayor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Fagua*",
-        "date": "2022-09-19",
-        "publication": "el-espectador",
-        "title": "Estado de Cosas Inconstitucional para los firmantes de paz",
-        "url": "https://www.elespectador.com/colombia-20/analistas/estado-de-cosas-inconstitucional-para-los-firmantes-de-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-09-19",
-        "publication": "el-espectador",
-        "title": "En Colombia, las mujeres ganamos 12% menos que los hombres",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/en-colombia-las-mujeres-ganamos-12-menos-que-los-hombres/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2022-09-19",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cPara tener paz total se necesita claridad total\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-para-tener-paz-total-se-necesita-claridad-total/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2022-09-18",
-        "publication": "el-espectador",
-        "title": "El problema de las tarifas el\u00e9ctricas",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/el-problema-de-las-tarifas-electricas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2022-09-18",
-        "publication": "el-espectador",
-        "title": "Una y m\u00faltiple",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/una-y-multiple/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-19",
+        "date": "2022-09-20",
         "publication": "el-tiempo",
-        "title": "El horror de la guerra",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-del-19-de-septiembre-de-2022-el-horror-de-la-guerra-703388"
+        "title": "Los di\u00e1logos regionales",
+        "url": "https://www.eltiempo.com/opinion/editorial/los-dialogos-regionales-editorial-el-tiempo-703684"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-09-19",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-09-20",
         "publication": "el-tiempo",
-        "title": "Ante la sensacional bancada del partido petroconservador",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-ante-la-bancada-del-partido-petroconservador-703401"
+        "title": "Las siete vidas de \u2018M\u00e1rquez\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/las-siete-vidas-de-marquez-columna-de-jose-manuel-acevedo-703591"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-09-19",
+        "author": "Juan Pablo Calv\u00e1s",
+        "date": "2022-09-20",
         "publication": "el-tiempo",
-        "title": "Licencia social",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-licencia-social-703409"
+        "title": "\u00bfY d\u00f3nde est\u00e1 el polic\u00eda?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/y-donde-esta-el-policia-columna-de-juan-pablo-calvas-703601"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2022-09-19",
+        "author": "Viviane Morales Hoyos",
+        "date": "2022-09-20",
         "publication": "el-tiempo",
-        "title": "Fiscal, proteja al pa\u00eds",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-fiscal-proteja-al-pais-703400"
+        "title": "Presidente Petro: no sacrifique su mejor propuesta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/presidente-petro-no-sacrifique-su-mejor-propuesta-viviane-morales-703595"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-09-19",
+        "author": "Eduardo Escobar",
+        "date": "2022-09-20",
         "publication": "el-tiempo",
-        "title": "La \u2018inescrupulosa y corrupta mafia\u2019 del empresariado antioque\u00f1o",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-inescrupulosa-mafia-del-empresariado-antioqueno-703404"
+        "title": "La ilusi\u00f3n de la paz",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/la-ilusion-de-la-paz-columna-de-eduardo-escobar-703624"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2022-09-19",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-09-20",
         "publication": "el-tiempo",
-        "title": "La vivienda juvenil",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-la-vivienda-juvenil-703402"
+        "title": "Oficios ex\u00f3ticos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/oficios-exoticos-columna-de-oscar-dominguez-703585"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-09-19",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2022-09-20",
         "publication": "el-tiempo",
-        "title": "Cerebros ejecutivos, en unos y ceros",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-cerebros-ejecutivos-en-unos-y-ceros-703390"
+        "title": "Pintura blanca",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/pintura-blanca-columna-de-jotamario-arbelaez-703616"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-09-19",
+        "author": "Eduardo Escobar",
+        "date": "2022-09-20",
         "publication": "el-tiempo",
-        "title": "\u00bfDe qui\u00e9n son los ni\u00f1os y las ni\u00f1as del ICBF?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-de-quien-son-los-ninos-y-las-ninas-del-icbf-703405"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2022-09-19",
-        "publication": "el-tiempo",
-        "title": "Goleadores eran los de hoy",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-goleadores-eran-los-de-hoy-703406"
+        "title": "La ilusi\u00f3n de la paz",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/la-ilusion-de-la-paz-columna-de-eduardo-escobar-703624"
     }
 ]
