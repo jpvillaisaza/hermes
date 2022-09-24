@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-23",
+        "date": "2022-09-24",
         "publication": "el-colombiano",
-        "title": "El gesto con Mon\u00f3meros",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-gesto-con-monomeros-AG18694411"
+        "title": "Las falsas democracias",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/las-falsas-democracias-HO18701251"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Mesa Puyo",
+        "date": "2022-09-24",
+        "publication": "el-colombiano",
+        "title": "\u00bfFracking?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/fracking-CO18700543"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Bernardo V\u00e9lez M.",
+        "date": "2022-09-24",
+        "publication": "el-colombiano",
+        "title": "El olvido que ya somos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-olvido-que-ya-somos-BO18700526"
+    },
+    {
+        "article-type": "column",
+        "author": "Natalia Zuluaga Rivera",
+        "date": "2022-09-24",
+        "publication": "el-colombiano",
+        "title": "\u201cEl monstruo de Guarne\u201d",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-monstruo-de-guarne-PO18700492"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2022-09-24",
+        "publication": "el-colombiano",
+        "title": "La \u201cEPS-tanasia\u201d",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-eps-tanasia-FO18700454"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2022-09-24",
+        "publication": "el-colombiano",
+        "title": "Sobre peque\u00f1os espacios inc\u00f3modos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-pequenos-espacios-incomodos-AO18700437"
     },
     {
         "article-type": "column",
@@ -48,68 +88,12 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/larga-vida-a-su-majestad-roger-FG18690050"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Perfetti del Corral",
-        "date": "2022-09-22",
-        "publication": "el-colombiano",
-        "title": "Medell\u00edn, sin confianza perdemos todos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/medellin-sin-confianza-perdemos-todos-MI18678051"
-    },
-    {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2022-09-22",
-        "publication": "el-colombiano",
-        "title": "El hubiera no existe",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-hubiera-no-existe-JI18678089"
-    },
-    {
-        "article-type": "column",
-        "author": "Humberto Montero",
-        "date": "2022-09-22",
-        "publication": "el-colombiano",
-        "title": "La obscena concentraci\u00f3n de la riqueza",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-obscena-concentracion-de-la-riqueza-GI18678068"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2022-09-22",
-        "publication": "el-colombiano",
-        "title": "Ya ensayamos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/ya-ensayamos-II18678189"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-09-22",
-        "publication": "el-colombiano",
-        "title": "Vidas para lelos: Irma y Antonio (1)",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/vidas-para-lelos-irma-y-antonio-1-FI18677992"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-23",
+        "date": "2022-09-24",
         "publication": "el-espectador",
-        "title": "Algo anda muy mal en Emcali",
-        "url": "https://www.elespectador.com/opinion/editorial/algo-anda-muy-mal-en-emcali/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2022-09-23",
-        "publication": "el-espectador",
-        "title": "El d\u00eda sin gente",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-dia-sin-gente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2022-09-23",
-        "publication": "el-espectador",
-        "title": "Guerras y envidias",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/guerras-y-envidias/"
+        "title": "Urgen garant\u00edas para los conciertos en Colombia ",
+        "url": "https://www.elespectador.com/opinion/editorial/urgen-garantias-para-los-conciertos-en-colombia/"
     },
     {
         "article-type": "column",
@@ -161,14 +145,6 @@
     },
     {
         "article-type": "column",
-        "author": "Carolina Botero Cabrera",
-        "date": "2022-09-23",
-        "publication": "el-espectador",
-        "title": "Sin privacidad no hay identidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/sin-privacidad-no-hay-identidad/"
-    },
-    {
-        "article-type": "column",
         "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
         "date": "2022-09-23",
         "publication": "el-espectador",
@@ -184,107 +160,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/mexico-de-mi-alma/"
     },
     {
-        "article-type": "column",
-        "author": "Camilo Amaya",
-        "date": "2022-09-23",
-        "publication": "el-espectador",
-        "title": "Los momentos de Federer",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-amaya/los-momentos-de-federer/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabiola Calvo",
-        "date": "2022-09-23",
-        "publication": "el-espectador",
-        "title": "Ni\u00f1as y ni\u00f1os de Dagua en el Pac\u00edfico \u00bfCamino al Flower festival en Nueva York?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/fabiola-calvo-ninas-y-ninos-de-dagua-en-el-pacifico-camino-al-flower-festival-en-nueva-york/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2022-09-22",
-        "publication": "el-espectador",
-        "title": "\u00bfD\u00f3nde est\u00e1n los asesores?",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/donde-estan-los-asesores/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2022-09-22",
-        "publication": "el-espectador",
-        "title": "Combustibles",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/combustibles/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2022-09-22",
-        "publication": "el-espectador",
-        "title": "Los minusv\u00e1lidos en el aeropuerto",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/los-minusvalidos-en-el-aeropuerto/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-23",
+        "date": "2022-09-24",
         "publication": "el-tiempo",
-        "title": "La represi\u00f3n de Maduro",
-        "url": "https://www.eltiempo.com/opinion/editorial/la-represion-de-maduro-editorial-el-tiempo-704547"
+        "title": "Muertes prevenibles",
+        "url": "https://www.eltiempo.com/opinion/editorial/muertes-prevenibles-editorial-704840"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2022-09-23",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2022-09-24",
         "publication": "el-tiempo",
-        "title": "Abracadabra",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/abracadabra-columna-de-moises-wasserman-704480"
+        "title": "Instituciones y confianza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/instituciones-y-confianza-columna-de-carlos-caballero-argaez-704778"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2022-09-23",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2022-09-24",
         "publication": "el-tiempo",
-        "title": "Dramatismo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/dramatismo-columna-de-ricardo-silva-romero-704518"
+        "title": "De la ONU a la Colombia herida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/de-la-onu-a-la-colombia-herida-columna-de-luis-noe-ochoa-704787"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2022-09-23",
+        "author": "Lucy Nieto de Samper",
+        "date": "2022-09-24",
         "publication": "el-tiempo",
-        "title": "Suecia marca la senda en Europa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/suecia-marca-la-senda-en-europa-columna-de-antonio-albinana-704469"
+        "title": "\u00bfQu\u00e9 nos pas\u00f3?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/lucy-nieto-de-samper/que-nos-paso-columna-de-lucy-nieto-de-samper-704785"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2022-09-23",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2022-09-24",
         "publication": "el-tiempo",
-        "title": "Manual para la democracia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/manual-para-la-democracia-columna-de-eduardo-posada-carbo-704475"
+        "title": "Esta semana en Colombia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/esta-semana-en-colombia-columna-de-adolfo-zableh-704783"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2022-09-23",
+        "author": "Alfonso Carvajal",
+        "date": "2022-09-24",
         "publication": "el-tiempo",
-        "title": "\u00a1Hip\u00f3critas!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/hipocritas-columna-de-manuel-guzman-hennessey-704482"
+        "title": "\u2018Cr\u00edmenes de provincia\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/crimenes-de-provincia-columna-de-alfonso-carvajal-704802"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2022-09-23",
+        "author": "Alpher Rojas C.",
+        "date": "2022-09-24",
         "publication": "el-tiempo",
-        "title": "La fiesta de la palabra en el Tolima",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/la-fiesta-de-la-palabra-en-el-tolima-columna-de-jose-miguel-alzate-704523"
+        "title": "Acci\u00f3n colectiva y sociedad del conocimiento",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/accion-colectiva-y-sociedad-del-conocimiento-columna-de-alpher-rojas-704808"
     },
     {
         "article-type": "column",
-        "author": "Javier Borda Diaz",
-        "date": "2022-09-23",
+        "author": "Gregory Lobo",
+        "date": "2022-09-24",
         "publication": "el-tiempo",
-        "title": "\u2018Influencers\u2019 delincuentes, con casa por c\u00e1rcel",
-        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/influencers-delincuentes-con-casa-por-carcel-columna-de-javier-borda-703611"
+        "title": "Obligaciones cr\u00edticas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/obligaciones-criticas-columna-de-gregory-lobo-704805"
     }
 ]
