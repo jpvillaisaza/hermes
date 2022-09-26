@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-25",
+        "date": "2022-09-26",
         "publication": "el-colombiano",
-        "title": "Venezuela, \u00bfborr\u00f3n y cuenta nueva?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/venezuela-borron-y-cuenta-nueva-DO18703642"
+        "title": "El complejo de v\u00edctima",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-complejo-de-victima-IO18706248"
+    },
+    {
+        "article-type": "column",
+        "author": "Proantioquia",
+        "date": "2022-09-26",
+        "publication": "el-colombiano",
+        "title": "Caminos cruzados",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/caminos-cruzados-HO18705561"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
+        "date": "2022-09-26",
+        "publication": "el-colombiano",
+        "title": "El arte de incumplir y ficcionar",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-arte-de-incumplir-y-ficcionar-DO18705600"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Escobar Valencia",
+        "date": "2022-09-26",
+        "publication": "el-colombiano",
+        "title": "El rid\u00edculo mundo de los que se creen importantes",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-ridiculo-mundo-de-los-que-se-creen-importantes-AO18705544"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2022-09-26",
+        "publication": "el-colombiano",
+        "title": "\u00a1No existe subsidio a la gasolina!",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/no-existe-subsidio-a-la-gasolina-JO18705581"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2022-09-26",
+        "publication": "el-colombiano",
+        "title": "Medell\u00edn depende de Antioquia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/medellin-depende-de-antioquia-JO18705509"
     },
     {
         "article-type": "column",
@@ -48,52 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/cafe-amargo-HO18703554"
     },
     {
-        "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-09-25",
-        "publication": "el-colombiano",
-        "title": "Insostenible",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/insostenible-BO18703534"
-    },
-    {
-        "article-type": "column",
-        "author": "David Escobar Arango",
-        "date": "2022-09-25",
-        "publication": "el-colombiano",
-        "title": "Los atemporales",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-atemporales-LO18703495"
-    },
-    {
-        "article-type": "column",
-        "author": "Juliana Vel\u00e1squez Rodr\u00edguez",
-        "date": "2022-09-25",
-        "publication": "el-colombiano",
-        "title": "40 puntos a los 40",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/40-puntos-a-los-40-KO18703458"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2022-09-25",
-        "publication": "el-colombiano",
-        "title": "Turbulencia en el espacio de la paz",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/turbulencia-en-el-espacio-de-la-paz-AO18703425"
-    },
-    {
-        "article-type": "column",
-        "author": "Diego Mesa Puyo",
-        "date": "2022-09-24",
-        "publication": "el-colombiano",
-        "title": "\u00bfFracking?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/fracking-CO18700543"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-25",
+        "date": "2022-09-26",
         "publication": "el-espectador",
-        "title": "Era hora de abrir la frontera, pero el camino no ser\u00e1 f\u00e1cil",
-        "url": "https://www.elespectador.com/opinion/editorial/era-hora-de-abrir-la-frontera-pero-el-camino-no-sera-facil/"
+        "title": "Las mujeres iran\u00edes contra los ayatol\u00e1s",
+        "url": "https://www.elespectador.com/opinion/editorial/las-mujeres-iranies-contra-los-ayatolas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Guillermo Rivera",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "Rodolfo Hern\u00e1ndez y el d\u00e9ficit democr\u00e1tico de nuestra sociedad",
+        "url": "https://www.elespectador.com/opinion/columnistas/grivera/rodolfo-hernandez-y-el-deficit-democratico-de-nuestra-sociedad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "Los sabios de la tribu",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/los-sabios-de-la-tribu/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "El presupuesto 2023 y la ciencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-presupuesto-2023-y-la-ciencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "Leg\u00edtimo vocero",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/legitimo-vocero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "\u00bfC\u00f3mo \u201ccesa hostilidades\u201d una mafia criminal? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/como-cesa-hostilidades-una-mafia-criminal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "La otra reforma agraria",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/la-otra-reforma-agraria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "Petro, una luz en la ONU",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/petro-una-luz-en-la-onu/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "Mineducaci\u00f3n Gaviria vuelve a subsidios a la demanda",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/mineducacion-gaviria-vuelve-a-subsidios-a-la-demanda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "\u00bfApertura? Venezuela vive aqu\u00ed",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/apertura-venezuela-vive-aqui/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: El debut de Lorenzo",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/el-debut-de-lorenzo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elementa DD.HH.",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "Mujeres, territorios cocaleros y el mandato de la guerra",
+        "url": "https://www.elespectador.com/colombia-20/analistas/elementa-ddhh-mujeres-territorios-cocaleros-y-el-mandato-de-la-guerra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cEra hora de abrir la frontera, pero el camino no ser\u00e1 f\u00e1cil\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-era-hora-de-abrir-la-frontera-pero-el-camino-no-sera-facil/"
+    },
+    {
+        "article-type": "column",
+        "author": "Natalia Gait\u00e1n",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "La revoluci\u00f3n del f\u00fatbol femenino",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-camilo-garzon/la-revolucion-del-futbol-femenino-futbol-colombiano-seleccion-colombia-columna-de-natalia-gaitan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Ara\u00fajo V\u00e9lez",
+        "date": "2022-09-26",
+        "publication": "el-espectador",
+        "title": "Identidad: violencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/identidad-violencia-futbol-colombiano-seleccion-colombia-columna-de-fernando-araujo/"
     },
     {
         "article-type": "column",
@@ -105,22 +217,6 @@
     },
     {
         "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "Gran estafa",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/gran-estafa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "Discurso en el lugar equivocado ",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/discurso-en-el-lugar-equivocado/"
-    },
-    {
-        "article-type": "column",
         "author": "Tatiana Acevedo Guerrero",
         "date": "2022-09-25",
         "publication": "el-espectador",
@@ -128,171 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/tres-imprecisiones-y-un-peligro/"
     },
     {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "Petro, la guerra contra las drogas y la prohibici\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/petro-la-guerra-contra-las-drogas-y-la-prohibicion/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "Un d\u00e9spota acorralado",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/un-despota-acorralado/"
-    },
-    {
-        "article-type": "column",
-        "author": "William Ospina",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "La corrupci\u00f3n desde el comienzo (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/la-corrupcion-desde-el-comienzo-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "Paz y carteles",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/paz-y-carteles/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "Retroceso de la econom\u00eda mundial",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/retroceso-de-la-economia-mundial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "La paz con los desertores",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/la-paz-con-los-desertores/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "\u00bfExiste en el continente una \u201cmarea rosa\u201d?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/existe-en-el-continente-una-marea-rosa/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-62/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Pel\u00e1ez Restrepo",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "Columna de Hern\u00e1n Pel\u00e1ez: Una idea",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-pelaez-restrepo/columna-de-hernan-pelaez-una-idea/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "Cap\u00edtulo 35: Bombardeo",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/gobierno-de-gustavo-petro-satura-a-la-opinion-publica-con-exceso-de-noticias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Thomas Blanco",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "Crisis de indentidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/thomas-blanco/crisis-de-identidad-futbol-colombiano-seleccion-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2022-09-25",
-        "publication": "el-espectador",
-        "title": "Sin pedir ni imponer",
-        "url": "https://www.elespectador.com/opinion/columnistas/sin-pedir-ni-imponer/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-25",
+        "date": "2022-09-26",
         "publication": "el-tiempo",
-        "title": "Frenar las invasiones",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-del-25-de-septiembre-de-2022-frenar-las-invasiones-704977"
+        "title": "Bogot\u00e1 y Caracas",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-26-de-septiembre-de-2022-bogota-y-caracas-705128"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2022-09-25",
+        "author": "Juan Lozano",
+        "date": "2022-09-26",
         "publication": "el-tiempo",
-        "title": "La consigna",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-la-consigna-704978"
+        "title": "Envalentonando invasores",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-envalentonando-invasores-705133"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2022-09-25",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2022-09-26",
         "publication": "el-tiempo",
-        "title": "Los alelados",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-los-alelados-704992"
+        "title": "Comandos regionales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-comandos-regionales-705134"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2022-09-25",
+        "author": "Paola Ochoa",
+        "date": "2022-09-26",
         "publication": "el-tiempo",
-        "title": "18 millones de damnificados",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-18-millones-de-damnificados-704998"
+        "title": "Las mujeres del presidente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-las-mujeres-del-presidente-705135"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2022-09-25",
+        "author": "Luis Felipe Henao",
+        "date": "2022-09-26",
         "publication": "el-tiempo",
-        "title": "P\u00f3nganse de acuerdo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-ponganse-de-acuerdo-704979"
+        "title": "\u00bfAhora les salimos a deber a las disidencias?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-les-salimos-a-deber-a-las-disidencias-705138"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2022-09-25",
+        "author": "Kandya Obezo Casseres",
+        "date": "2022-09-26",
         "publication": "el-tiempo",
-        "title": "La vor\u00e1gine en la ONU",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-la-voragine-en-la-onu-704993"
+        "title": "La Sirenita negra y los medios colombianos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/kandya-obezo-casseres/columna-de-kandya-obezo-la-sirenita-negra-y-los-medios-colombianos-705131"
     },
     {
         "article-type": "column",
-        "author": "Luis Carlos Villegas",
-        "date": "2022-09-25",
+        "author": "Armando Silva",
+        "date": "2022-09-26",
         "publication": "el-tiempo",
-        "title": "Problemas y reformas globales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-carlos-villegas/columna-de-luis-carlos-villegas-problemas-y-reformas-globales-704995"
+        "title": "El sue\u00f1o de los mu\u00f1ecos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-el-sueno-de-los-munecos-705132"
     },
     {
         "article-type": "column",
-        "author": "Stefano Farn\u00e9",
-        "date": "2022-09-25",
+        "author": "Melba Escobar",
+        "date": "2022-09-26",
         "publication": "el-tiempo",
-        "title": "Los ricos en Colombia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/stefano-farne/columna-de-stefano-farne-los-ricos-en-colombia-705000"
-    },
-    {
-        "article-type": "column",
-        "author": "Bj\u00f8rn Lomborg",
-        "date": "2022-09-25",
-        "publication": "el-tiempo",
-        "title": "Desconexi\u00f3n entre \u00e9lite mundial y realidad podr\u00eda llevarnos al caos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/columna-de-bjorn-lomborg-desconexion-entre-elite-mundial-y-realidad-705003"
+        "title": "Hombres sin miedo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-hombres-sin-miedo-705136"
     }
 ]
