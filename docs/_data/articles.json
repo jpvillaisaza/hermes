@@ -2,10 +2,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-27",
+        "date": "2022-09-28",
         "publication": "el-colombiano",
-        "title": "El tal p\u00e1nico s\u00ed existe",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-tal-panico-si-existe-DP18711727"
+        "title": "\u00bfQui\u00e9n lidera la oposici\u00f3n?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/quien-lidera-la-oposicion-LP18717185"
+    },
+    {
+        "article-type": "column",
+        "author": "David E. Santos G\u00f3mez",
+        "date": "2022-09-28",
+        "publication": "el-colombiano",
+        "title": "La diplomacia de los sapos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-diplomacia-de-los-sapos-KP18716480"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2022-09-28",
+        "publication": "el-colombiano",
+        "title": "Pr\u00f3fugos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/profugos-GP18716514"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Oppenheimer",
+        "date": "2022-09-28",
+        "publication": "el-colombiano",
+        "title": "El contundente informe de la ONU sobre Venezuela",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-contundente-informe-de-la-onu-sobre-venezuela-GP18716572"
+    },
+    {
+        "article-type": "column",
+        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
+        "date": "2022-09-28",
+        "publication": "el-colombiano",
+        "title": "\u00bfSer\u00e1 un fracaso?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sera-un-fracaso-CP18716554"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas a la Directora",
+        "date": "2022-09-28",
+        "publication": "el-colombiano",
+        "title": "Las invasiones de tierras y la impasibilidad gubernamental",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/las-invasiones-de-tierras-y-la-impasibilidad-gubernamental-EP18716534"
+    },
+    {
+        "article-type": "column",
+        "author": "Dany Alejandro Hoyos",
+        "date": "2022-09-28",
+        "publication": "el-colombiano",
+        "title": "Mientras llega el \u00e9xito",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/mientras-llega-el-exito-HP18716463"
     },
     {
         "article-type": "column",
@@ -40,60 +88,100 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/area-metropolitana-en-deuda-KP18710794"
     },
     {
-        "article-type": "column",
-        "author": "Federico Hoyos Salazar",
-        "date": "2022-09-27",
-        "publication": "el-colombiano",
-        "title": "\u00bfPoes\u00eda o pol\u00edtica p\u00fablica?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/poesia-o-politica-publica-PP18710690"
-    },
-    {
-        "article-type": "column",
-        "author": "Proantioquia",
-        "date": "2022-09-26",
-        "publication": "el-colombiano",
-        "title": "Caminos cruzados",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/caminos-cruzados-HO18705561"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
-        "date": "2022-09-26",
-        "publication": "el-colombiano",
-        "title": "El arte de incumplir y ficcionar",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-arte-de-incumplir-y-ficcionar-DO18705600"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Escobar Valencia",
-        "date": "2022-09-26",
-        "publication": "el-colombiano",
-        "title": "El rid\u00edculo mundo de los que se creen importantes",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-ridiculo-mundo-de-los-que-se-creen-importantes-AO18705544"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
-        "date": "2022-09-26",
-        "publication": "el-colombiano",
-        "title": "\u00a1No existe subsidio a la gasolina!",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/no-existe-subsidio-a-la-gasolina-JO18705581"
-    },
-    {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2022-09-26",
-        "publication": "el-colombiano",
-        "title": "Medell\u00edn depende de Antioquia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/medellin-depende-de-antioquia-JO18705509"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-27",
+        "date": "2022-09-28",
         "publication": "el-espectador",
-        "title": "Italia se inclina hacia la extrema derecha",
-        "url": "https://www.elespectador.com/opinion/editorial/italia-se-inclina-hacia-la-extrema-derecha/"
+        "title": "Se manifestaron unas voces que deben escucharse",
+        "url": "https://www.elespectador.com/opinion/editorial/se-manifestaron-unas-voces-que-deben-escucharse/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2022-09-28",
+        "publication": "el-espectador",
+        "title": "\u00bfHuele a corrupci\u00f3n?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/huele-a-corrupcion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2022-09-28",
+        "publication": "el-espectador",
+        "title": "20 minutos de fama ",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/20-minutos-de-fama/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Pablo Ruiz Soto",
+        "date": "2022-09-28",
+        "publication": "el-espectador",
+        "title": "Legalizaci\u00f3n y compensaci\u00f3n por bosques amaz\u00f3nicos",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/legalizacion-y-compensacion-por-bosques-amazonicos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2022-09-28",
+        "publication": "el-espectador",
+        "title": "Primer aviso ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/primer-aviso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2022-09-28",
+        "publication": "el-espectador",
+        "title": "El valor de la conversaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/el-valor-de-la-conversacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2022-09-28",
+        "publication": "el-espectador",
+        "title": "La primera de mil",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/la-primera-de-mil/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2022-09-28",
+        "publication": "el-espectador",
+        "title": "Entre la euforia y el conflicto social",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/entre-la-euforia-y-el-conflicto-social/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-09-28",
+        "publication": "el-espectador",
+        "title": "La reforma de salud \u00bft\u00e9cnica o pol\u00edtica?",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/la-reforma-de-salud-tecnica-o-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Kyle Johnson",
+        "date": "2022-09-28",
+        "publication": "el-espectador",
+        "title": "La Paz Total: no es la pol\u00edtica, es la ideolog\u00eda | Parte 1",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-paz-total-no-es-la-politica-es-la-ideologia-parte-1/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n Gallo Cubillos*",
+        "date": "2022-09-28",
+        "publication": "el-espectador",
+        "title": "La Paz Total, servicio militar obligatorio y nuevos paradigmas",
+        "url": "https://www.elespectador.com/colombia-20/analistas/columna-julian-gallo-la-paz-total-servicio-militar-obligatorio-y-nuevos-paradigmas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-09-28",
+        "publication": "el-espectador",
+        "title": "De Cantinflas al Che y otros discursos",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/de-cantinflas-al-che-y-otros-discursos/"
     },
     {
         "article-type": "column",
@@ -102,14 +190,6 @@
         "publication": "el-espectador",
         "title": "Que vuelva P\u00e9kerman",
         "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/que-vuelva-pekerman/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2022-09-27",
-        "publication": "el-espectador",
-        "title": "La tierra prometida, sin usurpadores",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-tierra-prometida-sin-usurpadores/"
     },
     {
         "article-type": "column",
@@ -129,11 +209,11 @@
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
+        "author": "Cristina de la Torre",
         "date": "2022-09-27",
         "publication": "el-espectador",
-        "title": "La Procuradur\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-procuraduria/"
+        "title": "La tierra prometida, sin usurpadores",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-tierra-prometida-sin-usurpadores/"
     },
     {
         "article-type": "column",
@@ -144,147 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/dua-lipa/"
     },
     {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2022-09-27",
-        "publication": "el-espectador",
-        "title": "Un garante de paz que tortura",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/un-garante-de-paz-que-tortura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Barajas Sandoval",
-        "date": "2022-09-27",
-        "publication": "el-espectador",
-        "title": "Comunidad Pol\u00edtica Europea",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/comunidad-politica-europea/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2022-09-27",
-        "publication": "el-espectador",
-        "title": "Esclavizaci\u00f3n y chicaneo",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/esclavizacion-y-chicaneo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pedro Viveros",
-        "date": "2022-09-27",
-        "publication": "el-espectador",
-        "title": "En Sop\u00f3: esp\u00edritu petrista, m\u00e9todo santista",
-        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/en-sopo-espiritu-petrista-metodo-santista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jarape",
-        "date": "2022-09-27",
-        "publication": "el-espectador",
-        "title": "C\u00e1ndida",
-        "url": "https://www.elespectador.com/opinion/columnistas/jarape/candida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Marocco",
-        "date": "2022-09-27",
-        "publication": "el-espectador",
-        "title": "Columna de Andr\u00e9s Marocco: Nuevo camino",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/columna-de-andres-marocco-nuevo-camino/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juliette de Rivero - ONU",
-        "date": "2022-09-27",
-        "publication": "el-espectador",
-        "title": "El desmantelamiento, la clave para la protecci\u00f3n duradera de los derechos humanos",
-        "url": "https://www.elespectador.com/colombia-20/analistas/juliette-de-rivero-desmantelamiento-de-grupos-armados-es-crucial-para-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Guillermo Rivera",
-        "date": "2022-09-26",
-        "publication": "el-espectador",
-        "title": "Rodolfo Hern\u00e1ndez y el d\u00e9ficit democr\u00e1tico de nuestra sociedad",
-        "url": "https://www.elespectador.com/opinion/columnistas/grivera/rodolfo-hernandez-y-el-deficit-democratico-de-nuestra-sociedad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2022-09-26",
-        "publication": "el-espectador",
-        "title": "Los sabios de la tribu",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/los-sabios-de-la-tribu/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2022-09-26",
-        "publication": "el-espectador",
-        "title": "El presupuesto 2023 y la ciencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-presupuesto-2023-y-la-ciencia/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-09-27",
+        "date": "2022-09-28",
         "publication": "el-tiempo",
-        "title": "El martirio de Amini",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-martirio-de-amini-editorial-705417"
+        "title": "Tragedias evitables",
+        "url": "https://www.eltiempo.com/opinion/editorial/tragedias-evitables-editorial-el-tiempo-705703"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2022-09-27",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2022-09-28",
         "publication": "el-tiempo",
-        "title": "El mal ejemplo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/el-mal-ejemplo-columna-de-jose-manuel-acevedo-705346"
+        "title": "La negociaci\u00f3n permanente de la ley",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/la-negociacion-permanente-de-la-ley-columna-de-alfonso-gomez-mendez-705666"
     },
     {
         "article-type": "column",
-        "author": "Marcela Mel\u00e9ndez",
-        "date": "2022-09-27",
+        "author": "Vladdo",
+        "date": "2022-09-28",
         "publication": "el-tiempo",
-        "title": "Entre lo urgente y lo importante",
-        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/entre-lo-urgente-y-lo-importante-columna-de-marcela-melendez-705404"
+        "title": "La palabra, tan modesta y tan poderosa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/la-palabra-tan-modesta-y-tan-poderosa-columna-de-vladdo-705680"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2022-09-27",
+        "author": "Gustavo Duncan",
+        "date": "2022-09-28",
         "publication": "el-tiempo",
-        "title": "La elegancia de Federer",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/la-elegancia-de-federer-columna-de-sergio-munoz-bata-705354"
+        "title": "Un poco de prudencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/un-poco-de-prudencia-columna-de-gustavo-duncan-705650"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2022-09-27",
+        "author": "Gustavo Duncan",
+        "date": "2022-09-28",
         "publication": "el-tiempo",
-        "title": "La lecci\u00f3n de los dinosaurios",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/la-leccion-de-los-dinosaurios-columna-de-sergio-munoz-bata-705356"
+        "title": "Un poco de prudencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/un-poco-de-prudencia-columna-de-gustavo-duncan-705650"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2022-09-27",
+        "author": "Poncho Renter\u00eda",
+        "date": "2022-09-28",
         "publication": "el-tiempo",
-        "title": "Una directora talentosa y valiente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/una-directora-talentosa-y-valiente-columna-de-fernando-quiroz-705341"
+        "title": "Por ad\u00faltero cay\u00f3 presidente del BID",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/por-adultero-cayo-presidente-del-bid-705643"
     },
     {
         "article-type": "column",
-        "author": "Cristina Esguerra Miranda",
-        "date": "2022-09-27",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2022-09-28",
         "publication": "el-tiempo",
-        "title": "M\u00e1s all\u00e1 de la verdad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/cristina-esguerra-miranda/mas-alla-de-la-verdad-columna-de-cristina-esguerra-705365"
+        "title": "Cadena de mando de la desgracia venezolana",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/cadena-de-mando-de-la-desgracia-venezolana-columna-de-alexander-cambero-705638"
     },
     {
         "article-type": "column",
-        "author": "Robert Max Steenkist",
-        "date": "2022-09-27",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2022-09-28",
         "publication": "el-tiempo",
-        "title": "Retom\u00e1ndo el h\u00e1bito",
-        "url": "https://www.eltiempo.com/opinion/columnistas/robert-max-steenkist/retomando-el-habito-columna-de-robert-max-steenkist-705360"
+        "title": "Envenenar las relaciones, \u00a1Nooo!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/envenenar-las-relaciones-nooo-columna-de-victor-corcoba-705637"
     }
 ]
