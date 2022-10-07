@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-06",
+        "date": "2022-10-07",
         "publication": "el-colombiano",
-        "title": "\u00a1Ay, las ni\u00f1as!",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/ay-las-ninas-AH18799810"
+        "title": "\u00bfJustificar la violencia?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/justificar-la-violencia-IA18816817"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-10-07",
+        "publication": "el-colombiano",
+        "title": "Heridas abiertas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/heridas-abiertas-EA18813340"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Manrique",
+        "date": "2022-10-07",
+        "publication": "el-colombiano",
+        "title": "Del cielo, Cali, la sucursal",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/del-cielo-cali-la-sucursal-DA18813374"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2022-10-07",
+        "publication": "el-colombiano",
+        "title": "\u00bfJaque mate al ajedrez?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/jaque-mate-al-ajedrez-CA18813357"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-10-07",
+        "publication": "el-colombiano",
+        "title": "La capital de los asesinos en serie",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-capital-de-los-asesinos-en-serie-BA18813323"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-10-07",
+        "publication": "el-colombiano",
+        "title": "El voto obligatorio",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-voto-obligatorio-DA18812616"
     },
     {
         "article-type": "column",
@@ -48,60 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/pensando-pensamientos-HH18796098"
     },
     {
+        "article-type": "editorial",
+        "author": null,
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "A devolverle el prestigio a la construcci\u00f3n de memoria",
+        "url": "https://www.elespectador.com/opinion/editorial/a-devolverle-el-prestigio-a-la-construccion-de-memoria/"
+    },
+    {
         "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-10-05",
-        "publication": "el-colombiano",
-        "title": "La d\u00e9bil respuesta de Am\u00e9rica Latina al imperialismo ruso",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-debil-respuesta-de-america-latina-al-imperialismo-ruso-AG18786688"
+        "author": "Mario Fernando Prado",
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "Una fundaci\u00f3n ejemplar",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/una-fundacion-ejemplar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Reyes Posada",
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "Mejor extinguir el dominio que comprar la tierra",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/mejor-extinguir-el-dominio-que-comprar-la-tierra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "Larga vida a las ferias del libro",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/larga-vida-a-las-ferias-del-libro/"
     },
     {
         "article-type": "column",
         "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2022-10-05",
-        "publication": "el-colombiano",
-        "title": "\u201cMadurar\u201d la paz total",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/madurar-la-paz-total-CG18786567"
-    },
-    {
-        "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2022-10-05",
-        "publication": "el-colombiano",
-        "title": "Los pies sobre la tierra",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-pies-sobre-la-tierra-PG18786584"
-    },
-    {
-        "article-type": "column",
-        "author": "David Yanovich",
-        "date": "2022-10-05",
-        "publication": "el-colombiano",
-        "title": "Obra de todos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/obra-de-todos-FG18786650"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-10-05",
-        "publication": "el-colombiano",
-        "title": "La silla vac\u00eda",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-silla-vacia-BG18786632"
-    },
-    {
-        "article-type": "editorial",
-        "author": null,
-        "date": "2022-10-06",
+        "date": "2022-10-07",
         "publication": "el-espectador",
-        "title": "Era necesario reconstruir los intentos de paz con el Eln",
-        "url": "https://www.elespectador.com/opinion/editorial/era-necesario-reconstruir-los-intentos-de-paz-con-el-eln/"
+        "title": "El suelo de una marcha f\u00fanebre",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/el-suelo-de-una-marcha-funebre/"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2022-10-06",
+        "author": "Carlos Gran\u00e9s",
+        "date": "2022-10-07",
         "publication": "el-espectador",
-        "title": "Austeridad, dineros p\u00fablicos y consumo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/austeridad-dineros-publicos-y-consumo/"
+        "title": "Ensayito sobre la fama",
+        "url": "https://www.elespectador.com/opinion/columnistas/carlos-granes/ensayito-sobre-la-fama/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "Comienzo feliz",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/comienzo-feliz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "Rusia: \u00bfemplear\u00e1 armas nucleares?",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/rusia-empleara-armas-nucleares/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "Pol\u00edticas de Estado: un reto de Am\u00e9rica ",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/politicas-de-estado-un-reto-de-america/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "La ingenua pelea contra el hambre",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/la-ingenua-pelea-contra-el-hambre/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "\u00bfY d\u00f3nde est\u00e1 la autoridad?",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/y-donde-esta-la-autoridad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "Una \u201cplaylist\u201d de otra galaxia",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/una-playlist-de-otra-galaxia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elementa DD.HH.",
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "15 a\u00f1os de la extradici\u00f3n de Jorge 40 y \u00bfqu\u00e9 nos ense\u00f1a del caso Otoniel?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/extraditar-la-verdad-15-anos-de-la-extradicion-de-jorge-40-y-que-nos-ensena-del-caso-otoniel/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2022-10-07",
+        "publication": "el-espectador",
+        "title": "Bolsonaro: el TIRANO que se quiere reelegir en Brasil | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-bolsonaro-el-tirano-que-se-quiere-reelegir-en-brasil/"
     },
     {
         "article-type": "column",
@@ -113,6 +209,14 @@
     },
     {
         "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2022-10-06",
+        "publication": "el-espectador",
+        "title": "Austeridad, dineros p\u00fablicos y consumo ",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/austeridad-dineros-publicos-y-consumo/"
+    },
+    {
+        "article-type": "column",
         "author": "Columnista invitado EE",
         "date": "2022-10-06",
         "publication": "el-espectador",
@@ -120,163 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-icfes/"
     },
     {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "C\u00f3mo a\u00f1oro nuestras fiestas de antes (carta para m\u00ed, de m\u00ed)",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/como-anoro-nuestras-fiestas-de-antes-carta-para-mi-de-mi/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "Artes para los ni\u00f1os",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/artes-para-los-ninos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "Feminicidio de Mar\u00eda Bel\u00e9n Bernal moviliza a Ecuador",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/feminicidio-de-maria-belen-bernal-moviliza-a-ecuador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "Erizos en globo pensando en relojes",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/erizos-en-globo-pensando-en-relojes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "El vicio de demoler",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-vicio-de-demoler/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "Los campesinos no comen tierra",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/los-campesinos-no-comen-tierra/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "Columna del profe Montoya: Microciclo local",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-del-profe-montoya-microciclo-local/"
-    },
-    {
-        "article-type": "column",
-        "author": "Paloma Bayona Escall\u00f3n*",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "Eln: los tres niveles del di\u00e1logo",
-        "url": "https://www.elespectador.com/colombia-20/analistas/eln-los-tres-niveles-del-dialogo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "Las primeras mujeres que representaron a Colombia en los Juegos Ol\u00edmpicos",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/las-primeras-mujeres-que-representaron-a-colombia-en-los-juegos-olimpicos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "\u00bfLa depilaci\u00f3n femenina est\u00e1 llegando a su fin?",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/la-depilacion-femenina-esta-llegando-a-su-fin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "Gas natural, clave para superar los desaf\u00edos globales",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/gas-natural-clave-para-superar-los-desafios-globales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-10-06",
-        "publication": "el-espectador",
-        "title": "Reflexiones interesantes alrededor del impacto del lenguaje",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/reflexiones-interesantes-alrededor-del-impacto-del-lenguaje-redaccion-al-desnudo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2022-10-05",
-        "publication": "el-espectador",
-        "title": "\u201cChild-friendly\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/child-friendly/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-06",
+        "date": "2022-10-07",
         "publication": "el-tiempo",
-        "title": "Apuesta con desaf\u00edos",
-        "url": "https://www.eltiempo.com/opinion/editorial/apuesta-con-desafios-editorial-el-tiempo-707716"
+        "title": "La visita de Blinken",
+        "url": "https://www.eltiempo.com/opinion/editorial/la-visita-de-blinken-editorial-el-tiempo-708009"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-10-06",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-10-07",
         "publication": "el-tiempo",
-        "title": "A poner orden en casa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/a-poner-orden-en-casa-columna-de-pedro-medellin-707652"
+        "title": "Viajes en el tiempo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/viajes-en-el-tiempo-columna-de-moises-wasserman-707930"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-10-06",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-10-07",
         "publication": "el-tiempo",
-        "title": "D\u00f3nde est\u00e1n los fantasmas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/donde-estan-los-fantasmas-columna-de-pedro-medellin-707678"
+        "title": "Reflejo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/reflejo-columna-de-ricardo-silva-romero-707952"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2022-10-06",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-10-07",
         "publication": "el-tiempo",
-        "title": "\u00bfDesde d\u00f3nde se logran las grandes transformaciones?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/desde-donde-se-logran-las-grandes-transformaciones-juliana-mejia-707634"
+        "title": "Partidos en temporada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/partidos-en-temporada-columna-de-eduardo-posada-carbo-707940"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2022-10-06",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2022-10-07",
         "publication": "el-tiempo",
-        "title": "\u00a1Milagro! L\u00e1zaro resucita",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/milagro-lazaro-resucita-columna-de-fernando-sanchez-torres-707646"
+        "title": "Brasil: malos presagios para Lula da Silva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/brasil-malos-presagios-para-lula-da-silva-columna-de-antonio-albinana-707932"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2022-10-06",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2022-10-07",
         "publication": "el-tiempo",
-        "title": "Nunca m\u00e1s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/nunca-mas-columna-de-diana-pardo-707631"
+        "title": "Valencia y Agudelo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/valencia-y-agudelo-columna-de-manuel-guzman-hennessey-707950"
     },
     {
         "article-type": "column",
-        "author": "Women in Connection",
-        "date": "2022-10-06",
+        "author": "Cristina Arrast\u00eda",
+        "date": "2022-10-07",
         "publication": "el-tiempo",
-        "title": "La negaci\u00f3n de las brechas de g\u00e9nero",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/la-negacion-de-las-brechas-de-genero-columna-de-women-in-connection-707655"
+        "title": "Nada sin mujeres: urge que ellas ganen participaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/nada-sin-mujeres-urge-que-ellas-ganen-participacion-cristina-arrastia-707966"
+    },
+    {
+        "article-type": "column",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2022-10-07",
+        "publication": "el-tiempo",
+        "title": "Nov\u00edsimas poetas colombianas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/novisimas-poetas-colombianas-columna-de-fabio-martinez-707956"
     }
 ]
