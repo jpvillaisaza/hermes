@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-10",
+        "date": "2022-10-11",
         "publication": "el-colombiano",
-        "title": "La recta final del 2022",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-recta-final-del-2022-JD18825905"
+        "title": "Qui\u00e9n lo iba a creer",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/quien-lo-iba-a-creer-DC18832724"
+    },
+    {
+        "article-type": "column",
+        "author": "Federico Hoyos Salazar",
+        "date": "2022-10-11",
+        "publication": "el-colombiano",
+        "title": "Responsabilidad pol\u00edtica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/responsabilidad-politica-FC18832700"
+    },
+    {
+        "article-type": "column",
+        "author": "Amalia Londo\u00f1o Duque",
+        "date": "2022-10-11",
+        "publication": "el-colombiano",
+        "title": "El alcalde tuitero",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-alcalde-tuitero-HC18832577"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Mej\u00eda Cubillos",
+        "date": "2022-10-11",
+        "publication": "el-colombiano",
+        "title": "Reducir la desigualdad no es cuesti\u00f3n de empat\u00eda",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/reducir-la-desigualdad-no-es-cuestion-de-empatia-AC18832233"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-10-11",
+        "publication": "el-colombiano",
+        "title": "China envejece y se encoje",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/china-envejece-y-se-encoje-BC18832560"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-10-11",
+        "publication": "el-colombiano",
+        "title": "Una tributaria indeseable",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/una-tributaria-indeseable-FC18832250"
     },
     {
         "article-type": "column",
@@ -48,52 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/doble-o-nada-hagan-sus-apuestas-senores-ND18825833"
     },
     {
-        "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2022-10-09",
-        "publication": "el-colombiano",
-        "title": "Nuevo esfuerzo para cerrar el conflicto armado",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/nuevo-esfuerzo-para-cerrar-el-conflicto-armado-FD18824010"
-    },
-    {
-        "article-type": "column",
-        "author": "Elbac\u00e9 Restrepo",
-        "date": "2022-10-09",
-        "publication": "el-colombiano",
-        "title": "Ciudad Bol\u00edvar: \u00a1pura magia!",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/ciudad-bolivar-pura-magia-ND18823925"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-10-09",
-        "publication": "el-colombiano",
-        "title": "Pobre Antioquia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/pobre-antioquia-CD18823908"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-10-09",
-        "publication": "el-colombiano",
-        "title": "El contubernio",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-contubernio-AD18823993"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-10-09",
-        "publication": "el-colombiano",
-        "title": "Medell\u00edn no necesita un voto contra Quintero",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/medellin-no-necesita-un-voto-contra-quintero-LD18823976"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-10",
+        "date": "2022-10-11",
         "publication": "el-espectador",
-        "title": "\u00bfJos\u00e9 Antonio Ocampo, el \u201cadulto responsable\u201d?",
-        "url": "https://www.elespectador.com/opinion/editorial/jose-antonio-ocampo-el-adulto-responsable/"
+        "title": "Bombardeos de venganza contra Ucrania",
+        "url": "https://www.elespectador.com/opinion/editorial/bombardeos-de-venganza-contra-ucrania/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "Reforma pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/reforma-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "\u00bfD\u00f3nde est\u00e1 Javier?",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/donde-esta-javier/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "\u201cCarpe diem\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/carpe-diem/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Leal Buitrago",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "\u00bfEl \u00faltimo libro que publico?",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/el-ultimo-libro-que-publico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "Falsos positivos: de p\u00e1jaros y escopetas",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/falsos-positivos-de-pajaros-y-escopetas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "La educaci\u00f3n, la convivencia y la paz",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/la-educacion-la-convivencia-y-la-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Orduz",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "\u00bfQui\u00e9n sufre m\u00e1s la impuntualidad presidencial? Su equipo",
+        "url": "https://www.elespectador.com/opinion/columnistas/rafael-orduz/quien-sufre-mas-la-impuntualidad-presidencial-su-equipo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "La derecha en busca de autor",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/la-derecha-en-busca-de-autor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "Petro y el Valle del Cauca",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/petro-y-el-valle-del-cauca/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "La vida es dura",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/la-vida-es-dura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "Garant\u00edas para la etnicidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/garantias-para-la-etnicidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "Do\u00f1a Annie, la del Nobel",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/dona-annie-la-del-nobel/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-10-11",
+        "publication": "el-espectador",
+        "title": "La mejor contribuci\u00f3n a la paz",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/la-mejor-contribucion-a-la-paz/"
     },
     {
         "article-type": "column",
@@ -120,171 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/la-enfermedad/"
     },
     {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2022-10-10",
-        "publication": "el-espectador",
-        "title": "\u00bfSe dice \u00abdiabetis\u00bb o \u00abdiabetes\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-dice-diabetis-o-diabetes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2022-10-10",
-        "publication": "el-espectador",
-        "title": "Causas de la inflaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/causas-de-la-inflacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2022-10-10",
-        "publication": "el-espectador",
-        "title": "La Corte que puede cambiar la historia de internet",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-corte-que-puede-cambiar-la-historia-de-internet/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-10-10",
-        "publication": "el-espectador",
-        "title": "Cuidado con la econom\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/cuidado-con-la-economia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2022-10-10",
-        "publication": "el-espectador",
-        "title": "La tasa de inter\u00e9s no controla la inflaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/la-tasa-de-interes-no-controla-la-inflacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-10-10",
-        "publication": "el-espectador",
-        "title": "Una cierta y necesaria neutralidad del Estado",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/una-cierta-y-necesaria-neutralidad-del-estado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2022-10-10",
-        "publication": "el-espectador",
-        "title": "Un quinto pilar para la \u201cpaz total\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/un-quinto-pilar-para-la-paz-total/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-10-10",
-        "publication": "el-espectador",
-        "title": "Un revolc\u00f3n necesario",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/un-revolcon-necesario/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-10-10",
-        "publication": "el-espectador",
-        "title": "Respirar azul profundo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/respirar-azul-profundo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-10-10",
-        "publication": "el-espectador",
-        "title": "Editorial en video: un acuerdo que genera esperanza para el campo colombiano",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-un-acuerdo-que-genera-esperanza-para-el-campo-colombiano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2022-10-09",
-        "publication": "el-espectador",
-        "title": "Necesitamos mayor transparencia tributaria ",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/necesitamos-mayor-transparencia-tributaria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2022-10-09",
-        "publication": "el-espectador",
-        "title": "Ojo con los indignados",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/ojo-con-los-indignados/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2022-10-09",
-        "publication": "el-espectador",
-        "title": "Leer con odio",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/leer-con-odio/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-10",
+        "date": "2022-10-11",
         "publication": "el-tiempo",
-        "title": "El Nobel de Paz y Putin",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-10-de-octubre-de-2022-el-nobel-de-paz-y-putin-708526"
+        "title": "El combate a la inflaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-combate-a-la-inflacion-editorial-el-tiempo-708810"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-10-10",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-10-11",
         "publication": "el-tiempo",
-        "title": "Procuradora vs. minhacienda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-procuradora-vs-minhacienda-708540"
+        "title": "El cambio sostenible",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/el-cambio-sostenible-columna-de-jose-manuel-acevedo-708743"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-10-10",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2022-10-11",
         "publication": "el-tiempo",
-        "title": "Las jornadas marat\u00f3nicas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-las-jornadas-maratonicas-708544"
+        "title": "Desiguales y violentos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/desiguales-y-violentos-columna-de-marcela-melendez-708778"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2022-10-10",
+        "author": "Francisco Cajiao",
+        "date": "2022-10-11",
         "publication": "el-tiempo",
-        "title": "La llave maestra es la simplificaci\u00f3n de la extinci\u00f3n del dominio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-simplificacion-de-la-extincion-del-dominio-708548"
+        "title": "La huella de Carlos Eduardo Vasco",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/la-huella-de-carlos-eduardo-vasco-columna-de-francisco-cajiao-708782"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-10-10",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2022-10-11",
         "publication": "el-tiempo",
-        "title": "Para aquellos que van a correr la Marat\u00f3n de Chicago",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-para-los-que-van-a-correr-la-maraton-de-chicago-708549"
+        "title": "Al rescate de los refugiados",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/al-rescate-de-los-refugiados-columna-de-sergio-munoz-708763"
     },
     {
         "article-type": "column",
-        "author": "Edna Cristina Bonilla Seb\u00e1",
-        "date": "2022-10-10",
+        "author": "Fernando Quiroz",
+        "date": "2022-10-11",
         "publication": "el-tiempo",
-        "title": "La transformaci\u00f3n educativa no da espera",
-        "url": "https://www.eltiempo.com/opinion/columnistas/edna-cristina-bonilla-seba/columna-de-edna-bonilla-la-transformacion-educativa-no-da-espera-708539"
+        "title": "La candela vive",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/la-candela-vive-columna-de-fernando-quiroz-708736"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2022-10-10",
+        "author": "Alpher Rojas C.",
+        "date": "2022-10-11",
         "publication": "el-tiempo",
-        "title": "Amor y hongos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-amor-y-hongos-708528"
+        "title": "\u00a1Adi\u00f3s a las armas!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/adios-a-las-armas-columna-de-alpher-rojas-708786"
     },
     {
         "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2022-10-10",
+        "author": "Pedro Javier Rojas Guevara",
+        "date": "2022-10-11",
         "publication": "el-tiempo",
-        "title": "Escobar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-escobar-708543"
+        "title": "Entender el problema: relaciones entre estrategia militar y la pol\u00edtica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-javier-rojas-guevara/entender-el-problema-relaciones-entre-estrategia-militar-y-la-politica-708789"
     }
 ]
