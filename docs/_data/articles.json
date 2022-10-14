@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-13",
+        "date": "2022-10-14",
         "publication": "el-colombiano",
-        "title": "Que no nos pase lo de Alemania ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/que-no-nos-pase-lo-de-alemania-HE18856436"
+        "title": "El enemigo interno ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-enemigo-interno-BH18860111"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-10-14",
+        "publication": "el-colombiano",
+        "title": "El \u201cCoco\u201d uribista",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-coco-uribista-BE18859910"
+    },
+    {
+        "article-type": "column",
+        "author": "Natalia Zuluaga Rivera",
+        "date": "2022-10-14",
+        "publication": "el-colombiano",
+        "title": "\u201c350 en el corral\u201d",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/350-en-el-corral-LE18859233"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-10-14",
+        "publication": "el-colombiano",
+        "title": "El lockout o cierre empresarial",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-lockout-o-cierre-empresarial-LE18859893"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2022-10-14",
+        "publication": "el-colombiano",
+        "title": "Donarse en vida",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/donarse-en-vida-DE18859875"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-10-14",
+        "publication": "el-colombiano",
+        "title": " Carta abierta a Elkin Restrepo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/carta-abierta-a-elkin-restrepo-IE18859188"
     },
     {
         "article-type": "column",
@@ -48,60 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/cuantas-veces-IE18853319"
     },
     {
-        "article-type": "column",
-        "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2022-10-12",
-        "publication": "el-colombiano",
-        "title": "El k\u00ednder de Gaviria",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-kinder-de-gaviria-DF18841561"
-    },
-    {
-        "article-type": "column",
-        "author": "Dany Alejandro Hoyos",
-        "date": "2022-10-12",
-        "publication": "el-colombiano",
-        "title": "Los robos se volvieron paisaje",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-robos-se-volvieron-paisaje-BF18841473"
-    },
-    {
-        "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2022-10-12",
-        "publication": "el-colombiano",
-        "title": "\u00bfSe prepara Colombia?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/se-prepara-colombia-DF18841507"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-10-12",
-        "publication": "el-colombiano",
-        "title": "\u00bfQui\u00e9n va a ganar la segunda vuelta electoral en Brasil?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/quien-va-a-ganar-la-segunda-vuelta-electoral-en-brasil-LF18841578"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-10-12",
-        "publication": "el-colombiano",
-        "title": "Pensando en mi Choc\u00f3",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/pensando-en-mi-choco-EF18841544"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-13",
+        "date": "2022-10-14",
         "publication": "el-espectador",
-        "title": "Por fin se avanza hacia el cannabis legal y regulado",
-        "url": "https://www.elespectador.com/opinion/editorial/por-fin-se-avanza-hacia-el-cannabis-legal-y-regulado/"
+        "title": "Nadie deber\u00eda exiliarse por aportarle a la verdad",
+        "url": "https://www.elespectador.com/opinion/editorial/nadie-deberia-exiliarse-por-aportarle-a-la-verdad/"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2022-10-13",
+        "author": "Arturo Guerrero",
+        "date": "2022-10-14",
         "publication": "el-espectador",
-        "title": "Pol\u00edgrafo",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/poligrafo/"
+        "title": "El humo digital",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/el-humo-digital/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "\u00bfEnvejecer o madurar?",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/envejecer-o-madurar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "La econom\u00eda es pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/la-economia-es-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "Unas de cal\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/unas-de-cal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "De bicicletas y patinetas",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/de-bicicletas-y-patinetas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "Construyamos entre todos ",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/construyamos-entre-todos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "Del frailej\u00f3n y otros demonios",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/del-frailejon-y-otros-demonios/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "\u00bfPodr\u00e1 el Estado perseguir peleas de gallos?",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/podra-el-estado-perseguir-peleas-de-gallos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "Inflaci\u00f3n: \u00bfdif\u00edcil de controlar?",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/inflacion-dificil-de-controlar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "Las filtraciones de Guacamaya",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/las-filtraciones-de-guacamaya/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Manuel Ospina",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "Corrupci\u00f3n que arrastra pobreza",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/corrupcion-que-arrastra-pobreza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "Opini\u00f3n: la UNAD, una joya del sector p\u00fablico y la educaci\u00f3n superior en Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/unad-una-joya-del-sector-publico-y-la-educacion-superior-en-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Escobar",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "Transici\u00f3n y soberan\u00eda alimentaria",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-escobar/transicion-y-soberania-alimentaria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-10-14",
+        "publication": "el-espectador",
+        "title": "Las ni\u00f1as tambi\u00e9n saben sobre derechos sexuales y equidad de g\u00e9nero",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/las-ninas-tambien-saben-sobre-derechos-sexuales-y-equidad-de-genero/"
     },
     {
         "article-type": "column",
@@ -113,178 +217,82 @@
     },
     {
         "article-type": "column",
-        "author": "Adriana Cooper",
+        "author": "Jos\u00e9 Fernando Isaza",
         "date": "2022-10-13",
         "publication": "el-espectador",
-        "title": "Moldear lo que somos",
-        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/moldear-lo-que-somos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2022-10-13",
-        "publication": "el-espectador",
-        "title": "\u00bfEst\u00e1 cerca la legalizaci\u00f3n de la marihuana?",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/esta-cerca-la-legalizacion-de-la-marihuana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls",
-        "date": "2022-10-13",
-        "publication": "el-espectador",
-        "title": "Presos por marchar",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/presos-por-marchar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
-        "date": "2022-10-13",
-        "publication": "el-espectador",
-        "title": "Las ruanas de Mario ",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/las-ruanas-de-mario/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2022-10-13",
-        "publication": "el-espectador",
-        "title": "La izquierda: m\u00e1s inquietudes que soluciones",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/la-izquierda-mas-inquietudes-que-soluciones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2022-10-13",
-        "publication": "el-espectador",
-        "title": "El regreso del profesor Pinto",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-el-regreso-del-jorge-luis-pinto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-10-13",
-        "publication": "el-espectador",
-        "title": "Hicimos una infograf\u00eda sobre Petro y Duque que dej\u00f3 m\u00e1s dudas que respuestas",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/hicimos-una-infografia-sobre-gustavo-petro-e-ivan-duque-que-dejo-mas-dudas-que-respuestas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Amaya",
-        "date": "2022-10-13",
-        "publication": "el-espectador",
-        "title": "Columna de Camilo Amaya: Salir a flote",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-amaya/salir-a-flote/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Rivas",
-        "date": "2022-10-12",
-        "publication": "el-espectador",
-        "title": "Decrecer",
-        "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/decrecer/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2022-10-12",
-        "publication": "el-espectador",
-        "title": "Perseguido, a muerte, por ser de la Comisi\u00f3n de la Verdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/perseguido-a-muerte-por-ser-de-la-comision-de-la-verdad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-10-12",
-        "publication": "el-espectador",
-        "title": "Ambiente, prioridad en riesgo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/ambiente-prioridad-en-riesgo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-10-12",
-        "publication": "el-espectador",
-        "title": "De tiempos y vacas muertas",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/de-tiempos-y-vacas-muertas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-10-12",
-        "publication": "el-espectador",
-        "title": "Acciones que suman",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/acciones-que-suman/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2022-10-12",
-        "publication": "el-espectador",
-        "title": "Pr\u00e9ndalo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/prendalo/"
+        "title": "Pol\u00edgrafo",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/poligrafo/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-13",
+        "date": "2022-10-14",
         "publication": "el-tiempo",
-        "title": "Reto en la v\u00eda",
-        "url": "https://www.eltiempo.com/opinion/editorial/reto-en-la-via-editorial-709435"
+        "title": "Proteger el crecimiento",
+        "url": "https://www.eltiempo.com/opinion/editorial/proteger-el-crecimiento-editorial-el-tiempo-709721"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-10-13",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-10-14",
         "publication": "el-tiempo",
-        "title": "\u00bfVale la pena semejante esfuerzo?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/vale-la-pena-semejante-esfuerzo-columna-de-pedro-medellin-709410"
+        "title": "Nobeles a lo imposible",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/nobeles-a-lo-imposible-columna-de-moises-wasserman-709656"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2022-10-13",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-10-14",
         "publication": "el-tiempo",
-        "title": "Quitarse las tetas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/quitarse-las-tetas-columna-de-claudia-palacios-709365"
+        "title": "Acrasia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/acrasia-columna-de-ricardo-silva-romero-709693"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-10-13",
+        "author": "Martha Senn",
+        "date": "2022-10-14",
         "publication": "el-tiempo",
-        "title": "Cargado de tigre",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/cargado-de-tigre-columna-de-juan-esteban-constain-709353"
+        "title": "Arte emergente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/arte-emergente-columna-de-martha-senn-709685"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2022-10-13",
+        "author": "Claudia Hakim",
+        "date": "2022-10-14",
         "publication": "el-tiempo",
-        "title": "M\u00fasicos callejeros",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/musicos-callejeros-columna-de-sergio-ramirez-709394"
+        "title": "El dise\u00f1o y su atracci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/el-diseno-y-su-atraccion-columna-de-claudia-hakim-709660"
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-10-13",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-10-14",
         "publication": "el-tiempo",
-        "title": "Divagaci\u00f3n sobre el Nobel",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/divagacion-sobre-el-nobel-columna-de-oscar-dominguez-709348"
+        "title": "M\u00e1s de 100 rones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/mas-de-100-rones-columna-de-eduardo-posada-carbo-709658"
     },
     {
         "article-type": "column",
-        "author": "Maria Helena Latorre",
-        "date": "2022-10-13",
+        "author": "Martha Ortiz",
+        "date": "2022-10-14",
         "publication": "el-tiempo",
-        "title": "Soberan\u00eda y seguridad alimentaria",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-helena-latorre/soberania-y-seguridad-alimentaria-columna-de-maria-helena-latorre-709402"
+        "title": "Artbo, la presi\u00f3n de la expectativa en el art",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/artbo-la-presion-de-la-expectativa-en-el-art-columna-de-martha-ortiz-709700"
     },
     {
         "article-type": "column",
-        "author": "Haidy S\u00e1nchez Mattsson",
-        "date": "2022-10-13",
+        "author": "Alfredo Rangel",
+        "date": "2022-10-14",
         "publication": "el-tiempo",
-        "title": "Las fiestas de San Francisco de As\u00eds: m\u00e1s que un festejo en Quibd\u00f3",
-        "url": "https://www.eltiempo.com/opinion/columnistas/haidy-sanchez-mattsson/las-fiestas-de-san-francisco-de-asis-mas-que-un-festejo-en-quibdo-709399"
+        "title": "Eln, con la sart\u00e9n por el mango",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/eln-con-la-sarten-por-el-mango-columna-de-alfredo-rangel-709663"
+    },
+    {
+        "article-type": "column",
+        "author": "Salvo Basile",
+        "date": "2022-10-14",
+        "publication": "el-tiempo",
+        "title": "La marihuana",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/la-marihuana-columna-de-salvo-basile-709697"
     }
 ]
