@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-17",
+        "date": "2022-10-18",
         "publication": "el-colombiano",
-        "title": "\u00bfEl segundo descalabro?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-segundo-descalabro-AG18872075"
+        "title": "La rebeli\u00f3n de los velos ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-rebelion-de-los-velos-GG18873948"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-10-18",
+        "publication": "el-colombiano",
+        "title": "Complejidad y ambig\u00fcedad con l\u00edderes institucionalistas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/complejidad-y-ambiguedad-con-lideres-institucionalistas-CG18873463"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-10-18",
+        "publication": "el-colombiano",
+        "title": "Gasolina al fuego",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/gasolina-al-fuego-HG18873411"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-10-18",
+        "publication": "el-colombiano",
+        "title": "Una China m\u00e1s centrada en s\u00ed misma ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/una-china-mas-centrada-en-si-misma-GG18873445"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-10-18",
+        "publication": "el-colombiano",
+        "title": "Confusi\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/confusion-NG18873428"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2022-10-18",
+        "publication": "el-colombiano",
+        "title": "Versos desde Uganda",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/versos-desde-uganda-NG18873394"
     },
     {
         "article-type": "column",
@@ -48,60 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-distorsion-gobernautica-IG18871283"
     },
     {
-        "article-type": "column",
-        "author": "Juan Carlos Echeverry",
-        "date": "2022-10-16",
-        "publication": "el-colombiano",
-        "title": "El gran temor",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-gran-temor-MH18869252"
-    },
-    {
-        "article-type": "column",
-        "author": "David Escobar Arango",
-        "date": "2022-10-16",
-        "publication": "el-colombiano",
-        "title": "El valor de las cosas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-valor-de-las-cosas-KH18869146"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Rengifo Botero",
-        "date": "2022-10-16",
-        "publication": "el-colombiano",
-        "title": "Error de comunicac\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/error-de-comunicacon-OH18869106"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-10-16",
-        "publication": "el-colombiano",
-        "title": "Proteger a los maestros",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/proteger-a-los-maestros-NH18869235"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-10-16",
-        "publication": "el-colombiano",
-        "title": "Demandamos desde aqu\u00ed",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/demandamos-desde-aqui-CH18869218"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-17",
+        "date": "2022-10-18",
         "publication": "el-espectador",
-        "title": "Nuevo viacrucis para Pedro Castillo en Per\u00fa",
-        "url": "https://www.elespectador.com/opinion/editorial/nuevo-viacrucis-para-pedro-castillo-en-peru/"
+        "title": "Justicia para Rafael Emiro Moreno",
+        "url": "https://www.elespectador.com/opinion/editorial/justicia-para-rafael-emiro-moreno/"
     },
     {
         "article-type": "column",
-        "author": "Rafael Rivas",
-        "date": "2022-10-17",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-10-18",
         "publication": "el-espectador",
-        "title": "Nuestra pol\u00edtica clim\u00e1tica",
-        "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/nuestra-politica-climatica/"
+        "title": "Lo que nos dej\u00f3 la cadena perpetua",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/lo-que-nos-dejo-la-cadena-perpetua/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2022-10-18",
+        "publication": "el-espectador",
+        "title": "Ojos abiertos",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/ojos-abiertos/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-10-18",
+        "publication": "el-espectador",
+        "title": "El escritor y el profeta",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-escritor-y-el-profeta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-10-18",
+        "publication": "el-espectador",
+        "title": "Paz con Fedeg\u00e1n y tierra: mo\u00f1ona de Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/paz-con-fedegan-y-tierra-monona-de-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-10-18",
+        "publication": "el-espectador",
+        "title": "Nosotros tambi\u00e9n",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/nosotros-tambien/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-10-18",
+        "publication": "el-espectador",
+        "title": "La recurrencia del \u00e1nimo imperial",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/la-recurrencia-del-animo-imperial/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-10-18",
+        "publication": "el-espectador",
+        "title": "\u201cEl testigo\u201d, homenaje a la identidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/el-testigo-homenaje-a-la-identidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2022-10-18",
+        "publication": "el-espectador",
+        "title": "Biden, Petro y el cannabis",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/biden-petro-y-el-cannabis/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-10-18",
+        "publication": "el-espectador",
+        "title": "Soy un perdido, soy un marihuano\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/soy-un-perdido-soy-un-marihuano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2022-10-18",
+        "publication": "el-espectador",
+        "title": "Hace 40 a\u00f1os gan\u00f3 un tal Felipe",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/hace-40-anos-gano-un-tal-felipe/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andrea Barrera T\u00e9llez*",
+        "date": "2022-10-18",
+        "publication": "el-espectador",
+        "title": "Justicia prospectiva para la Paz Total",
+        "url": "https://www.elespectador.com/colombia-20/analistas/justicia-prospectiva-para-la-paz-total/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2022-10-18",
+        "publication": "el-espectador",
+        "title": "Richard von Weizs\u00e4cker & Osvaldo Soriano",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/richard-von-weizsacker-osvaldo-soriano/"
     },
     {
         "article-type": "column",
@@ -110,6 +198,14 @@
         "publication": "el-espectador",
         "title": "Del orador a las obras",
         "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/del-orador-a-las-obras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Rivas",
+        "date": "2022-10-17",
+        "publication": "el-espectador",
+        "title": "Nuestra pol\u00edtica clim\u00e1tica",
+        "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/nuestra-politica-climatica/"
     },
     {
         "article-type": "column",
@@ -128,163 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/la-paz-subtotal/"
     },
     {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2022-10-17",
-        "publication": "el-espectador",
-        "title": "\u00bfCu\u00e1l es la diferencia entre \u00abfalta\u00bb y \u00abhace falta\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/cual-es-la-diferencia-entre-falta-y-hace-falta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Vanessa Rosales A.",
-        "date": "2022-10-17",
-        "publication": "el-espectador",
-        "title": "Guns n Roses",
-        "url": "https://www.elespectador.com/opinion/columnistas/vanessa-rosales-a-/guns-n-roses/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-10-17",
-        "publication": "el-espectador",
-        "title": "Cambiar el chip",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/cambiar-el-chip-2/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-10-17",
-        "publication": "el-espectador",
-        "title": "M\u00e1s administraci\u00f3n, menos discursos",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/mas-administracion-menos-discursos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Weildler Guerra",
-        "date": "2022-10-17",
-        "publication": "el-espectador",
-        "title": "Acerca de las cosas",
-        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/acerca-de-las-cosas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-10-17",
-        "publication": "el-espectador",
-        "title": "Pol\u00edtica identitaria interna, intromisi\u00f3n y globalizaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/politica-identitaria-interna-intromision-y-globalizacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Pel\u00e1ez Restrepo",
-        "date": "2022-10-17",
-        "publication": "el-espectador",
-        "title": " Columna de Hern\u00e1n Pel\u00e1ez: As\u00ed... siempre",
-        "url": "https://www.elespectador.com/deportes/asi-siempre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-10-17",
-        "publication": "el-espectador",
-        "title": "Dos \u201csapos\u201d m\u00e1s",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/dos-sapos-mas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Antequera Guzm\u00e1n",
-        "date": "2022-10-17",
-        "publication": "el-espectador",
-        "title": "Las v\u00edctimas de la guerra contra las drogas",
-        "url": "https://www.elespectador.com/colombia-20/analistas/jose-antequera-las-victimas-de-la-guerra-contra-las-drogas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-10-17",
-        "publication": "el-espectador",
-        "title": "Editorial en video: Hidroituango no puede fallar",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-hidroituango-no-puede-fallar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2022-10-16",
-        "publication": "el-espectador",
-        "title": "Turbulencia a la vista",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/turbulencia-a-la-vista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Leyva",
-        "date": "2022-10-16",
-        "publication": "el-espectador",
-        "title": "Inteligencia artificial de Colpensiones",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/inteligencia-artificial-de-colpensiones/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-17",
+        "date": "2022-10-18",
         "publication": "el-tiempo",
-        "title": "Hidroituango, hora cero",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-17-de-octubre-de-2022-hidroituango-hora-cero-710308"
+        "title": "Hallar los narcobienes",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-18-de-octubre-de-2022-hallar-los-narcobienes-710451"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-10-17",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-10-18",
         "publication": "el-tiempo",
-        "title": "Petro vs. el Gobierno",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-petro-vs-el-gobierno-710312"
+        "title": "Acabar el \u2018gota a gota\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-acabar-el-gota-a-gota-710461"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-10-17",
+        "author": "Viviane Morales Hoyos",
+        "date": "2022-10-18",
         "publication": "el-tiempo",
-        "title": "La hora de medir el talante democr\u00e1tico del Gobierno",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-p-gutierrez-la-hora-de-medir-el-talante-democratico-710322"
+        "title": "Populismo, ni grande ni chiquito",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/columna-de-viviane-morales-populismo-ni-grande-ni-chiquito-710462"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2022-10-17",
+        "author": "Juan Pablo Calv\u00e1s",
+        "date": "2022-10-18",
         "publication": "el-tiempo",
-        "title": "Proteger la independencia del Banco de la Rep\u00fablica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao-proteger-la-independencia-del-banco-de-la-republica-710314"
+        "title": "Otro nombramiento que no cuadra",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/columna-de-juan-pablo-calvas-otro-nombramiento-que-no-cuadra-710463"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-10-17",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-10-18",
         "publication": "el-tiempo",
-        "title": "Me equivoqu\u00e9 sobre el mundo de los videojuegos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-me-equivoque-sobre-el-mundo-de-los-videojuegos-710316"
+        "title": "Abuelo retrechero",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/columna-de-oscar-dominguez-giraldo-abuelo-retrechero-710454"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-10-17",
+        "author": "Eduardo Escobar",
+        "date": "2022-10-18",
         "publication": "el-tiempo",
-        "title": "Ahorros que tienen costos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-ahorros-que-tienen-costos-710315"
+        "title": "Reflexi\u00f3n peregrina",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-escobar-reflexion-peregrina-710466"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-10-17",
+        "author": "Javier Borda Diaz",
+        "date": "2022-10-18",
         "publication": "el-tiempo",
-        "title": "\u2018Hello fintech\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-hello-fintech-710311"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2022-10-17",
-        "publication": "el-tiempo",
-        "title": "\u00bfY los dem\u00e1s campeonatos para qu\u00e9 se juegan?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-y-los-demas-campeonatos-para-que-se-juegan-710321"
+        "title": "El insufrible deseo de ser influenciador",
+        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/columna-de-javier-borda-el-insufrible-deseo-de-ser-influenciador-710465"
     }
 ]
