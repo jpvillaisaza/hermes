@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-19",
+        "date": "2022-10-20",
         "publication": "el-colombiano",
-        "title": "Los bienes de la mafia",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/los-bienes-de-la-mafia-JG18877925"
+        "title": "\u00bfCu\u00e1ntas veces tenemos que perdonar a Iv\u00e1n M\u00e1rquez?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/cuantas-veces-tenemos-que-perdonar-a-ivan-marquez-DA18900641"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2022-10-20",
+        "publication": "el-colombiano",
+        "title": "\u00bfSomos libres?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/somos-libres-LI18899615"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Perfetti del Corral",
+        "date": "2022-10-20",
+        "publication": "el-colombiano",
+        "title": "Antioquia: \u00bfc\u00f3mo seguir creciendo?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/antioquia-como-seguir-creciendo-FI18899581"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2022-10-20",
+        "publication": "el-colombiano",
+        "title": "Los ferrocarriles",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/los-ferrocarriles-PI18899633"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2022-10-20",
+        "publication": "el-colombiano",
+        "title": "\u00a1Adi\u00f3s dim sum, hola curry! ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/adios-dim-sum-hola-curry-NI18899598"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-10-20",
+        "publication": "el-colombiano",
+        "title": "Croch\u00e9 ajedrec\u00edstico ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/croche-ajedrecistico-OI18899546"
     },
     {
         "article-type": "column",
@@ -33,14 +73,6 @@
     },
     {
         "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-10-19",
-        "publication": "el-colombiano",
-        "title": "Los esc\u00e1ndalos del Club Campestre",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-escandalos-del-club-campestre-KG18876950"
-    },
-    {
-        "article-type": "column",
         "author": "David E. Santos G\u00f3mez",
         "date": "2022-10-19",
         "publication": "el-colombiano",
@@ -56,52 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/el-papel-del-congreso-EG18876893"
     },
     {
-        "article-type": "column",
-        "author": "Juan Camilo Quintero",
-        "date": "2022-10-18",
-        "publication": "el-colombiano",
-        "title": "Complejidad y ambig\u00fcedad con l\u00edderes institucionalistas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/complejidad-y-ambiguedad-con-lideres-institucionalistas-CG18873463"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2022-10-18",
-        "publication": "el-colombiano",
-        "title": "Gasolina al fuego",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/gasolina-al-fuego-HG18873411"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2022-10-18",
-        "publication": "el-colombiano",
-        "title": "Una China m\u00e1s centrada en s\u00ed misma ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/una-china-mas-centrada-en-si-misma-GG18873445"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Ram\u00edrez Correa",
-        "date": "2022-10-18",
-        "publication": "el-colombiano",
-        "title": "Confusi\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/confusion-NG18873428"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-19",
+        "date": "2022-10-20",
         "publication": "el-espectador",
-        "title": "Es necesario proteger a Ecopetrol",
-        "url": "https://www.elespectador.com/opinion/editorial/es-necesario-proteger-a-ecopetrol/"
+        "title": "El riesgo del Ministerio de la Igualdad",
+        "url": "https://www.elespectador.com/opinion/editorial/el-riesgo-del-ministerio-de-la-igualdad/"
     },
     {
         "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2022-10-19",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2022-10-20",
         "publication": "el-espectador",
-        "title": "Consternaci\u00f3n de Ori\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/consternacion-de-orion/"
+        "title": "La paradoja EPR",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/la-paradoja-epr/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "Machismo y exclusi\u00f3n en el periodismo latinoamericano",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/machismo-y-exclusion-en-el-periodismo-latinoamericano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "El Reloj del D\u00eda del Juicio Final",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-reloj-del-dia-del-juicio-final/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "Los claroscuros de la reforma pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/los-claroscuros-de-la-reforma-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo Gall\u00f3n",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "\u201cLa impunidad\u2026\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/la-impunidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "Asesinato de periodistas e impunidad ",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/asesinato-de-periodistas-e-impunidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "Mitolog\u00eda de la marihuana",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/mitologia-de-la-marihuana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "La educaci\u00f3n asamblearia",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/la-educacion-asamblearia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Manuel Ospina",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "El imparable cambio clim\u00e1tico",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/el-imparable-cambio-climatico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "\u00bfY el nivel del f\u00fatbol colombiano?",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-y-el-nivel-del-futbol-colombiano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "\u00bfAlguien quiere pensar en los hombres?",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/alguien-quiere-pensar-en-los-hombres/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "\u00bf\u201dSiniestralidad superior al 100 %\u201d?: Este entrecomillado merec\u00eda explicaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/siniestralidad-superior-al-100-este-entrecomillado-merecia-explicacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Foro Nacional por Colombia",
+        "date": "2022-10-20",
+        "publication": "el-espectador",
+        "title": "El conflicto urbano y sus complejidades, \u00bfun reto para la \u2018paz total\u2019?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/paz-total-gustavo-petro-columna-de-opinion-sobre-los-retos-de-cara-al-conflicto-urbano-bogota-cali/"
     },
     {
         "article-type": "column",
@@ -121,138 +217,74 @@
     },
     {
         "article-type": "column",
-        "author": "Mario Morales",
+        "author": "Pascual Gaviria",
         "date": "2022-10-19",
         "publication": "el-espectador",
-        "title": "\u00bfY el presente para cu\u00e1ndo? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/y-el-presente-para-cuando/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2022-10-19",
-        "publication": "el-espectador",
-        "title": "Primero mi primaria",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/primero-mi-primaria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2022-10-19",
-        "publication": "el-espectador",
-        "title": "\u201cFalso positivo\u201d que nunca ser\u00e1 juzgado",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/falso-positivo-que-nunca-sera-juzgado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-10-19",
-        "publication": "el-espectador",
-        "title": "Baraye Azadi \u2014 For Freedom",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/baraye-azadi-for-freedom/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arlene B. Tickner",
-        "date": "2022-10-19",
-        "publication": "el-espectador",
-        "title": "Xi Jinping para rato",
-        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/xi-jinping-para-rato/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2022-10-19",
-        "publication": "el-espectador",
-        "title": "M\u00e9xico lindo y querido",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/mexico-lindo-y-querido/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2022-10-19",
-        "publication": "el-espectador",
-        "title": "Cambalache en la SAE",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/cambalache-en-la-sae/"
-    },
-    {
-        "article-type": "column",
-        "author": "Oscar Guardiola-Rivera",
-        "date": "2022-10-19",
-        "publication": "el-espectador",
-        "title": "Gran Breta\u00f1a no es Argentina",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/gran-bretana-no-es-argentina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2022-10-19",
-        "publication": "el-espectador",
-        "title": "La triada disruptiva",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/la-triada-disruptiva/"
+        "title": "Consternaci\u00f3n de Ori\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/consternacion-de-orion/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-19",
+        "date": "2022-10-20",
         "publication": "el-tiempo",
-        "title": "Rafael Emiro Moreno",
-        "url": "https://www.eltiempo.com/opinion/editorial/rafael-emiro-moreno-editorial-el-tiempo-710756"
+        "title": "Barreras que caen",
+        "url": "https://www.eltiempo.com/opinion/editorial/barreras-que-caen-editorial-el-tiempo-711065"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2022-10-19",
+        "author": "Pedro Medellin",
+        "date": "2022-10-20",
         "publication": "el-tiempo",
-        "title": "Ecos de Caldono",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/ecos-de-caldono-columna-de-vladdo-710690"
+        "title": "\u2018\u00bfQu\u00e9 parte es la que no han entendido?\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/que-parte-es-la-que-no-han-entendido-columna-de-pedro-medellin-711069"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2022-10-19",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2022-10-20",
         "publication": "el-tiempo",
-        "title": "La Nacho... mi universidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/la-nacho-mi-universidad-columna-de-florence-thomas-710682"
+        "title": "Nostalgia del im\u00e1n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/nostalgia-del-iman-columna-de-juan-esteban-constain-711035"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2022-10-19",
+        "author": "Mauricio Lloreda",
+        "date": "2022-10-20",
         "publication": "el-tiempo",
-        "title": "Clemencia Echeverri y los way\u00fas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/clemencia-echeverri-y-los-wayus-columna-de-jotamario-arbelaez-710684"
+        "title": "Estamos advertidos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/estamos-advertidos-columna-de-mauricio-lloreda-711000"
     },
     {
         "article-type": "column",
-        "author": "Patricia Rinc\u00f3n Mazo",
-        "date": "2022-10-19",
+        "author": "Juliana Mej\u00eda",
+        "date": "2022-10-20",
         "publication": "el-tiempo",
-        "title": "Aprendizajes de un esc\u00e1ndalo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/patricia-rincon-mazo/aprendizajes-de-un-escandalo-columna-de-patricia-rincon-710723"
+        "title": "\u00bfLa paz total asegura el fin de la violencia?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/la-paz-total-asegura-el-fin-de-la-violencia-columna-de-juliana-mejia-711013"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2022-10-19",
+        "author": "Jaime Castro",
+        "date": "2022-10-20",
         "publication": "el-tiempo",
-        "title": "Ver\u00f3nica Alcocer y la alcaldesa viajaron y...",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/veronica-alcocer-y-la-alcaldesa-viajaron-y-columna-de-poncho-renteria-710677"
+        "title": "\u00bfS\u00edmbolo patrio o instrumento pol\u00edtico?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jaime-castro/simbolo-patrio-o-instrumento-politico-columna-de-jaime-castro-710989"
     },
     {
         "article-type": "column",
-        "author": "Fernando Posada",
-        "date": "2022-10-19",
+        "author": "Diana Pardo",
+        "date": "2022-10-20",
         "publication": "el-tiempo",
-        "title": "El otro lado de las listas cerradas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/el-otro-lado-de-las-listas-cerradas-columna-de-fernando-posada-710720"
+        "title": "Nunca le pregunt\u00e9",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/nunca-le-pregunte-columna-de-diana-pardo-710985"
     },
     {
         "article-type": "column",
-        "author": "Fernando Montes Negret",
-        "date": "2022-10-19",
+        "author": "Juan Carlos Restrepo",
+        "date": "2022-10-20",
         "publication": "el-tiempo",
-        "title": "2023: \u00bfrecesi\u00f3n coordinada?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/2023-recesion-coordinada-columna-de-fernando-montes-710710"
+        "title": "Narcobienes y 'narcomales'",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/narcobienes-y-narcomales-columna-de-juan-carlos-restrepo-711010"
     }
 ]
