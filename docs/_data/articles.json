@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-28",
+        "date": "2022-10-29",
         "publication": "el-colombiano",
-        "title": "El fen\u00f3meno Sunak ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-fenomeno-sunak-LH18977268"
+        "title": "El factor Jesur\u00fan ",
+        "url": "https://www.elcolombiano.com/opinion/el-factor-jesurun-OI18988006"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Mesa Puyo",
+        "date": "2022-10-29",
+        "publication": "el-colombiano",
+        "title": "Construir sobre lo construido, la clave de la transici\u00f3n ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/construir-sobre-lo-construido-la-clave-de-la-transicion-CI18983607"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Correa Vel\u00e1squez",
+        "date": "2022-10-29",
+        "publication": "el-colombiano",
+        "title": "Caricias para alentar la vida ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/caricias-para-alentar-la-vida-HI18983422"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2022-10-29",
+        "publication": "el-colombiano",
+        "title": "Sobre lo que se viene al suelo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-lo-que-se-viene-al-suelo-CI18983463"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2022-10-29",
+        "publication": "el-colombiano",
+        "title": "Garc\u00eda M\u00e1rquez, cronista de Indias ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/garcia-marquez-cronista-de-indias-PI18983518"
+    },
+    {
+        "article-type": "column",
+        "author": "Johel Moreno S.",
+        "date": "2022-10-29",
+        "publication": "el-colombiano",
+        "title": "No ser\u00e1 un metro ligero sino otro tranv\u00eda",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/no-sera-un-metro-ligero-sino-otro-tranvia-GI18983072"
     },
     {
         "article-type": "column",
@@ -48,60 +88,132 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-esencia-medica-HH18977213"
     },
     {
-        "article-type": "column",
-        "author": "Humberto Montero",
-        "date": "2022-10-27",
-        "publication": "el-colombiano",
-        "title": "A decrecer para salvar el mundo ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/a-decrecer-para-salvar-el-mundo-BG18966205"
-    },
-    {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2022-10-27",
-        "publication": "el-colombiano",
-        "title": "Lleg\u00f3 carta ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/llego-carta-AG18966134"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2022-10-27",
-        "publication": "el-colombiano",
-        "title": "\u00bfY el socio mayoritario? ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/y-el-socio-mayoritario-GG18966099"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Botero Montoya",
-        "date": "2022-10-27",
-        "publication": "el-colombiano",
-        "title": "Di\u00e1logos Imaginarios",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/dialogos-imaginarios-KG18966185"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-10-27",
-        "publication": "el-colombiano",
-        "title": "El nonagenario menor",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-nonagenario-menor-DG18966151"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-28",
+        "date": "2022-10-29",
         "publication": "el-espectador",
-        "title": "Vientos de paz soplan desde Buenaventura",
-        "url": "https://www.elespectador.com/opinion/editorial/vientos-de-paz-soplan-desde-buenaventura/"
+        "title": "Elon Musk es due\u00f1o de Twitter, \u00bfy ahora qu\u00e9?",
+        "url": "https://www.elespectador.com/opinion/editorial/elon-musk-es-dueno-de-twitter-y-ahora-que/"
     },
     {
         "article-type": "column",
-        "author": "Augusto Trujillo Mu\u00f1oz",
-        "date": "2022-10-28",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2022-10-29",
         "publication": "el-espectador",
-        "title": "Perversiones de la desinformaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/perversiones-de-la-desinformacion/"
+        "title": "Impretics",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/impretics/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "\u201cSi fuera corrupto har\u00eda billete\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/si-fuera-corrupto-haria-billete/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "No escribir\u00e9 m\u00e1s",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/no-escribire-mas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "Educaci\u00f3n de calidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/educacion-de-calidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "Las cajas negras de la desaparici\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/las-cajas-negras-de-la-desaparicion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "Dos extra\u00f1os",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/dos-extranos/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "\u201cRubia\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/rubia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "PND brinda la oportunidad para tener m\u00e1s mujeres en seguridad digital ",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/pnd-brinda-la-oportunidad-para-tener-mas-mujeres-en-seguridad-digital/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ochoa",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "Jesur\u00fan: amateur poderoso",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/jesurun-amateur-poderoso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "La SMOB",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/la-smob/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mart\u00edn Jaramillo",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "Prohibido elegir operador de celular en Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/martin-jaramillo/prohibido-elegir-operador-de-celular-en-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro \u00c1lvarez",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "Por una pol\u00edtica pedag\u00f3gica para la escuela",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-alvarez/por-una-politica-pedagogica-para-la-escuela/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "Por la haza\u00f1a",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/por-la-hazana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Renson Said",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "Efraim Marketing",
+        "url": "https://www.elespectador.com/opinion/columnistas/renson-said/efraim-marketing/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-10-29",
+        "publication": "el-espectador",
+        "title": "\u00bfC\u00f3mo acceder a un aborto seguro si eres migrante?",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/como-acceder-a-un-aborto-seguro-si-eres-migrante/"
     },
     {
         "article-type": "column",
@@ -112,195 +224,51 @@
         "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/la-agricultura-fuente-de-contaminacion/"
     },
     {
-        "article-type": "column",
-        "author": "Juan Carlos Botero",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "Lo bueno, lo incierto y lo malo de Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/lo-bueno-lo-incierto-y-lo-malo-de-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "Nadando en coca",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/nadando-en-coca/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "Lleg\u00f3 el invierno",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/llego-el-invierno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "Las colegas colombianas de Florence Nightingale",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/las-colegas-colombianas-de-florence-nightingale/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "Manjares de reyes",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/manjares-de-reyes/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Sevillano",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "\u00bfIndulto o licencia para delinquir?",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/indulto-o-licencia-para-delinquir/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "Comentarios",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/comentarios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "La Amazon\u00eda, tan mencionada y tan marginada",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/la-amazonia-tan-mencionada-y-tan-marginada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Bada",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "In memoriam Jorge Risi",
-        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/in-memoriam-jorge-risi/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "\u00bfVenezuela es el MEJOR pa\u00eds del mundo gracias a Maduro? | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-venezuela-es-el-mejor-pais-del-mundo-gracias-a-maduro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "\u00bfC\u00f3mo abortar con pi\u00f1a y loratadina?",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/como-abortar-con-pina-y-loratadina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Joan C. L\u00f3pez / Columbia University",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "Miop\u00eda ante la violencia estructural",
-        "url": "https://www.elespectador.com/colombia-20/analistas/miopia-ante-la-violencia-estructural-contra-las-comunidades-indigenas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-10-28",
-        "publication": "el-espectador",
-        "title": "Las emotivas reacciones por el paso a la final del Mundial Femenino Sub 17",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/las-emotivas-reacciones-por-el-paso-a-la-final-del-mundial-femenino-sub-17/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2022-10-27",
-        "publication": "el-espectador",
-        "title": "Violencia vicaria",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/violencia-vicaria/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-28",
+        "date": "2022-10-29",
         "publication": "el-tiempo",
-        "title": "El m\u00ednimo para 2023",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-28-de-octubre-de-2022-el-minimo-para-2023-713224"
+        "title": "Grietas en el Soat",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-29-de-octubre-de-2022-grietas-en-el-soat-713532"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2022-10-28",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2022-10-29",
         "publication": "el-tiempo",
-        "title": "Curiosidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/columna-de-moises-wasserman-curiosidad-713236"
+        "title": "M\u00e1s all\u00e1 del d\u00f3lar, otra se\u00f1al de alarma",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/columna-de-mauricio-cardenas-mas-alla-del-dolar-otra-senal-de-alarma-713542"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2022-10-28",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-10-29",
         "publication": "el-tiempo",
-        "title": "Coreoman\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/columna-de-ricardo-silva-coreomania-713233"
+        "title": "El camino del Nobel",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/columna-de-oscar-dominguez-giraldo-el-camino-del-nobel-713534"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2022-10-28",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2022-10-29",
         "publication": "el-tiempo",
-        "title": "Despu\u00e9s del caos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/columna-de-eduardo-posada-carbo-despues-del-caos-713239"
+        "title": "La gran haza\u00f1a femenina",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/columna-de-luis-noe-ochoa-la-gran-hazana-femenina-713537"
     },
     {
         "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2022-10-28",
+        "author": "Hugo Acero Vel\u00e1squez",
+        "date": "2022-10-29",
         "publication": "el-tiempo",
-        "title": "El esplendor de \u2018Medea\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/columna-de-martha-senn-el-esplendor-de-medea-713246"
+        "title": "Robo de celulares",
+        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/columna-de-hugo-acero-velasquez-robo-de-celulares-713550"
     },
     {
         "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2022-10-28",
+        "author": "Jos\u00e9 Gregorio\u00a0Hern\u00e1ndez Galindo",
+        "date": "2022-10-29",
         "publication": "el-tiempo",
-        "title": "Gracias, finalistas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/columna-de-salvo-basile-gracias-finalistas-713227"
-    },
-    {
-        "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2022-10-28",
-        "publication": "el-tiempo",
-        "title": "\u00a1A exportar arte!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/columna-de-claudia-hakim-a-exportar-arte-713241"
-    },
-    {
-        "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2022-10-28",
-        "publication": "el-tiempo",
-        "title": "Muchacho \u2018amateur\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/columna-de-martha-ortiz-muchacho-amateur-713243"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Behrentz",
-        "date": "2022-10-28",
-        "publication": "el-tiempo",
-        "title": "Bicicletas con motor: atentado urban\u00edstico",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-behrentz/columna-de-eduardo-behrentz-bicicletas-con-motor-atentado-urbanistico-713247"
-    },
-    {
-        "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2022-10-28",
-        "publication": "el-tiempo",
-        "title": "Empobr\u00e9celos y reinar\u00e1s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/columna-de-alfredo-rangel-empobrecelos-y-reinaras-713248"
+        "title": "Los ni\u00f1os, desprotegidos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-jose-gregorio-hernandez-galindo-los-ninos-desprotegidos-713551"
     }
 ]
