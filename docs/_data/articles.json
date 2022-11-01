@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-31",
+        "date": "2022-11-01",
         "publication": "el-colombiano",
-        "title": "El d\u00f3lar crispado",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-dolar-crispado-JI19004827"
+        "title": "Lula, el resucitado",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/lula-el-resucitado-AJ19013399"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-11-01",
+        "publication": "el-colombiano",
+        "title": "Miner\u00eda para el desarrollo ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/mineria-para-el-desarrollo-EJ19013043"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2022-11-01",
+        "publication": "el-colombiano",
+        "title": "Estupideces",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/estupideces-EJ19012969"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-11-01",
+        "publication": "el-colombiano",
+        "title": "Premio a los bandidos, castigo a los militares",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/premio-a-los-bandidos-castigo-a-los-militares-PJ19012951"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-11-01",
+        "publication": "el-colombiano",
+        "title": "China: una gigantesca prisi\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/china-una-gigantesca-prision-EJ19013025"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-11-01",
+        "publication": "el-colombiano",
+        "title": "Ni\u00f1os sin futuro",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ninos-sin-futuro-EJ19013007"
     },
     {
         "article-type": "column",
@@ -48,52 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-eliminacion-del-servicio-militar-obligatorio-BI19004720"
     },
     {
-        "article-type": "column",
-        "author": "Juan Carlos Echeverry",
-        "date": "2022-10-30",
-        "publication": "el-colombiano",
-        "title": "El odio a los americanos ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-odio-a-los-americanos-EI19000598"
-    },
-    {
-        "article-type": "column",
-        "author": "Juliana Vel\u00e1squez Rodr\u00edguez",
-        "date": "2022-10-30",
-        "publication": "el-colombiano",
-        "title": "La antorcha del liderazgo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-antorcha-del-liderazgo-GI19000215"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Giraldo Ram\u00edrez",
-        "date": "2022-10-30",
-        "publication": "el-colombiano",
-        "title": "Por el patrimonio ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/por-el-patrimonio-HI19000564"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-10-30",
-        "publication": "el-colombiano",
-        "title": "Hora de mostrar los dientes",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/hora-de-mostrar-los-dientes-GI19000547"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-10-30",
-        "publication": "el-colombiano",
-        "title": "En la mira ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/en-la-mira-OI19000529"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-31",
+        "date": "2022-11-01",
         "publication": "el-espectador",
-        "title": "\u00a1Gracias, subcampeonas del mundo!",
-        "url": "https://www.elespectador.com/opinion/editorial/gracias-subcampeonas-del-mundo/"
+        "title": "Lula gobernar\u00e1 un pa\u00eds dividido",
+        "url": "https://www.elespectador.com/opinion/editorial/lula-gobernara-un-pais-dividido/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "Fiel a s\u00ed mismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/fiel-a-si-mismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "Hilos de luna",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/hilos-de-luna/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "\u00a1Honor y gloria a la selecci\u00f3n femenina!",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/honor-y-gloria-a-la-seleccion-femenina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "Indulto a integrantes de la primera l\u00ednea",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/indulto-a-integrantes-de-la-primera-linea/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "Brunch dominical",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/brunch-dominical/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "La Guajira",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-guajira/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "El due\u00f1o del p\u00e1jaro liberado",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/el-dueno-del-pajaro-liberado/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. William Pearl",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "Salida",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/salida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Vanegas Ath\u00edas",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "Edilia Mendoza Roa (I)",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/edilia-mendoza-roa-i/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "Pasiones y sinrazones del f\u00fatbol",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/pasiones-y-sinrazones-del-futbol/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "Ser bruja como protesta feminista",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/ser-bruja-como-protesta-feminista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-11-01",
+        "publication": "el-espectador",
+        "title": "Halloween: somos las nietas de las brujas que no pudieron quemar",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/halloween-somos-las-nietas-de-las-brujas-que-no-pudieron-quemar/"
     },
     {
         "article-type": "column",
@@ -128,171 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/mas-sobre-el-uso-del-apostrofo/"
     },
     {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "El f\u00fatbol ha cambiado",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/el-futbol-ha-cambiado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "Petro contra Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/petro-contra-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "La hoja de ruta de Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/la-hoja-de-ruta-de-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "Primera infancia: \u00bfsin espacio en la Presidencia?",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/primera-infancia-sin-espacio-en-la-presidencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Camargo",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "\u00bfPor qu\u00e9 entrar al colegio a los 4 a\u00f1os?",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/por-que-entrar-al-colegio-a-los-4-anos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "La tasa de cambio en el nuevo modelo",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/la-tasa-de-cambio-en-el-nuevo-modelo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "Pragmatismo y sentido com\u00fan",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/pragmatismo-y-sentido-comun/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "Primeras pel\u00edculas colombianas  ",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/primeras-peliculas-colombianas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Aplausos para ellas y nadie m\u00e1s ",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-aplausos-para-ellas-y-nadie-mas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Jos\u00e9 Le\u00f3n Mar\u00edn*",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "Las herramientas olvidadas del Acuerdo de Paz para reducir los cultivos de coca",
-        "url": "https://www.elespectador.com/colombia-20/analistas/las-herramientas-olvidadas-del-acuerdo-de-paz-para-reducir-los-cultivos-de-coca/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "Editorial en video: La importancia de la serenidad y la coherencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-la-importancia-de-la-serenidad-y-la-coherencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-10-31",
-        "publication": "el-espectador",
-        "title": "Juega como ni\u00f1a y ser\u00e1s subcampeona del mundo, \u00bfa qu\u00e9 costo?",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/juega-como-nina-y-seras-subcampeona-del-mundo-a-que-costo/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-10-31",
+        "date": "2022-11-01",
         "publication": "el-tiempo",
-        "title": "Alarmante retroceso",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-31-de-octubre-de-2022-alarmante-retroceso-713776"
+        "title": "Lula III",
+        "url": "https://www.eltiempo.com/opinion/editorial/lula-iii-editorial-el-tiempo-714100"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-10-31",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-11-01",
         "publication": "el-tiempo",
-        "title": "Constituci\u00f3n por raticos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-constitucion-por-raticos-713787"
+        "title": "\u00bfCu\u00e1ndo les tocar\u00e1 a las Farc?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/cuando-les-tocara-a-las-farc-columna-de-jose-manuel-acevedo-714076"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-10-31",
+        "author": "Juan Pablo Calv\u00e1s",
+        "date": "2022-11-01",
         "publication": "el-tiempo",
-        "title": "Soplar y hacer botellas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-soplar-y-hacer-botellas-713793"
+        "title": "Delincuentes confesos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/delincuentes-confesos-columna-de-juan-pablo-calvas-714071"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2022-10-31",
+        "author": "Viviane Morales Hoyos",
+        "date": "2022-11-01",
         "publication": "el-tiempo",
-        "title": "Acabar el populismo punitivo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-acabar-el-populismo-punitivo-713782"
+        "title": "Otro capricho de Petro en Ecopetrol",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/otro-capricho-de-petro-en-ecopetrol-columna-de-viviane-morales-714063"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-10-31",
+        "author": "Eduardo Escobar",
+        "date": "2022-11-01",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 Twitter nos espera?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-que-twitter-nos-espera-713791"
+        "title": "Mi cuelga para Fernando Vallejo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/mi-cuelga-para-fernando-vallejo-columna-de-eduardo-escobar-714066"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2022-10-31",
+        "author": "Armando Silva",
+        "date": "2022-11-01",
         "publication": "el-tiempo",
-        "title": "Err\u00e1tica macroeconom\u00eda petrista",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-erratica-macroeconomia-petrista-713786"
+        "title": "Sue\u00f1os y pol\u00edtica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/suenos-y-politica-columna-de-armando-silva-714073"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-10-31",
+        "author": "Bj\u00f8rn Lomborg",
+        "date": "2022-11-01",
         "publication": "el-tiempo",
-        "title": "El d\u00f3lar y precio de los equipos digitales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-el-dolar-y-precio-de-los-equipos-digitales-713779"
+        "title": "Pa\u00edses ricos ofrecer\u00e1n hipocres\u00eda y sermones en la cumbre del clima",
+        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/paises-ricos-ofreceran-hipocresia-y-sermones-en-la-cumbre-del-clima-714077"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-10-31",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2022-11-01",
         "publication": "el-tiempo",
-        "title": "\u00bfDe qu\u00e9 hablamos cuando hablamos de educaci\u00f3n?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-de-que-hablamos-cuando-hablamos-de-educacion-713788"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2022-10-31",
-        "publication": "el-tiempo",
-        "title": "Milagro en los Andes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-milagro-en-los-andes-713790"
+        "title": "Aranzazu: 169 a\u00f1os de historia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/aranzazu-169-anos-de-historia-columna-de-jose-miguel-alzate-714080"
     }
 ]
