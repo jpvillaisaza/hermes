@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-03",
+        "date": "2022-11-04",
         "publication": "el-colombiano",
-        "title": "\u00bfDavid contra Goliat?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/david-contra-goliat-KL19033999"
+        "title": "\u00bfDesbloquear a Donald Trump?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/desbloquear-a-donald-trump-CM19041146"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-11-04",
+        "publication": "el-colombiano",
+        "title": "El valle de los \u201cmanzanillos\u201d ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-valle-de-los-manzanillos-CL19039380"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-11-04",
+        "publication": "el-colombiano",
+        "title": "Am\u00e9rica Latina: muchas izquierdas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/america-latina-muchas-izquierdas-ML19039324"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-11-04",
+        "publication": "el-colombiano",
+        "title": "El Testigo, los libros ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-testigo-los-libros-OL19039362"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2022-11-04",
+        "publication": "el-colombiano",
+        "title": "La eterna insatisfacci\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-eterna-insatisfaccion-EM19041115"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Manrique",
+        "date": "2022-11-04",
+        "publication": "el-colombiano",
+        "title": "\u00a1Simplemente era dejarse meter el gol! ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/simplemente-era-dejarse-meter-el-gol-ML19039342"
     },
     {
         "article-type": "column",
@@ -48,52 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/el-sentido-de-las-cosas-FL19031343"
     },
     {
+        "article-type": "editorial",
+        "author": null,
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "\u00a1Bienvenido el servicio social para la paz!",
+        "url": "https://www.elespectador.com/opinion/editorial/bienvenido-el-servicio-social-para-la-paz/"
+    },
+    {
         "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-11-02",
-        "publication": "el-colombiano",
-        "title": "El lobo acecha las urnas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-lobo-acecha-las-urnas-DK19022405"
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "Lo barato sale caro",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/lo-barato-sale-caro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "La rebeli\u00f3n de la derecha",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/la-rebelion-de-la-derecha/"
     },
     {
         "article-type": "column",
         "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2022-11-02",
-        "publication": "el-colombiano",
-        "title": "Basura ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/basura-MK19022349"
-    },
-    {
-        "article-type": "column",
-        "author": "David Yanovich",
-        "date": "2022-11-02",
-        "publication": "el-colombiano",
-        "title": "TEStarudos ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/testarudos-BK19022366"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-11-02",
-        "publication": "el-colombiano",
-        "title": "Un golpe a la democracia en M\u00e9xico",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/un-golpe-a-la-democracia-en-mexico-HK19022423"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-11-02",
-        "publication": "el-colombiano",
-        "title": "SOS puente de Bolombolo ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sos-puente-de-bolombolo-OK19022387"
-    },
-    {
-        "article-type": "editorial",
-        "author": null,
-        "date": "2022-11-03",
+        "date": "2022-11-04",
         "publication": "el-espectador",
-        "title": "Retomando el di\u00e1logo con el vecino",
-        "url": "https://www.elespectador.com/opinion/editorial/retomando-el-dialogo-con-el-vecino/"
+        "title": "Perros con alas",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/perros-con-alas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "Nuestras reinas de Saba",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/nuestras-reinas-de-saba/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carlos Gran\u00e9s",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "Ensayito sobre la risa y la muerte",
+        "url": "https://www.elespectador.com/opinion/columnistas/carlos-granes/ensayito-sobre-la-risa-y-la-muerte/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "\u00a1Dejen dormir, carajo!",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/dejen-dormir-carajo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Manuel Ospina",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "Una democracia sin partidos es una mentira",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/una-democracia-sin-partidos-es-una-mentira/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "La voz de Am\u00e9rica Ib\u00e9rica",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/la-voz-de-america-iberica/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "Tiene raz\u00f3n Claudia L\u00f3pez: robar es un delito, no un deporte",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/tiene-razon-claudia-lopez-robar-es-un-delito-no-un-deporte/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "Lula, fen\u00f3meno ol\u00edmpico",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/lula-fenomeno-olimpico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "La inflaci\u00f3n en Estados Unidos",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/la-inflacion-en-estados-unidos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "\u201cTodo va a salir bien\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/todo-va-a-salir-bien/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juliana Mu\u00f1oz Toro",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "El barrio de las librer\u00edas",
+        "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/el-barrio-de-las-librerias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Escobar",
+        "date": "2022-11-04",
+        "publication": "el-espectador",
+        "title": "Ciudades resistentes, ciudades posibles",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-escobar/ciudades-resistentes-ciudades-posibles/"
     },
     {
         "article-type": "column",
@@ -112,179 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/petro-y-maduro-los-buenos-vecinos/"
     },
     {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2022-11-03",
-        "publication": "el-espectador",
-        "title": "Cat\u00e1strofe",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/catastrofe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gustavo Gall\u00f3n",
-        "date": "2022-11-03",
-        "publication": "el-espectador",
-        "title": "\u201cHacia la paz territorial\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/hacia-la-paz-territorial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2022-11-03",
-        "publication": "el-espectador",
-        "title": "El Estado de derecho y la democracia",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/el-estado-de-derecho-y-la-democracia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2022-11-03",
-        "publication": "el-espectador",
-        "title": "Fin del servicio militar obligatorio",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/fin-del-servicio-militar-obligatorio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2022-11-03",
-        "publication": "el-espectador",
-        "title": "Cuba y la inteligencia militar venezolana ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/cuba-y-la-inteligencia-militar-venezolana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2022-11-03",
-        "publication": "el-espectador",
-        "title": "El tiempo no pol\u00edtico",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-tiempo-no-politico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elementa DD.HH.",
-        "date": "2022-11-03",
-        "publication": "el-espectador",
-        "title": "La erradicaci\u00f3n de cultivos: otra de las l\u00f3gicas de la guerra en la naturaleza",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-erradicacion-de-cultivos-ilicitos-otra-de-las-logicas-de-la-guerra-en-la-naturaleza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-11-03",
-        "publication": "el-espectador",
-        "title": "\u201cUn hombre que paga por sexo solo quiere cumplir sus aberraciones\u201d: abolicionista",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/un-hombre-que-paga-por-sexo-solo-quiere-cumplir-sus-aberraciones-abolicionista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2022-11-02",
-        "publication": "el-espectador",
-        "title": "\u00bfUn viraje?",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/un-viraje/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-11-02",
-        "publication": "el-espectador",
-        "title": "Entre conejos y sapos ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/entre-conejos-y-sapos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2022-11-02",
-        "publication": "el-espectador",
-        "title": "La avaricia",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/la-avaricia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-11-02",
-        "publication": "el-espectador",
-        "title": "Transici\u00f3n energ\u00e9tica: \u00bfc\u00f3mo y para qu\u00e9?",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/transicion-energetica-como-y-para-que/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Leal Buitrago",
-        "date": "2022-11-02",
-        "publication": "el-espectador",
-        "title": "\u00bfNada que hacer?",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/nada-que-hacer/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2022-11-02",
-        "publication": "el-espectador",
-        "title": "Arrepentimientos democr\u00e1ticos ",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/arrepentimientos-democraticos/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-03",
+        "date": "2022-11-04",
         "publication": "el-tiempo",
-        "title": "Petro y Maduro",
-        "url": "https://www.eltiempo.com/opinion/editorial/petro-y-maduro-editorial-el-tiempo-714722"
+        "title": "El desaf\u00edo del d\u00f3lar",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-desafio-del-dolar-editorial-el-tiempo-715045"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-11-03",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-11-04",
         "publication": "el-tiempo",
-        "title": "Lleg\u00f3 el comandante",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/llego-el-comandante-columna-de-pedro-medellin-714712"
+        "title": "Halloween",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/halloween-columna-de-moises-wasserman-714955"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2022-11-03",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-11-04",
         "publication": "el-tiempo",
-        "title": "Creerle a las mujeres",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/creerle-a-las-mujeres-columna-de-jineth-bedoya-714657"
+        "title": "Twitter",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/twitter-columna-de-ricardo-silva-romero-714981"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-11-03",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2022-11-04",
         "publication": "el-tiempo",
-        "title": "Decirlo tambi\u00e9n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/decirlo-tambien-columna-de-juan-esteban-constain-714691"
+        "title": "La rebeli\u00f3n de los cient\u00edficos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/la-rebelion-de-los-cientificos-columna-de-antonio-albinana-714960"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2022-11-03",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-11-04",
         "publication": "el-tiempo",
-        "title": "\u00bfDel Acuerdo Nacional a la movilizaci\u00f3n social?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/del-acuerdo-nacional-a-la-movilizacion-social-columna-de-juliana-mejia-714644"
+        "title": "Sabidur\u00eda universal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/sabiduria-universal-columna-de-eduardo-posada-carbo-714967"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2022-11-03",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2022-11-04",
         "publication": "el-tiempo",
-        "title": "\u2018Toy Stories\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/toy-stories-columna-de-diana-pardo-714647"
+        "title": "La COP de Egipto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/la-cop-de-egipto-columna-de-manuel-guzman-hennessey-714971"
     },
     {
         "article-type": "column",
-        "author": "Giovanni Stella",
-        "date": "2022-11-03",
+        "author": "Mar\u00eda Claudia Lacouture",
+        "date": "2022-11-04",
         "publication": "el-tiempo",
-        "title": "La privacidad y la transparencia es el camino: tus anuncios, tu elecci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/giovanni-stella/la-privacidad-y-la-transparencia-es-el-camino-tus-anuncios-tu-eleccion-714701"
+        "title": "El prop\u00f3sito que nos une",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-claudia-lacouture/el-proposito-que-nos-une-columna-de-maria-claudia-lacoture-715009"
     },
     {
         "article-type": "column",
-        "author": "Fernando Montes Negret",
-        "date": "2022-11-03",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2022-11-04",
         "publication": "el-tiempo",
-        "title": "Consecuencias de reducir las inversiones de los bancos centrales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/consecuencias-de-reducir-las-inversiones-de-los-bancos-centrales-714696"
+        "title": "Am\u00e9rica latina y el triunfo de Lula da Silva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/america-latina-y-el-triunfo-de-lula-da-silva-columna-de-fabio-martinez-714995"
     }
 ]
