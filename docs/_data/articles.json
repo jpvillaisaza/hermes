@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-04",
+        "date": "2022-11-05",
         "publication": "el-colombiano",
-        "title": "\u00bfDesbloquear a Donald Trump?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/desbloquear-a-donald-trump-CM19041146"
+        "title": "El nuevo poder de la mafia",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-nuevo-poder-de-la-mafia-DN19053312"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n Posada",
+        "date": "2022-11-05",
+        "publication": "el-colombiano",
+        "title": "Despedida",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/despedida-PM19045820"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Mesa Puyo",
+        "date": "2022-11-05",
+        "publication": "el-colombiano",
+        "title": "Apuntes tributarios",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/apuntes-tributarios-CM19047050"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2022-11-05",
+        "publication": "el-colombiano",
+        "title": "Sobre derechas e izquierdas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-derechas-e-izquierdas-CM19046646"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2022-11-05",
+        "publication": "el-colombiano",
+        "title": "\u201cVen, muerte, tan escondida\u201d",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ven-muerte-tan-escondida-EM19046323"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Bernardo V\u00e9lez M.",
+        "date": "2022-11-05",
+        "publication": "el-colombiano",
+        "title": "La segunda pandemia ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-segunda-pandemia-MM19045485"
     },
     {
         "article-type": "column",
@@ -48,52 +88,100 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/simplemente-era-dejarse-meter-el-gol-ML19039342"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Perfetti del Corral",
-        "date": "2022-11-03",
-        "publication": "el-colombiano",
-        "title": "El gran reto de Antioquia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-gran-reto-de-antioquia-PL19031824"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-11-03",
-        "publication": "el-colombiano",
-        "title": "Vallejolatr\u00eda",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/vallejolatria-HL19031879"
-    },
-    {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2022-11-03",
-        "publication": "el-colombiano",
-        "title": "Memoria digital",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/memoria-digital-IL19031845"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2022-11-03",
-        "publication": "el-colombiano",
-        "title": "Persistencia de admirar ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/persistencia-de-admirar-GL19031896"
-    },
-    {
-        "article-type": "column",
-        "author": "Humberto Montero",
-        "date": "2022-11-03",
-        "publication": "el-colombiano",
-        "title": "El sentido de las cosas ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-sentido-de-las-cosas-FL19031343"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-04",
+        "date": "2022-11-05",
         "publication": "el-espectador",
-        "title": "\u00a1Bienvenido el servicio social para la paz!",
-        "url": "https://www.elespectador.com/opinion/editorial/bienvenido-el-servicio-social-para-la-paz/"
+        "title": "Colombia llega con bienvenida ambici\u00f3n a la COP27",
+        "url": "https://www.elespectador.com/opinion/editorial/colombia-llega-con-bienvenida-ambicion-a-la-cop27/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2022-11-05",
+        "publication": "el-espectador",
+        "title": "Yo quer\u00eda decirle\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/yo-queria-decirle/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2022-11-05",
+        "publication": "el-espectador",
+        "title": "La p\u00e9rdida del debate democr\u00e1tico",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/la-perdida-del-debate-democratico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2022-11-05",
+        "publication": "el-espectador",
+        "title": "San Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/san-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2022-11-05",
+        "publication": "el-espectador",
+        "title": "El po\u00e9tico futuro de las droguer\u00edas  ",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/el-poetico-futuro-de-las-droguerias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2022-11-05",
+        "publication": "el-espectador",
+        "title": "Rel\u00e1mpagos de humor latinoamericano",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/relampagos-de-humor-latinoamericano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2022-11-05",
+        "publication": "el-espectador",
+        "title": "Salva tu coraz\u00f3n, vida m\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/salva-tu-corazon-vida-mia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dolly Montoya Casta\u00f1o",
+        "date": "2022-11-05",
+        "publication": "el-espectador",
+        "title": "Los j\u00f3venes son dinamizadores de las transformaciones sociales",
+        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/los-jovenes-son-dinamizadores-de-las-transformaciones-sociales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo P\u00e1ez Escobar",
+        "date": "2022-11-05",
+        "publication": "el-espectador",
+        "title": "Por el territorio de los muertos (2)",
+        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-paez-escobar/por-el-territorio-de-los-muertos-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2022-11-05",
+        "publication": "el-espectador",
+        "title": "Tramitan ley para proteger a las mujeres pol\u00edticas de la violencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/tramitan-ley-para-proteger-a-las-mujeres-politicas-de-la-violencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ochoa",
+        "date": "2022-11-05",
+        "publication": "el-espectador",
+        "title": "Pol\u00edtica pendular",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/politica-pendular/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2022-11-05",
+        "publication": "el-espectador",
+        "title": "Entrena como bestia, pelea como salvaje",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/entrena-como-bestia-pelea-como-salvaje/"
     },
     {
         "article-type": "column",
@@ -129,14 +217,6 @@
     },
     {
         "article-type": "column",
-        "author": "Carlos Gran\u00e9s",
-        "date": "2022-11-04",
-        "publication": "el-espectador",
-        "title": "Ensayito sobre la risa y la muerte",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-granes/ensayito-sobre-la-risa-y-la-muerte/"
-    },
-    {
-        "article-type": "column",
         "author": "Mario Fernando Prado",
         "date": "2022-11-04",
         "publication": "el-espectador",
@@ -144,147 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/dejen-dormir-carajo/"
     },
     {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2022-11-04",
-        "publication": "el-espectador",
-        "title": "Una democracia sin partidos es una mentira",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/una-democracia-sin-partidos-es-una-mentira/"
-    },
-    {
-        "article-type": "column",
-        "author": "Augusto Trujillo Mu\u00f1oz",
-        "date": "2022-11-04",
-        "publication": "el-espectador",
-        "title": "La voz de Am\u00e9rica Ib\u00e9rica",
-        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/la-voz-de-america-iberica/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Sevillano",
-        "date": "2022-11-04",
-        "publication": "el-espectador",
-        "title": "Tiene raz\u00f3n Claudia L\u00f3pez: robar es un delito, no un deporte",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/tiene-razon-claudia-lopez-robar-es-un-delito-no-un-deporte/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2022-11-04",
-        "publication": "el-espectador",
-        "title": "Lula, fen\u00f3meno ol\u00edmpico",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/lula-fenomeno-olimpico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
-        "date": "2022-11-04",
-        "publication": "el-espectador",
-        "title": "La inflaci\u00f3n en Estados Unidos",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/la-inflacion-en-estados-unidos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2022-11-04",
-        "publication": "el-espectador",
-        "title": "\u201cTodo va a salir bien\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/todo-va-a-salir-bien/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juliana Mu\u00f1oz Toro",
-        "date": "2022-11-04",
-        "publication": "el-espectador",
-        "title": "El barrio de las librer\u00edas",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/el-barrio-de-las-librerias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Escobar",
-        "date": "2022-11-04",
-        "publication": "el-espectador",
-        "title": "Ciudades resistentes, ciudades posibles",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-escobar/ciudades-resistentes-ciudades-posibles/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2022-11-03",
-        "publication": "el-espectador",
-        "title": "\u00d3pera montada como debe ser",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/opera-montada-como-debe-ser/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2022-11-03",
-        "publication": "el-espectador",
-        "title": "Petro y Maduro, los buenos vecinos",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/petro-y-maduro-los-buenos-vecinos/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-04",
+        "date": "2022-11-05",
         "publication": "el-tiempo",
-        "title": "El desaf\u00edo del d\u00f3lar",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-desafio-del-dolar-editorial-el-tiempo-715045"
+        "title": "Hora de prevenir",
+        "url": "https://www.eltiempo.com/opinion/editorial/hora-de-prevenir-editorial-715348"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2022-11-04",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2022-11-05",
         "publication": "el-tiempo",
-        "title": "Halloween",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/halloween-columna-de-moises-wasserman-714955"
+        "title": "La fragilidad de la econom\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/la-fragilidad-de-la-economia-columna-de-carlos-caballero-argaez-715246"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2022-11-04",
+        "author": "Lucy Nieto de Samper",
+        "date": "2022-11-05",
         "publication": "el-tiempo",
-        "title": "Twitter",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/twitter-columna-de-ricardo-silva-romero-714981"
+        "title": "Bogot\u00e1, en la olla",
+        "url": "https://www.eltiempo.com/opinion/columnistas/lucy-nieto-de-samper/bogota-en-la-olla-columna-de-lucy-nieto-de-samper-715276"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2022-11-04",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2022-11-05",
         "publication": "el-tiempo",
-        "title": "La rebeli\u00f3n de los cient\u00edficos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/la-rebelion-de-los-cientificos-columna-de-antonio-albinana-714960"
+        "title": "Petro est\u00e1 platudo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/petro-esta-platudo-columna-de-luis-noe-ochoa-715335"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2022-11-04",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2022-11-05",
         "publication": "el-tiempo",
-        "title": "Sabidur\u00eda universal",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/sabiduria-universal-columna-de-eduardo-posada-carbo-714967"
+        "title": "\u00bfD\u00f3nde m\u00e1s voy a hablar de Aerosmith?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/donde-mas-voy-a-hablar-de-aerosmith-columna-de-adolfo-zableh-715254"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2022-11-04",
+        "author": "Alfonso Carvajal",
+        "date": "2022-11-05",
         "publication": "el-tiempo",
-        "title": "La COP de Egipto",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/la-cop-de-egipto-columna-de-manuel-guzman-hennessey-714971"
+        "title": "El aborto como acontecimiento",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/el-aborto-como-acontecimiento-columna-de-alfonso-carvajal-715229"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Claudia Lacouture",
-        "date": "2022-11-04",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2022-11-05",
         "publication": "el-tiempo",
-        "title": "El prop\u00f3sito que nos une",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-claudia-lacouture/el-proposito-que-nos-une-columna-de-maria-claudia-lacoture-715009"
+        "title": "Algunos retos actuales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/algunos-retos-actuales-columna-de-victor-corcoba-715331"
     },
     {
         "article-type": "column",
-        "author": "Fabio Mart\u00ednez",
-        "date": "2022-11-04",
+        "author": "Haidy S\u00e1nchez Mattsson",
+        "date": "2022-11-05",
         "publication": "el-tiempo",
-        "title": "Am\u00e9rica latina y el triunfo de Lula da Silva",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/america-latina-y-el-triunfo-de-lula-da-silva-columna-de-fabio-martinez-714995"
+        "title": "\u00a1Los que vivimos discriminaci\u00f3n y racismo tenemos un compromiso social!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/haidy-sanchez-mattsson/los-que-vivimos-discriminacion-y-racismo-tenemos-un-compromiso-social-714999"
     }
 ]
