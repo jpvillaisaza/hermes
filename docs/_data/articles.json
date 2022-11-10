@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-09",
+        "date": "2022-11-10",
         "publication": "el-colombiano",
-        "title": "\u00bfLos jeques s\u00ed oyeron a Petro?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/los-jeques-si-oyeron-a-petro-EA19081151"
+        "title": "Quedan 20 d\u00edas",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/quedan-20-dias-EA19087276"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Botero Montoya",
+        "date": "2022-11-10",
+        "publication": "el-colombiano",
+        "title": "Las lecciones brit\u00e1nicas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/las-lecciones-britanicas-AA19085612"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2022-11-10",
+        "publication": "el-colombiano",
+        "title": "Echarse flores ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/echarse-flores-LA19085493"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-11-10",
+        "publication": "el-colombiano",
+        "title": "Historias de locos bajitos (52)",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/historias-de-locos-bajitos-52-PA19085578"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2022-11-10",
+        "publication": "el-colombiano",
+        "title": "Asalto a su casa ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/asalto-a-su-casa-MA19085595"
+    },
+    {
+        "article-type": "column",
+        "author": "Llu\u00eds Bassets",
+        "date": "2022-11-10",
+        "publication": "el-colombiano",
+        "title": "Putin y Xi Jinping sonr\u00eden",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/putin-y-xi-jinping-sonrien-BA19085545"
     },
     {
         "article-type": "column",
@@ -48,52 +88,92 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/petro-rinde-honores-al-regimen-de-venezuela-DP19079208"
     },
     {
-        "article-type": "column",
-        "author": "Dany Alejandro Hoyos",
-        "date": "2022-11-09",
-        "publication": "el-colombiano",
-        "title": "El club de los vulnerables ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-club-de-los-vulnerables-DP19079138"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Mej\u00eda Cubillos",
-        "date": "2022-11-08",
-        "publication": "el-colombiano",
-        "title": "\u00bfPor qu\u00e9 dudar de los cr\u00edticos? ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/por-que-dudar-de-los-criticos-KO19061685"
-    },
-    {
-        "article-type": "column",
-        "author": "Amalia Londo\u00f1o Duque",
-        "date": "2022-11-08",
-        "publication": "el-colombiano",
-        "title": "\u00bfEn qui\u00e9n confiar? ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/en-quien-confiar-GO19061766"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2022-11-08",
-        "publication": "el-colombiano",
-        "title": "Tanto da\u00f1o en tan poco tiempo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/tanto-dano-en-tan-poco-tiempo-DO19061705"
-    },
-    {
-        "article-type": "column",
-        "author": "Federico Hoyos Salazar",
-        "date": "2022-11-08",
-        "publication": "el-colombiano",
-        "title": "\u00bfY los migrantes venezolanos?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/y-los-migrantes-venezolanos-LO19061749"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-09",
+        "date": "2022-11-10",
         "publication": "el-espectador",
-        "title": "El discurso del presidente en la COP27",
-        "url": "https://www.elespectador.com/opinion/editorial/el-discurso-del-presidente-en-la-cop27/"
+        "title": "Buenas noticias en el Icetex",
+        "url": "https://www.elespectador.com/opinion/editorial/buenas-noticias-en-el-icetex/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2022-11-10",
+        "publication": "el-espectador",
+        "title": "Nuestra vida: la mejor receta",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/nuestra-vida-la-mejor-receta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2022-11-10",
+        "publication": "el-espectador",
+        "title": "Las garant\u00edas de la polic\u00eda son para los agresores",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/las-garantias-de-la-policia-son-para-los-agresores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcelo Caruso A.",
+        "date": "2022-11-10",
+        "publication": "el-espectador",
+        "title": "Paro c\u00edvico en Bolivia",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/paro-civico-en-bolivia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2022-11-10",
+        "publication": "el-espectador",
+        "title": "Lula",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/lula/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls",
+        "date": "2022-11-10",
+        "publication": "el-espectador",
+        "title": "Sobrevive la vida",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/sobrevive-la-vida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2022-11-10",
+        "publication": "el-espectador",
+        "title": "Mojados",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/mojados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2022-11-10",
+        "publication": "el-espectador",
+        "title": "En defensa de la \u201ccancelaci\u00f3n\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/en-defensa-de-la-cancelacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2022-11-10",
+        "publication": "el-espectador",
+        "title": "Cuba y la inteligencia militar venezolana II",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/cuba-y-la-inteligencia-militar-venezolana-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2022-11-10",
+        "publication": "el-espectador",
+        "title": "Columna de Andr\u00e9s Marocco: este raro Mundial",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/columna-de-andres-marocco-este-raro-mundial/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arlene B. Tickner",
+        "date": "2022-11-10",
+        "publication": "el-espectador",
+        "title": "Tusa democr\u00e1tica",
+        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/tusa-democratica/"
     },
     {
         "article-type": "column",
@@ -144,147 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/natalia-otra-victima-sexual-y-de-la-hipocresia-social/"
     },
     {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2022-11-09",
-        "publication": "el-espectador",
-        "title": "A cruzar la frontera ",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/a-cruzar-la-frontera/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2022-11-09",
-        "publication": "el-espectador",
-        "title": "Modo paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/modo-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Oscar Guardiola-Rivera",
-        "date": "2022-11-09",
-        "publication": "el-espectador",
-        "title": "\u00bfC\u00f3mo resolver el problema del cambio clim\u00e1tico?",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/como-resolver-el-problema-del-cambio-climatico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2022-11-09",
-        "publication": "el-espectador",
-        "title": "Colombia, Venezuela y el presidente Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/colombia-venezuela-y-el-presidente-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Felipe Carrillo G\u00e1faro",
-        "date": "2022-11-09",
-        "publication": "el-espectador",
-        "title": "Quincea\u00f1eras y micromachismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/quinceaneras-y-micromachismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-11-09",
-        "publication": "el-espectador",
-        "title": "AriGameplays y el acoso que vivimos las mujeres a diario",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/arigameplays-y-el-acoso-que-vivimos-las-mujeres-a-diario/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2022-11-09",
-        "publication": "el-espectador",
-        "title": "No ha arrancado la vida y ya van perdiendo 11 - 0 \u00bfC\u00f3mo nivelar la cancha?",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/no-ha-arrancado-la-vida-y-ya-van-perdiendo-11-0-como-nivelar-la-cancha/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-11-08",
-        "publication": "el-espectador",
-        "title": "Colombia y Venezuela",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/colombia-y-venezuela/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alfredo Molano Jimeno",
-        "date": "2022-11-08",
-        "publication": "el-espectador",
-        "title": "\u00bfDe qui\u00e9n es la calle?",
-        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/de-quien-es-la-calle/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2022-11-08",
-        "publication": "el-espectador",
-        "title": "\u201cJ\u00f3venes altezas\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/jovenes-altezas/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-09",
+        "date": "2022-11-10",
         "publication": "el-tiempo",
-        "title": "Metro: \u00bfvuelve y juega?",
-        "url": "https://www.eltiempo.com/opinion/editorial/metro-vuelve-y-juega-editorial-el-tiempo-716105"
+        "title": "Un art\u00edculo preocupante",
+        "url": "https://www.eltiempo.com/opinion/editorial/un-articulo-preocupante-editorial-el-tiempo-716465"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2022-11-09",
+        "author": "Pedro Medellin",
+        "date": "2022-11-10",
         "publication": "el-tiempo",
-        "title": "Treinta y siete a\u00f1os despu\u00e9s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/treinta-y-siete-anos-despues-columna-de-alfonso-gomez-mendez-716044"
+        "title": "La factura para los territorios",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/la-factura-para-los-territorios-columna-de-pedro-medellin-716446"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2022-11-09",
+        "author": "Claudia Palacios",
+        "date": "2022-11-10",
         "publication": "el-tiempo",
-        "title": "Petro, al tablero",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/petro-al-tablero-columna-de-vladdo-716023"
+        "title": "A tomarse \u2018la regla\u2019 en serio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/a-tomarse-la-regla-en-serio-columna-de-claudia-palacios-716365"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2022-11-09",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2022-11-10",
         "publication": "el-tiempo",
-        "title": "Enemigo interno",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/enemigo-interno-columna-de-gustavo-duncan-716050"
+        "title": "Qu\u00e9 grande es",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/que-grande-es-columna-de-juan-esteban-constain-716379"
     },
     {
         "article-type": "column",
-        "author": "Carlos Camargo Assis",
-        "date": "2022-11-09",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2022-11-10",
         "publication": "el-tiempo",
-        "title": "Una Defensor\u00eda jugada por la paz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-camargo-assis/una-defensoria-jugada-por-la-paz-columna-de-carlos-camargo-assis-716080"
+        "title": "Hogueras encendidas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/hogueras-encendidas-columna-de-sergio-ramirez-716372"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2022-11-09",
+        "author": "Armando Silva",
+        "date": "2022-11-10",
         "publication": "el-tiempo",
-        "title": "Una zonza cumbre de presidentes ilusos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/una-zonza-cumbre-de-presidentes-ilusos-columna-de-poncho-renteria-716070"
+        "title": "Sopa y seco contra al arte",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/sopa-y-seco-contra-al-arte-columna-de-armando-silva-716353"
     },
     {
         "article-type": "column",
-        "author": "Laura Chinchilla",
-        "date": "2022-11-09",
+        "author": "Ximena Duque",
+        "date": "2022-11-10",
         "publication": "el-tiempo",
-        "title": "El BID: m\u00e1s que un banco, un instrumento para el desarrollo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/laura-chinchilla/el-bid-mas-que-un-banco-un-instrumento-para-el-desarrollo-716067"
+        "title": "\u00a1Gobierno, m\u00e1s oportunidades para el software colombiano!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ximena-duque/gobierno-mas-oportunidades-para-el-software-colombiano-ximena-duque-716435"
     },
     {
         "article-type": "column",
-        "author": "Javier Borda Diaz",
-        "date": "2022-11-09",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2022-11-10",
         "publication": "el-tiempo",
-        "title": "\u00bfSe alegra cuando matan a un ladr\u00f3n?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/se-alegra-cuando-matan-a-un-ladron-columna-de-javier-borda-716054"
+        "title": "Bigraf\u00eda ficticia del \u00eddolo que se derrumba",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/biorafia-ficticia-del-idolo-que-se-derrumba-columna-de-mauricio-laurens-716429"
     }
 ]
