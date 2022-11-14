@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-13",
+        "date": "2022-11-14",
         "publication": "el-colombiano",
-        "title": "En defensa de las humanidades",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/en-defensa-de-las-humanidades-FI19111958"
+        "title": "A\u00fan no despega ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/aun-no-despega-JI19118634"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Bibiana Botero C.",
+        "date": "2022-11-14",
+        "publication": "el-colombiano",
+        "title": "Ojo con el Metro de Medell\u00edn ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ojo-con-el-metro-de-medellin-GI19116374"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
+        "date": "2022-11-14",
+        "publication": "el-colombiano",
+        "title": "Liberlandia queda en el metaverso ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/liberlandia-queda-en-el-metaverso-HI19116357"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Escobar Valencia",
+        "date": "2022-11-14",
+        "publication": "el-colombiano",
+        "title": "La persona que salv\u00f3 al mundo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-persona-que-salvo-al-mundo-BI19116340"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2022-11-14",
+        "publication": "el-colombiano",
+        "title": "La locura en Hidroituango ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-locura-en-hidroituango-AI19116413"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez G.",
+        "date": "2022-11-14",
+        "publication": "el-colombiano",
+        "title": "La doble conformidad",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-doble-conformidad-II19116394"
     },
     {
         "article-type": "column",
@@ -48,52 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-casa-inundada-EI19111885"
     },
     {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-11-13",
-        "publication": "el-colombiano",
-        "title": "Influencers y gobernantes",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/influencers-y-gobernantes-HI19111868"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2022-11-13",
-        "publication": "el-colombiano",
-        "title": "Seguridad Humana y Paz Total",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/seguridad-humana-y-paz-total-BI19111734"
-    },
-    {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2022-11-13",
-        "publication": "el-colombiano",
-        "title": "Facebook, Twitter y el encogimiento de los titanes digitales",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/facebook-twitter-y-el-encogimiento-de-los-titanes-digitales-BI19111606"
-    },
-    {
-        "article-type": "column",
-        "author": "Adriana Correa Vel\u00e1squez",
-        "date": "2022-11-12",
-        "publication": "el-colombiano",
-        "title": "Asomarse al alma secreta de las cosas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/asomarse-al-alma-secreta-de-las-cosas-KJ19102888"
-    },
-    {
-        "article-type": "column",
-        "author": "Ernesto Ochoa Moreno",
-        "date": "2022-11-12",
-        "publication": "el-colombiano",
-        "title": "La lectura en voz alta ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-lectura-en-voz-alta-BJ19104533"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-13",
+        "date": "2022-11-14",
         "publication": "el-espectador",
-        "title": "Los primeros cien d\u00edas de un cambio",
-        "url": "https://www.elespectador.com/opinion/editorial/los-primeros-cien-dias-de-un-cambio/"
+        "title": "Sobrevive la democracia en EE. UU., por ahora...",
+        "url": "https://www.elespectador.com/opinion/editorial/sobrevive-la-democracia-en-ee-uu-por-ahora/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "\u00bfLa palabra \u00abentrampamiento\u00bb existe?",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/la-palabra-entrampamiento-existe/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alvaro Forero Tasc\u00f3n",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "100 d\u00edas de Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/100-dias-de-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "Tiempos dif\u00edciles",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/tiempos-dificiles-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "\u201cExcelent\u00edsimo se\u00f1or",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/excelentisimo-senor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "El nuevo eje del mal: el cambio clim\u00e1tico",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/el-nuevo-eje-del-mal-el-cambio-climatico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Vanessa Rosales A.",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "La br\u00fajula (es) el deseo (femenino)",
+        "url": "https://www.elespectador.com/opinion/columnistas/vanessa-rosales-a-/la-brujula-es-el-deseo-femenino/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "Proyecto de ley regresivo: matr\u00edcula cero para ricos",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/proyecto-de-ley-regresivo-matricula-cero-para-ricos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Camargo",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "40 a\u00f1os de historia, 40 a\u00f1os de aprendizajes",
+        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/40-anos-de-historia-40-anos-de-aprendizajes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "Dictadores avispados",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/dictadores-avispados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "Desaf\u00edos",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/desafios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "Tasa de inter\u00e9s e inflaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/tasa-de-interes-e-inflacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: Los hinchas y los fumadores",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/los-hinchas-y-los-fumadores/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2022-11-14",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cLos primeros 100 d\u00edas de un cambio\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-los-primeros-100-dias-de-un-cambio/"
     },
     {
         "article-type": "column",
@@ -120,187 +224,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/transicion-energetica-iii-superando-el-bla-bla/"
     },
     {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2022-11-13",
-        "publication": "el-espectador",
-        "title": "COVID y bloqueos: efectos de largo plazo",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/covid-y-bloqueos-efectos-de-largo-plazo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2022-11-13",
-        "publication": "el-espectador",
-        "title": "Financiar la demanda vs. la oferta",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/financiar-la-demanda-vs-la-oferta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2022-11-13",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 hacer con el narcotr\u00e1fico y las drogas en Colombia?",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/que-hacer-con-el-narcotrafico-y-las-drogas-en-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2022-11-13",
-        "publication": "el-espectador",
-        "title": "Amenazas a la libertad",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/amenazas-a-la-libertad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2022-11-13",
-        "publication": "el-espectador",
-        "title": "Violencias silenciadas",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/violencias-silenciadas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-11-13",
-        "publication": "el-espectador",
-        "title": "Comunidad emprendedora: es nuestro turno de construir confianza",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/comunidad-emprendedora-es-nuestro-turno-de-construir-confianza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-11-13",
-        "publication": "el-espectador",
-        "title": "El equipo de f\u00fatbol que alguna vez uni\u00f3 a Ir\u00e1n ahora refleja sus divisiones",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-equipo-de-futbol-que-alguna-vez-unio-a-iran-ahora-refleja-sus-divisiones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2022-11-13",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja van a la COP27 en Egipto",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-van-a-la-cop27-en-egipto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2022-11-13",
-        "publication": "el-espectador",
-        "title": "No eres t\u00fa, soy yo",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/no-eres-tu-soy-yo/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-11-13",
-        "publication": "el-espectador",
-        "title": "Microlingotes",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-69/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Pel\u00e1ez Restrepo",
-        "date": "2022-11-13",
-        "publication": "el-espectador",
-        "title": "Columna de Hern\u00e1n Pel\u00e1ez: Modo Mundial",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-pelaez-restrepo/columna-de-hernan-pelaez-modo-mundial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio C\u00e9sar Londo\u00f1o",
-        "date": "2022-11-12",
-        "publication": "el-espectador",
-        "title": "L\u00f3gica, locura y relato",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/logica-locura-y-relato/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Uribe Rinc\u00f3n",
-        "date": "2022-11-12",
-        "publication": "el-espectador",
-        "title": "Bogot\u00e1 y la V de violador",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/bogota-y-la-v-de-violador/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-13",
+        "date": "2022-11-14",
         "publication": "el-tiempo",
-        "title": "Cien d\u00edas del gobierno Petro",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-del-13-de-noviembre-de-2022-cien-dias-del-gobierno-petro-717284"
+        "title": "Lo urgente y lo importante",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-del-14-de-noviembre-de-2022-lo-urgente-y-lo-importante-717418"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2022-11-13",
+        "author": "Juan Lozano",
+        "date": "2022-11-14",
         "publication": "el-tiempo",
-        "title": "Los socios",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-los-socios-717285"
+        "title": "Lo que dice Transparencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-lo-que-dice-transparencia-717424"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2022-11-13",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2022-11-14",
         "publication": "el-tiempo",
-        "title": "\u00bfS\u00ed hay m\u00e1s presidente que gobierno?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-si-hay-mas-presidente-que-gobierno-717290"
+        "title": "En medio del desastre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-en-medio-del-desastre-717429"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2022-11-13",
+        "author": "Luis Felipe Henao",
+        "date": "2022-11-14",
         "publication": "el-tiempo",
-        "title": "El futuro de Bogot\u00e1 y del metro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-el-futuro-de-bogota-y-del-metro-717293"
+        "title": "100 d\u00edas gobernando Macondo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-100-dias-gobernando-macondo-717425"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2022-11-13",
+        "author": "Diego Santos",
+        "date": "2022-11-14",
         "publication": "el-tiempo",
-        "title": "No hagan esa tonter\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-no-hagan-esa-tonteria-717286"
+        "title": "Maleja y Tat\u00e1n, Sebasti\u00e1n y Valentina: mis personajes de 2022 en redes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-mis-personajes-de-2022-en-redes-717427"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2022-11-13",
+        "author": "Yolanda Reyes",
+        "date": "2022-11-14",
         "publication": "el-tiempo",
-        "title": "Mois\u00e9s y el fara\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-moises-y-el-faraon-717291"
+        "title": "Hogueras contempor\u00e1neas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-hogueras-contemporaneas-717426"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2022-11-13",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2022-11-14",
         "publication": "el-tiempo",
-        "title": "Negociaci\u00f3n del salario m\u00ednimo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-negociacion-del-salario-minimo-717294"
+        "title": "El mundo cambi\u00f3, pero ac\u00e1... hmmm",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-el-mundo-cambio-pero-aca-717421"
     },
     {
         "article-type": "column",
-        "author": "Luis Eduardo Garz\u00f3n",
-        "date": "2022-11-13",
+        "author": "Otros columnistas",
+        "date": "2022-11-14",
         "publication": "el-tiempo",
-        "title": "El men\u00fa Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-eduardo-garzon/columna-de-luis-eduardo-garzon-el-menu-petro-717295"
+        "title": "La calidad es excluyente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-froilan-casas-la-calidad-es-excluyente-717422"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2022-11-13",
+        "author": "Jorge Barraza",
+        "date": "2022-11-14",
         "publication": "el-tiempo",
-        "title": "Ucrania: es hora de acabar con la guerra",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/columna-de-antonio-albinana-ucrania-es-hora-de-acabar-con-la-guerra-717297"
-    },
-    {
-        "article-type": "column",
-        "author": "Mois\u00e9s Na\u00edm",
-        "date": "2022-11-13",
-        "publication": "el-tiempo",
-        "title": "Cuando hacer lo obvio es imposible",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-naim/columna-de-moises-naim-cuando-hacer-lo-obvio-es-imposible-717296"
+        "title": "Sensaciones al pie del avi\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-sensaciones-al-pie-del-avion-717432"
     }
 ]
