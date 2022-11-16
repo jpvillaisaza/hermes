@@ -2,10 +2,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-15",
+        "date": "2022-11-16",
         "publication": "el-colombiano",
-        "title": "Cien d\u00edas ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/cien-dias-DL19124667"
+        "title": "La Alpujarra: \u00bfdirectorio pol\u00edtico?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-alpujarra-directorio-politico-FN19140764"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Oppenheimer",
+        "date": "2022-11-16",
+        "publication": "el-colombiano",
+        "title": "Petro est\u00e1 legitimando a la dictadura de Venezuela",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/petro-esta-legitimando-a-la-dictadura-de-venezuela-CK19136532"
+    },
+    {
+        "article-type": "column",
+        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
+        "date": "2022-11-16",
+        "publication": "el-colombiano",
+        "title": "Cien d\u00edas de populismo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cien-dias-de-populismo-AK19136512"
+    },
+    {
+        "article-type": "column",
+        "author": "David Yanovich",
+        "date": "2022-11-16",
+        "publication": "el-colombiano",
+        "title": "El cambio por el cambio",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-cambio-por-el-cambio-NK19136478"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas a la Directora",
+        "date": "2022-11-16",
+        "publication": "el-colombiano",
+        "title": "El Mundial de Qatar, la corrupci\u00f3n y la pas\u00edon por el f\u00fatbol",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-mundial-de-qatar-la-corrupcion-y-la-pasion-por-el-futbol-OK19136495"
+    },
+    {
+        "article-type": "column",
+        "author": "David E. Santos G\u00f3mez",
+        "date": "2022-11-16",
+        "publication": "el-colombiano",
+        "title": "La medida de las hipocres\u00edas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-medida-de-las-hipocresias-AK19136457"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2022-11-16",
+        "publication": "el-colombiano",
+        "title": "Por qu\u00e9 estamos polarizados",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/por-que-estamos-polarizados-DK19136423"
     },
     {
         "article-type": "column",
@@ -40,60 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/un-david-dos-goliat-AL19123388"
     },
     {
-        "article-type": "column",
-        "author": "Juan David Ram\u00edrez Correa",
-        "date": "2022-11-15",
-        "publication": "el-colombiano",
-        "title": "Lo importante",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/lo-importante-JL19123280"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Bibiana Botero C.",
-        "date": "2022-11-14",
-        "publication": "el-colombiano",
-        "title": "Ojo con el Metro de Medell\u00edn ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/ojo-con-el-metro-de-medellin-GI19116374"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
-        "date": "2022-11-14",
-        "publication": "el-colombiano",
-        "title": "Liberlandia queda en el metaverso ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/liberlandia-queda-en-el-metaverso-HI19116357"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Escobar Valencia",
-        "date": "2022-11-14",
-        "publication": "el-colombiano",
-        "title": "La persona que salv\u00f3 al mundo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-persona-que-salvo-al-mundo-BI19116340"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
-        "date": "2022-11-14",
-        "publication": "el-colombiano",
-        "title": "La locura en Hidroituango ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-locura-en-hidroituango-AI19116413"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez G.",
-        "date": "2022-11-14",
-        "publication": "el-colombiano",
-        "title": "La doble conformidad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-doble-conformidad-II19116394"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-15",
+        "date": "2022-11-16",
         "publication": "el-espectador",
-        "title": "No es momento para la apat\u00eda clim\u00e1tica",
-        "url": "https://www.elespectador.com/opinion/editorial/no-es-momento-para-la-apatia-climatica/"
+        "title": "\u00bfC\u00f3mo evitamos la tragedia repetitiva? ",
+        "url": "https://www.elespectador.com/opinion/editorial/como-evitamos-la-tragedia-repetitiva/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "Ni hablar del Peluqu\u00edn",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/ni-hablar-del-peluquin/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "Barbosa y su \u201cescudo para evitar\u201d que lo investiguen",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/barbosa-y-su-escudo-para-evitar-que-lo-investiguen/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Segovia",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "La capital del infierno",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/la-capital-del-infierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Pablo Ruiz Soto",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "Petro en la COP27: pros y contras",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/petro-en-la-cop27-pros-y-contras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "\u00bfSabiondos o incapaces? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/sabiondos-o-incapaces/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "Profec\u00edas mundialistas",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/profecias-mundialistas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arlene B. Tickner",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "Hablemos de pol\u00edtica exterior feminista",
+        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/hablemos-de-politica-exterior-feminista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "El peque\u00f1o gigante",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/el-pequeno-gigante/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "El asalariado",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-asalariado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Cetina, director ejecutivo del Fondo Colombia en Paz",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "Comunicaci\u00f3n y digitalizaci\u00f3n: retos frente a la consolidaci\u00f3n de la paz",
+        "url": "https://www.elespectador.com/colombia-20/analistas/comunicacion-y-digitalizacion-retos-frente-a-la-consolidacion-de-la-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elementa DD.HH.",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "La \u201cpaz total\u201d y la responsabilidad del periodismo",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-paz-total-y-la-responsabilidad-del-periodismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Miranda",
+        "date": "2022-11-16",
+        "publication": "el-espectador",
+        "title": "Amazonia: \u00a1una esperanza verde!",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/amazonia-una-esperanza-verde/"
     },
     {
         "article-type": "column",
@@ -128,163 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/presidente-y-vicepresidente/"
     },
     {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "La nueva izquierda jubila anacronismos",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-nueva-izquierda-jubila-anacronismos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "Las detenciones no son penas",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/las-detenciones-no-son-penas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pedro Viveros",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "100 d\u00edas no solo de Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/100-dias-no-solo-de-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "Haz un clic",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/haz-un-clic/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "Huelga y muerte de la se\u00f1orita Betsab\u00e9",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/huelga-y-muerte-de-la-senorita-betsabe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Barajas Sandoval",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "Joseph, no te lances",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/joseph-no-te-lances/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "Columna de Jorge Tovar: El once hist\u00f3rico de los Mundiales",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/el-once-historico-de-los-mundiales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Guillermo Gonz\u00e1lez Uribe",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "El comienzo de una revoluci\u00f3n pac\u00edfica",
-        "url": "https://www.elespectador.com/opinion/columnistas/guillermo-gonzalez-uribe/el-comienzo-de-una-revolucion-pacifica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2022-11-14",
-        "publication": "el-espectador",
-        "title": "\u00bfLa palabra \u00abentrampamiento\u00bb existe?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/la-palabra-entrampamiento-existe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2022-11-14",
-        "publication": "el-espectador",
-        "title": "100 d\u00edas de Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/100-dias-de-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2022-11-14",
-        "publication": "el-espectador",
-        "title": "Tiempos dif\u00edciles",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/tiempos-dificiles-2/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2022-11-14",
-        "publication": "el-espectador",
-        "title": "\u201cExcelent\u00edsimo se\u00f1or",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/excelentisimo-senor/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-15",
+        "date": "2022-11-16",
         "publication": "el-tiempo",
-        "title": "Luego de la tragedia",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-del-15-de-noviembre-de-2022-luego-de-la-tragedia-717540"
+        "title": "Recomponer el lazo",
+        "url": "https://www.eltiempo.com/opinion/editorial/recomponer-el-lazo-editorial-el-tiempo-717865"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2022-11-15",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2022-11-16",
         "publication": "el-tiempo",
-        "title": "La hora de la solidaridad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-la-hora-de-la-solidaridad-717549"
+        "title": "\u00bfOtro marco jur\u00eddico para la paz?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/otro-marco-juridico-para-la-paz-columna-de-alfonso-gomez-mendez-717850"
     },
     {
         "article-type": "column",
-        "author": "Viviane Morales Hoyos",
-        "date": "2022-11-15",
+        "author": "Vladdo",
+        "date": "2022-11-16",
         "publication": "el-tiempo",
-        "title": "Claudia: \u00bfa un metro de la candidatura?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/columna-de-viviane-morales-claudia-a-un-metro-de-la-candidatura-717550"
+        "title": "Cien d\u00edas en blanco",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/cien-dias-en-blanco-columna-de-vladdo-717855"
     },
     {
         "article-type": "column",
-        "author": "Juan Pablo Calv\u00e1s",
-        "date": "2022-11-15",
+        "author": "Florence Thomas",
+        "date": "2022-11-16",
         "publication": "el-tiempo",
-        "title": "\u2018El fin est\u00e1 cerca\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/columna-de-juan-pablo-calvas-el-fin-esta-cerca-717554"
+        "title": "Y ahora, c\u00f3mo nombrarse...",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/y-ahora-como-nombrarse-columna-de-florence-thomas-717829"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2022-11-15",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2022-11-16",
         "publication": "el-tiempo",
-        "title": "\u00bfPor qu\u00e9 se ataca a TransMilenio?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-por-que-se-ataca-a-transmilenio-717542"
+        "title": "La ca\u00edda de la tarde",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/la-caida-de-la-tarde-columna-de-jotamario-arbelaez-717835"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2022-11-15",
+        "author": "Poncho Renter\u00eda",
+        "date": "2022-11-16",
         "publication": "el-tiempo",
-        "title": "El Cervantes de Rafael Cadenas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-escobar-el-cervantes-de-rafael-cadenas-717555"
+        "title": "Penoso autogol de la alcaldesa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/penoso-autogol-de-la-alcaldesa-columna-de-poncho-renteria-717825"
     },
     {
         "article-type": "column",
-        "author": "Eleonora Lozano",
-        "date": "2022-11-15",
+        "author": "Santiago Vargas Acebedo",
+        "date": "2022-11-16",
         "publication": "el-tiempo",
-        "title": "La primera reforma tributaria del presidente Petro: sensaciones encontradas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eleonora-lozano/columna-de-eleonora-lozano-la-reforma-tributaria-de-petro-717561"
+        "title": "Un orinal, Elon Musk y protestas sociales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/un-orinal-elon-musk-y-protestas-sociales-columna-de-santiago-vargas-717844"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Riveros Gonz\u00e1lez",
-        "date": "2022-11-15",
+        "author": "Alpher Rojas C.",
+        "date": "2022-11-16",
         "publication": "el-tiempo",
-        "title": "La cincuenta y ocho",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/columna-de-alejandro-riveros-la-cincuenta-y-ocho-717560"
+        "title": "A transformar violencias en cultura pol\u00edtica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/a-transformar-violencias-en-cultura-politica-columna-de-alpher-rojas-717840"
     }
 ]
