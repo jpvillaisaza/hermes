@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-16",
+        "date": "2022-11-17",
         "publication": "el-colombiano",
-        "title": "La Alpujarra: \u00bfdirectorio pol\u00edtico?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-alpujarra-directorio-politico-FN19140764"
+        "title": "El Mundial que no debi\u00f3 ser",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-mundial-que-no-debio-ser-NO19172197"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Perfetti del Corral",
+        "date": "2022-11-17",
+        "publication": "el-colombiano",
+        "title": "\u00bfCambio o incertidumbre? ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cambio-o-incertidumbre-BP19168854"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2022-11-17",
+        "publication": "el-colombiano",
+        "title": "Decadencia ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/decadencia-OP19168420"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2022-11-17",
+        "publication": "el-colombiano",
+        "title": "La importancia de la reforestaci\u00f3n ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-importancia-de-la-reforestacion-MP19168589"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2022-11-17",
+        "publication": "el-colombiano",
+        "title": "Hagan ni\u00f1os, que cabemos todos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/hagan-ninos-que-cabemos-todos-FP19168814"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-11-17",
+        "publication": "el-colombiano",
+        "title": "Servir fue su verbo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/servir-fue-su-verbo-PP19168403"
     },
     {
         "article-type": "column",
@@ -34,9 +74,9 @@
     {
         "article-type": "column",
         "author": "Cartas a la Directora",
-        "date": "2022-11-16",
+        "date": "2022-11-17",
         "publication": "el-colombiano",
-        "title": "El Mundial de Qatar, la corrupci\u00f3n y la pas\u00edon por el f\u00fatbol",
+        "title": "El Mundial de Qatar, la corrupci\u00f3n y la pasi\u00f3n por el f\u00fatbol",
         "url": "https://www.elcolombiano.com/opinion/columnistas/el-mundial-de-qatar-la-corrupcion-y-la-pasion-por-el-futbol-OK19136495"
     },
     {
@@ -48,52 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-medida-de-las-hipocresias-AK19136457"
     },
     {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2022-11-16",
-        "publication": "el-colombiano",
-        "title": "Por qu\u00e9 estamos polarizados",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/por-que-estamos-polarizados-DK19136423"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Camilo Quintero",
-        "date": "2022-11-15",
-        "publication": "el-colombiano",
-        "title": "Liderazgo ejemplar",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/liderazgo-ejemplar-GL19123423"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2022-11-15",
-        "publication": "el-colombiano",
-        "title": "El silencio de Alibaba",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-silencio-de-alibaba-BL19123406"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2022-11-15",
-        "publication": "el-colombiano",
-        "title": "Cien d\u00edas, mucha m\u00e1s pobreza ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/cien-dias-mucha-mas-pobreza-FL19123314"
-    },
-    {
-        "article-type": "column",
-        "author": "Melquisedec Torres",
-        "date": "2022-11-15",
-        "publication": "el-colombiano",
-        "title": "Un David, dos Goliat ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/un-david-dos-goliat-AL19123388"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-16",
+        "date": "2022-11-17",
         "publication": "el-espectador",
-        "title": "\u00bfC\u00f3mo evitamos la tragedia repetitiva? ",
-        "url": "https://www.elespectador.com/opinion/editorial/como-evitamos-la-tragedia-repetitiva/"
+        "title": "Ojo con el Cesar",
+        "url": "https://www.elespectador.com/opinion/editorial/ojo-con-el-cesar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "Feminicidios en Tib\u00fa ",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/feminicidios-en-tibu/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "Cien d\u00edas de la vicepresidenta Francia M\u00e1rquez",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/cien-dias-de-la-vicepresidenta-francia-marquez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "\u00bfLe preocupa el tranc\u00f3n pero no la violaci\u00f3n?",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/le-preocupa-el-trancon-pero-no-la-violacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo Gall\u00f3n",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "\u201cLa relaci\u00f3n entre cultura y conflicto armado\u2026\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/la-relacion-entre-cultura-y-conflicto-armado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "Cultura, la primera sacrificada",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/cultura-la-primera-sacrificada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "Los l\u00edmites de la libertad",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/los-limites-de-la-libertad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "Alcahuetas de Su Majestad",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/alcahuetas-de-su-majestad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Manuel Ospina",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "Petro entre l\u00edneas",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/petro-entre-lineas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "Contra las marchas pro-gobierno",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/contra-las-marchas-pro-gobierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "Los primeros cien d\u00edas",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/los-primeros-cien-dias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "Columna de Luis Fernando Montoya: El vuelo alto de las \u00c1guilas",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/el-vuelo-alto-de-las-aguilas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "\u201cEl trabajo sexual es trabajo\u201d: sindicato de putas en Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/el-trabajo-sexual-es-trabajo-sindicato-de-putas-en-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "La Cumbre que quiz\u00e1s s\u00ed vale",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/la-cumbre-que-quizas-si-vale/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "Nuestros contenidos no se pueden resumir en 140 caracteres",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nuestros-contenidos-no-se-pueden-resumir-en-140-caracteres/"
     },
     {
         "article-type": "column",
@@ -112,179 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/barbosa-y-su-escudo-para-evitar-que-lo-investiguen/"
     },
     {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "La capital del infierno",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/la-capital-del-infierno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "Petro en la COP27: pros y contras",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/petro-en-la-cop27-pros-y-contras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "\u00bfSabiondos o incapaces? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/sabiondos-o-incapaces/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "Profec\u00edas mundialistas",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/profecias-mundialistas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arlene B. Tickner",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "Hablemos de pol\u00edtica exterior feminista",
-        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/hablemos-de-politica-exterior-feminista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "El peque\u00f1o gigante",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/el-pequeno-gigante/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "El asalariado",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-asalariado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Cetina, director ejecutivo del Fondo Colombia en Paz",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "Comunicaci\u00f3n y digitalizaci\u00f3n: retos frente a la consolidaci\u00f3n de la paz",
-        "url": "https://www.elespectador.com/colombia-20/analistas/comunicacion-y-digitalizacion-retos-frente-a-la-consolidacion-de-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elementa DD.HH.",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "La \u201cpaz total\u201d y la responsabilidad del periodismo",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-paz-total-y-la-responsabilidad-del-periodismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz Miranda",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "Amazonia: \u00a1una esperanza verde!",
-        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/amazonia-una-esperanza-verde/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "El\u00edxir de amor guajiro",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/elixir-de-amor-guajiro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "Bono",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/bono/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "Fabricando princesas",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/fabricando-princesas/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-11-15",
-        "publication": "el-espectador",
-        "title": "Presidente y vicepresidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/presidente-y-vicepresidente/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-16",
+        "date": "2022-11-17",
         "publication": "el-tiempo",
-        "title": "Recomponer el lazo",
-        "url": "https://www.eltiempo.com/opinion/editorial/recomponer-el-lazo-editorial-el-tiempo-717865"
+        "title": "Desaf\u00edos de la Sabana",
+        "url": "https://www.eltiempo.com/opinion/editorial/desafios-de-la-sabana-editorial-el-tiempo-718191"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2022-11-16",
+        "author": "Pedro Medellin",
+        "date": "2022-11-17",
         "publication": "el-tiempo",
-        "title": "\u00bfOtro marco jur\u00eddico para la paz?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/otro-marco-juridico-para-la-paz-columna-de-alfonso-gomez-mendez-717850"
+        "title": "\u00bf100 d\u00edas o 2 largos a\u00f1os de gobierno?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/100-dias-o-2-largos-anos-de-gobierno-columna-de-pedro-medellin-718102"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2022-11-16",
+        "author": "Jineth Bedoya Lima",
+        "date": "2022-11-17",
         "publication": "el-tiempo",
-        "title": "Cien d\u00edas en blanco",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/cien-dias-en-blanco-columna-de-vladdo-717855"
+        "title": "Un feminismo pro mujer",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/un-feminismo-pro-mujer-columna-de-jineth-bedoya-718153"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2022-11-16",
+        "author": "Mauricio Lloreda",
+        "date": "2022-11-17",
         "publication": "el-tiempo",
-        "title": "Y ahora, c\u00f3mo nombrarse...",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/y-ahora-como-nombrarse-columna-de-florence-thomas-717829"
+        "title": "Llueve en Macondo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/llueve-en-macondo-columna-de-mauricio-lloreda-718134"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2022-11-16",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2022-11-17",
         "publication": "el-tiempo",
-        "title": "La ca\u00edda de la tarde",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/la-caida-de-la-tarde-columna-de-jotamario-arbelaez-717835"
+        "title": "No hagan olas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/no-hagan-olas-columna-de-juan-esteban-constain-718096"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2022-11-16",
+        "author": "Diana Pardo",
+        "date": "2022-11-17",
         "publication": "el-tiempo",
-        "title": "Penoso autogol de la alcaldesa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/penoso-autogol-de-la-alcaldesa-columna-de-poncho-renteria-717825"
+        "title": "Dar las gracias",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/dar-las-gracias-columna-de-diana-pardo-718131"
     },
     {
         "article-type": "column",
-        "author": "Santiago Vargas Acebedo",
-        "date": "2022-11-16",
+        "author": "Juliana Mej\u00eda",
+        "date": "2022-11-17",
         "publication": "el-tiempo",
-        "title": "Un orinal, Elon Musk y protestas sociales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/un-orinal-elon-musk-y-protestas-sociales-columna-de-santiago-vargas-717844"
+        "title": "Poner la salud mental en la agenda p\u00fablica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/poner-la-salud-mental-en-la-agenda-publica-columna-de-juliana-mejia-718130"
     },
     {
         "article-type": "column",
-        "author": "Alpher Rojas C.",
-        "date": "2022-11-16",
+        "author": "Dar\u00edo Hidalgo",
+        "date": "2022-11-17",
         "publication": "el-tiempo",
-        "title": "A transformar violencias en cultura pol\u00edtica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/a-transformar-violencias-en-cultura-politica-columna-de-alpher-rojas-717840"
+        "title": "Recordar a las v\u00edctimas en medio del peor a\u00f1o en siniestros viales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/dario-hidalgo/recordar-a-las-victimas-en-medio-del-peor-ano-en-siniestros-viales-718110"
     }
 ]
