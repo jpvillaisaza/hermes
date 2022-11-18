@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-17",
+        "date": "2022-11-18",
         "publication": "el-colombiano",
-        "title": "El Mundial que no debi\u00f3 ser",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-mundial-que-no-debio-ser-NO19172197"
+        "title": "El gobierno sin Roy ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-gobierno-sin-roy-KA19193810"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Manrique",
+        "date": "2022-11-18",
+        "publication": "el-colombiano",
+        "title": "Hay que acabar con este Frankenstein. ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/hay-que-acabar-con-este-frankenstein-DA19191435"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-11-18",
+        "publication": "el-colombiano",
+        "title": "Un pecado catar\u00ed ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-pecado-catari-CA19191355"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-11-18",
+        "publication": "el-colombiano",
+        "title": "Umbilical ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/umbilical-HA19191413"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2022-11-18",
+        "publication": "el-colombiano",
+        "title": "\u00bfSobramos? ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobramos-FA19193789"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-11-18",
+        "publication": "el-colombiano",
+        "title": "Reforma pol\u00edtica: ni reelecci\u00f3n ni extensi\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/reforma-politica-ni-reeleccion-ni-extension-OA19191395"
     },
     {
         "article-type": "column",
@@ -48,52 +88,92 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/servir-fue-su-verbo-PP19168403"
     },
     {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-11-16",
-        "publication": "el-colombiano",
-        "title": "Petro est\u00e1 legitimando a la dictadura de Venezuela",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/petro-esta-legitimando-a-la-dictadura-de-venezuela-CK19136532"
-    },
-    {
-        "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2022-11-16",
-        "publication": "el-colombiano",
-        "title": "Cien d\u00edas de populismo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/cien-dias-de-populismo-AK19136512"
-    },
-    {
-        "article-type": "column",
-        "author": "David Yanovich",
-        "date": "2022-11-16",
-        "publication": "el-colombiano",
-        "title": "El cambio por el cambio",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-cambio-por-el-cambio-NK19136478"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-11-17",
-        "publication": "el-colombiano",
-        "title": "El Mundial de Qatar, la corrupci\u00f3n y la pasi\u00f3n por el f\u00fatbol",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-mundial-de-qatar-la-corrupcion-y-la-pasion-por-el-futbol-OK19136495"
-    },
-    {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-11-16",
-        "publication": "el-colombiano",
-        "title": "La medida de las hipocres\u00edas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-medida-de-las-hipocresias-AK19136457"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2022-11-17",
         "publication": "el-espectador",
         "title": "Ojo con el Cesar",
         "url": "https://www.elespectador.com/opinion/editorial/ojo-con-el-cesar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2022-11-18",
+        "publication": "el-espectador",
+        "title": "Me le quito el sombrero, senador Roy",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/me-le-quito-el-sombrero-senador-roy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2022-11-18",
+        "publication": "el-espectador",
+        "title": "Arranc\u00f3 la petroneta",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/arranco-la-petroneta/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2022-11-18",
+        "publication": "el-espectador",
+        "title": "Oposici\u00f3n s\u00ed pero no as\u00ed",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/oposicion-si-pero-no-asi/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2022-11-18",
+        "publication": "el-espectador",
+        "title": "La medicina del puro amor",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/la-medicina-del-puro-amor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2022-11-18",
+        "publication": "el-espectador",
+        "title": "El mercado (II)",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/el-mercado-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2022-11-18",
+        "publication": "el-espectador",
+        "title": "Don al ma\u00edz",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/don-al-maiz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo P\u00e1ez Escobar",
+        "date": "2022-11-18",
+        "publication": "el-espectador",
+        "title": "Por el territorio de los muertos (3)",
+        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-paez-escobar/por-el-territorio-de-los-muertos-3/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2022-11-18",
+        "publication": "el-espectador",
+        "title": "\u00bfAlemania y China contra Rusia?",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/alemania-y-china-contra-rusia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juliana Mu\u00f1oz Toro",
+        "date": "2022-11-18",
+        "publication": "el-espectador",
+        "title": "Neruda y sus caracolas",
+        "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/neruda-y-sus-caracolas/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2022-11-18",
+        "publication": "el-espectador",
+        "title": "Esto nos est\u00e1 matando y nadie hace nada | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-esto-nos-esta-matando-y-nadie-hace-nada/"
     },
     {
         "article-type": "column",
@@ -113,14 +193,6 @@
     },
     {
         "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2022-11-17",
-        "publication": "el-espectador",
-        "title": "\u00bfLe preocupa el tranc\u00f3n pero no la violaci\u00f3n?",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/le-preocupa-el-trancon-pero-no-la-violacion/"
-    },
-    {
-        "article-type": "column",
         "author": "Gustavo Gall\u00f3n",
         "date": "2022-11-17",
         "publication": "el-espectador",
@@ -137,6 +209,14 @@
     },
     {
         "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2022-11-17",
+        "publication": "el-espectador",
+        "title": "\u00bfLe preocupa el tranc\u00f3n pero no la violaci\u00f3n?",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/le-preocupa-el-trancon-pero-no-la-violacion/"
+    },
+    {
+        "article-type": "column",
         "author": "Juan David Zuloaga D.",
         "date": "2022-11-17",
         "publication": "el-espectador",
@@ -144,147 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/los-limites-de-la-libertad/"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2022-11-17",
-        "publication": "el-espectador",
-        "title": "Alcahuetas de Su Majestad",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/alcahuetas-de-su-majestad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2022-11-17",
-        "publication": "el-espectador",
-        "title": "Petro entre l\u00edneas",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/petro-entre-lineas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Santiago Villa",
-        "date": "2022-11-17",
-        "publication": "el-espectador",
-        "title": "Contra las marchas pro-gobierno",
-        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/contra-las-marchas-pro-gobierno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2022-11-17",
-        "publication": "el-espectador",
-        "title": "Los primeros cien d\u00edas",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/los-primeros-cien-dias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2022-11-17",
-        "publication": "el-espectador",
-        "title": "Columna de Luis Fernando Montoya: El vuelo alto de las \u00c1guilas",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/el-vuelo-alto-de-las-aguilas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-11-17",
-        "publication": "el-espectador",
-        "title": "\u201cEl trabajo sexual es trabajo\u201d: sindicato de putas en Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/el-trabajo-sexual-es-trabajo-sindicato-de-putas-en-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2022-11-17",
-        "publication": "el-espectador",
-        "title": "La Cumbre que quiz\u00e1s s\u00ed vale",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/la-cumbre-que-quizas-si-vale/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-11-17",
-        "publication": "el-espectador",
-        "title": "Nuestros contenidos no se pueden resumir en 140 caracteres",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nuestros-contenidos-no-se-pueden-resumir-en-140-caracteres/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "Ni hablar del Peluqu\u00edn",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/ni-hablar-del-peluquin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2022-11-16",
-        "publication": "el-espectador",
-        "title": "Barbosa y su \u201cescudo para evitar\u201d que lo investiguen",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/barbosa-y-su-escudo-para-evitar-que-lo-investiguen/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-17",
+        "date": "2022-11-18",
         "publication": "el-tiempo",
-        "title": "Desaf\u00edos de la Sabana",
-        "url": "https://www.eltiempo.com/opinion/editorial/desafios-de-la-sabana-editorial-el-tiempo-718191"
+        "title": "Preservar el crecimiento",
+        "url": "https://www.eltiempo.com/opinion/editorial/preservar-el-crecimiento-editorial-el-tiempo-718531"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-11-17",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-11-18",
         "publication": "el-tiempo",
-        "title": "\u00bf100 d\u00edas o 2 largos a\u00f1os de gobierno?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/100-dias-o-2-largos-anos-de-gobierno-columna-de-pedro-medellin-718102"
+        "title": "Repensar las regal\u00edas para ciencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/repensar-las-regalias-para-ciencia-columna-de-moises-wasserman-718452"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2022-11-17",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-11-18",
         "publication": "el-tiempo",
-        "title": "Un feminismo pro mujer",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/un-feminismo-pro-mujer-columna-de-jineth-bedoya-718153"
+        "title": "Qatar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/qatar-columna-de-ricardo-silva-718501"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Lloreda",
-        "date": "2022-11-17",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2022-11-18",
         "publication": "el-tiempo",
-        "title": "Llueve en Macondo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/llueve-en-macondo-columna-de-mauricio-lloreda-718134"
+        "title": "\u00bfQu\u00e9 fue de Salman Rushdie?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/que-fue-de-salman-rushdie-718461"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-11-17",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-11-18",
         "publication": "el-tiempo",
-        "title": "No hagan olas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/no-hagan-olas-columna-de-juan-esteban-constain-718096"
+        "title": "\u00bfAvanzada autoritaria?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/avanzada-autoritaria-columna-de-eduardo-posada-carbo-718471"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2022-11-17",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2022-11-18",
         "publication": "el-tiempo",
-        "title": "Dar las gracias",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/dar-las-gracias-columna-de-diana-pardo-718131"
+        "title": "Lo m\u00e1s dif\u00edcil",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/lo-mas-dificil-columna-de-manuel-guzman-hennessey-718502"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2022-11-17",
+        "author": "Women in Connection",
+        "date": "2022-11-18",
         "publication": "el-tiempo",
-        "title": "Poner la salud mental en la agenda p\u00fablica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/poner-la-salud-mental-en-la-agenda-publica-columna-de-juliana-mejia-718130"
+        "title": "El bienestar de las mujeres rurales de Colombia s\u00ed es posible",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/el-bienestar-de-las-mujeres-rurales-de-colombia-si-es-posible-718503"
     },
     {
         "article-type": "column",
-        "author": "Dar\u00edo Hidalgo",
-        "date": "2022-11-17",
+        "author": "Robert Max Steenkist",
+        "date": "2022-11-18",
         "publication": "el-tiempo",
-        "title": "Recordar a las v\u00edctimas en medio del peor a\u00f1o en siniestros viales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/dario-hidalgo/recordar-a-las-victimas-en-medio-del-peor-ano-en-siniestros-viales-718110"
+        "title": "\u00bfTodo por 5.700 minutos de f\u00fatbol?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/robert-max-steenkist/todo-por-5-700-minutos-de-futbol-columna-de-robert-max-steenkist-718505"
     }
 ]
