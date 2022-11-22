@@ -2,10 +2,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-21",
+        "date": "2022-11-22",
         "publication": "el-colombiano",
-        "title": "A cuidar la salud de la econom\u00eda",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/a-cuidar-la-salud-de-la-economia-JN19279132"
+        "title": "Los peligros de la reforma pol\u00edtica",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/los-peligros-de-la-reforma-politica-BK19314489"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Mej\u00eda Cubillos",
+        "date": "2022-11-22",
+        "publication": "el-colombiano",
+        "title": "Este es el nivel de desigualdad \u00f3ptimo ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/este-es-el-nivel-de-desigualdad-optimo-FK19313262"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-11-22",
+        "publication": "el-colombiano",
+        "title": "Un barril de p\u00f3lvora: desempleo juvenil",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-barril-de-polvora-desempleo-juvenil-CK19313375"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-11-22",
+        "publication": "el-colombiano",
+        "title": "La pensional, m\u00e1s hambre futura ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-pensional-mas-hambre-futura-GK19313317"
+    },
+    {
+        "article-type": "column",
+        "author": "Proantioquia",
+        "date": "2022-11-22",
+        "publication": "el-colombiano",
+        "title": "Instituciones antioque\u00f1as en riesgo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/instituciones-antioquenas-en-riesgo-IK19313597"
+    },
+    {
+        "article-type": "column",
+        "author": "Federico Hoyos Salazar",
+        "date": "2022-11-22",
+        "publication": "el-colombiano",
+        "title": "Instituciones antioque\u00f1as en riesgo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/instituciones-antioquenas-en-riesgo-IK19313597"
+    },
+    {
+        "article-type": "column",
+        "author": "Amalia Londo\u00f1o Duque",
+        "date": "2022-11-22",
+        "publication": "el-colombiano",
+        "title": "Compartir: intercambiar ideas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/compartir-intercambiar-ideas-IK19313579"
     },
     {
         "article-type": "column",
@@ -48,52 +96,92 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-culpa-no-es-del-balon-CN19278965"
     },
     {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-11-20",
-        "publication": "el-colombiano",
-        "title": "En el s\u00f3tano",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/en-el-sotano-KN19275582"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2022-11-20",
-        "publication": "el-colombiano",
-        "title": "\u00bfSeguridad ambiental o imprevisi\u00f3n constante?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/seguridad-ambiental-o-imprevision-constante-MN19273681"
-    },
-    {
-        "article-type": "column",
-        "author": "David Escobar Arango",
-        "date": "2022-11-20",
-        "publication": "el-colombiano",
-        "title": "Llenos de dioses",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/llenos-de-dioses-AN19274004"
-    },
-    {
-        "article-type": "column",
-        "author": "Elbac\u00e9 Restrepo",
-        "date": "2022-11-20",
-        "publication": "el-colombiano",
-        "title": "En memoria",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/en-memoria-EN19275122"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-11-20",
-        "publication": "el-colombiano",
-        "title": "La incuria de la justicia y los entes de control",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-incuria-de-la-justicia-y-los-entes-de-control-ON19274947"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2022-11-21",
         "publication": "el-espectador",
         "title": "Esperanza por los di\u00e1logos con el Eln",
         "url": "https://www.elespectador.com/opinion/editorial/esperanza-por-los-dialogos-con-el-eln/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2022-11-22",
+        "publication": "el-espectador",
+        "title": "Racismo bien historiado",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/racismo-bien-historiado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Orduz",
+        "date": "2022-11-22",
+        "publication": "el-espectador",
+        "title": "\u201cGenios, billonarios, fil\u00e1ntropos\u201d:  FTX, burbujas y v\u00edctimas",
+        "url": "https://www.elespectador.com/opinion/columnistas/rafael-orduz/genios-billonarios-filantropos-ftx-burbujas-y-victimas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-11-22",
+        "publication": "el-espectador",
+        "title": "El Mundial de la infamia",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-mundial-de-la-infamia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-11-22",
+        "publication": "el-espectador",
+        "title": "Grande otra vez, \u00bfotra vez?",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/grande-otra-vez-otra-vez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2022-11-22",
+        "publication": "el-espectador",
+        "title": "M\u00e9xico elimina las asignaturas en la educaci\u00f3n b\u00e1sica, \u00bfy Colombia?",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/mexico-elimina-las-asignaturas-en-la-educacion-basica-y-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2022-11-22",
+        "publication": "el-espectador",
+        "title": "Qatar o no Qatar",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/qatar-o-no-qatar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Vanessa Rosales A.",
+        "date": "2022-11-22",
+        "publication": "el-espectador",
+        "title": "Nueva York",
+        "url": "https://www.elespectador.com/opinion/columnistas/vanessa-rosales-a-/nueva-york/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Miranda",
+        "date": "2022-11-22",
+        "publication": "el-espectador",
+        "title": "\u00a1Todos somos Hebe de Bonafini! ",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/todos-somos-hebe-de-bonafini/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-11-22",
+        "publication": "el-espectador",
+        "title": "La falacia de la Comisi\u00f3n Global de Drogas",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/analisis-la-falacia-de-la-comision-global-de-drogas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio Borges",
+        "date": "2022-11-22",
+        "publication": "el-espectador",
+        "title": "Candados a la cr\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/candados-a-la-critica/"
     },
     {
         "article-type": "column",
@@ -144,123 +232,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/llego-la-ganaderia/"
     },
     {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-11-21",
-        "publication": "el-espectador",
-        "title": "\u00bfReformas o remiendos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/reformas-o-remiendos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-11-21",
-        "publication": "el-espectador",
-        "title": "Derecho fundamental a la educaci\u00f3n superior, en contrav\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/derecho-fundamental-a-la-educacion-superior-en-contravia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2022-11-21",
-        "publication": "el-espectador",
-        "title": "Moncayo y la paternidad reivindicada",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/moncayo-y-la-paternidad-reivindicada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2022-11-21",
-        "publication": "el-espectador",
-        "title": "Maten a Whitlam",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/maten-a-whitlam/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-11-21",
-        "publication": "el-espectador",
-        "title": "Rodaron cabezas, rueda la pelota ",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/rodaron-cabezas-rueda-la-pelota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabiola Calvo",
-        "date": "2022-11-21",
-        "publication": "el-espectador",
-        "title": "Violencia sexual en el conflicto: Justicia y resiliencia",
-        "url": "https://www.elespectador.com/colombia-20/analistas/violencia-sexual-en-el-conflicto-justicia-y-resiliencia/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-21",
+        "date": "2022-11-22",
         "publication": "el-tiempo",
-        "title": "Otro paso capital",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-21-de-noviembre-de-2022-otro-paso-capital-719159"
+        "title": "El futuro de Hidroituango",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-futuro-de-hidroituango-editorial-el-tiempo-719466"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-11-21",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-11-22",
         "publication": "el-tiempo",
-        "title": "La ventana trancada y la puerta abierta",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-la-ventana-trancada-y-la-puerta-abierta-719170"
+        "title": "Ganancias colaterales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/ganancias-colaterales-columna-de-jose-manuel-acevedo-719423"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-11-21",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2022-11-22",
         "publication": "el-tiempo",
-        "title": "Nuevas reglas de juego hechas a la medida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-nuevas-reglas-de-juego-a-la-medida-719172"
+        "title": "Lula: retrato en blanco y negro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/lula-retrato-en-blanco-y-negro-columna-de-sergio-munoz-bata-719426"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2022-11-21",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2022-11-22",
         "publication": "el-tiempo",
-        "title": "\u00bfLa mano de Dios en la reforma pensional?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-la-mano-de-dios-en-la-reforma-pensional-719169"
+        "title": "La competitividad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/la-competitividad-columna-de-marcela-melendez-719444"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-11-21",
+        "author": "Francisco Cajiao",
+        "date": "2022-11-22",
         "publication": "el-tiempo",
-        "title": "El colapso de la casa de cambio de criptomonedas FTX",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-el-colapso-de-ftx-719174"
+        "title": "\u00bfQu\u00e9 pasa en 100 d\u00edas de educaci\u00f3n?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/que-pasa-en-100-dias-de-educacion-columna-de-francisco-cajiao-719438"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2022-11-21",
+        "author": "Fernando Quiroz",
+        "date": "2022-11-22",
         "publication": "el-tiempo",
-        "title": "Llamado a la cordura",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-llamado-a-la-cordura-719184"
+        "title": "Aqu\u00ed, all\u00e1",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/aqui-alla-columna-de-fernando-quiroz-719413"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-11-21",
+        "author": "Pedro Javier Rojas Guevara",
+        "date": "2022-11-22",
         "publication": "el-tiempo",
-        "title": "El eslab\u00f3n m\u00e1s d\u00e9bil en la seguridad digital",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-el-eslabon-mas-debil-en-la-seguridad-digital-719162"
-    },
-    {
-        "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2022-11-21",
-        "publication": "el-tiempo",
-        "title": "Lo dem\u00e1s es silencio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-lo-demas-es-silencio-719173"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2022-11-21",
-        "publication": "el-tiempo",
-        "title": "La violencia de nuestro tiempo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-la-violencia-de-nuestro-tiempo-719183"
+        "title": "Los militares en la negociaci\u00f3n pol\u00edtica: hacer la guerra y mantener la paz",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-javier-rojas-guevara/los-militares-en-la-negociacion-politica-hacer-la-guerra-y-mantener-la-paz-719450"
     }
 ]
