@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-23",
+        "date": "2022-11-24",
         "publication": "el-colombiano",
-        "title": "La burbuja de las cripto",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-burbuja-de-las-cripto-PI19336328"
+        "title": "Que no sancionen a EPM",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/que-no-sancionen-a-epm-GP19346275"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2022-11-24",
+        "publication": "el-colombiano",
+        "title": "Venezuela: un paraca\u00eddas para 28 millones",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/venezuela-un-paracaidas-para-28-millones-FP19344760"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2022-11-24",
+        "publication": "el-colombiano",
+        "title": "Cu\u00e1nto hemos cambiado ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cuanto-hemos-cambiado-HP19344726"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2022-11-24",
+        "publication": "el-colombiano",
+        "title": "Qui\u00e9ralo desde ya ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/quieralo-desde-ya-EP19344671"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-11-24",
+        "publication": "el-colombiano",
+        "title": "Japiberdi, vieja se\u00f1ora",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/japiberdi-vieja-senora-EP19344743"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Botero Montoya",
+        "date": "2022-11-24",
+        "publication": "el-colombiano",
+        "title": "Elecciones en Estados Unidos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/elecciones-en-estados-unidos-KP19344709"
     },
     {
         "article-type": "column",
@@ -48,52 +88,92 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/los-ultras-DI19333734"
     },
     {
-        "article-type": "column",
-        "author": "Natalia Zuluaga Rivera",
-        "date": "2022-11-23",
-        "publication": "el-colombiano",
-        "title": "Maicol, el ni\u00f1o que delinque ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/maicol-el-nino-que-delinque-AI19333663"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Mej\u00eda Cubillos",
-        "date": "2022-11-22",
-        "publication": "el-colombiano",
-        "title": "Este es el nivel de desigualdad \u00f3ptimo ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/este-es-el-nivel-de-desigualdad-optimo-FK19313262"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2022-11-22",
-        "publication": "el-colombiano",
-        "title": "Un barril de p\u00f3lvora: desempleo juvenil",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/un-barril-de-polvora-desempleo-juvenil-CK19313375"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2022-11-22",
-        "publication": "el-colombiano",
-        "title": "La pensional, m\u00e1s hambre futura ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-pensional-mas-hambre-futura-GK19313317"
-    },
-    {
-        "article-type": "column",
-        "author": "Federico Hoyos Salazar",
-        "date": "2022-11-22",
-        "publication": "el-colombiano",
-        "title": "Instituciones antioque\u00f1as en riesgo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/instituciones-antioquenas-en-riesgo-IK19313597"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2022-11-23",
         "publication": "el-espectador",
         "title": "Hasta un brazalete proh\u00edbe la FIFA",
         "url": "https://www.elespectador.com/opinion/editorial/hasta-un-brazalete-prohibe-la-fifa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2022-11-24",
+        "publication": "el-espectador",
+        "title": "Maluma y los derechos humanos",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/maluma-y-los-derechos-humanos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2022-11-24",
+        "publication": "el-espectador",
+        "title": "Vi\u00f1etas del pasado Mundial",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/vinetas-del-pasado-mundial/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2022-11-24",
+        "publication": "el-espectador",
+        "title": "Profetas ",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/profetas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2022-11-24",
+        "publication": "el-espectador",
+        "title": "En el pa\u00eds de las madres solteras",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/en-el-pais-de-las-madres-solteras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2022-11-24",
+        "publication": "el-espectador",
+        "title": "American Airlines lava la cara de una dictadura",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/american-airlines-lava-la-cara-de-una-dictadura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2022-11-24",
+        "publication": "el-espectador",
+        "title": "El decadente monarca de izquierda",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/el-decadente-monarca-de-izquierda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2022-11-24",
+        "publication": "el-espectador",
+        "title": "Columna de Luis Fernando Montoya: Argentina, a introspecci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/argentina-a-introspeccion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Jimena Bautista*",
+        "date": "2022-11-24",
+        "publication": "el-espectador",
+        "title": "Seis a\u00f1os del Acuerdo de Paz: segunda oportunidad a reforma agraria rural integral",
+        "url": "https://www.elespectador.com/colombia-20/analistas/seis-anos-del-acuerdo-de-paz-como-va-la-reforma-agraria-rural-integral/"
+    },
+    {
+        "article-type": "column",
+        "author": "Centro de Estudios sobre Seguridad y Drogas (Cesed)",
+        "date": "2022-11-24",
+        "publication": "el-espectador",
+        "title": "Los buenos malos y los malos malos",
+        "url": "https://www.elespectador.com/colombia-20/analistas/los-buenos-malos-y-los-malos-malos-columna-politica-de-drogas-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-11-24",
+        "publication": "el-espectador",
+        "title": "Los lectores deben tener herramientas para identificar un contenido comercial",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/los-lectores-deben-tener-herramientas-para-identificar-un-contenido-comercial/"
     },
     {
         "article-type": "column",
@@ -144,147 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/terrapower/"
     },
     {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-11-23",
-        "publication": "el-espectador",
-        "title": "Para no repetir la historia ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/para-no-repetir-la-historia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2022-11-23",
-        "publication": "el-espectador",
-        "title": "La ley del embudo",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/la-ley-del-embudo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arlene B. Tickner",
-        "date": "2022-11-23",
-        "publication": "el-espectador",
-        "title": "Nunca es solo deporte",
-        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/nunca-es-solo-deporte/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Cala*",
-        "date": "2022-11-23",
-        "publication": "el-espectador",
-        "title": "Retos de la nueva direcci\u00f3n de la Unidad de B\u00fasqueda de Personas Desaparecidas",
-        "url": "https://www.elespectador.com/colombia-20/analistas/retos-de-la-nueva-direccion-de-la-unidad-de-busqueda-de-personas-desaparecidas-ubpd/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2022-11-23",
-        "publication": "el-espectador",
-        "title": "En el Norte del Cauca las desigualdades son profundas, pero \u00bfhay esperanza?",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/en-el-norte-del-cauca-las-desigualdades-son-profundas-pero-hay-esperanza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2022-11-23",
-        "publication": "el-espectador",
-        "title": "Apocalipsis",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/apocalipsis/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-11-23",
-        "publication": "el-espectador",
-        "title": "Fidel y la familia Cano",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/fidel-y-la-familia-cano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Leal Buitrago",
-        "date": "2022-11-23",
-        "publication": "el-espectador",
-        "title": "Altibajos",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/altibajos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2022-11-23",
-        "publication": "el-espectador",
-        "title": "Lo que no fue dicho... y mucho m\u00e1s",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/lo-que-no-fue-dicho-y-mucho-mas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2022-11-23",
-        "publication": "el-espectador",
-        "title": "Por fin, un plan para el desarrollo",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/por-fin-un-plan-para-el-desarrollo/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-23",
+        "date": "2022-11-24",
         "publication": "el-tiempo",
-        "title": "Descontrol carcelario",
-        "url": "https://www.eltiempo.com/opinion/editorial/descontrol-carcelario-editorial-el-tiempo-719852"
+        "title": "Retos de competitividad",
+        "url": "https://www.eltiempo.com/opinion/editorial/retos-de-competitividad-editorial-el-tiempo-720180"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2022-11-23",
+        "author": "Pedro Medellin",
+        "date": "2022-11-24",
         "publication": "el-tiempo",
-        "title": "Lecciones del plebiscito del 57",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/lecciones-del-plebiscito-del-57-columna-de-alfonso-gomez-mendez-719763"
+        "title": "Amarrado por el Eln",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/amarrado-por-el-eln-columna-de-pedro-medellin-720170"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2022-11-23",
+        "author": "Claudia Palacios",
+        "date": "2022-11-24",
         "publication": "el-tiempo",
-        "title": "Un Mundial entre sombras",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/un-mundial-entre-sombras-columna-de-vladdo-719765"
+        "title": "\u2018Met\u00e1monos al rancho\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/metamonos-al-rancho-columna-de-claudia-palacios-720072"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2022-11-23",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2022-11-24",
         "publication": "el-tiempo",
-        "title": "Sobre los hombros",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/sobre-los-hombros-columna-de-gustavo-duncan-719755"
+        "title": "Qu\u00e9 buenos somos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/que-buenos-somos-columna-de-juan-esteban-constain-720082"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2022-11-23",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2022-11-24",
         "publication": "el-tiempo",
-        "title": "Colombia, en \u2018modo ambiental\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/colombia-en-modo-ambiental-columna-de-andres-hurtado-garcia-719774"
+        "title": "La bendita santa muerte",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/la-bendita-santa-muerte-columna-de-sergio-ramirez-720075"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2022-11-23",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-11-24",
         "publication": "el-tiempo",
-        "title": "Lafaurie y Cabal, de amores y pol\u00edtica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/lafaurie-y-cabal-de-amores-y-politica-columna-de-poncho-renteria-719769"
+        "title": "No me esperen en Catar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/no-me-esperen-en-catar-columna-de-oscar-dominguez-giraldo-720066"
     },
     {
         "article-type": "column",
-        "author": "Alex\u00e1nder Cambero",
-        "date": "2022-11-23",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2022-11-24",
         "publication": "el-tiempo",
-        "title": "Venezuela en llamas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/venezuela-en-llamas-columna-de-alexander-cambero-719779"
+        "title": "Tres estrenos nacionales de final de a\u00f1o",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/tres-estrenos-nacionales-de-final-de-ano-columna-de-mauricio-laurens-720093"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2022-11-23",
+        "author": "Jaime A. Fajardo Landaeta",
+        "date": "2022-11-24",
         "publication": "el-tiempo",
-        "title": "En permanente espera",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/en-permanente-espera-columna-de-victor-corcoba-719784"
+        "title": "Reforestadora Integral de Antioquia,comprometida con la 'No violencia'",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jaime-a-fajardo-landaeta/reforestadora-integral-de-antioquia-comprometida-con-la-no-violencia-720099"
     }
 ]
