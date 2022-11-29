@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-28",
+        "date": "2022-11-29",
         "publication": "el-colombiano",
-        "title": "\u00bfQu\u00e9 sigue con las OPAs?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/que-sigue-con-las-opas-PC19397679"
+        "title": "\u00bfQu\u00e9 es una pensi\u00f3n? ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/que-es-una-pension-MO19422952"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-11-29",
+        "publication": "el-colombiano",
+        "title": "Reciclaje de la violencia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/reciclaje-de-la-violencia-IN19416196"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-11-29",
+        "publication": "el-colombiano",
+        "title": "Peligroso contagio social",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/peligroso-contagio-social-DN19416162"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2022-11-29",
+        "publication": "el-colombiano",
+        "title": "Medell\u00edn y Antioquia en el mismo norte ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/medellin-y-antioquia-en-el-mismo-norte-DN19416050"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2022-11-29",
+        "publication": "el-colombiano",
+        "title": "La poderosa Perry",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-poderosa-perry-PN19416119"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ram\u00edrez Correa",
+        "date": "2022-11-29",
+        "publication": "el-colombiano",
+        "title": "Falta de empat\u00eda",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/falta-de-empatia-ON19416008"
     },
     {
         "article-type": "column",
@@ -48,52 +88,100 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/replantear-la-capacidad-de-hidroituango-CC19397533"
     },
     {
-        "article-type": "column",
-        "author": "David Escobar Arango",
-        "date": "2022-11-27",
-        "publication": "el-colombiano",
-        "title": "El liderazgo del maloquero",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-liderazgo-del-maloquero-GD19380017"
-    },
-    {
-        "article-type": "column",
-        "author": "Elbac\u00e9 Restrepo",
-        "date": "2022-11-27",
-        "publication": "el-colombiano",
-        "title": "Verdades sobre el Metro",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/verdades-sobre-el-metro-AD19380000"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2022-11-27",
-        "publication": "el-colombiano",
-        "title": "Pol\u00edtica de defensa y seguridad nacional",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/politica-de-defensa-y-seguridad-nacional-ED19380136"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-11-27",
-        "publication": "el-colombiano",
-        "title": "\u00a1A todo se\u00f1or! ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/a-todo-senor-DD19380102"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-11-27",
-        "publication": "el-colombiano",
-        "title": "La olla raspada",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-olla-raspada-ND19380085"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-28",
+        "date": "2022-11-29",
         "publication": "el-espectador",
-        "title": "Zozobra y terror en Putumayo",
-        "url": "https://www.elespectador.com/opinion/editorial/zozobra-y-terror-en-putumayo/"
+        "title": "No es momento ya de poner reversa en el metro de Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/editorial/no-es-momento-ya-de-poner-reversa-en-el-metro-de-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2022-11-29",
+        "publication": "el-espectador",
+        "title": "Sorpresas que da la vida",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/sorpresas-que-da-la-vida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2022-11-29",
+        "publication": "el-espectador",
+        "title": "Lentamente",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/lentamente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2022-11-29",
+        "publication": "el-espectador",
+        "title": "Sanciones de la JEP: \u00bfuna mirada al pasado o al futuro?",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/sanciones-de-la-jep-una-mirada-al-pasado-o-al-futuro/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-11-29",
+        "publication": "el-espectador",
+        "title": "Patria y matria",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/patria-y-matria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2022-11-29",
+        "publication": "el-espectador",
+        "title": "Eln: \u00bfpaz en armas?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/eln-paz-en-armas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Barbosa",
+        "date": "2022-11-29",
+        "publication": "el-espectador",
+        "title": "El pulso de la historia",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/el-pulso-de-la-historia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-11-29",
+        "publication": "el-espectador",
+        "title": "Cuando el poder termina antes que el gobierno",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/cuando-el-poder-termina-antes-que-el-gobierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Vanegas Ath\u00edas",
+        "date": "2022-11-29",
+        "publication": "el-espectador",
+        "title": "Estimada ministra Patricia Ariza",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/estimada-ministra-patricia-ariza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-11-29",
+        "publication": "el-espectador",
+        "title": "Violencia, nunca m\u00e1s",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/violencia-nunca-mas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-11-29",
+        "publication": "el-espectador",
+        "title": "Gatopardismo y otros cambios",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/gatopardismo-y-otros-cambios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Cetina",
+        "date": "2022-11-29",
+        "publication": "el-espectador",
+        "title": "Firma del Acuerdo de Paz en Colombia: seis a\u00f1os despu\u00e9s",
+        "url": "https://www.elespectador.com/colombia-20/analistas/firma-del-acuerdo-de-paz-en-colombia-seis-anos-despues/"
     },
     {
         "article-type": "column",
@@ -136,155 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/junior-el-equipo-de-futbol-debe-escribirse-con-tilde/"
     },
     {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2022-11-28",
-        "publication": "el-espectador",
-        "title": "Expr\u00f3piese",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/expropiese/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-11-28",
-        "publication": "el-espectador",
-        "title": "Petro y el salario m\u00ednimo",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/petro-y-el-salario-minimo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-11-28",
-        "publication": "el-espectador",
-        "title": "Soberan\u00eda alimentaria",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/soberania-alimentaria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2022-11-28",
-        "publication": "el-espectador",
-        "title": "\u201cColegios con materias de universidad desde el a\u00f1o entrante\u201d: aj\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/colegios-con-materias-de-universidad-desde-el-ano-entrante-aja/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2022-11-28",
-        "publication": "el-espectador",
-        "title": "Modelo estructural de producci\u00f3n y empleo",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/modelo-estructural-de-produccion-y-empleo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-11-28",
-        "publication": "el-espectador",
-        "title": "Argentina ",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/argentina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2022-11-28",
-        "publication": "el-espectador",
-        "title": "Mientras llega la ley est\u00e1n los jueces",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/mientras-llega-la-ley-estan-los-jueces/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Ospina",
-        "date": "2022-11-28",
-        "publication": "el-espectador",
-        "title": "La polifon\u00eda de las v\u00edctimas ",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-polifonia-de-las-victimas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Planeta Paz",
-        "date": "2022-11-28",
-        "publication": "el-espectador",
-        "title": "El entronque entre la paz y el negocio de tierras",
-        "url": "https://www.elespectador.com/colombia-20/analistas/como-influye-la-acumulacion-de-tierras-en-la-violencia-colombiana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Paola Molano Ayala",
-        "date": "2022-11-28",
-        "publication": "el-espectador",
-        "title": "Los m\u00ednimos en el proceso con el Eln",
-        "url": "https://www.elespectador.com/colombia-20/analistas/columna-de-opinion-sobre-los-dialogos-con-el-eln/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-11-28",
-        "publication": "el-espectador",
-        "title": "Editorial en video: el rol de las primeras damas, una discusi\u00f3n aplazada",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-el-rol-de-las-primeras-damas-una-discusion-aplazada-video/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-11-28",
+        "date": "2022-11-29",
         "publication": "el-tiempo",
-        "title": "Una naci\u00f3n conectada",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-del-28-de-noviembre-de-2022-una-nacion-conectada-721186"
+        "title": "Machismo letal",
+        "url": "https://www.eltiempo.com/opinion/editorial/machismo-letal-editorial-el-tiempo-721509"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-11-28",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-11-29",
         "publication": "el-tiempo",
-        "title": "El hambre de los ni\u00f1os",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-el-hambre-de-los-ninos-721200"
+        "title": "\u00a1Que hablen las v\u00edctimas!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/que-hablen-las-victimas-columna-de-jose-manuel-acevedo-721430"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-11-28",
+        "author": "Juan Pablo Calv\u00e1s",
+        "date": "2022-11-29",
         "publication": "el-tiempo",
-        "title": "Que los j\u00f3venes e informales participen",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-p-gutierrez-que-los-jovenes-e-informales-participen-721204"
+        "title": "El subsidio que se va / el subsidio que llega",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-pablo-calvas/el-subsidio-que-llega-juan-pablo-calvas-721480"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2022-11-28",
+        "author": "Viviane Morales Hoyos",
+        "date": "2022-11-29",
         "publication": "el-tiempo",
-        "title": "Bajo la neblina de la paz total",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-bajo-la-neblina-de-la-paz-total-721193"
+        "title": "El fachoprogresismo de la reforma electoral",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/el-fachoprogresismo-de-la-reforma-electoral-columna-de-viviane-morales-721423"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-11-28",
+        "author": "Eduardo Escobar",
+        "date": "2022-11-29",
         "publication": "el-tiempo",
-        "title": "\u00bfVan a seguir empresas y empresarios cruzados de brazos en redes sociales?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-cruzados-de-brazos-en-redes-sociales-721172"
+        "title": "La locura met\u00f3dica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/la-locura-metodica-columna-de-eduardo-escobar-721425"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2022-11-28",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2022-11-29",
         "publication": "el-tiempo",
-        "title": "El miedo de las ni\u00f1as",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-el-miedo-de-las-ninas-721201"
+        "title": "Sobre \u2018vamos pa\u2019lante\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/sobre-vamos-pa-lante-columna-de-victor-manuel-ruiz-721435"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-11-28",
+        "author": "Jorge Barraza",
+        "date": "2022-11-29",
         "publication": "el-tiempo",
-        "title": "La tecnolog\u00eda en el f\u00fatbol",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-la-tecnologia-en-el-futbol-721189"
+        "title": "Hay dos mundiales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/hay-dos-mundiales-columna-de-jorge-barraza-721484"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2022-11-28",
+        "author": "Bj\u00f8rn Lomborg",
+        "date": "2022-11-29",
         "publication": "el-tiempo",
-        "title": "Cortocircuito en el sector minero-energ\u00e9tico",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-cortocircuito-en-el-sector-minero-energetico-721199"
+        "title": "A pesar del relato catastr\u00f3fico, el mundo es un lugar mejor",
+        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/a-pesar-del-relato-catastrofico-el-mundo-es-un-lugar-mejor-721441"
     }
 ]
