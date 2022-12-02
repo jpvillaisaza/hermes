@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-01",
+        "date": "2022-12-02",
         "publication": "el-colombiano",
-        "title": "Elecci\u00f3n clave en la C\u00e1mara de Comercio ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/eleccion-clave-en-la-camara-de-comercio-IF19494914"
+        "title": "Las contradicciones ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/las-contradicciones-del-soat-HN19506098"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-12-02",
+        "publication": "el-colombiano",
+        "title": "Manual para ser alcalde ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/manual-para-ser-alcalde-MN19505977"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2022-12-02",
+        "publication": "el-colombiano",
+        "title": "Gente de agua",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/gente-de-agua-AN19506042"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Manrique",
+        "date": "2022-12-02",
+        "publication": "el-colombiano",
+        "title": "Emprender es un derecho",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/emprender-es-un-derecho-HN19506076"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-12-02",
+        "publication": "el-colombiano",
+        "title": "Edmund Wilson",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/edmund-wilson-KN19506059"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-12-02",
+        "publication": "el-colombiano",
+        "title": "Las C\u00e1maras de Comercio",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/las-camaras-de-comercio-KN19505960"
     },
     {
         "article-type": "column",
@@ -48,52 +88,68 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/que-esta-pasando-en-arabia-saudi-HF19494636"
     },
     {
-        "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2022-11-30",
-        "publication": "el-colombiano",
-        "title": "De sainete a tragicomedia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/de-sainete-a-tragicomedia-DJ19457774"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-11-30",
-        "publication": "el-colombiano",
-        "title": "La Fifa y Qatar ensuciaron la Copa Mundial ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-fifa-y-qatar-ensuciaron-la-copa-mundial-LJ19457873"
-    },
-    {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-11-30",
-        "publication": "el-colombiano",
-        "title": "Los derrotados \u2013 Los pat\u00e9ticos ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-derrotados-los-pateticos-EJ19457737"
-    },
-    {
-        "article-type": "column",
-        "author": "David Yanovich",
-        "date": "2022-11-30",
-        "publication": "el-colombiano",
-        "title": "La salud del sistema",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-salud-del-sistema-PJ19457855"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-11-30",
-        "publication": "el-colombiano",
-        "title": "Lo que no pudo el viejo r\u00e9gimen lo podr\u00e1 Petro",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/lo-que-no-pudo-el-viejo-regimen-lo-podra-petro-LJ19457815"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2022-12-01",
         "publication": "el-espectador",
         "title": "Sobre las condenas y lo que se espera de ellas ",
         "url": "https://www.elespectador.com/opinion/editorial/sobre-las-condenas-y-lo-que-se-espera-de-ellas/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2022-12-02",
+        "publication": "el-espectador",
+        "title": "Polo Polo, el tiro al pie del uribismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/polo-polo-el-tiro-al-pie-del-uribismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2022-12-02",
+        "publication": "el-espectador",
+        "title": "Despacito",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/despacito/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2022-12-02",
+        "publication": "el-espectador",
+        "title": "Cambiar la forma de elegir al fiscal",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/cambiar-la-forma-de-elegir-al-fiscal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2022-12-02",
+        "publication": "el-espectador",
+        "title": "Columna de Luis Fernando Montoya: Final in\u00e9dita",
+        "url": "https://www.elespectador.com/deportes/analistas/pereira-vs-medellin-final-inedita-columna-de-luis-fernando-montoya/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elementa DD.HH.",
+        "date": "2022-12-02",
+        "publication": "el-espectador",
+        "title": "Los retos de la paz tras seis a\u00f1os del Acuerdo",
+        "url": "https://www.elespectador.com/colombia-20/analistas/los-retos-de-la-paz-tras-seis-anos-del-acuerdo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-12-02",
+        "publication": "el-espectador",
+        "title": "\u00a1Cuidado!: frases enga\u00f1osas sobre el Ministerio de la Igualdad",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/cuidado-frases-enganosas-sobre-el-ministerio-de-la-igualdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2022-12-01",
+        "publication": "el-espectador",
+        "title": "La programaci\u00f3n del Santo Domingo",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-programacion-del-santo-domingo/"
     },
     {
         "article-type": "column",
@@ -168,123 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/otra-victima-de-la-violencia-politica/"
     },
     {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2022-12-01",
-        "publication": "el-espectador",
-        "title": "Retrato breve e incompleto de la universidad en Estados Unidos hoy",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/retrato-breve-e-incompleto-de-la-universidad-en-estados-unidos-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2022-12-01",
-        "publication": "el-espectador",
-        "title": "La programaci\u00f3n del Santo Domingo",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-programacion-del-santo-domingo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Escobar",
-        "date": "2022-12-01",
-        "publication": "el-espectador",
-        "title": "La democratizaci\u00f3n del saber y la pol\u00edtica del conocimiento",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-escobar/la-democratizacion-del-saber-y-la-politica-del-conocimiento/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Parra Gallego*",
-        "date": "2022-12-01",
-        "publication": "el-espectador",
-        "title": "La injusticia de sobrevivir a una mina antipersonal y morir por otra",
-        "url": "https://www.elespectador.com/colombia-20/analistas/minas-antipersonales-columna-del-director-de-unmas-asi-van-las-victimas-de-artefactos-explosivos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-12-01",
-        "publication": "el-espectador",
-        "title": "Escribimos remez\u00f3n con \u201cs\u201d, arroll\u00f3 con \u201cy\u201d y veto con \u201cb\u201d de burros",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/escribimos-remezon-con-s-arrollo-con-y-y-veto-con-b-de-burros/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2022-11-30",
-        "publication": "el-espectador",
-        "title": "Los aviones de la Aerocivil",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/los-aviones-de-la-aerocivil/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-11-30",
-        "publication": "el-espectador",
-        "title": "Restauraci\u00f3n, inundaciones y Plan Nacional de Desarrollo",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/restauracion-inundaciones-y-plan-nacional-de-desarrollo/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-01",
+        "date": "2022-12-02",
         "publication": "el-tiempo",
-        "title": "Espect\u00e1culos seguros",
-        "url": "https://www.eltiempo.com/opinion/editorial/espectaculos-seguros-editorial-el-tiempo-722202"
+        "title": "Hidroituango, primer paso",
+        "url": "https://www.eltiempo.com/opinion/editorial/hidroituango-primer-paso-editorial-el-tiempo-722521"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-12-01",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-12-02",
         "publication": "el-tiempo",
-        "title": "Mermelada con sabor amargo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-sabor-de-la-mermelada-columna-de-pedro-medellin-722160"
+        "title": "Narcisismo y teor\u00edas conspiratorias",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/narcisismo-y-teorias-conspiratorias-columna-de-moises-wasserman-722465"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2022-12-01",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-12-02",
         "publication": "el-tiempo",
-        "title": "La voz de las muertas vivas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/la-voz-de-las-muertas-vivas-columna-de-jineth-bedoya-722121"
+        "title": "Pardo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/pardo-columna-de-ricardo-silva-romero-722474"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-12-01",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2022-12-02",
         "publication": "el-tiempo",
-        "title": "Obituario de novela",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/obituario-de-novela-columna-de-juan-esteban-constain-722149"
+        "title": "Ucrania, drama humano sin salida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/ucrania-drama-humano-sin-salida-columna-de-antonio-albinana-722469"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2022-12-01",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-12-02",
         "publication": "el-tiempo",
-        "title": "Ideolog\u00eda pol\u00edtica: \u00bfuna l\u00ednea recta?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/ideologia-politica-una-linea-recta-columna-de-juliana-mejia-722116"
+        "title": "El poder en Bol\u00edvar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/el-poder-en-bolivar-columna-de-eduardo-posada-carbo-722470"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2022-12-01",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2022-12-02",
         "publication": "el-tiempo",
-        "title": "Elogio del rebusque",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/elogio-del-rebusque-columna-de-diana-pardo-722112"
+        "title": "Encrucijada y oportunidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/encrucijada-y-oportunidad-columna-de-manuel-guzman-hennessey-722472"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2022-12-01",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2022-12-02",
         "publication": "el-tiempo",
-        "title": "'Los d\u00edas del trueno': radiograf\u00eda de un a\u00f1o dif\u00edcil",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/los-dias-del-trueno-radiografia-de-un-ano-dificil-jose-miguel-alzate-722166"
+        "title": "La pr\u00f3fuga del di\u00e1logo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/la-profuga-del-dialogo-columna-de-alexander-cambero-722494"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2022-12-01",
+        "author": "Proyect Syndicate",
+        "date": "2022-12-02",
         "publication": "el-tiempo",
-        "title": "Sumisiones soprendentes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/sumisiones-soprendentes-columna-de-victor-corcoba-722135"
+        "title": "Por qu\u00e9 Europa y Am\u00e9rica Latina se necesitan mutuamente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/proyect-syndicate/por-que-europa-y-america-latina-se-necesitan-mutuamente-josep-borrell-722482"
     }
 ]
