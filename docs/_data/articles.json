@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-08",
+        "date": "2022-12-09",
         "publication": "el-colombiano",
-        "title": "Con los gremios no se juega",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/con-los-gremios-no-se-juega-GK19571997"
+        "title": "La \u2018jugadita\u2019 del Registrador ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-jugadita-del-registrador-CK19573760"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-12-09",
+        "publication": "el-colombiano",
+        "title": "La nueva Patria Boba",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-nueva-patria-boba-AK19573470"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-12-09",
+        "publication": "el-colombiano",
+        "title": "Inteligencia artificial, estupidez real ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/inteligencia-artificial-estupidez-real-BK19573453"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2022-12-09",
+        "publication": "el-colombiano",
+        "title": "Una mirada intimista",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/una-mirada-intimista-BK19573705"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-12-09",
+        "publication": "el-colombiano",
+        "title": "Elogio de la ociosidad ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/elogio-de-la-ociosidad-AK19573434"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2022-12-09",
+        "publication": "el-colombiano",
+        "title": "El silencio de las casas, la condena de las trabajadoras dom\u00e9sticas ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-silencio-de-las-casas-la-condena-de-las-trabajadoras-domesticas-AK19573399"
     },
     {
         "article-type": "column",
@@ -48,52 +88,84 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/buenaventura-y-la-violencia-NK19570159"
     },
     {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-12-07",
-        "publication": "el-colombiano",
-        "title": "No es una plaza p\u00fablica, es un pared\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/no-es-una-plaza-publica-es-un-paredon-FI19554357"
-    },
-    {
-        "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2022-12-07",
-        "publication": "el-colombiano",
-        "title": "El ausente ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-ausente-LI19554429"
-    },
-    {
-        "article-type": "column",
-        "author": "Dany Alejandro Hoyos",
-        "date": "2022-12-07",
-        "publication": "el-colombiano",
-        "title": "Prendamos velitas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/prendamos-velitas-MI19554392"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-12-07",
-        "publication": "el-colombiano",
-        "title": "La oportunidad del siglo para Am\u00e9rica latina ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-oportunidad-del-siglo-para-america-latina-DI19554412"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-12-07",
-        "publication": "el-colombiano",
-        "title": "Los votantes a Petro: \u201cMi\u00e9nteme m\u00e1s\u201d, como en el bolero",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-votantes-a-petro-mienteme-mas-como-en-el-bolero-EI19554374"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-08",
+        "date": "2022-12-09",
         "publication": "el-espectador",
-        "title": "Cristina Fern\u00e1ndez decide destruir las instituciones",
-        "url": "https://www.elespectador.com/opinion/editorial/cristina-fernandez-decide-destruir-las-instituciones/"
+        "title": "Prevalece la institucionalidad en Per\u00fa",
+        "url": "https://www.elespectador.com/opinion/editorial/prevalece-la-institucionalidad-en-peru/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2022-12-09",
+        "publication": "el-espectador",
+        "title": "Las carreteras irresponsables",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/las-carreteras-irresponsables/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Rivas",
+        "date": "2022-12-09",
+        "publication": "el-espectador",
+        "title": "Medidas de excepci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/medidas-de-excepcion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2022-12-09",
+        "publication": "el-espectador",
+        "title": "El hombre de Neandertal",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/el-hombre-de-neandertal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2022-12-09",
+        "publication": "el-espectador",
+        "title": "La desigualdad mata",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/la-desigualdad-mata/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2022-12-09",
+        "publication": "el-espectador",
+        "title": "Esto se acab\u00f3",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/esto-se-acabo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2022-12-09",
+        "publication": "el-espectador",
+        "title": "Ellas ante los pelda\u00f1os del abuso",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/ellas-ante-los-peldanos-del-abuso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2022-12-09",
+        "publication": "el-espectador",
+        "title": "\u00bfCon o sin armas?",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/con-o-sin-armas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2022-12-09",
+        "publication": "el-espectador",
+        "title": "Pierre Gilhodes",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/pierre-gilhodes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2022-12-09",
+        "publication": "el-espectador",
+        "title": "Columna de Luis Fernando Montoya: Los valores del Pereira",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-los-valores-del-pereira/"
     },
     {
         "article-type": "column",
@@ -152,139 +224,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/la-violencia-cotidiana-y-estructural/"
     },
     {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2022-12-08",
-        "publication": "el-espectador",
-        "title": "Ni\u00f1ez y racismo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/ninez-y-racismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2022-12-08",
-        "publication": "el-espectador",
-        "title": "El jard\u00edn del taita",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/el-jardin-del-taita/"
-    },
-    {
-        "article-type": "column",
-        "author": "Centro de Estudios sobre Seguridad y Drogas (Cesed)",
-        "date": "2022-12-08",
-        "publication": "el-espectador",
-        "title": "La extorsi\u00f3n sostiene el crimen organizado en Colombia",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-extorsion-sostiene-el-crimen-organizado-en-colombia-cesed-universidad-de-los-andes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-12-08",
-        "publication": "el-espectador",
-        "title": "Pusimos a rodar el metro de Bogot\u00e1 en el 2018 en un editorial",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/pusimos-a-rodar-el-metro-de-bogota-en-el-2018-en-un-editorial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arlene B. Tickner",
-        "date": "2022-12-07",
-        "publication": "el-espectador",
-        "title": "La vocaci\u00f3n de servir",
-        "url": "https://www.elespectador.com/opinion/columnistas/arlene-b-tickner/la-vocacion-de-servir-la-columna-de-arlene-tickner-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-12-07",
-        "publication": "el-espectador",
-        "title": "Desbocados",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/desbocados/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2022-12-07",
-        "publication": "el-espectador",
-        "title": "Males de pedal",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/males-de-pedal/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2022-12-07",
-        "publication": "el-espectador",
-        "title": "La Cueva de Rolando",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/la-cueva-de-rolando/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-12-07",
-        "publication": "el-espectador",
-        "title": "Pesca artesanal y r\u00edos vivos",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/pesca-artesanal-y-rios-vivos/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-08",
+        "date": "2022-12-09",
         "publication": "el-tiempo",
-        "title": "Golpe fallido en Per\u00fa",
-        "url": "https://www.eltiempo.com/opinion/editorial/golpe-fallido-en-peru-editorial-el-tiempo-724207"
+        "title": "El c\u00f3digo electoral",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-9-de-diciembre-de-2022-el-codigo-electoral-724365"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-12-08",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-12-09",
         "publication": "el-tiempo",
-        "title": "Sin jueces no hay democracia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/sin-jueces-no-hay-democracia-columna-de-pedro-medellin-724198"
+        "title": "El estado de las democracias",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/columna-de-moises-wasserman-el-estado-de-las-democracias-724377"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2022-12-08",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-12-09",
         "publication": "el-tiempo",
-        "title": "Cuidar: un polo a tierra",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/cuidar-un-polo-a-tierra-columna-de-claudia-palacios-724124"
+        "title": "Mural",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/columna-de-ricardo-silva-romero-mural-724376"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-12-08",
+        "author": "Martha Ortiz",
+        "date": "2022-12-09",
         "publication": "el-tiempo",
-        "title": "El tiempo del Mundial",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/el-tiempo-del-mundial-columna-de-juan-esteban-constain-724111"
+        "title": "Innovaci\u00f3n para reimaginar a Colombia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/innovacion-para-reimaginar-a-colombia-columna-de-martha-ortiz-724358"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2022-12-08",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-12-09",
         "publication": "el-tiempo",
-        "title": "La m\u00e1quina que teje la imaginaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/la-maquina-que-teje-la-imaginacion-columna-de-sergio-ramirez-724170"
+        "title": "\u00bfForzados a votar?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/columna-de-eduardo-posada-carbo-forzados-a-votar-724378"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2022-12-08",
+        "author": "Alfredo Rangel",
+        "date": "2022-12-09",
         "publication": "el-tiempo",
-        "title": "Banksy: cuesti\u00f3n de ratones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/banksy-cuestion-de-ratones-columna-de-armando-silva-724117"
+        "title": "Sin estrategia militar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/sin-estrategia-militar-columna-de-alfredo-rangel-724332"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Laurens - Cine al Ojo",
-        "date": "2022-12-08",
+        "author": "Martha Senn",
+        "date": "2022-12-09",
         "publication": "el-tiempo",
-        "title": "Pedazos de recuerdos y tumulto de im\u00e1genes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/pedazos-de-recuerdos-y-tumulto-de-imagenes-columna-de-mauricio-laurens-724145"
+        "title": "Poes\u00eda en movimiento",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/poesia-en-movimiento-columna-de-martha-senn-724329"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2022-12-08",
+        "author": "Claudia Hakim",
+        "date": "2022-12-09",
         "publication": "el-tiempo",
-        "title": "\u00bfTiene derecho a la libertad la Primera L\u00ednea?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/tiene-derecho-a-la-libertad-la-primera-linea-jose-miguel-alzate-724147"
+        "title": "Cancelar a Picasso",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/columna-de-claudia-hakim-cancelar-a-picasso-724379"
+    },
+    {
+        "article-type": "column",
+        "author": "Salvo Basile",
+        "date": "2022-12-09",
+        "publication": "el-tiempo",
+        "title": "F\u00fatbol y geopol\u00edtica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/columna-de-salvo-basile-futbol-y-geopolitica-724375"
     }
 ]
