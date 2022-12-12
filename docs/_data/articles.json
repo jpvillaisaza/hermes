@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-11",
+        "date": "2022-12-12",
         "publication": "el-colombiano",
-        "title": "Petro y Per\u00fa",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/petro-y-peru-AF19587205"
+        "title": "\u00bfQu\u00e9 m\u00ednimo le conviene al pa\u00eds?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/que-minimo-le-conviene-al-pais-EE19592134"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
+        "date": "2022-12-12",
+        "publication": "el-colombiano",
+        "title": "La democracia no es suficiente",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-democracia-no-es-suficiente-OE19590691"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Bibiana Botero C.",
+        "date": "2022-12-12",
+        "publication": "el-colombiano",
+        "title": "Dime qu\u00e9 sientes ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/dime-que-sientes-DE19590636"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2022-12-12",
+        "publication": "el-colombiano",
+        "title": "Eliminar el salario m\u00ednimo legal",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/eliminar-el-salario-minimo-legal-EE19590602"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Escobar Valencia",
+        "date": "2022-12-12",
+        "publication": "el-colombiano",
+        "title": "La barriga de enero no es culpa del bu\u00f1uelo decembrino",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-barriga-de-enero-no-es-culpa-del-bunuelo-decembrino-OE19590619"
+    },
+    {
+        "article-type": "column",
+        "author": "Llu\u00eds Bassets",
+        "date": "2022-12-12",
+        "publication": "el-colombiano",
+        "title": "No hay Trump que dure cien a\u00f1os",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/no-hay-trump-que-dure-cien-anos-LE19590568"
     },
     {
         "article-type": "column",
@@ -48,52 +88,84 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/lecciones-sencillas-para-una-mejor-vida-en-comunidad-FF19586542"
     },
     {
-        "article-type": "column",
-        "author": "Mar\u00eda Luisa Zapata",
-        "date": "2022-12-11",
-        "publication": "el-colombiano",
-        "title": "A donde fueres",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/a-donde-fueres-EF19586507"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Echeverry",
-        "date": "2022-12-11",
-        "publication": "el-colombiano",
-        "title": "Del Tiki-taka a controlar y pasarla",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/del-tiki-taka-a-controlar-y-pasarla-LF19586490"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-12-11",
-        "publication": "el-colombiano",
-        "title": "Rev\u00e9s para la ilegalidad en Caldas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/reves-para-la-ilegalidad-en-caldas-AF19586431"
-    },
-    {
-        "article-type": "column",
-        "author": "Diego Mesa Puyo",
-        "date": "2022-12-10",
-        "publication": "el-colombiano",
-        "title": "Colombia en el mapa energ\u00e9tico mundial",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/colombia-en-el-mapa-energetico-mundial-EF19582530"
-    },
-    {
-        "article-type": "column",
-        "author": "Adriana Correa Vel\u00e1squez",
-        "date": "2022-12-10",
-        "publication": "el-colombiano",
-        "title": "La m\u00fasica, que nos hermana ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-musica-que-nos-hermana-PF19582782"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-11",
+        "date": "2022-12-12",
         "publication": "el-espectador",
-        "title": "Ante el autoritarismo no caben las vacilaciones",
-        "url": "https://www.elespectador.com/opinion/editorial/ante-el-autoritarismo-no-caben-las-vacilaciones/"
+        "title": "El COVID, otra vez, llama a la precauci\u00f3n en diciembre",
+        "url": "https://www.elespectador.com/opinion/editorial/el-covid-otra-vez-llama-a-la-precaucion-en-diciembre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2022-12-12",
+        "publication": "el-espectador",
+        "title": "La glamurosa congresista",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/la-glamurosa-congresista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alvaro Forero Tasc\u00f3n",
+        "date": "2022-12-12",
+        "publication": "el-espectador",
+        "title": "\u00bfCa\u00edda de Castillo cierra el ciclo de populismo andino?",
+        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/caida-de-castillo-cierra-el-ciclo-de-populismo-andino/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2022-12-12",
+        "publication": "el-espectador",
+        "title": "\u00bfSe dice \u00abPer\u00fa\u00bb o \u00abel Per\u00fa\u00bb?",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-dice-peru-o-el-peru/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2022-12-12",
+        "publication": "el-espectador",
+        "title": "Como si fuera democracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/como-si-fuera-democracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2022-12-12",
+        "publication": "el-espectador",
+        "title": "El a\u00f1o que se va",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-ano-que-se-va/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2022-12-12",
+        "publication": "el-espectador",
+        "title": "Cibercrimen a cada instante",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/cibercrimen-a-cada-instante/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Tovar",
+        "date": "2022-12-12",
+        "publication": "el-espectador",
+        "title": "Columna de Jorge Tovar: \u00c1frica, Havelange y la caza a Pel\u00e9",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/africa-havelange-y-la-caza-a-pele/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2022-12-12",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: \u00bfCrueldad deportiva?",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/crueldad-deportiva/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-12-12",
+        "publication": "el-espectador",
+        "title": "Editorial en video: ante el autoritarismo no caben las vacilaciones",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-ante-el-autoritarismo-no-caben-las-vacilaciones/"
     },
     {
         "article-type": "column",
@@ -121,22 +193,6 @@
     },
     {
         "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2022-12-11",
-        "publication": "el-espectador",
-        "title": "Carlyle, Kissinger y Maradona",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/carlyle-kissinger-y-maradona/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2022-12-11",
-        "publication": "el-espectador",
-        "title": "Canje de prisioneros",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/canje-de-prisioneros/"
-    },
-    {
-        "article-type": "column",
         "author": "Carlos Enrique Moreno",
         "date": "2022-12-11",
         "publication": "el-espectador",
@@ -153,154 +209,90 @@
     },
     {
         "article-type": "column",
-        "author": "Piedad Bonnett",
+        "author": "Armando Montenegro",
         "date": "2022-12-11",
         "publication": "el-espectador",
-        "title": "Francia",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/francia/"
+        "title": "Carlyle, Kissinger y Maradona",
+        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/carlyle-kissinger-y-maradona/"
     },
     {
         "article-type": "column",
-        "author": "Marc Hofstetter",
+        "author": "H\u00e9ctor Abad Faciolince",
         "date": "2022-12-11",
         "publication": "el-espectador",
-        "title": "Cacofon\u00eda insoportable",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/cacofonia-insoportable/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2022-12-11",
-        "publication": "el-espectador",
-        "title": "Rusia: un escalofriante ejercicio de cinismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/rusia-un-escalofriante-ejercicio-de-cinismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2022-12-11",
-        "publication": "el-espectador",
-        "title": "Provocaci\u00f3n in\u00fatil",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/provocacion-inutil/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2022-12-11",
-        "publication": "el-espectador",
-        "title": "\u00bfPrimeras l\u00edneas como gestores de paz? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/primeras-lineas-como-gestores-de-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-12-11",
-        "publication": "el-espectador",
-        "title": "Microlingotes",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-73/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Pel\u00e1ez Restrepo",
-        "date": "2022-12-11",
-        "publication": "el-espectador",
-        "title": "Furia mateca\u00f1a",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-pelaez-restrepo/furia-matecana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Leal Buitrago",
-        "date": "2022-12-10",
-        "publication": "el-espectador",
-        "title": "\u201cCambio Colombia\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/cambio-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Uribe Rinc\u00f3n",
-        "date": "2022-12-10",
-        "publication": "el-espectador",
-        "title": "El amor y la empresa",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/el-amor-y-la-empresa/"
+        "title": "Canje de prisioneros",
+        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/canje-de-prisioneros/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-11",
+        "date": "2022-12-12",
         "publication": "el-tiempo",
-        "title": "Consenso y prudencia",
-        "url": "https://www.eltiempo.com/opinion/editorial/consenso-y-prudencia-editorial-de-el-tiempo-del-11-de-diciembre-de-2022-724873"
+        "title": "Lucha sin pausa",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-12-de-diciembre-de-2022-lucha-sin-pausa-725034"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2022-12-11",
+        "author": "Juan Lozano",
+        "date": "2022-12-12",
         "publication": "el-tiempo",
-        "title": "Navidad en primera l\u00ednea",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/navidad-en-primera-linea-columna-de-german-vargas-lleras-724874"
+        "title": "El m\u00ednimo, mejor concertado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-el-minimo-mejor-concertado-725043"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2022-12-11",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2022-12-12",
         "publication": "el-tiempo",
-        "title": "M\u00e1s oscuro que sombra",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/mas-oscuro-que-sombra-columna-de-maria-isabel-rueda-724880"
+        "title": "Marihuana legal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-marihuana-legal-725049"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2022-12-11",
+        "author": "Luis Felipe Henao",
+        "date": "2022-12-12",
         "publication": "el-tiempo",
-        "title": "Los pies sobre la tierra caucana",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/los-pies-sobre-la-tierra-caucana-columna-de-nestor-humberto-martinez-724884"
+        "title": "La indolencia de Colombia con el Cauca",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-la-indolencia-de-colombia-con-el-cauca-725039"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2022-12-11",
+        "author": "Diego Santos",
+        "date": "2022-12-12",
         "publication": "el-tiempo",
-        "title": "Naufragios de la izquierda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/naufragios-de-la-izquierda-columna-de-mauricio-vargas-724876"
+        "title": "P\u00e1ginas web o \u2018apps\u2019 que deber\u00edamos crear en Colombia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-paginas-web-o-apps-que-deberiamos-crear-725048"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2022-12-11",
+        "author": "Juan Mart\u00edn Caicedo Ferrer",
+        "date": "2022-12-12",
         "publication": "el-tiempo",
-        "title": "La conservaci\u00f3n de la violencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/la-conservacion-de-la-violencia-columna-de-thierry-ways-724881"
+        "title": "Un congreso que s\u00ed fue",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-martin-caicedo-ferrer/columna-de-un-congreso-que-si-fue-725042"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2022-12-11",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2022-12-12",
         "publication": "el-tiempo",
-        "title": "Contratos educativos incompletos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/contratos-educativos-incompletos-columna-de-sergio-clavijo-724883"
+        "title": "Qu\u00e9 nos viene en el 2023",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-que-nos-viene-en-el-2023-725038"
     },
     {
         "article-type": "column",
-        "author": "Francisco Palmieri",
-        "date": "2022-12-11",
+        "author": "Yolanda Reyes",
+        "date": "2022-12-12",
         "publication": "el-tiempo",
-        "title": "Una responsabilidad compartida entre Colombia y EE. UU.",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-francisco-palmieri-una-responsabilidad-compartida-724886"
+        "title": "La alcaldesa de Hamel\u00edn",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-la-alcaldesa-de-hamelin-725046"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Na\u00edm",
-        "date": "2022-12-11",
+        "author": "Jorge Barraza",
+        "date": "2022-12-12",
         "publication": "el-tiempo",
-        "title": "'Gaslighting'",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-naim/gaslighting-columna-de-moises-naim-724890"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2022-12-11",
-        "publication": "el-tiempo",
-        "title": "El hombre m\u00e1s poderoso del mundo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/el-hombre-mas-poderoso-del-mundo-columna-de-antonio-albinana-724891"
+        "title": "Europa no hizo falta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-europa-no-hizo-falta-725050"
     }
 ]
