@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-14",
+        "date": "2022-12-15",
         "publication": "el-colombiano",
-        "title": "El \u2018articulito\u2019 de Petro",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-articulito-de-petro-OP19614309"
+        "title": "El Mundial de los migrantes",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-mundial-de-los-migrantes-LN19630478"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Perfetti del Corral",
+        "date": "2022-12-15",
+        "publication": "el-colombiano",
+        "title": "\u00bfSi vamos siendo y aprendiendo? ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/si-vamos-siendo-y-aprendiendo-NM19629242"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2022-12-15",
+        "publication": "el-colombiano",
+        "title": "Llegaron cartas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/llegaron-cartas-OM19629117"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2022-12-15",
+        "publication": "el-colombiano",
+        "title": "Por favor, h\u00e1gase a un lado",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/por-favor-hagase-a-un-lado-IM19629188"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2022-12-15",
+        "publication": "el-colombiano",
+        "title": "El Bilderberg rojo calla",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-bilderberg-rojo-calla-NM19629224"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-12-15",
+        "publication": "el-colombiano",
+        "title": "Ajedrez con los pies",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ajedrez-con-los-pies-MM19629207"
     },
     {
         "article-type": "column",
@@ -48,52 +88,100 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/una-minima-senal-JP19613093"
     },
     {
-        "article-type": "column",
-        "author": "Melquisedec Torres",
-        "date": "2022-12-13",
-        "publication": "el-colombiano",
-        "title": "Dimayor, ley del silencio",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/dimayor-ley-del-silencio-AO19602615"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2022-12-13",
-        "publication": "el-colombiano",
-        "title": "Peligrosa deriva de la pol\u00edtica exterior",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/peligrosa-deriva-de-la-politica-exterior-EO19602547"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2022-12-13",
-        "publication": "el-colombiano",
-        "title": "\u00bfEs comunista el PCC? ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/es-comunista-el-pcc-FO19602564"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Ram\u00edrez Correa",
-        "date": "2022-12-13",
-        "publication": "el-colombiano",
-        "title": "Populismo y corrupci\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/populismo-y-corrupcion-GO19602598"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Camilo Quintero",
-        "date": "2022-12-13",
-        "publication": "el-colombiano",
-        "title": "Inteligencia Artificial de GPT-3",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/inteligencia-artificial-de-gpt-3-OO19602581"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-14",
+        "date": "2022-12-15",
         "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 sigue a la bienvenida  autocr\u00edtica al ICBF?",
-        "url": "https://www.elespectador.com/opinion/editorial/que-sigue-a-la-bienvenida-autocritica-al-icbf/"
+        "title": "\u00bfCumplir\u00e1 su promesa el Ministerio de la Igualdad?",
+        "url": "https://www.elespectador.com/opinion/editorial/cumplira-su-promesa-el-ministerio-de-la-igualdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2022-12-15",
+        "publication": "el-espectador",
+        "title": "Navidad en paz con los animales ",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/navidad-en-paz-con-los-animales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo Gall\u00f3n",
+        "date": "2022-12-15",
+        "publication": "el-espectador",
+        "title": "\u201cConstrucci\u00f3n de paz como proyecto nacional\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/construccion-de-paz-como-proyecto-nacional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2022-12-15",
+        "publication": "el-espectador",
+        "title": "El mundo ha cambiado, pero quiz\u00e1s ya sea tarde",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/el-mundo-ha-cambiado-pero-quizas-ya-sea-tarde/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2022-12-15",
+        "publication": "el-espectador",
+        "title": "Obama, la SOPA y los hackers",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/obama-la-sopa-y-los-hackers/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2022-12-15",
+        "publication": "el-espectador",
+        "title": "Los L\u00f3pez en la historia de Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/los-lopez-en-la-historia-de-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2022-12-15",
+        "publication": "el-espectador",
+        "title": "Reimaginar la izquierda",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/reimaginar-la-izquierda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2022-12-15",
+        "publication": "el-espectador",
+        "title": "Las defensoras del territorio son indispensables para la democracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/las-defensoras-del-territorio-son-indispensables/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2022-12-15",
+        "publication": "el-espectador",
+        "title": "Populismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/populismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2022-12-15",
+        "publication": "el-espectador",
+        "title": "El tiempo y el desenga\u00f1o triunfan",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-tiempo-y-el-desengano-triunfan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-12-15",
+        "publication": "el-espectador",
+        "title": "Calamaro: la estrellita de rock machista",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/calamaro-la-estrellita-de-rock-machista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2022-12-15",
+        "publication": "el-espectador",
+        "title": "Se nos fueron las luces en un par de videos",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/se-nos-fueron-las-luces-en-un-par-de-videos/"
     },
     {
         "article-type": "column",
@@ -105,19 +193,19 @@
     },
     {
         "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2022-12-14",
-        "publication": "el-espectador",
-        "title": "Vanos presagios",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/vanos-presagios/"
-    },
-    {
-        "article-type": "column",
         "author": "Pablo Felipe Robledo",
         "date": "2022-12-14",
         "publication": "el-espectador",
         "title": "Inquieta vive la cabeza que lleva una corona",
         "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/inquieta-vive-la-cabeza-que-lleva-una-corona/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2022-12-14",
+        "publication": "el-espectador",
+        "title": "Vanos presagios",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/vanos-presagios/"
     },
     {
         "article-type": "column",
@@ -129,14 +217,6 @@
     },
     {
         "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-12-14",
-        "publication": "el-espectador",
-        "title": "L\u00f3gico: Pacto Hist\u00f3rico, \u201cfracking\u201d no",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/logico-pacto-historico-fracking-no/"
-    },
-    {
-        "article-type": "column",
         "author": "Oscar Guardiola-Rivera",
         "date": "2022-12-14",
         "publication": "el-espectador",
@@ -144,139 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/drucilla-cornell-y-la-justicia-en-admiracion/"
     },
     {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2022-12-14",
-        "publication": "el-espectador",
-        "title": "Desde la barrera",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/desde-la-barrera/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2022-12-14",
-        "publication": "el-espectador",
-        "title": "Un Castillo demolido",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/un-castillo-demolido/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elementa DD.HH.",
-        "date": "2022-12-14",
-        "publication": "el-espectador",
-        "title": "Promesas versus acciones: Gustavo Petro y las pol\u00edticas de drogas",
-        "url": "https://www.elespectador.com/colombia-20/analistas/gustavo-petro-cuales-han-sido-los-avances-del-gobierno-sobre-politica-de-drogas-opinion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz Miranda",
-        "date": "2022-12-14",
-        "publication": "el-espectador",
-        "title": "Regalemos paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/regalemos-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2022-12-13",
-        "publication": "el-espectador",
-        "title": "Represi\u00f3n homicida en 2021 clama justicia",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/represion-homicida-en-2021-clama-justicia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2022-12-13",
-        "publication": "el-espectador",
-        "title": "N\u00f3madas digitales",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/nomadas-digitales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2022-12-13",
-        "publication": "el-espectador",
-        "title": "Un antes y un despu\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/un-antes-y-un-despues/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2022-12-13",
-        "publication": "el-espectador",
-        "title": "Simone",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/simone/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2022-12-13",
-        "publication": "el-espectador",
-        "title": "Adi\u00f3s al profesor Gilhodes",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/adios-al-profesor-gilhodes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2022-12-13",
-        "publication": "el-espectador",
-        "title": "Gestores de paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/gestores-de-paz/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-14",
+        "date": "2022-12-15",
         "publication": "el-tiempo",
-        "title": "Ante las excarcelaciones",
-        "url": "https://www.eltiempo.com/opinion/editorial/ante-las-excarcelaciones-editorial-el-tiempo-725708"
+        "title": "Blindar la UNP",
+        "url": "https://www.eltiempo.com/opinion/editorial/blindar-la-unp-editorial-el-tiempo-726008"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2022-12-14",
+        "author": "Pedro Medellin",
+        "date": "2022-12-15",
         "publication": "el-tiempo",
-        "title": "Autoritarismo, populismo y...",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/autoritarismo-populismo-y-desinformacion-alfonso-gomez-mendez-725628"
+        "title": "El deber de la ingratitud",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-deber-de-la-ingratitud-columna-de-pedro-medellin-725998"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2022-12-14",
+        "author": "Jineth Bedoya Lima",
+        "date": "2022-12-15",
         "publication": "el-tiempo",
-        "title": "Personajes del a\u00f1o",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/personajes-del-ano-columna-de-vladdo-725677"
+        "title": "La podredumbre de la UNP",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/la-podredumbre-de-la-unp-columna-de-jineth-bedoya-725981"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2022-12-14",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2022-12-15",
         "publication": "el-tiempo",
-        "title": "2022: las mujeres adelante",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/2022-las-mujeres-adelante-columna-de-florence-thomas-725598"
+        "title": "Por una pelota",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/por-una-pelota-columna-de-juan-esteban-constain-725958"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2022-12-14",
+        "author": "Mauricio Lloreda",
+        "date": "2022-12-15",
         "publication": "el-tiempo",
-        "title": "La obra de una vida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/la-obra-de-una-vida-columna-de-jotamario-arbelaez-725636"
+        "title": "Guerra es paz",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/guerra-es-paz-columna-de-mauricio-lloreda-725953"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2022-12-14",
+        "author": "Diana Pardo",
+        "date": "2022-12-15",
         "publication": "el-tiempo",
-        "title": "Mujeres en l\u00edos de alto voltaje",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/mujeres-en-lios-de-alto-voltaje-columna-de-poncho-renteria-725621"
+        "title": "Queremos tanto a Messi",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/queremos-tanto-a-messi-columna-de-diana-pardo-725927"
     },
     {
         "article-type": "column",
-        "author": "Haidy S\u00e1nchez Mattsson",
-        "date": "2022-12-14",
+        "author": "Juliana Mej\u00eda",
+        "date": "2022-12-15",
         "publication": "el-tiempo",
-        "title": "\u00a1La desigualdad en conectividad, desfavoreciendo a los mismos de siempre!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/haidy-sanchez-mattsson/la-desigualdad-en-conectividad-desfavoreciendo-a-los-de-siempre-725640"
+        "title": "Participaci\u00f3n ciudadana: el caso de Irlanda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/participacion-ciudadana-el-caso-de-irlanda-columna-de-juliana-mejia-725975"
     }
 ]
