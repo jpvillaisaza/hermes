@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-16",
+        "date": "2022-12-17",
         "publication": "el-colombiano",
-        "title": "China, el gran interrogante del 2023",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/china-el-gran-interrogante-del-2023-KK19646927"
+        "title": "El Qatargate golpea el alma de Europa",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-qatargate-golpea-el-alma-de-europa-BL19653424"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Mesa Puyo",
+        "date": "2022-12-17",
+        "publication": "el-colombiano",
+        "title": "El momento de la biodiversidad",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-momento-de-la-biodiversidad-BL19653442"
+    },
+    {
+        "article-type": "column",
+        "author": "Natalia Zuluaga Rivera",
+        "date": "2022-12-17",
+        "publication": "el-colombiano",
+        "title": "Un regalo de Navidad ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-regalo-de-navidad-IL19653496"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2022-12-17",
+        "publication": "el-colombiano",
+        "title": "Sobre batidos diarios",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-batidos-diarios-JL19653479"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Bernardo V\u00e9lez M.",
+        "date": "2022-12-17",
+        "publication": "el-colombiano",
+        "title": "Suicidio",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/suicidio-EL19653513"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2022-12-17",
+        "publication": "el-colombiano",
+        "title": "Agonizar y morir en diciembre",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/agonizar-y-morir-en-diciembre-DL19653462"
     },
     {
         "article-type": "column",
@@ -48,52 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/golpe-al-estado-social-de-derecho-MK19646578"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Perfetti del Corral",
-        "date": "2022-12-15",
-        "publication": "el-colombiano",
-        "title": "\u00bfSi vamos siendo y aprendiendo? ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/si-vamos-siendo-y-aprendiendo-NM19629242"
-    },
-    {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2022-12-15",
-        "publication": "el-colombiano",
-        "title": "Llegaron cartas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/llegaron-cartas-OM19629117"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2022-12-15",
-        "publication": "el-colombiano",
-        "title": "Por favor, h\u00e1gase a un lado",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/por-favor-hagase-a-un-lado-IM19629188"
-    },
-    {
-        "article-type": "column",
-        "author": "Humberto Montero",
-        "date": "2022-12-15",
-        "publication": "el-colombiano",
-        "title": "El Bilderberg rojo calla",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-bilderberg-rojo-calla-NM19629224"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-12-15",
-        "publication": "el-colombiano",
-        "title": "Ajedrez con los pies",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/ajedrez-con-los-pies-MM19629207"
-    },
-    {
         "article-type": "editorial",
         "author": null,
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "Siguen empeorando los caprichos de Elon Musk",
+        "url": "https://www.elespectador.com/opinion/editorial/siguen-empeorando-los-caprichos-de-elon-musk/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "El mezquino aumento del salario \u00ednfimo",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/el-mezquino-aumento-del-salario-infimo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "La imagen de los ni\u00f1os",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/la-imagen-de-los-ninos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "De la astrolog\u00eda y otras teor\u00edas para el control inflacionario",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/de-la-astrologia-y-otras-teorias-para-el-control-inflacionario/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "Piglia y el dinero",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/piglia-y-el-dinero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "Guerra contra las drogas (y sus usuarios)",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/guerra-contra-las-drogas-y-sus-usuarios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcelo Caruso A.",
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "Entre golpes y \u201clawfare\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/entre-golpes-y-lawfare/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ochoa",
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "Tormenta y calma",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/tormenta-y-calma/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dolly Montoya Casta\u00f1o",
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "La resiliencia y la flexibilidad de las universidades",
+        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/la-resiliencia-y-la-flexibilidad-de-las-universidades/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "La locura mundialista",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/la-locura-mundialista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "Lo que pas\u00f3 en la Conferencia Ministerial de la OCDE",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/lo-que-paso-en-la-conferencia-ministerial-de-la-ocde/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo P\u00e1ez Escobar",
+        "date": "2022-12-17",
+        "publication": "el-espectador",
+        "title": "Por el territorio de los muertos (5)",
+        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-paez-escobar/por-el-territorio-de-los-muertos-5/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
         "date": "2022-12-16",
         "publication": "el-espectador",
-        "title": "Bienvenido Hidroituango, y a trabajar juntos en lo que sigue",
-        "url": "https://www.elespectador.com/opinion/editorial/bienvenido-hidroituango-y-a-trabajar-juntos-en-lo-que-sigue/"
+        "title": "\u00bfC\u00f3mo nos fue prediciendo el 2022? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-como-nos-fue-prediciendo-el-2022/"
     },
     {
         "article-type": "column",
@@ -128,155 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/kasparov/"
     },
     {
-        "article-type": "column",
-        "author": "Carlos Gran\u00e9s",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "2012-2022: balance y despedida (inicio)",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-granes/2012-2022-balance-y-despedida-inicio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "Milagro en Buenaventura",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/milagro-en-buenaventura/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Sevillano",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "Esper\u00e9 m\u00e1s de Claudia L\u00f3pez",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/espere-mas-de-claudia-lopez/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "Lo peor que le puede pasar a Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/lo-peor-que-le-puede-pasar-a-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "Sencillo, pero con coraz\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/sencillo-pero-con-corazon/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Iv\u00e1n Cuervo R.",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "El orden del cambio",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/el-orden-del-cambio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Augusto Trujillo Mu\u00f1oz",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "El \u2018neogolpismo\u2019",
-        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/el-neogolpismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "El nuevo liberalismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/el-nuevo-liberalismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "La arepa y el chicharr\u00f3n ya no son colombianos",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/la-arepa-y-el-chicharron-ya-no-son-colombianos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "Final entre campeones",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/final-entre-campeones/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "\u00bfC\u00f3mo nos fue prediciendo el 2022? | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-como-nos-fue-prediciendo-el-2022/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Escobar",
-        "date": "2022-12-16",
-        "publication": "el-espectador",
-        "title": "Hacia una sociedad pospatriarcal",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-escobar/hacia-una-sociedad-pospatriarcal/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-16",
+        "date": "2022-12-17",
         "publication": "el-tiempo",
-        "title": "Eln: primer corte",
-        "url": "https://www.eltiempo.com/opinion/editorial/eln-primer-corte-editorial-el-tiempo-726307"
+        "title": "Valiosa concertaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/editorial/valiosa-concertacion-editorial-el-tiempo-726659"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2022-12-16",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2022-12-17",
         "publication": "el-tiempo",
-        "title": "IA vs. EA",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/ia-vs-ea-columna-de-moises-wasserman-726217"
+        "title": "Reflexi\u00f3n triste sobre unas experiencias",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/reflexion-triste-sobre-unas-experiencias-columna-de-carlos-caballero-726577"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2022-12-16",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2022-12-17",
         "publication": "el-tiempo",
-        "title": "Ni\u00f1ez",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/ninez-columna-de-ricardo-silva-romero-726235"
+        "title": "El m\u00ednimo y otros gozos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/el-minimo-y-otros-gozos-columna-de-luis-noe-ochoa-726628"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2022-12-16",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2022-12-17",
         "publication": "el-tiempo",
-        "title": "\u00bfUna pausa en el voto forzado?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/una-pausa-en-el-voto-forzado-columna-de-eduardo-posada-carbo-726222"
+        "title": "El mejor de la historia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/el-mejor-de-la-historia-columna-de-carlos-caballero-argaez-726584"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2022-12-16",
+        "author": "Mauricio Rodr\u00edguez M\u00fanera",
+        "date": "2022-12-17",
         "publication": "el-tiempo",
-        "title": "EE. UU., caminos de barbarie",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/ee-uu-caminos-de-barbarie-columna-de-antonio-albinana-726221"
+        "title": "Los cinco ceros",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-rodriguez-munera/los-cinco-ceros-columna-de-mauricio-rodriguez-726590"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2022-12-16",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-12-17",
         "publication": "el-tiempo",
-        "title": "Alegr\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/alegria-columna-de-manuel-guzman-hennessey-726239"
+        "title": "Vuelven los poporos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/vuelven-los-poporos-columna-de-oscar-dominguez-giraldo-726599"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Luis Querub\u00edn",
-        "date": "2022-12-16",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2022-12-17",
         "publication": "el-tiempo",
-        "title": "Y no se creen de estrato ocho",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-luis-querubin/y-no-se-creen-de-estrato-ocho-columna-de-jose-luis-querubin-726270"
+        "title": "40 a\u00f1os del Premio Nobel a Garc\u00eda M\u00e1rquez",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/40-anos-del-premio-nobel-a-garcia-marquez-jose-miguel-alzate-726639"
     }
 ]
