@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-19",
+        "date": "2022-12-20",
         "publication": "el-colombiano",
-        "title": "Las cifras de la pol\u00edtica",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/las-cifras-de-la-politica-II19661854"
+        "title": "\u00a1As\u00ed no!, por favor",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/asi-no-por-favor-FJ19671895"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2022-12-20",
+        "publication": "el-colombiano",
+        "title": "Perversas declaraciones de Petro",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/perversas-declaraciones-de-petro-KJ19670479"
+    },
+    {
+        "article-type": "column",
+        "author": "Amalia Londo\u00f1o Duque",
+        "date": "2022-12-20",
+        "publication": "el-colombiano",
+        "title": "La final del 2022",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-final-del-2022-FJ19670445"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Mej\u00eda Cubillos",
+        "date": "2022-12-20",
+        "publication": "el-colombiano",
+        "title": "\u00bfC\u00f3mo reparar las injusticias ancestrales?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/como-reparar-las-injusticias-ancestrales-OJ19670394"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2022-12-20",
+        "publication": "el-colombiano",
+        "title": "El repliegue",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-repliegue-AJ19670462"
+    },
+    {
+        "article-type": "column",
+        "author": "Federico Hoyos Salazar",
+        "date": "2022-12-20",
+        "publication": "el-colombiano",
+        "title": "Libros 2022",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/libros-2022-EJ19670411"
     },
     {
         "article-type": "column",
@@ -48,52 +88,92 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/pronosticos-asepticos-NI19661378"
     },
     {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2022-12-18",
-        "publication": "el-colombiano",
-        "title": "Impunidad total",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/impunidad-total-KL19656480"
-    },
-    {
-        "article-type": "column",
-        "author": "Elbac\u00e9 Restrepo",
-        "date": "2022-12-18",
-        "publication": "el-colombiano",
-        "title": "\u00a1Hasta siempre!",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/hasta-siempre-BL19656340"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2022-12-18",
-        "publication": "el-colombiano",
-        "title": "Comentarios sobre conversaciones con el ELN",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/comentarios-sobre-conversaciones-con-el-eln-GL19656374"
-    },
-    {
-        "article-type": "column",
-        "author": "David Escobar Arango",
-        "date": "2022-12-18",
-        "publication": "el-colombiano",
-        "title": "El viaje de los libros",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-viaje-de-los-libros-FL19656425"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-12-18",
-        "publication": "el-colombiano",
-        "title": "Yo tambi\u00e9n tengo derecho a carro con conductor",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/yo-tambien-tengo-derecho-a-carro-con-conductor-KL19656408"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2022-12-19",
         "publication": "el-espectador",
         "title": "Per\u00fa necesita asegurar la estabilidad",
         "url": "https://www.elespectador.com/opinion/editorial/peru-necesita-asegurar-la-estabilidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2022-12-20",
+        "publication": "el-espectador",
+        "title": "Agitaci\u00f3n Cultural y Equidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/agitacion-cultural-y-equidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2022-12-20",
+        "publication": "el-espectador",
+        "title": "Los cierres de los congresos",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/los-cierres-de-los-congresos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Miranda",
+        "date": "2022-12-20",
+        "publication": "el-espectador",
+        "title": "F\u00fatbol se juega en el alma",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/futbol-se-juega-en-el-alma-noticias-hoy-mundial-catar-2022/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2022-12-20",
+        "publication": "el-espectador",
+        "title": "Sin el nombre del ladr\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/sin-el-nombre-del-ladron/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2022-12-20",
+        "publication": "el-espectador",
+        "title": "Locos (y bobos) por el f\u00fatbol",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/locos-y-bobos-por-el-futbol/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Vanegas Ath\u00edas",
+        "date": "2022-12-20",
+        "publication": "el-espectador",
+        "title": "Cr\u00f3nica de Argentina, campeona, escrita en directo",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/cronica-de-argentina-campeona-escrita-en-directo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2022-12-20",
+        "publication": "el-espectador",
+        "title": "La paz pasa por Arauca",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/la-paz-pasa-por-arauca/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2022-12-20",
+        "publication": "el-espectador",
+        "title": "El arte de los mimos ",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-arte-de-los-mimos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-12-20",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 hacer si alguien a quien admiras es acusado por violencia sexual?",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/que-hacer-si-alguien-a-quien-admiras-es-acusado-por-violencia-sexual/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco de Roux",
+        "date": "2022-12-20",
+        "publication": "el-espectador",
+        "title": "El dilema moral sobre la responsabilidad de los \u201cfalsos positivos\u201d",
+        "url": "https://www.elespectador.com/colombia-20/analistas/el-dilema-moral-sobre-la-responsabilidad-de-los-falsos-positivos-francisco-de-roux/"
     },
     {
         "article-type": "column",
@@ -129,6 +209,14 @@
     },
     {
         "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2022-12-20",
+        "publication": "el-espectador",
+        "title": "Es tiempo de recuerdos",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/es-tiempo-de-recuerdos/"
+    },
+    {
+        "article-type": "column",
         "author": "Daniel Mera Villamizar",
         "date": "2022-12-19",
         "publication": "el-espectador",
@@ -136,163 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/etica-del-trabajo-juventud-excluida-y-gestores-de-paz/"
     },
     {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2022-12-19",
-        "publication": "el-espectador",
-        "title": "La pregunta del a\u00f1o",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/la-pregunta-del-ano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2022-12-19",
-        "publication": "el-espectador",
-        "title": "Desaf\u00edos del agro en el 2023",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/desafios-del-agro-en-el-2023/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2022-12-19",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Lo que dej\u00f3 Catar 2022 ",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/lo-que-dejo-catar-2022/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-12-19",
-        "publication": "el-espectador",
-        "title": "Editorial en video: bienvenida la concertaci\u00f3n de un aumento razonable",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-bienvenida-la-concertacion-de-un-aumento-razonable/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-12-19",
-        "publication": "el-espectador",
-        "title": "Qatar 2022: el Mundial que mostr\u00f3 que el f\u00fatbol s\u00ed es pol\u00edtico",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/qatar-2022-el-mundial-que-mostro-que-el-futbol-si-es-politico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Pel\u00e1ez Restrepo",
-        "date": "2022-12-19",
-        "publication": "el-espectador",
-        "title": "La nostalgia del Mundial de Catar 2022",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-pelaez-restrepo/nostalgia-qatar-2022-la-columna-de-hernan-pelaez/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2022-12-18",
-        "publication": "el-espectador",
-        "title": "\u00bfQui\u00e9n manda a qui\u00e9n?",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/quien-manda-a-quien/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2022-12-18",
-        "publication": "el-espectador",
-        "title": "Necesitamos un periodismo independiente",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/necesitamos-un-periodismo-independiente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2022-12-18",
-        "publication": "el-espectador",
-        "title": "En la ciudad de la furia",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/en-la-ciudad-de-la-furia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2022-12-18",
-        "publication": "el-espectador",
-        "title": "Los colombianos de Malcolm Deas ",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/los-colombianos-de-malcolm-deas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2022-12-18",
-        "publication": "el-espectador",
-        "title": "\u00bfGestores de paz?",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/gestores-de-paz/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-19",
+        "date": "2022-12-20",
         "publication": "el-tiempo",
-        "title": "Luces de Navidad",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-19-de-diciembre-de-2022-luces-de-navidad-726957"
+        "title": "Una propuesta debatible",
+        "url": "https://www.eltiempo.com/opinion/editorial/una-propuesta-debatible-editorial-el-tiempo-727281"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2022-12-19",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2022-12-20",
         "publication": "el-tiempo",
-        "title": "La \u2018feria\u2019 del mill\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-la-feria-del-millon-726970"
+        "title": "Para personajes, los empresarios",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/para-personajes-los-empresarios-columna-de-jose-manuel-acevedo-727186"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2022-12-19",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2022-12-20",
         "publication": "el-tiempo",
-        "title": "Antes de Navidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-antes-de-navidad-726969"
+        "title": "Cambios",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/cambios-columna-de-marcela-melendez-727198"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2022-12-19",
+        "author": "Francisco Cajiao",
+        "date": "2022-12-20",
         "publication": "el-tiempo",
-        "title": "La \u2018picotapol\u00edtica\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-la-picotapolitica-726981"
+        "title": "R\u00edos de leche y miel",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/rios-de-leche-y-miel-columna-de-francisco-cajiao-727191"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2022-12-19",
+        "author": "Hernando Herrera Mercado",
+        "date": "2022-12-20",
         "publication": "el-tiempo",
-        "title": "\u00bfEstamos viviendo el ocaso de las redes sociales?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-el-ocaso-de-las-redes-sociales-726982"
+        "title": "Primera l\u00ednea y vacuna judicial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/hernando-herrera-mercado/primera-linea-y-vacuna-judicial-columna-de-hernando-herrera-727208"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2022-12-19",
+        "author": "Fernando Quiroz",
+        "date": "2022-12-20",
         "publication": "el-tiempo",
-        "title": "El d\u00f3lar narco",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-el-dolar-narco-726984"
+        "title": "La religi\u00f3n argentina",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/la-religion-argentina-columna-de-fernando-quiroz-727182"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2022-12-19",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2022-12-20",
         "publication": "el-tiempo",
-        "title": "Se acab\u00f3 el 2022\u2026. \u00bfy?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-se-acabo-el-2022-726959"
-    },
-    {
-        "article-type": "column",
-        "author": "Alberto Parra",
-        "date": "2022-12-19",
-        "publication": "el-tiempo",
-        "title": "Navidad: paz en la tierra",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alberto-parra/columna-de-alberto-parra-navidad-paz-en-la-tierra-726961"
-    },
-    {
-        "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2022-12-19",
-        "publication": "el-tiempo",
-        "title": "La habitaci\u00f3n de al lado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-la-habitacion-de-al-lado-726973"
+        "title": "Milagros de Navidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/milagros-de-navidad-columna-de-sergio-munoz-bata-727214"
     }
 ]
