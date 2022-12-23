@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-22",
+        "date": "2022-12-23",
         "publication": "el-colombiano",
-        "title": "Los Kfir y la oposici\u00f3n incoherente ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/los-kfir-y-la-oposicion-incoherente-OG19684028"
+        "title": "Navidad en tiempos de guerra",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/navidad-en-tiempos-de-guerra-BH19695051"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2022-12-23",
+        "publication": "el-colombiano",
+        "title": "Corrupci\u00f3n: pandemia de nunca acabar",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/corrupcion-pandemia-de-nunca-acabar-CH19693735"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2022-12-23",
+        "publication": "el-colombiano",
+        "title": "Palabras que son un regalo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/palabras-que-son-un-regalo-NH19693718"
+    },
+    {
+        "article-type": "column",
+        "author": "David Gonz\u00e1lez Escobar",
+        "date": "2022-12-23",
+        "publication": "el-colombiano",
+        "title": "Narc-d\u00e9co",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/narc-deco-NH19693952"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2022-12-23",
+        "publication": "el-colombiano",
+        "title": "No hacer nada",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/no-hacer-nada-FH19693701"
+    },
+    {
+        "article-type": "column",
+        "author": "Armando Estrada Villa",
+        "date": "2022-12-23",
+        "publication": "el-colombiano",
+        "title": "La capacidad de carga del planeta ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-capacidad-de-carga-del-planeta-CH19693634"
     },
     {
         "article-type": "column",
@@ -48,52 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/argentina-ahora-a-laburar-CG19683670"
     },
     {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2022-12-21",
-        "publication": "el-colombiano",
-        "title": "La vergonzosa declaraci\u00f3n de M\u00e9xico, Argentina, Colombia y Bolivia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-vergonzosa-declaracion-de-mexico-argentina-colombia-y-bolivia-KJ19675719"
-    },
-    {
-        "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2022-12-21",
-        "publication": "el-colombiano",
-        "title": "Los delirios",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-delirios-AJ19675702"
-    },
-    {
-        "article-type": "column",
-        "author": "Dany Alejandro Hoyos",
-        "date": "2022-12-21",
-        "publication": "el-colombiano",
-        "title": "Quiero un abrazo ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/quiero-un-abrazo-GJ19675641"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2022-12-21",
-        "publication": "el-colombiano",
-        "title": "Las bober\u00edas de los influencers",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/las-boberias-de-los-influencers-OJ19675685"
-    },
-    {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2022-12-21",
-        "publication": "el-colombiano",
-        "title": "El camino de las balas es largo - 300 d\u00edas de infierno ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-camino-de-las-balas-es-largo-300-dias-de-infierno-OJ19675658"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-22",
+        "date": "2022-12-23",
         "publication": "el-espectador",
-        "title": "Donald Trump debe responder ante la justicia",
-        "url": "https://www.elespectador.com/opinion/editorial/donald-trump-debe-responder-ante-la-justicia/"
+        "title": "Comprar aviones en tiempos de crisis",
+        "url": "https://www.elespectador.com/opinion/editorial/comprar-aviones-en-tiempos-de-crisis/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "No diga m\u00e1s pendejadas, presidente",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/no-diga-mas-pendejadas-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "Los versos y la escuela",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/los-versos-y-la-escuela/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "Cuando Enrique conoci\u00f3 a Meghan",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/cuando-enrique-conocio-a-meghan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "Creo",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/creo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "Hechos, personajes y personajitos",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/hechos-personajes-y-personajitos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Manuel Ospina",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "Y se encontraron las crisis",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/y-se-encontraron-las-crisis-juan-manuel-ospina/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "El proyecto de reforma pol\u00edtica no puede caerse",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/el-proyecto-de-reforma-politica-no-puede-caerse-oscar-sevillano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "\u201cViv\u00ed que me iba a morir\u201d: dr. Sa\u00fal Franco",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/vivi-que-me-iba-a-morir-dr-saul-franco-arturo-guerrero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "Felices fiestas",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/felices-fiestas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "The Economist: Perspectivas para 2023",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/the-economist-perspectivas-para-2023/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio Borges",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "Un pa\u00eds que lucha por recuperar sus navidades",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/un-pais-que-lucha-por-recuperar-sus-navidades/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 es la violencia simb\u00f3lica?",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/que-es-la-violencia-simbolica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Foro Nacional por Colombia*",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "Negociaci\u00f3n de paz con el Eln: necesaria y posible",
+        "url": "https://www.elespectador.com/colombia-20/analistas/negociacion-de-paz-con-el-eln-necesaria-y-posible/"
     },
     {
         "article-type": "column",
@@ -120,171 +224,83 @@
         "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/las-naciones-no-son-redondas-javier-ortiz-cassiani/"
     },
     {
-        "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2022-12-22",
-        "publication": "el-espectador",
-        "title": "Explosi\u00f3n ecotur\u00edstica",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/explosion-ecoturistica-brigitte-lg-baptiste/"
-    },
-    {
-        "article-type": "column",
-        "author": "Adriana Cooper",
-        "date": "2022-12-22",
-        "publication": "el-espectador",
-        "title": "Sumar: un verbo para el 2023",
-        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/sumar-un-verbo-para-el-2023/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2022-12-22",
-        "publication": "el-espectador",
-        "title": "Series feministas para ver en vacaciones",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/series-feministas-para-ver-en-vacaciones-catalina-ruiz-navarro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2022-12-22",
-        "publication": "el-espectador",
-        "title": "La \u00faltima del a\u00f1o",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/la-ultima-del-ano-cristina-nicholls/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2022-12-22",
-        "publication": "el-espectador",
-        "title": "El conflictivo pesebre franc\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/el-conflictivo-pesebre-frances/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2022-12-22",
-        "publication": "el-espectador",
-        "title": "Resbalones en asuntos de g\u00e9nero y discriminaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/resbalones-en-asuntos-de-genero-y-discriminacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2022-12-21",
-        "publication": "el-espectador",
-        "title": "Acrimonia",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/acrimonia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2022-12-21",
-        "publication": "el-espectador",
-        "title": "\u00a1Que Dios las coja confesadas!",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/que-dios-las-coja-confesadas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2022-12-21",
-        "publication": "el-espectador",
-        "title": "De seguidores y votantes",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/de-seguidores-y-votantes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2022-12-21",
-        "publication": "el-espectador",
-        "title": "Tiempos borrascosos",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/tiempos-borrascosos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2022-12-21",
-        "publication": "el-espectador",
-        "title": "La agon\u00eda de las EPS",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/la-agonia-de-las-eps/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2022-12-21",
-        "publication": "el-espectador",
-        "title": "COP15, biodiversidad: \u00bfy Colombia qu\u00e9?",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/cop15-biodiversidad-y-colombia-que/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2022-12-21",
-        "publication": "el-espectador",
-        "title": "La pol\u00edtica: arte y ciencia. Reflexiones",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/la-politica-arte-y-ciencia-reflexiones/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-22",
+        "date": "2022-12-23",
         "publication": "el-tiempo",
-        "title": "M\u00e1s v\u00edas terciarias",
-        "url": "https://www.eltiempo.com/opinion/editorial/mas-vias-terciarias-editorial-el-tiempo-727932"
+        "title": "El apoyo a los j\u00f3venes",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-apoyo-a-los-jovenes-editorial-el-tiempo-728228"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2022-12-22",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2022-12-23",
         "publication": "el-tiempo",
-        "title": "El r\u00e9gimen del monarca encadenado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-regimen-del-monarca-encadenado-columna-de-pedro-medellin-727917"
+        "title": "Fusi\u00f3n nuclear y econom\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/fusion-nuclear-y-economia-columna-de-moises-wasserman-728158"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2022-12-22",
+        "author": "Ricardo Silva Romero",
+        "date": "2022-12-23",
         "publication": "el-tiempo",
-        "title": "Mundial de masculinidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/mundial-de-masculinidad-columna-de-claudia-palacios-727829"
+        "title": "Latinoamericanos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/latinoamericanos-columna-de-ricardo-silva-romero-728180"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2022-12-22",
+        "author": "Martha Ortiz",
+        "date": "2022-12-23",
         "publication": "el-tiempo",
-        "title": "Por fin la suerte",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/por-fin-la-suerte-columna-de-juan-esteban-constain-727848"
+        "title": "S\u00edmbolos y ritos aliados en Navidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/simbolos-y-ritos-aliados-en-navidad-columna-de-martha-ortiz-728183"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2022-12-22",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2022-12-23",
         "publication": "el-tiempo",
-        "title": "El juego perfecto",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/el-juego-perfecto-columna-de-sergio-ramirez-727839"
+        "title": "Albert Camus y la libertad de prensa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/albert-camus-y-la-libertad-de-prensa-columna-de-eduardo-posada-carbo-728160"
     },
     {
         "article-type": "column",
-        "author": "Alfonso Carvajal",
-        "date": "2022-12-22",
+        "author": "Claudia Hakim",
+        "date": "2022-12-23",
         "publication": "el-tiempo",
-        "title": "\u2018La cuadra\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/la-cuadra-columna-de-alfonso-carvajal-727825"
+        "title": "Jim Amaral: su mundo, y su imaginaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/jim-amaral-su-mundo-y-su-imaginacion-columna-de-claudia-hakim-728167"
     },
     {
         "article-type": "column",
-        "author": "Women in Connection",
-        "date": "2022-12-22",
+        "author": "Martha Senn",
+        "date": "2022-12-23",
         "publication": "el-tiempo",
-        "title": "Yo me comprometo a trabajar por un mejor 2023. \u00bfY t\u00fa?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/yo-me-comprometo-a-trabajar-por-un-mejor-2023-y-tu-angela-hurtado-727877"
+        "title": "Teatro Col\u00f3n, 130 a\u00f1os",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/teatro-colon-130-anos-columna-de-martha-senn-728187"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Laurens - Cine al Ojo",
-        "date": "2022-12-22",
+        "author": "Salvo Basile",
+        "date": "2022-12-23",
         "publication": "el-tiempo",
-        "title": "Dos filmes biogr\u00e1ficos y dos t\u00edtulos comestibles",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/dos-filmes-biograficos-y-dos-titulos-comestibles-mauricio-laurens-727882"
+        "title": "Plan de Alimentaci\u00f3n Escolar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/plan-de-alimentacion-escolar-columna-de-salvo-basile-728156"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Rangel",
+        "date": "2022-12-23",
+        "publication": "el-tiempo",
+        "title": "Recesi\u00f3n democr\u00e1tica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/recesion-democratica-columna-de-alfredo-rangel-728200"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2022-12-23",
+        "publication": "el-tiempo",
+        "title": "Descr\u00e9dito de Europa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/descredito-de-europa-columna-de-alfredo-rangel-728194"
     }
 ]
