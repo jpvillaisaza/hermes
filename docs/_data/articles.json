@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-23",
+        "date": "2022-12-24",
         "publication": "el-colombiano",
-        "title": "Navidad en tiempos de guerra",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/navidad-en-tiempos-de-guerra-BH19695051"
+        "title": "Las buenas nuevas",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/las-buenas-nuevas-EP19701252"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Correa Vel\u00e1squez",
+        "date": "2022-12-24",
+        "publication": "el-colombiano",
+        "title": "Cuentos para transformarse en Navidad ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cuentos-para-transformarse-en-navidad-DH19696423"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2022-12-24",
+        "publication": "el-colombiano",
+        "title": "Sobre cambios disponibles",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-cambios-disponibles-AH19696305"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2022-12-24",
+        "publication": "el-colombiano",
+        "title": "Maitines en el cielo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/maitines-en-el-cielo-NH19696380"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2022-12-24",
+        "publication": "el-colombiano",
+        "title": "Una historia de Navidad: hombres de nieve",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/una-historia-de-navidad-hombres-de-nieve-PH19696678"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Bernardo V\u00e9lez M.",
+        "date": "2022-12-24",
+        "publication": "el-colombiano",
+        "title": "\u00bfQu\u00e9 hay detr\u00e1s de una moneda?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/que-hay-detras-de-una-moneda-NH19696281"
     },
     {
         "article-type": "column",
@@ -48,52 +88,68 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-capacidad-de-carga-del-planeta-CH19693634"
     },
     {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2022-12-22",
-        "publication": "el-colombiano",
-        "title": "Gusanos auditivos ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/gusanos-auditivos-KG19683687"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Botero Montoya",
-        "date": "2022-12-22",
-        "publication": "el-colombiano",
-        "title": "Inquietudes de Fin de A\u00f1o",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/inquietudes-de-fin-de-ano-MG19683906"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2022-12-22",
-        "publication": "el-colombiano",
-        "title": "Una feliz Navidad ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/una-feliz-navidad-HG19683985"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2022-12-22",
-        "publication": "el-colombiano",
-        "title": "Inmediatez",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/inmediatez-GG19683948"
-    },
-    {
-        "article-type": "column",
-        "author": "Humberto Montero",
-        "date": "2022-12-22",
-        "publication": "el-colombiano",
-        "title": "Argentina, ahora a \u201claburar\u201d",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/argentina-ahora-a-laburar-CG19683670"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-23",
+        "date": "2022-12-24",
         "publication": "el-espectador",
-        "title": "Comprar aviones en tiempos de crisis",
-        "url": "https://www.elespectador.com/opinion/editorial/comprar-aviones-en-tiempos-de-crisis/"
+        "title": "Hay muchas razones para el optimismo, y hoy es un buen d\u00eda para resaltarlas",
+        "url": "https://www.elespectador.com/opinion/editorial/hay-muchas-razones-para-el-optimismo-y-hoy-es-un-buen-dia-para-resaltarlas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2022-12-24",
+        "publication": "el-espectador",
+        "title": "Mi biblioteca",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/mi-biblioteca-santiago-gamboa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ramiro Bejarano Guzm\u00e1n",
+        "date": "2022-12-24",
+        "publication": "el-espectador",
+        "title": "Em\u00e9rito e impune",
+        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/emerito-e-impune-ramiro-bejarano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Piedad Bonnett",
+        "date": "2022-12-24",
+        "publication": "el-espectador",
+        "title": "La cofrad\u00eda del Sr. T ",
+        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/la-cofradia-del-sr-t-piedad-bonnett/"
+    },
+    {
+        "article-type": "column",
+        "author": "H\u00e9ctor Abad Faciolince",
+        "date": "2022-12-24",
+        "publication": "el-espectador",
+        "title": "Lo m\u00e1s grave del a\u00f1o 22",
+        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/lo-mas-grave-del-ano-22-hector-abad-faciolince/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Botero Caicedo",
+        "date": "2022-12-24",
+        "publication": "el-espectador",
+        "title": "Entre Elon Musk y Henry Ford",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/entre-elon-musk-y-henry-ford-mauricio-botero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Uprimny",
+        "date": "2022-12-24",
+        "publication": "el-espectador",
+        "title": "El testigo de nuestro espejo roto",
+        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/el-testigo-de-nuestro-espejo-roto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Kenneth Burbano Villamar\u00edn",
+        "date": "2022-12-24",
+        "publication": "el-espectador",
+        "title": "Gestores y voceros de paz m\u00e1s all\u00e1 de lo jur\u00eddico",
+        "url": "https://www.elespectador.com/colombia-20/analistas/gestores-y-voceros-de-paz-mas-alla-de-lo-juridico/"
     },
     {
         "article-type": "column",
@@ -113,19 +169,19 @@
     },
     {
         "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2022-12-23",
-        "publication": "el-espectador",
-        "title": "Cuando Enrique conoci\u00f3 a Meghan",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/cuando-enrique-conocio-a-meghan/"
-    },
-    {
-        "article-type": "column",
         "author": "Juan Carlos Botero",
         "date": "2022-12-23",
         "publication": "el-espectador",
         "title": "Creo",
         "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/creo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2022-12-23",
+        "publication": "el-espectador",
+        "title": "Cuando Enrique conoci\u00f3 a Meghan",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/cuando-enrique-conocio-a-meghan/"
     },
     {
         "article-type": "column",
@@ -168,139 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/felices-fiestas/"
     },
     {
-        "article-type": "column",
-        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
-        "date": "2022-12-23",
-        "publication": "el-espectador",
-        "title": "The Economist: Perspectivas para 2023",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/the-economist-perspectivas-para-2023/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2022-12-23",
-        "publication": "el-espectador",
-        "title": "Un pa\u00eds que lucha por recuperar sus navidades",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/un-pais-que-lucha-por-recuperar-sus-navidades/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2022-12-23",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 es la violencia simb\u00f3lica?",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/que-es-la-violencia-simbolica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Foro Nacional por Colombia*",
-        "date": "2022-12-23",
-        "publication": "el-espectador",
-        "title": "Negociaci\u00f3n de paz con el Eln: necesaria y posible",
-        "url": "https://www.elespectador.com/colombia-20/analistas/negociacion-de-paz-con-el-eln-necesaria-y-posible/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2022-12-22",
-        "publication": "el-espectador",
-        "title": "Reclutamiento",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/reclutamiento-jose-fernando-isaza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas de los lectores",
-        "date": "2022-12-22",
-        "publication": "el-espectador",
-        "title": "Los restos de Melo",
-        "url": "https://www.elespectador.com/opinion/lectores/cartas/los-restos-de-melo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2022-12-22",
-        "publication": "el-espectador",
-        "title": "Las naciones no son redondas",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/las-naciones-no-son-redondas-javier-ortiz-cassiani/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-23",
+        "date": "2022-12-24",
         "publication": "el-tiempo",
-        "title": "El apoyo a los j\u00f3venes",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-apoyo-a-los-jovenes-editorial-el-tiempo-728228"
+        "title": "Una decisi\u00f3n responsable",
+        "url": "https://www.eltiempo.com/opinion/editorial/una-decision-responsable-editorial-el-tiempo-728554"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2022-12-23",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2022-12-24",
         "publication": "el-tiempo",
-        "title": "Fusi\u00f3n nuclear y econom\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/fusion-nuclear-y-economia-columna-de-moises-wasserman-728158"
+        "title": "Tensiones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/tensiones-columna-de-mauricio-cardenas-santamaria-728516"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2022-12-23",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2022-12-24",
         "publication": "el-tiempo",
-        "title": "Latinoamericanos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/latinoamericanos-columna-de-ricardo-silva-romero-728180"
+        "title": "Las aplicaciones: \u00bfobligatorias?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/las-aplicaciones-obligatorias-columna-de-jose-gregorio-hernandez-728498"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2022-12-23",
+        "author": "Hugo Acero Vel\u00e1squez",
+        "date": "2022-12-24",
         "publication": "el-tiempo",
-        "title": "S\u00edmbolos y ritos aliados en Navidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/simbolos-y-ritos-aliados-en-navidad-columna-de-martha-ortiz-728183"
+        "title": "Los congresistas devuelven sus esquemas de seguridad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/los-congresistas-devuelven-sus-esquemas-de-seguridad-hugo-acero-728485"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2022-12-23",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2022-12-24",
         "publication": "el-tiempo",
-        "title": "Albert Camus y la libertad de prensa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/albert-camus-y-la-libertad-de-prensa-columna-de-eduardo-posada-carbo-728160"
+        "title": "Los m\u00e9dicos escritores",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/los-medicos-escritores-columna-de-fernando-sanchez-torres-728489"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2022-12-23",
+        "author": "Armando Silva",
+        "date": "2022-12-24",
         "publication": "el-tiempo",
-        "title": "Jim Amaral: su mundo, y su imaginaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/jim-amaral-su-mundo-y-su-imaginacion-columna-de-claudia-hakim-728167"
+        "title": "El placer de rascarse",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/el-placer-de-rascarse-columna-de-armando-silva-728481"
     },
     {
         "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2022-12-23",
+        "author": "Santiago Vargas Acebedo",
+        "date": "2022-12-24",
         "publication": "el-tiempo",
-        "title": "Teatro Col\u00f3n, 130 a\u00f1os",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/teatro-colon-130-anos-columna-de-martha-senn-728187"
-    },
-    {
-        "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2022-12-23",
-        "publication": "el-tiempo",
-        "title": "Plan de Alimentaci\u00f3n Escolar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/plan-de-alimentacion-escolar-columna-de-salvo-basile-728156"
-    },
-    {
-        "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2022-12-23",
-        "publication": "el-tiempo",
-        "title": "Recesi\u00f3n democr\u00e1tica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/recesion-democratica-columna-de-alfredo-rangel-728200"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2022-12-23",
-        "publication": "el-tiempo",
-        "title": "Descr\u00e9dito de Europa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/descredito-de-europa-columna-de-alfredo-rangel-728194"
+        "title": "La belleza de la burocracia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/la-belleza-de-la-burocracia-columna-de-santiago-vargas-acebedo-728507"
     }
 ]
