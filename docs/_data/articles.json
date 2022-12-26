@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-24",
+        "date": "2022-12-26",
         "publication": "el-colombiano",
-        "title": "Las buenas nuevas",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/las-buenas-nuevas-EP19701252"
+        "title": "\u00bfY la econom\u00eda? Agridulce",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/y-la-economia-agridulce-LP19703796"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Escobar Valencia",
+        "date": "2022-12-26",
+        "publication": "el-colombiano",
+        "title": "\u00bfSer\u00e1 estupidez o maldad?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sera-estupidez-o-maldad-GP19703885"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
+        "date": "2022-12-26",
+        "publication": "el-colombiano",
+        "title": "La radio cronoeduca y algo m\u00e1s",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-radio-cronoeduca-y-algo-mas-FP19703868"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2022-12-26",
+        "publication": "el-colombiano",
+        "title": "Los polic\u00edas: los verdaderos gestores de paz",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/los-policias-los-verdaderos-gestores-de-paz-PP19703851"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2022-12-26",
+        "publication": "el-colombiano",
+        "title": "Tareas pendientes para el c\u00e1ncer de pulm\u00f3n en Antioquia ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/tareas-pendientes-para-el-cancer-de-pulmon-en-antioquia-KP19703779"
+    },
+    {
+        "article-type": "column",
+        "author": "El Pa\u00eds",
+        "date": "2022-12-26",
+        "publication": "el-colombiano",
+        "title": "Mujer educada: mujer peligrosa",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/mujer-educada-mujer-peligrosa-AP19703762"
     },
     {
         "article-type": "column",
@@ -48,52 +88,52 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/que-hay-detras-de-una-moneda-NH19696281"
     },
     {
-        "article-type": "column",
-        "author": "Luis Fernando \u00c1lvarez",
-        "date": "2022-12-23",
-        "publication": "el-colombiano",
-        "title": "Corrupci\u00f3n: pandemia de nunca acabar",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/corrupcion-pandemia-de-nunca-acabar-CH19693735"
-    },
-    {
-        "article-type": "column",
-        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
-        "date": "2022-12-23",
-        "publication": "el-colombiano",
-        "title": "Palabras que son un regalo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/palabras-que-son-un-regalo-NH19693718"
-    },
-    {
-        "article-type": "column",
-        "author": "David Gonz\u00e1lez Escobar",
-        "date": "2022-12-23",
-        "publication": "el-colombiano",
-        "title": "Narc-d\u00e9co",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/narc-deco-NH19693952"
-    },
-    {
-        "article-type": "column",
-        "author": "Diego Aristiz\u00e1bal",
-        "date": "2022-12-23",
-        "publication": "el-colombiano",
-        "title": "No hacer nada",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/no-hacer-nada-FH19693701"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Estrada Villa",
-        "date": "2022-12-23",
-        "publication": "el-colombiano",
-        "title": "La capacidad de carga del planeta ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-capacidad-de-carga-del-planeta-CH19693634"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2022-12-24",
         "publication": "el-espectador",
         "title": "Hay muchas razones para el optimismo, y hoy es un buen d\u00eda para resaltarlas",
         "url": "https://www.elespectador.com/opinion/editorial/hay-muchas-razones-para-el-optimismo-y-hoy-es-un-buen-dia-para-resaltarlas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2022-12-26",
+        "publication": "el-espectador",
+        "title": "Esto ya es historia",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/esto-ya-es-historia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2022-12-26",
+        "publication": "el-espectador",
+        "title": "Lo vimos con estos ojos",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/lo-vimos-con-estos-ojos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ot\u00e1lora Montenegro",
+        "date": "2022-12-26",
+        "publication": "el-espectador",
+        "title": "2022: derrotados los malos augurios",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-otalora-montenegro/2022-derrotados-los-malos-augurios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2022-12-26",
+        "publication": "el-espectador",
+        "title": "MinEducaci\u00f3n apuesta por gastar m\u00e1s sin tocar econom\u00eda pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/mineducacion-apuesta-por-gastar-mas-sin-tocar-economia-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2022-12-26",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cHay muchas razones para el optimismo\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-hay-muchas-razones-para-el-optimismo/"
     },
     {
         "article-type": "column",
@@ -121,11 +161,11 @@
     },
     {
         "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2022-12-25",
+        "author": "Paula Andrea Valencia Cort\u00e9s*",
+        "date": "2022-12-26",
         "publication": "el-espectador",
-        "title": "Mujeres del CISCA",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/mujeres-del-cisca/"
+        "title": "Los desaf\u00edos del Tribunal para la Paz para responder a las v\u00edctimas",
+        "url": "https://www.elespectador.com/colombia-20/analistas/los-desafios-del-tribunal-para-la-paz-para-responder-a-las-victimas/"
     },
     {
         "article-type": "column",
@@ -152,115 +192,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/entre-elon-musk-y-henry-ford-mauricio-botero/"
     },
     {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2022-12-24",
-        "publication": "el-espectador",
-        "title": "La cofrad\u00eda del Sr. T ",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/la-cofradia-del-sr-t-piedad-bonnett/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2022-12-24",
-        "publication": "el-espectador",
-        "title": "Lo m\u00e1s grave del a\u00f1o 22",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/lo-mas-grave-del-ano-22-hector-abad-faciolince/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2022-12-24",
-        "publication": "el-espectador",
-        "title": "El testigo de nuestro espejo roto",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/el-testigo-de-nuestro-espejo-roto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Kenneth Burbano Villamar\u00edn",
-        "date": "2022-12-24",
-        "publication": "el-espectador",
-        "title": "Gestores y voceros de paz m\u00e1s all\u00e1 de lo jur\u00eddico",
-        "url": "https://www.elespectador.com/colombia-20/analistas/gestores-y-voceros-de-paz-mas-alla-de-lo-juridico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2022-12-23",
-        "publication": "el-espectador",
-        "title": "No diga m\u00e1s pendejadas, presidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/no-diga-mas-pendejadas-presidente/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2022-12-24",
+        "date": "2022-12-26",
         "publication": "el-tiempo",
-        "title": "Una decisi\u00f3n responsable",
-        "url": "https://www.eltiempo.com/opinion/editorial/una-decision-responsable-editorial-el-tiempo-728554"
+        "title": "2022 termina en guerra",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-26-de-diciembre-de-2022-2022-termina-en-guerra-728772"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2022-12-25",
+        "author": "Juan Lozano",
+        "date": "2022-12-26",
         "publication": "el-tiempo",
-        "title": "Predicciones 2023",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/predicciones-2023-columna-de-mauricio-vargas-728501"
+        "title": "Ojo con los aviones de toda clase",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-ojo-con-los-aviones-de-toda-clase-728785"
     },
     {
         "article-type": "column",
-        "author": "Patricia Rinc\u00f3n Mazo",
-        "date": "2022-12-25",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2022-12-26",
         "publication": "el-tiempo",
-        "title": "\u00bfSer o tener?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/patricia-rincon-mazo/ser-o-tener-columna-de-patricia-rincon-728505"
+        "title": "\u00bfPor qu\u00e9 se pretende callar?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-por-que-se-pretende-callar-728786"
     },
     {
         "article-type": "column",
-        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
-        "date": "2022-12-24",
+        "author": "Luis Felipe Henao",
+        "date": "2022-12-26",
         "publication": "el-tiempo",
-        "title": "Tensiones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/tensiones-columna-de-mauricio-cardenas-santamaria-728516"
+        "title": "Un a\u00f1o de preguntas y esperanza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-un-ano-de-preguntas-y-esperanza-728781"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
-        "date": "2022-12-24",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2022-12-26",
         "publication": "el-tiempo",
-        "title": "Las aplicaciones: \u00bfobligatorias?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/las-aplicaciones-obligatorias-columna-de-jose-gregorio-hernandez-728498"
+        "title": "Japiberdi, Marujita",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/columna-de-oscar-dominguez-japiberdi-marujita-728780"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2022-12-24",
+        "author": "Yolanda Reyes",
+        "date": "2022-12-26",
         "publication": "el-tiempo",
-        "title": "Los m\u00e9dicos escritores",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/los-medicos-escritores-columna-de-fernando-sanchez-torres-728489"
+        "title": "Instrucciones para vivir",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-instrucciones-para-vivir-728788"
     },
     {
         "article-type": "column",
-        "author": "Hugo Acero Vel\u00e1squez",
-        "date": "2022-12-24",
+        "author": "Jorge Barraza",
+        "date": "2022-12-26",
         "publication": "el-tiempo",
-        "title": "Los congresistas devuelven sus esquemas de seguridad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/los-congresistas-devuelven-sus-esquemas-de-seguridad-hugo-acero-728485"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2022-12-24",
-        "publication": "el-tiempo",
-        "title": "El placer de rascarse",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/el-placer-de-rascarse-columna-de-armando-silva-728481"
-    },
-    {
-        "article-type": "column",
-        "author": "Santiago Vargas Acebedo",
-        "date": "2022-12-24",
-        "publication": "el-tiempo",
-        "title": "La belleza de la burocracia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/la-belleza-de-la-burocracia-columna-de-santiago-vargas-acebedo-728507"
+        "title": "\u2018Ellos est\u00e1n jugando la final del mundo\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-ellos-estan-jugando-la-final-del-mundo-728790"
     }
 ]
