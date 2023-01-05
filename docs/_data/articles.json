@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-04",
+        "date": "2023-01-05",
         "publication": "el-colombiano",
-        "title": "Brasil, los desaf\u00edos ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/brasil-los-desafios-de-la-esperanza-AK19750514"
+        "title": "Otra cara de la ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/otra-cara-de-la-reforma-pensional-PK19758799"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2023-01-05",
+        "publication": "el-colombiano",
+        "title": "Un ej\u00e9rcito de \u201czombies\u201d",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-ejercito-de-zombies-HK19759187"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2023-01-05",
+        "publication": "el-colombiano",
+        "title": "Curry",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/curry-BK19758876"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2023-01-05",
+        "publication": "el-colombiano",
+        "title": "Ni lo esencial ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ni-lo-esencial-NK19758713"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Botero Montoya",
+        "date": "2023-01-05",
+        "publication": "el-colombiano",
+        "title": "La Relaci\u00f3n con el Per\u00fa",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-relacion-con-el-peru-NK19758858"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2023-01-05",
+        "publication": "el-colombiano",
+        "title": "O Rei",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/o-rei-FK19758629"
     },
     {
         "article-type": "column",
@@ -48,52 +88,60 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/ante-la-muerte-de-benedicto-xvi-GK19750372"
     },
     {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2023-01-04",
-        "publication": "el-colombiano",
-        "title": "Brasil nos concierne a todos ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/brasil-nos-concierne-a-todos-EL19748950"
-    },
-    {
-        "article-type": "column",
-        "author": "Federico Hoyos Salazar",
-        "date": "2023-01-03",
-        "publication": "el-colombiano",
-        "title": "Uni\u00f3n, esperanza y grandeza ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/union-esperanza-y-grandeza-CM19736150"
-    },
-    {
-        "article-type": "column",
-        "author": "Amalia Londo\u00f1o Duque",
-        "date": "2023-01-03",
-        "publication": "el-colombiano",
-        "title": "Habitare ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/habitare-CM19736400"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Mej\u00eda Cubillos",
-        "date": "2023-01-03",
-        "publication": "el-colombiano",
-        "title": "\u00bfEs m\u00e1s rentable hacer una maestr\u00eda en el exterior? ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/es-mas-rentable-hacer-una-maestria-en-el-exterior-GM19736264"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez G.",
-        "date": "2023-01-03",
-        "publication": "el-colombiano",
-        "title": "Que restauraci\u00f3n no sea impunidad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/que-restauracion-no-sea-impunidad-GM19736572"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-04",
+        "date": "2023-01-05",
         "publication": "el-espectador",
-        "title": "La apuesta de Venezuela sin Juan Guaid\u00f3",
-        "url": "https://www.elespectador.com/opinion/editorial/la-apuesta-de-venezuela-sin-juan-guaido/"
+        "title": "Otro merecido golpe contra Meta",
+        "url": "https://www.elespectador.com/opinion/editorial/otro-merecido-golpe-contra-meta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-01-05",
+        "publication": "el-espectador",
+        "title": "La necesidad de regalarse el tiempo y el espacio",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/la-necesidad-de-regalarse-el-tiempo-y-el-espacio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-01-05",
+        "publication": "el-espectador",
+        "title": "Ley Trans: imposible tomarla en serio",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/ley-trans-imposible-tomarla-en-serio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2023-01-05",
+        "publication": "el-espectador",
+        "title": "Un a\u00f1o despu\u00e9s",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/un-ano-despues/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2023-01-05",
+        "publication": "el-espectador",
+        "title": "Escritoras",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/escritoras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-01-05",
+        "publication": "el-espectador",
+        "title": "De las adicciones",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/de-las-adicciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-01-05",
+        "publication": "el-espectador",
+        "title": "Lula necesita al mundo para salvar la Amazon\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/lula-necesita-al-mundo-para-salvar-la-amazonia/"
     },
     {
         "article-type": "column",
@@ -118,14 +166,6 @@
         "publication": "el-espectador",
         "title": "Como ranas, de charco en charco",
         "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/como-ranas-de-charco-en-charco/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ot\u00e1lora Montenegro",
-        "date": "2023-01-04",
-        "publication": "el-espectador",
-        "title": "2023: caminando en la cuerda floja",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-otalora-montenegro/2023-caminando-en-la-cuerda-floja/"
     },
     {
         "article-type": "column",
@@ -184,99 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/brasil-toma-posesion-de-si-mismo-noticias-hoy-beatriz-miranda/"
     },
     {
-        "article-type": "column",
-        "author": "J. William Pearl",
-        "date": "2023-01-03",
-        "publication": "el-espectador",
-        "title": "Agradecer",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/agradecer/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2023-01-03",
-        "publication": "el-espectador",
-        "title": "Risas profanadoras",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/risas-profanadoras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Barajas Sandoval",
-        "date": "2023-01-03",
-        "publication": "el-espectador",
-        "title": "Un acuerdo en favor de la naturaleza",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/un-acuerdo-en-favor-de-la-naturaleza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-01-03",
-        "publication": "el-espectador",
-        "title": "El rey del f\u00fatbol, \u00a1de pel\u00edcula!",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-rey-del-futbol-de-pelicula/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-01-03",
-        "publication": "el-espectador",
-        "title": "Mauricios, Ra\u00fal y paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/mauricios-raul-y-paz/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-04",
+        "date": "2023-01-05",
         "publication": "el-tiempo",
-        "title": "Un a\u00f1o desafiante",
-        "url": "https://www.eltiempo.com/opinion/editorial/un-ano-desafiante-editorial-el-tiempo-731106"
+        "title": "Guerra y econom\u00eda",
+        "url": "https://www.eltiempo.com/opinion/editorial/guerra-y-economia-editorial-el-tiempo-731402"
     },
     {
         "article-type": "column",
-        "author": "Hugo Acero Vel\u00e1squez",
-        "date": "2023-01-04",
+        "author": "Pedro Medellin",
+        "date": "2023-01-05",
         "publication": "el-tiempo",
-        "title": "Cultura ciudadana sin Mockus",
-        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/cultura-ciudadana-sin-mockus-columna-de-hugo-acero-731063"
+        "title": "El enemigo est\u00e1 en casa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-enemigo-esta-en-casa-columna-de-pedro-medellin-731394"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-01-04",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-01-05",
         "publication": "el-tiempo",
-        "title": "Cuatro grandes ausentes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/cuatro-grandes-ausentes-columna-de-vladdo-731100"
+        "title": "La \u00faltima luz",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/la-ultima-luz-columna-de-juan-esteban-constain-731353"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-01-04",
+        "author": "Claudia Palacios",
+        "date": "2023-01-05",
         "publication": "el-tiempo",
-        "title": "Audacia y un poco de prudencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/audacia-y-un-poco-de-prudencia-columna-de-gustavo-duncan-731079"
+        "title": "Benedicto y Pel\u00e9",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/benedicto-y-pele-columna-de-claudia-palacios-731363"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2023-01-04",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-01-05",
         "publication": "el-tiempo",
-        "title": "El tesoro quimbaya (II)",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/el-tesoro-quimbaya-ii-columna-de-andres-hurtado-garcia-731059"
+        "title": "N\u00e9lida Pi\u00f1\u00f3n queda entre nosotros",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/nelida-pinon-queda-entre-nosotros-columna-de-sergio-ramirez-731330"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-01-04",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-01-05",
         "publication": "el-tiempo",
-        "title": "Vargas Llosa arm\u00f3 el gran escandalo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/vargas-llosa-armo-el-gran-escandalo-columna-de-poncho-renteria-731028"
+        "title": "Ennietecer",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/ennietecer-columna-de-oscar-dominguez-giraldo-731322"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2023-01-04",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2023-01-05",
         "publication": "el-tiempo",
-        "title": "Comencemos de nuevo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/comencemos-de-nuevo-columna-de-victor-corcoba-731083"
+        "title": "El deseo por la paz en Colombia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/el-deseo-por-la-paz-en-colombia-columna-de-fabio-martinez-731333"
     }
 ]
