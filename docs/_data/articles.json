@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-06",
+        "date": "2023-01-07",
         "publication": "el-colombiano",
-        "title": "A terminar ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/a-terminar-lo-empezado-GJ19766246"
+        "title": "Inflaci\u00f3n, \u00bfla \u2018tormenta perfecta\u2019?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/inflacion-la-tormenta-perfecta-CI19779128"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Mesa Puyo",
+        "date": "2023-01-07",
+        "publication": "el-colombiano",
+        "title": "Perspectivas energ\u00e9ticas 2023",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/perspectivas-energeticas-2023-FI19777893"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Correa Vel\u00e1squez",
+        "date": "2023-01-07",
+        "publication": "el-colombiano",
+        "title": "En esta columna hay una m\u00e1quina ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/en-esta-columna-hay-una-maquina-GI19777735"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2023-01-07",
+        "publication": "el-colombiano",
+        "title": "Sobre saltos o pasos varios",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-saltos-o-pasos-varios-KI19777872"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2023-01-07",
+        "publication": "el-colombiano",
+        "title": "Un soneto para empezar el a\u00f1o",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-soneto-para-empezar-el-ano-JI19777790"
+    },
+    {
+        "article-type": "column",
+        "author": "Llu\u00eds Bassets",
+        "date": "2023-01-07",
+        "publication": "el-colombiano",
+        "title": "El a\u00f1o del sue\u00f1o hind\u00fa",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-ano-del-sueno-hindu-GI19777717"
     },
     {
         "article-type": "column",
@@ -48,52 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/cirugia-estetica-para-huir-de-ti-mismo-AJ19766024"
     },
     {
-        "article-type": "column",
-        "author": "Humberto Montero",
-        "date": "2023-01-05",
-        "publication": "el-colombiano",
-        "title": "Un ej\u00e9rcito de \u201czombies\u201d",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/un-ejercito-de-zombies-HK19759187"
-    },
-    {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2023-01-05",
-        "publication": "el-colombiano",
-        "title": "Curry",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/curry-BK19758876"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2023-01-05",
-        "publication": "el-colombiano",
-        "title": "Ni lo esencial ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/ni-lo-esencial-NK19758713"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Botero Montoya",
-        "date": "2023-01-05",
-        "publication": "el-colombiano",
-        "title": "La Relaci\u00f3n con el Per\u00fa",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-relacion-con-el-peru-NK19758858"
-    },
-    {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2023-01-05",
-        "publication": "el-colombiano",
-        "title": "O Rei",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/o-rei-FK19758629"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-06",
+        "date": "2023-01-07",
         "publication": "el-espectador",
-        "title": "Abundan las quejas por la Ruta del Sol",
-        "url": "https://www.elespectador.com/opinion/editorial/abundan-las-quejas-por-la-ruta-del-sol/"
+        "title": "El papa Benedicto XVI ante la historia",
+        "url": "https://www.elespectador.com/opinion/editorial/el-papa-benedicto-xvi-ante-la-historia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "Que cese",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/que-cese/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "En la muerte del hombre que cerr\u00f3 el Limbo",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/en-la-muerte-del-hombre-que-cerro-el-limbo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "Mirar para otro lado",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/mirar-para-otro-lado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "Las ventajas de ser bajos de estatura",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/las-ventajas-de-ser-bajos-de-estatura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "El hurac\u00e1n qued\u00f3 atr\u00e1s",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/el-huracan-quedo-atras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro \u00c1lvarez",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "El Programa de Voluntariado Juvenil: \u00a1Viva la Escuela!",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-alvarez/el-programa-de-voluntariado-juvenil-viva-la-escuela/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ochoa",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "Humo sobre la mesa",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/humo-sobre-la-mesa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Manuel Ospina",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "Petro, de tumbo en tumbo",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/petro-de-tumbo-en-tumbo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ot\u00e1lora Montenegro",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "2023: caminando en la cuerda floja",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-otalora-montenegro/2023-caminando-en-la-cuerda-floja/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "Los aniversarios de 2023",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/los-aniversarios-de-2023/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "Columna de Luis Fernando Montoya: El legado de Pel\u00e9",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/el-legado-de-pele/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-01-07",
+        "publication": "el-espectador",
+        "title": "La reglamentaci\u00f3n, el siguiente paso para hacer realidad el Minigualdad",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/la-reglamentacion-el-siguiente-paso-para-hacer-realidad-el-minigualdad/"
     },
     {
         "article-type": "column",
@@ -128,171 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/la-fiesta-del-titanic/"
     },
     {
-        "article-type": "column",
-        "author": "Carolina Botero Cabrera",
-        "date": "2023-01-06",
-        "publication": "el-espectador",
-        "title": "\u00a1Feliz d\u00eda del dominio p\u00fablico!",
-        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/feliz-dia-del-dominio-publico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
-        "date": "2023-01-06",
-        "publication": "el-espectador",
-        "title": "\u201cThe New York Times\u201d sobre la obesidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/the-new-york-times-sobre-la-obesidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Sevillano",
-        "date": "2023-01-06",
-        "publication": "el-espectador",
-        "title": "Lecciones de paz que no aprendemos los periodistas",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/lecciones-de-paz-que-no-aprendemos-los-periodistas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2023-01-06",
-        "publication": "el-espectador",
-        "title": "Un pesebre pol\u00edticamente correcto",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/un-pesebre-politicamente-correcto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-01-06",
-        "publication": "el-espectador",
-        "title": "Pare y siga",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/pare-y-siga/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas de los lectores",
-        "date": "2023-01-06",
-        "publication": "el-espectador",
-        "title": "Un solo Rey",
-        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/un-solo-rey/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Bada",
-        "date": "2023-01-06",
-        "publication": "el-espectador",
-        "title": "Luciano Gonz\u00e1lez Tej\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/luciano-gonzalez-tejon-yo-soy-como-el-picaflor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Ortiz",
-        "date": "2023-01-06",
-        "publication": "el-espectador",
-        "title": "La carrera de las ratas ",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-ortiz/opinion-la-carrera-de-las-ratas-por-juan-carlos-ortiz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2023-01-05",
-        "publication": "el-espectador",
-        "title": "La necesidad de regalarse el tiempo y el espacio",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/la-necesidad-de-regalarse-el-tiempo-y-el-espacio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-01-05",
-        "publication": "el-espectador",
-        "title": "Ley Trans: imposible tomarla en serio",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/ley-trans-imposible-tomarla-en-serio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Adriana Cooper",
-        "date": "2023-01-05",
-        "publication": "el-espectador",
-        "title": "Un a\u00f1o despu\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/un-ano-despues/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2023-01-05",
-        "publication": "el-espectador",
-        "title": "Escritoras",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/escritoras/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-06",
+        "date": "2023-01-07",
         "publication": "el-tiempo",
-        "title": "La lucha debe seguir",
-        "url": "https://www.eltiempo.com/opinion/editorial/la-lucha-debe-seguir-editorial-el-tiempo-731690"
+        "title": "Un reto supremo",
+        "url": "https://www.eltiempo.com/opinion/editorial/un-reto-supremo-editorial-el-tiempo-731998"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-01-06",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2023-01-07",
         "publication": "el-tiempo",
-        "title": "Recreos de la ciencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/recreos-de-la-ciencia-columna-de-moises-wasserman-731619"
+        "title": "Cartagena",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/cartagena-columna-de-mauricio-cardenas-731977"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-01-06",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-01-07",
         "publication": "el-tiempo",
-        "title": "Total",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/total-columna-de-ricardo-silva-romero-731646"
+        "title": "El cese desconcertado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/el-cese-desconcertado-columna-de-luis-noe-ochoa-731969"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2023-01-06",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2023-01-07",
         "publication": "el-tiempo",
-        "title": "\u00a1A capotear la incertidumbre!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/a-capotear-la-incertidumbre-columna-de-claudia-hakim-731669"
+        "title": "La comunicaci\u00f3n oficial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/la-comunicacion-oficial-columna-de-jose-gregorio-hernandez-731869"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2023-01-06",
+        "author": "Stefano Farn\u00e9",
+        "date": "2023-01-07",
         "publication": "el-tiempo",
-        "title": "Las guerras de 2023",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/las-guerras-de-2023-columna-de-antonio-albinana-731649"
+        "title": "100.000 empleos j\u00f3venes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/stefano-farne/100-000-empleos-jovenes-columna-de-stefano-farne-731867"
     },
     {
         "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2023-01-06",
+        "author": "Alfonso Carvajal",
+        "date": "2023-01-07",
         "publication": "el-tiempo",
-        "title": "El canto de la tierra",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/el-canto-de-la-tierra-columna-de-salvo-basile-731590"
+        "title": "\u2018El libro de los placeres\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/el-libro-de-los-placeres-columna-de-alfonso-carvajal-731897"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2023-01-06",
+        "author": "Javier Borda Diaz",
+        "date": "2023-01-07",
         "publication": "el-tiempo",
-        "title": "Mauricio Lleras, el librero",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/mauricio-lleras-el-librero-columna-de-martha-ortiz-731660"
+        "title": "Inteligencia artificial para columnas de opini\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/inteligencia-artificial-para-columnas-de-opinion-columna-de-javier-borda-731931"
     },
     {
         "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2023-01-06",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2023-01-07",
         "publication": "el-tiempo",
-        "title": "Falsa tregua",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/falsa-tregua-columna-de-alfredo-rangel-731663"
-    },
-    {
-        "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2023-01-06",
-        "publication": "el-tiempo",
-        "title": "Una tendencia que crece",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/una-tendencia-que-crece-columna-de-martha-senn-731623"
+        "title": "Selecci\u00f3n de las 12 mejores pel\u00edculas vistas en 2022",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/seleccion-de-las-12-mejores-peliculas-vistas-en-2022-mauricio-laurens-731985"
     }
 ]
