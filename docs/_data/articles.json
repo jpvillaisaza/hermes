@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-09",
+        "date": "2023-01-10",
         "publication": "el-colombiano",
-        "title": "N\u00f3madas digitales en Medell\u00edn",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/nomadas-digitales-en-medellin-HH19782454"
+        "title": "\u00bfQu\u00e9 esperar de las elecciones?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/que-esperar-de-las-elecciones-BH19785488"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2023-01-10",
+        "publication": "el-colombiano",
+        "title": "Chamboner\u00eda monumental",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/chamboneria-monumental-AH19785360"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2023-01-10",
+        "publication": "el-colombiano",
+        "title": "Adonde conduce el ocultamiento de la verdad ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/adonde-conduce-el-ocultamiento-de-la-verdad-DH19785431"
+    },
+    {
+        "article-type": "column",
+        "author": "Melquisedec Torres",
+        "date": "2023-01-10",
+        "publication": "el-colombiano",
+        "title": "Los c\u00e1ndidos opitas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/los-candidos-opitas-KH19785395"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Camilo Quintero",
+        "date": "2023-01-10",
+        "publication": "el-colombiano",
+        "title": "Innovaci\u00f3n en la izquierda ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/innovacion-en-la-izquierda-HH19785453"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2023-01-10",
+        "publication": "el-colombiano",
+        "title": "Sinatra, paradigma del hombre despechado",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sinatra-paradigma-del-hombre-despechado-MH19784787"
     },
     {
         "article-type": "column",
@@ -48,52 +88,100 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/el-armario-de-los-demonios-HH19781969"
     },
     {
-        "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2023-01-08",
-        "publication": "el-colombiano",
-        "title": "2023: entusiasmo, expectativas e incertidumbres",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/2023-entusiasmo-expectativas-e-incertidumbres-DH19780636"
-    },
-    {
-        "article-type": "column",
-        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
-        "date": "2023-01-08",
-        "publication": "el-colombiano",
-        "title": "Historias del Reino (des)Unido",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/historias-del-reino-des-unido-EH19780589"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernardo A. Guerra Hoyos",
-        "date": "2023-01-08",
-        "publication": "el-colombiano",
-        "title": "Hochi",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/hochi-PH19780708"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez G.",
-        "date": "2023-01-08",
-        "publication": "el-colombiano",
-        "title": "El ministerio de la Igualdad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-ministerio-de-la-igualdad-AH19780671"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Dur\u00e1n G\u00f3mez",
-        "date": "2023-01-08",
-        "publication": "el-colombiano",
-        "title": "La nueva era con Venezuela",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-nueva-era-con-venezuela-DH19780614"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-09",
+        "date": "2023-01-10",
         "publication": "el-espectador",
-        "title": "Intento de golpe de Estado en Brasil por culpa de Jair Bolsonaro",
-        "url": "https://www.elespectador.com/opinion/editorial/intento-de-golpe-de-estado-en-brasil-por-culpa-de-jair-bolsonaro/"
+        "title": "El Eln exagera una crisis en los di\u00e1logos",
+        "url": "https://www.elespectador.com/opinion/editorial/el-eln-exagera-una-crisis-en-los-dialogos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-01-10",
+        "publication": "el-espectador",
+        "title": "\u00a1Viva Manizales!",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/viva-manizales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-01-10",
+        "publication": "el-espectador",
+        "title": "La iconoclasta",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/la-iconoclasta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-01-10",
+        "publication": "el-espectador",
+        "title": "El deceso de Benedicto deja a Francisco solo y sin ataduras",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-deceso-de-benedicto-deja-a-francisco-solo-y-sin-ataduras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2023-01-10",
+        "publication": "el-espectador",
+        "title": "Venezuela se abre al mundo",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/venezuela-se-abre-al-mundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-01-10",
+        "publication": "el-espectador",
+        "title": "Operaci\u00f3n rescate",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/operacion-rescate/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2023-01-10",
+        "publication": "el-espectador",
+        "title": "El problema m\u00e1s dif\u00edcil del mundo",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/el-problema-mas-dificil-del-mundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-01-10",
+        "publication": "el-espectador",
+        "title": "Los vientos del escribidor",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/los-vientos-del-escribidor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Orduz",
+        "date": "2023-01-10",
+        "publication": "el-espectador",
+        "title": "Contar historias, una competencia de primer orden",
+        "url": "https://www.elespectador.com/opinion/columnistas/rafael-orduz/contar-historias-una-competencia-de-primer-orden/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Felipe Carrillo G\u00e1faro",
+        "date": "2023-01-10",
+        "publication": "el-espectador",
+        "title": "El destino de Sud\u00e1n",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/el-destino-de-sudan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitada",
+        "date": "2023-01-10",
+        "publication": "el-espectador",
+        "title": "Domingo gris para la democracia brasile\u00f1a",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/domingo-gris-para-la-democracia-brasilena/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Miranda",
+        "date": "2023-01-10",
+        "publication": "el-espectador",
+        "title": "Brasil y la ilusi\u00f3n de un golpe de Estado",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/brasil-y-la-ilusion-de-un-gope-de-estado/"
     },
     {
         "article-type": "column",
@@ -113,19 +201,19 @@
     },
     {
         "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-01-09",
-        "publication": "el-espectador",
-        "title": "El a\u00f1o viejo y el nuevo",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-ano-viejo-y-el-nuevo/"
-    },
-    {
-        "article-type": "column",
         "author": "Lisandro Duque Naranjo",
         "date": "2023-01-09",
         "publication": "el-espectador",
         "title": "Para qu\u00e9 sirve el 31",
         "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/para-que-sirve-el-31/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-01-09",
+        "publication": "el-espectador",
+        "title": "El a\u00f1o viejo y el nuevo",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-ano-viejo-y-el-nuevo/"
     },
     {
         "article-type": "column",
@@ -136,155 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/de-sorpresa-en-sorpresa/"
     },
     {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-01-09",
-        "publication": "el-espectador",
-        "title": "Sobre \u00abcese al fuego\u00bb, alias y apodos",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/sobre-cese-al-fuego-alias-y-apodos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-01-09",
-        "publication": "el-espectador",
-        "title": "Presidente, el Estado no tiene por qu\u00e9 \u201corganizar\u201d a la sociedad civil",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/presidente-el-estado-no-tiene-por-que-organizar-a-la-sociedad-civil/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-01-09",
-        "publication": "el-espectador",
-        "title": "El precio de los alimentos",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/el-precio-de-los-alimentos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Vanessa Rosales A.",
-        "date": "2023-01-09",
-        "publication": "el-espectador",
-        "title": "En contra de \u201cesplendor colonial\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/vanessa-rosales-a-/en-contra-de-esplendor-colonial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-01-09",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Cisnes negros futboleros",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/cisnes-negros-futboleros/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2023-01-09",
-        "publication": "el-espectador",
-        "title": "Columna de Jorge Tovar: Pel\u00e9, una religi\u00f3n llamada f\u00fatbol",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/pele-una-religion-llamada-futbol/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-01-08",
-        "publication": "el-espectador",
-        "title": "Soy m\u00e9dica y cambi\u00e9 mi modo de ver el envejecimiento",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/soy-medica-y-cambie-mi-modo-de-ver-el-envejecimiento/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-01-08",
-        "publication": "el-espectador",
-        "title": "Lilly Bleier de Ungar ",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/lilly-bleier-de-ungar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-01-08",
-        "publication": "el-espectador",
-        "title": "La desaparici\u00f3n de un grande",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/la-desaparicion-de-un-grande/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2023-01-08",
-        "publication": "el-espectador",
-        "title": "Masificaci\u00f3n de pagos v\u00eda c\u00f3digos QR",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/masificacion-de-pagos-via-codigos-qr/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-01-08",
-        "publication": "el-espectador",
-        "title": "Xi y Putin se re\u00fanen de nuevo, dos aut\u00f3cratas en un momento delicado",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/xi-y-putin-se-reunen-de-nuevo-dos-autocratas-en-un-momento-delicado/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-09",
+        "date": "2023-01-10",
         "publication": "el-tiempo",
-        "title": "TransMilenio",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-8-de-enero-de-2023-transmilenio-732237"
+        "title": "La dif\u00edcil hora de Brasil",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-10-de-enero-de-2023-la-dificil-hora-de-brasil-732358"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-01-09",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-01-10",
         "publication": "el-tiempo",
-        "title": "\u00bfMinisteriucho o superministerio?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-ministeriucho-o-superministerio-732242"
+        "title": "Procuradur\u00eda: \u00bfacabarla ahora?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-procuraduria-acabarla-ahora-732369"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2023-01-09",
+        "author": "Viviane Morales Hoyos",
+        "date": "2023-01-10",
         "publication": "el-tiempo",
-        "title": "La tortura de fin de a\u00f1o",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-la-tortura-de-fin-de-ano-732243"
+        "title": "Gustavo Bol\u00edvar, el rey del porno",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/columna-de-viviane-morales-gustavo-bolivar-el-rey-del-porno-732391"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-01-09",
+        "author": "Armando Silva",
+        "date": "2023-01-10",
         "publication": "el-tiempo",
-        "title": "Dos ejemplos de elegir bien",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-dos-ejemplos-de-elegir-bien-732241"
+        "title": "Ilusiones del amanecer",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-ilusiones-del-amanecer-732363"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-01-09",
+        "author": "Froil\u00e1n Casas",
+        "date": "2023-01-10",
         "publication": "el-tiempo",
-        "title": "\u00bfC\u00f3mo arranca este 2023 en el mundo tecnol\u00f3gico?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-como-arranca-este-2023-732249"
+        "title": "Disfruta tu caf\u00e9",
+        "url": "https://www.eltiempo.com/opinion/columnistas/froilan-casas/columna-de-froilan-casas-disfruta-tu-cafe-732370"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2023-01-09",
+        "author": "Eduardo Escobar",
+        "date": "2023-01-10",
         "publication": "el-tiempo",
-        "title": "Cu\u00e9ntale tus planes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-cuentale-tus-planes-732246"
+        "title": "Una mujer singular",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-escobar-una-mujer-singular-732372"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-01-09",
+        "author": "Santiago Vargas Acebedo",
+        "date": "2023-01-10",
         "publication": "el-tiempo",
-        "title": "A cuidar a Cartagena",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-a-cuidar-a-cartagena-732238"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2023-01-09",
-        "publication": "el-tiempo",
-        "title": "El mundo \u00e1rabe, en el foco del f\u00fatbol",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-el-mundo-arabe-en-el-foco-del-futbol-732250"
+        "title": "El conocimiento ahora tiene fecha de vencimiento",
+        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/columna-de-santiago-vargas-el-conocimiento-tiene-fecha-de-vencimiento-732377"
     }
 ]
