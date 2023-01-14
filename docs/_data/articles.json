@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-13",
+        "date": "2023-01-14",
         "publication": "el-colombiano",
-        "title": "La soledad de Medell\u00edn",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-soledad-de-medellin-NC19823196"
+        "title": "La nueva revoluci\u00f3n ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-nueva-revolucion-FC20006407"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Mesa Puyo",
+        "date": "2023-01-14",
+        "publication": "el-colombiano",
+        "title": "Empleo, otra gran oportunidad de la transici\u00f3n energ\u00e9tica ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/empleo-otra-gran-oportunidad-de-la-transicion-energetica-BD20015721"
+    },
+    {
+        "article-type": "column",
+        "author": " Alejandro Noguera C.",
+        "date": "2023-01-14",
+        "publication": "el-colombiano",
+        "title": "ChatBot GPT y la posibilidad de un \u201cJaque al Rey\u201d",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/chatbot-gpt-y-la-posibilidad-de-un-jaque-al-rey-MI19997209"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Bernardo V\u00e9lez M.",
+        "date": "2023-01-14",
+        "publication": "el-colombiano",
+        "title": "El 2023: un a\u00f1o para la esperanza",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-2023-un-ano-para-la-esperanza-OE19952950"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2023-01-14",
+        "publication": "el-colombiano",
+        "title": "Sobre la inteligencia artificial",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-la-inteligencia-artificial-CD20015788"
+    },
+    {
+        "article-type": "column",
+        "author": "Llu\u00eds Bassets",
+        "date": "2023-01-14",
+        "publication": "el-colombiano",
+        "title": "Desorden e involuci\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/desorden-e-involucion-ED20015771"
     },
     {
         "article-type": "column",
@@ -48,243 +88,203 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/por-luz-sanchez-mellado-CC19822330"
     },
     {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2023-01-13",
-        "publication": "el-colombiano",
-        "title": "El jefe de Petro ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-jefe-de-petro-JA19808526"
-    },
-    {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2023-01-13",
-        "publication": "el-colombiano",
-        "title": "Sumas y restas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sumas-y-restas-IA19808426"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Perfetti del Corral",
-        "date": "2023-01-13",
-        "publication": "el-colombiano",
-        "title": "Inflaci\u00f3n, econom\u00eda y pobreza ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/inflacion-economia-y-pobreza-EA19808396"
-    },
-    {
-        "article-type": "column",
-        "author": "Humberto Montero",
-        "date": "2023-01-13",
-        "publication": "el-colombiano",
-        "title": "Los mercenarios rusos de Wagner toman \u00c1frica",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-mercenarios-rusos-de-wagner-toman-africa-AA19808495"
-    },
-    {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2023-01-13",
-        "publication": "el-colombiano",
-        "title": "El gran showman ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-gran-showman-EA19808194"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-13",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "La lista cerrada es una apuesta por la coherencia",
-        "url": "https://www.elespectador.com/opinion/editorial/la-lista-cerrada-es-una-apuesta-por-la-coherencia/"
+        "title": "Crisis e impunidad en Guaviare",
+        "url": "https://www.elespectador.com/opinion/editorial/crisis-e-impunidad-en-guaviare/"
     },
     {
         "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2023-01-13",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "Lecciones desde Brasil",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/lecciones-desde-brasil/"
+        "title": "La \u201cimportancia\u201d de la educaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/la-importancia-de-la-educacion/"
     },
     {
         "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-01-13",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "Con golpes en seco, sobrenombres y cierto encono, Enrique muestra cu\u00e1nto reprueba la cultura del Palacio de Buckingham",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/con-golpes-en-seco-sobrenombres-y-cierto-encono-enrique-muestra-cuanto-reprueba-la-cultura-del-palacio-de-buckingham/"
+        "title": "Petro y su ciclo de noticias",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/petro-y-su-ciclo-de-noticias/"
     },
     {
         "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2023-01-13",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "\u201cEl Pa\u00eds\u201d de los Gilinski",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-pais-de-los-gilinski/"
+        "title": "Mario Vargas Llosa, novelista ejemplar",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/mario-vargas-llosa-novelista-ejemplar/"
     },
     {
         "article-type": "column",
-        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
-        "date": "2023-01-13",
+        "author": "Luis Fernando Charry",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "Perspectivas de la poblaci\u00f3n mundial",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/perspectivas-de-la-poblacion-mundial/"
+        "title": "Bola\u00f1o a tres bandas",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/bolano-a-tres-bandas/"
     },
     {
         "article-type": "column",
-        "author": "Augusto Trujillo Mu\u00f1oz",
-        "date": "2023-01-13",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "Palabras piel y libros alma: una simbiosis",
-        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/palabras-piel-y-libros-alma-una-simbiosis/"
+        "title": "Pero",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/pero/"
     },
     {
         "article-type": "column",
-        "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2023-01-13",
+        "author": "Francisco Leal Buitrago",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "\u201cComer hasta extinguirnos\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/comer-hasta-extinguirnos/"
+        "title": "Corridas de toros",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/corridas-de-toros/"
     },
     {
         "article-type": "column",
-        "author": "Jorge Iv\u00e1n Cuervo R.",
-        "date": "2023-01-13",
+        "author": "Juan David Ochoa",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "Turismo sin pol\u00edtica p\u00fablica",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/turismo-sin-politica-publica/"
+        "title": "La herencia de Trump",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/la-herencia-de-trump-2/"
     },
     {
         "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2023-01-13",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "Milc\u00edades Ar\u00e9valo, un alma fosforescente",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/milciades-arevalo-un-alma-fosforescente/"
+        "title": "A\u00f1o nuevo, \u00bfvida nueva?",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/ano-nuevo-vida-nueva/"
     },
     {
         "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-01-13",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "Fe en la causa",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/fe-en-la-causa/"
+        "title": "Derechos humanos y tecnolog\u00eda en 2023",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/derechos-humanos-y-tecnologia-en-2023/"
     },
     {
         "article-type": "column",
-        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
-        "date": "2023-01-13",
+        "author": "Weildler Guerra",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "El puente quebrado y la c\u00e1scara de huevo",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/el-puente-quebrado-y-la-cascara-de-huevo/"
+        "title": "La leontina de Uribe Uribe",
+        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/la-leontina-de-uribe-uribe/"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-01-13",
+        "author": "Juan David Ochoa",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "\u00bfQui\u00e9n le teme a Simone Veil?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/quien-le-teme-a-simone-veil/"
+        "title": "La herencia de Trump",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/la-herencia-de-trump/"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Gall\u00f3n",
-        "date": "2023-01-13",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "\u201cPara consolidar democracia incluyente, amplia y deliberativa\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/para-consolidar-democracia-incluyente-amplia-y-deliberativa/"
+        "title": "Las corridas de toros",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/las-corridas-de-toros/"
     },
     {
         "article-type": "column",
         "author": "Manuel Drezner",
-        "date": "2023-01-13",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "No todos los refranes tienen sentido",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/no-todos-los-refranes-tienen-sentido/"
+        "title": "La desaparici\u00f3n de los acentos",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-desaparicion-de-los-acentos/"
     },
     {
         "article-type": "column",
-        "author": "Paul Krugman",
-        "date": "2023-01-13",
+        "author": "Luis Fernando Montoya",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "Lo que nos ense\u00f1a Ucrania sobre el poder",
-        "url": "https://www.elespectador.com/opinion/columnistas/paul-krugman/lo-que-nos-ensena-ucrania-sobre-el-poder/"
+        "title": "Construyendo equipos",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/construyendo-equipos/"
     },
     {
         "article-type": "column",
-        "author": "Cartas de los lectores",
-        "date": "2023-01-13",
+        "author": "Columnista invitado EE",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "Por eso mejor no tengo hijos y sobre una cr\u00edtica a \u2018Los reyes del mundo\u2019",
-        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/por-eso-mejor-no-tengo-hijos-y-sobre-una-critica-a-los-reyes-del-mundo/"
+        "title": "Construir vivienda es construir confianza",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/construir-vivienda-es-construir-confianza/"
     },
     {
         "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2023-01-13",
+        "author": "Camilo Fagua",
+        "date": "2023-01-14",
         "publication": "el-espectador",
-        "title": "\u00bfEst\u00e1 haciendo agua la democracia?",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/esta-haciendo-agua-la-democracia/"
+        "title": "Los Reyes del Mundo",
+        "url": "https://www.elespectador.com/colombia-20/analistas/los-reyes-del-mundo-pelicula-colombiana-de-laura-mora-en-netflix/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-13",
+        "date": "2023-01-14",
         "publication": "el-tiempo",
-        "title": "Crisis sist\u00e9mica",
-        "url": "https://www.eltiempo.com/opinion/editorial/crisis-sistemica-editorial-el-tiempo-733298"
+        "title": "Proyecto de excarcelaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/editorial/proyecto-de-excarcelacion-editorial-el-tiempo-733601"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-01-13",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2023-01-14",
         "publication": "el-tiempo",
-        "title": "Para qu\u00e9 los expertos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/para-que-los-expertos-columna-de-moises-wasserman-733220"
+        "title": "Inflaci\u00f3n, alimentos y v\u00edas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/inflacion-alimentos-y-vias-columna-de-carlos-caballero-argaez-733549"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-01-13",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-01-14",
         "publication": "el-tiempo",
-        "title": "Democratismo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/democratismo-columna-de-ricardo-silva-romero-733245"
+        "title": "Las emociones del dedo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/las-emociones-del-dedo-columna-de-luis-noe-ochoa-733566"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-01-13",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2023-01-14",
         "publication": "el-tiempo",
-        "title": "Anhelo de sorpresas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/anhelo-de-sorpresas-columna-de-eduardo-posada-carbo-733224"
+        "title": "La comida de la infancia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/la-comida-de-la-infancia-columna-de-adolfo-zableh-duran-733550"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2023-01-13",
+        "author": "Marian Schuegraf",
+        "date": "2023-01-14",
         "publication": "el-tiempo",
-        "title": "Sombras sobre el nuevo a\u00f1o",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/sombras-sobre-el-nuevo-ano-columna-de-antonio-albinana-733222"
+        "title": "Defender los derechos humanos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/defender-los-derechos-humanos-columna-de-marian-schuegraf-733554"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2023-01-13",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2023-01-14",
         "publication": "el-tiempo",
-        "title": "La cumbre amaz\u00f3nica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/la-cumbre-amazonica-columna-de-manuel-guzman-hennessey-733226"
+        "title": "\u2018Un Pasqu\u00edn\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/un-pasquin-columna-de-victor-manuel-ruiz-733544"
     },
     {
         "article-type": "column",
-        "author": "Women in Connection",
-        "date": "2023-01-13",
+        "author": "Mar\u00eda A. Garc\u00eda de la Torre",
+        "date": "2023-01-14",
         "publication": "el-tiempo",
-        "title": "A\u00f1o Nuevo, ahorro nuevo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/ano-nuevo-ahorro-nuevo-columna-de-adriana-gonzalez-733277"
+        "title": "Un Estado de malestar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-a-garcia-de-la-torre/un-estado-de-malestar-columna-de-maria-antonia-garcia-de-la-torre-733574"
     },
     {
         "article-type": "column",
-        "author": "Fernando Montes Negret",
-        "date": "2023-01-13",
+        "author": "Jos\u00e9 Luis Querub\u00edn",
+        "date": "2023-01-14",
         "publication": "el-tiempo",
-        "title": "Los \u2018shocks\u2019 financieros del 2022",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/los-shocks-financieros-del-2022-columna-de-fernando-montes-733269"
+        "title": "Mujeres divinas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-luis-querubin/mujeres-divinas-columna-de-jose-luis-querubin-733577"
     }
 ]
