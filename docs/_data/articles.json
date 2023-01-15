@@ -2,10 +2,74 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-14",
+        "date": "2023-01-15",
         "publication": "el-colombiano",
-        "title": "La nueva revoluci\u00f3n ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-nueva-revolucion-FC20006407"
+        "title": "Shakira y el \u2018mecanismo\u2019",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/shakira-y-el-mecanismo-BD20019855"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Pardo Rueda",
+        "date": "2023-01-15",
+        "publication": "el-colombiano",
+        "title": "Sistema de Salud I Por una reforma que solucione lo importante ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sistema-de-salud-i-por-una-reforma-que-solucione-lo-importante-MD20019014"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Luisa Zapata",
+        "date": "2023-01-15",
+        "publication": "el-colombiano",
+        "title": "Reflexi\u00f3n sobre el tiempo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/reflexion-sobre-el-tiempo-HD20018960"
+    },
+    {
+        "article-type": "column",
+        "author": "David Escobar Arango",
+        "date": "2023-01-15",
+        "publication": "el-colombiano",
+        "title": "El fin del mundo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-fin-del-mundo-ID20018909"
+    },
+    {
+        "article-type": "column",
+        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
+        "date": "2023-01-15",
+        "publication": "el-colombiano",
+        "title": "Despecho 5.0",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/despecho-50-KD20019838"
+    },
+    {
+        "article-type": "column",
+        "author": "Bernardo A. Guerra Hoyos",
+        "date": "2023-01-15",
+        "publication": "el-colombiano",
+        "title": "Movilidad en reversa",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/movilidad-en-reversa-FD20019783"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejo Vargas Vel\u00e1squez",
+        "date": "2023-01-15",
+        "publication": "el-colombiano",
+        "title": "Sobre la propuesta reforma pol\u00edtica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-la-propuesta-reforma-politica-PD20018997"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas a la Directora",
+        "date": "2023-01-15",
+        "publication": "el-colombiano",
+        "title": "Cambio de actitud en el trabajo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cambio-de-actitud-en-el-trabajo-JD20018980"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Hoyos",
+        "date": "2023-01-15",
+        "publication": "el-colombiano",
+        "title": "Un Trump del tr\u00f3pico",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-trump-del-tropico-GD20018943"
     },
     {
         "article-type": "column",
@@ -24,267 +88,211 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/chatbot-gpt-y-la-posibilidad-de-un-jaque-al-rey-MI19997209"
     },
     {
-        "article-type": "column",
-        "author": "Luis Bernardo V\u00e9lez M.",
-        "date": "2023-01-14",
-        "publication": "el-colombiano",
-        "title": "El 2023: un a\u00f1o para la esperanza",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-2023-un-ano-para-la-esperanza-OE19952950"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Guillermo \u00c1ngel",
-        "date": "2023-01-14",
-        "publication": "el-colombiano",
-        "title": "Sobre la inteligencia artificial",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-la-inteligencia-artificial-CD20015788"
-    },
-    {
-        "article-type": "column",
-        "author": "Llu\u00eds Bassets",
-        "date": "2023-01-14",
-        "publication": "el-colombiano",
-        "title": "Desorden e involuci\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/desorden-e-involucion-ED20015771"
-    },
-    {
-        "article-type": "column",
-        "author": "David Gonz\u00e1lez Escobar",
-        "date": "2023-01-13",
-        "publication": "el-colombiano",
-        "title": "Que vuelva el Ficato ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/que-vuelva-el-ficato-KC19822495"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Manrique",
-        "date": "2023-01-13",
-        "publication": "el-colombiano",
-        "title": "El derecho a disentir",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-derecho-a-disentir-AC19822442"
-    },
-    {
-        "article-type": "column",
-        "author": "Diego Aristiz\u00e1bal",
-        "date": "2023-01-13",
-        "publication": "el-colombiano",
-        "title": "Los sobrinos ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-sobrinos-BC19822425"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando \u00c1lvarez",
-        "date": "2023-01-13",
-        "publication": "el-colombiano",
-        "title": "Partidarios o fan\u00e1ticos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/partidarios-o-fanaticos-HC19822476"
-    },
-    {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2023-01-13",
-        "publication": "el-colombiano",
-        "title": "No est\u00e1s loca",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/por-luz-sanchez-mellado-CC19822330"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-14",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "Crisis e impunidad en Guaviare",
-        "url": "https://www.elespectador.com/opinion/editorial/crisis-e-impunidad-en-guaviare/"
+        "title": "Cantos de \u201cpaz total\u201d mientras recrudece la violencia",
+        "url": "https://www.elespectador.com/opinion/editorial/cantos-de-paz-total-mientras-recrudece-la-violencia/"
     },
     {
         "article-type": "column",
-        "author": "Julio C\u00e9sar Londo\u00f1o",
-        "date": "2023-01-14",
+        "author": "Hernando G\u00f3mez Buend\u00eda",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "La \u201cimportancia\u201d de la educaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/la-importancia-de-la-educacion/"
+        "title": "La encrucijada de Gustavo Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/la-encrucijada-de-gustavo-petro/"
     },
     {
         "article-type": "column",
-        "author": "Catalina Uribe Rinc\u00f3n",
-        "date": "2023-01-14",
+        "author": "Mauricio Botero Caicedo",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "Petro y su ciclo de noticias",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/petro-y-su-ciclo-de-noticias/"
+        "title": "La zona cafetera y el \u201cnuevo petr\u00f3leo\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/la-zona-cafetera-y-el-nuevo-petroleo/"
     },
     {
         "article-type": "column",
-        "author": "Esteban Carlos Mej\u00eda",
-        "date": "2023-01-14",
+        "author": "Piedad Bonnett",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "Mario Vargas Llosa, novelista ejemplar",
-        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/mario-vargas-llosa-novelista-ejemplar/"
+        "title": "Un gobierno espectacular",
+        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/un-gobierno-espectacular/"
     },
     {
         "article-type": "column",
-        "author": "Luis Fernando Charry",
-        "date": "2023-01-14",
+        "author": "Tola y Maruja",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "Bola\u00f1o a tres bandas",
-        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/bolano-a-tres-bandas/"
+        "title": "Tola y Maruja comentan los asuntos maluquitos del momento",
+        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-comentan-los-asuntos-maluquitos-del-momento/"
     },
     {
         "article-type": "column",
-        "author": "Nicol\u00e1s Rodr\u00edguez",
-        "date": "2023-01-14",
+        "author": "Osuna",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "Pero",
-        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/pero/"
+        "title": "Petro y sus decretos temerarios",
+        "url": "https://www.elespectador.com/opinion/columnistas/osuna/petro-y-sus-decretos-temerarios/"
     },
     {
         "article-type": "column",
-        "author": "Francisco Leal Buitrago",
-        "date": "2023-01-14",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "Corridas de toros",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/corridas-de-toros/"
+        "title": "Microlingotes",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-78/"
     },
     {
         "article-type": "column",
-        "author": "Juan David Ochoa",
-        "date": "2023-01-14",
+        "author": "Lariza Pizano",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "La herencia de Trump",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/la-herencia-de-trump-2/"
+        "title": "Noticias de siempre",
+        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/noticias-de-siempre/"
     },
     {
         "article-type": "column",
-        "author": "John Gal\u00e1n Casanova",
-        "date": "2023-01-14",
+        "author": "Felipe Zuleta Lleras",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "A\u00f1o nuevo, \u00bfvida nueva?",
-        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/ano-nuevo-vida-nueva/"
+        "title": "Como dicen una cosa, dicen la otra",
+        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/como-dicen-una-cosa-dicen-la-otra/"
     },
     {
         "article-type": "column",
-        "author": "Carolina Botero Cabrera",
-        "date": "2023-01-14",
+        "author": "Rodrigo Uprimny",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "Derechos humanos y tecnolog\u00eda en 2023",
-        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/derechos-humanos-y-tecnologia-en-2023/"
+        "title": "Cambio clim\u00e1tico, justicia y derechos humanos",
+        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/cambio-climatico-justicia-y-derechos-humanos/"
     },
     {
         "article-type": "column",
-        "author": "Weildler Guerra",
-        "date": "2023-01-14",
+        "author": "H\u00e9ctor Abad Faciolince",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "La leontina de Uribe Uribe",
-        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/la-leontina-de-uribe-uribe/"
+        "title": "Lo que dices, lo que haces ",
+        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/lo-que-dices-lo-que-haces/"
     },
     {
         "article-type": "column",
-        "author": "Juan David Ochoa",
-        "date": "2023-01-14",
+        "author": "Armando Montenegro",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "La herencia de Trump",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/la-herencia-de-trump/"
+        "title": "La econom\u00eda en 2023",
+        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/la-economia-en-2023/"
     },
     {
         "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-01-14",
+        "author": "Tatiana Acevedo Guerrero",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "Las corridas de toros",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/las-corridas-de-toros/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-01-14",
-        "publication": "el-espectador",
-        "title": "La desaparici\u00f3n de los acentos",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-desaparicion-de-los-acentos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-01-14",
-        "publication": "el-espectador",
-        "title": "Construyendo equipos",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/construyendo-equipos/"
+        "title": "De todas maneras, rosas",
+        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/de-todas-maneras-rosas/"
     },
     {
         "article-type": "column",
         "author": "Columnista invitado EE",
-        "date": "2023-01-14",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "Construir vivienda es construir confianza",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/construir-vivienda-es-construir-confianza/"
+        "title": "La imitaci\u00f3n brasile\u00f1a del 6 de enero y la futilidad del populismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/la-imitacion-brasilena-del-6-de-enero-y-la-futilidad-del-populismo/"
     },
     {
         "article-type": "column",
-        "author": "Camilo Fagua",
-        "date": "2023-01-14",
+        "author": "Jarape",
+        "date": "2023-01-15",
         "publication": "el-espectador",
-        "title": "Los Reyes del Mundo",
-        "url": "https://www.elespectador.com/colombia-20/analistas/los-reyes-del-mundo-pelicula-colombiana-de-laura-mora-en-netflix/"
+        "title": "C\u00e1ndida",
+        "url": "https://www.elespectador.com/opinion/columnistas/jarape/sin-titulo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ramiro Bejarano Guzm\u00e1n",
+        "date": "2023-01-15",
+        "publication": "el-espectador",
+        "title": "Disciplina para perros",
+        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/disciplina-para-perros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Ara\u00fajo V\u00e9lez",
+        "date": "2023-01-15",
+        "publication": "el-espectador",
+        "title": "La suma de las decisiones",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/la-suma-de-las-decisiones/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-14",
+        "date": "2023-01-15",
         "publication": "el-tiempo",
-        "title": "Proyecto de excarcelaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/editorial/proyecto-de-excarcelacion-editorial-el-tiempo-733601"
+        "title": "No m\u00e1s luto en la carretera",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-15-de-enero-de-2023-no-mas-luto-en-la-carretera-733768"
     },
     {
         "article-type": "column",
-        "author": "Carlos Caballero Arg\u00e1ez",
-        "date": "2023-01-14",
+        "author": "Germ\u00e1n Vargas Lleras",
+        "date": "2023-01-15",
         "publication": "el-tiempo",
-        "title": "Inflaci\u00f3n, alimentos y v\u00edas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/inflacion-alimentos-y-vias-columna-de-carlos-caballero-argaez-733549"
+        "title": "La mala hora de la Polic\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-la-mala-hora-de-la-policia-733769"
     },
     {
         "article-type": "column",
-        "author": "Luis No\u00e9 Ochoa",
-        "date": "2023-01-14",
+        "author": "Mar\u00eda Isabel Rueda",
+        "date": "2023-01-15",
         "publication": "el-tiempo",
-        "title": "Las emociones del dedo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/las-emociones-del-dedo-columna-de-luis-noe-ochoa-733566"
+        "title": "De Lula a Petro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-de-lula-a-petro-733773"
     },
     {
         "article-type": "column",
-        "author": "Adolfo Zableh Dur\u00e1n",
-        "date": "2023-01-14",
+        "author": "N\u00e9stor Humberto Mart\u00ednez",
+        "date": "2023-01-15",
         "publication": "el-tiempo",
-        "title": "La comida de la infancia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/la-comida-de-la-infancia-columna-de-adolfo-zableh-duran-733550"
+        "title": "Se nos esfum\u00f3 el pan de $ 200",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-se-nos-esfumo-el-pan-de-200-733778"
     },
     {
         "article-type": "column",
-        "author": "Marian Schuegraf",
-        "date": "2023-01-14",
+        "author": "Mauricio Vargas",
+        "date": "2023-01-15",
         "publication": "el-tiempo",
-        "title": "Defender los derechos humanos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/defender-los-derechos-humanos-columna-de-marian-schuegraf-733554"
+        "title": "Petro y el mal ejemplo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-petro-y-el-mal-ejemplo-733770"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Manuel Ruiz",
-        "date": "2023-01-14",
+        "author": "Thierry Ways",
+        "date": "2023-01-15",
         "publication": "el-tiempo",
-        "title": "\u2018Un Pasqu\u00edn\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/un-pasquin-columna-de-victor-manuel-ruiz-733544"
+        "title": "Arreglar las cosas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-arreglar-las-cosas-733774"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda A. Garc\u00eda de la Torre",
-        "date": "2023-01-14",
+        "author": "Paula Moreno",
+        "date": "2023-01-15",
         "publication": "el-tiempo",
-        "title": "Un Estado de malestar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-a-garcia-de-la-torre/un-estado-de-malestar-columna-de-maria-antonia-garcia-de-la-torre-733574"
+        "title": "Llegar tarde al Choc\u00f3",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paula-moreno/columna-de-paula-moreno-llegar-tarde-al-choco-733775"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Luis Querub\u00edn",
-        "date": "2023-01-14",
+        "author": "Mois\u00e9s Na\u00edm",
+        "date": "2023-01-15",
         "publication": "el-tiempo",
-        "title": "Mujeres divinas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-luis-querubin/mujeres-divinas-columna-de-jose-luis-querubin-733577"
+        "title": "Una farsa en Brasilia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-naim/columna-de-moises-naim-una-farsa-en-brasilia-733779"
+    },
+    {
+        "article-type": "column",
+        "author": "Bj\u00f8rn Lomborg\u00a0y Jordan B. Peterson",
+        "date": "2023-01-15",
+        "publication": "el-tiempo",
+        "title": "Priorizar objetivos como prop\u00f3sito del 2023",
+        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/columna-de-bjorn-lomborg-y-jordan-b-peterson-priorizar-objetivos-733802"
     }
 ]
