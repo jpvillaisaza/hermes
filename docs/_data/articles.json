@@ -2,10 +2,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-17",
+        "date": "2023-01-18",
         "publication": "el-colombiano",
-        "title": "Cu\u00e1l es el af\u00e1n de \u2018liberar\u2019 a los capos",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/cual-es-el-afan-de-liberar-a-los-capos-PC20114685"
+        "title": "\u00bfDe qu\u00e9 sirve congelar los peajes?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/de-que-sirve-congelar-los-peajes-OB20128143"
+    },
+    {
+        "article-type": "column",
+        "author": "Dany Alejandro Hoyos",
+        "date": "2023-01-18",
+        "publication": "el-colombiano",
+        "title": "Carta del Twingo a Shakira",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/carta-del-twingo-a-shakira-DB20125464"
+    },
+    {
+        "article-type": "column",
+        "author": "Luz Mar\u00eda M\u00fanera Medina",
+        "date": "2023-01-18",
+        "publication": "el-colombiano",
+        "title": "\u00a1Como me dueles Medell\u00edn!",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/como-me-dueles-medellin-BB20125532"
+    },
+    {
+        "article-type": "column",
+        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
+        "date": "2023-01-18",
+        "publication": "el-colombiano",
+        "title": "El oso en Davos",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-oso-en-davos-IB20125481"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Oppenheimer",
+        "date": "2023-01-18",
+        "publication": "el-colombiano",
+        "title": "\u00bfVolcar\u00e1 Estados Unidos su atenci\u00f3n a Latinoam\u00e9rica?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/volcara-estados-unidos-su-atencion-a-latinoamerica-GB20125553"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas a la Directora",
+        "date": "2023-01-18",
+        "publication": "el-colombiano",
+        "title": "Un rayo de inteligencia ilumina los cielos antioque\u00f1os",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-rayo-de-inteligencia-ilumina-los-cielos-antioquenos-EB20125515"
+    },
+    {
+        "article-type": "column",
+        "author": "David E. Santos G\u00f3mez",
+        "date": "2023-01-18",
+        "publication": "el-colombiano",
+        "title": "Qu\u00e9 linda familia ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/que-linda-familia-FB20125440"
     },
     {
         "article-type": "column",
@@ -40,60 +88,92 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/lecciones-del-error-garrafal-GC20111362"
     },
     {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2023-01-17",
-        "publication": "el-colombiano",
-        "title": "La movilidad social en China ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-movilidad-social-en-china-DC20111345"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
-        "date": "2023-01-16",
-        "publication": "el-colombiano",
-        "title": "Don Hermes, s\u00edmbolo nacional",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/don-hermes-simbolo-nacional-FA20021895"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Bibiana Botero C.",
-        "date": "2023-01-16",
-        "publication": "el-colombiano",
-        "title": "Que nos vaya bien a los colombianos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/que-nos-vaya-bien-a-los-colombianos-IA20021823"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
-        "date": "2023-01-16",
-        "publication": "el-colombiano",
-        "title": "El mercado de los textos escolares ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-mercado-de-los-textos-escolares-HA20021789"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Escobar Valencia",
-        "date": "2023-01-16",
-        "publication": "el-colombiano",
-        "title": "El microchip o microcerebro de los antivacunas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-microchip-o-microcerebro-de-los-antivacunas-PA20021806"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Estrada Villa",
-        "date": "2023-01-16",
-        "publication": "el-colombiano",
-        "title": "Democracia y abandono pac\u00edfico del poder ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/democracia-y-abandono-pacifico-del-poder-GA20021755"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-17",
+        "date": "2023-01-18",
         "publication": "el-espectador",
-        "title": "Per\u00fa necesita elecciones cuanto antes",
-        "url": "https://www.elespectador.com/opinion/editorial/peru-necesita-elecciones-cuanto-antes/"
+        "title": "La investigaci\u00f3n contra Iv\u00e1n Vel\u00e1squez es perversa",
+        "url": "https://www.elespectador.com/opinion/editorial/la-investigacion-contra-ivan-velasquez-es-perversa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Rivas",
+        "date": "2023-01-18",
+        "publication": "el-espectador",
+        "title": "El mismo error de siempre",
+        "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/el-mismo-error-de-siempre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-01-18",
+        "publication": "el-espectador",
+        "title": "El bochornoso cese imaginario",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-bochornoso-cese-imaginario/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas de los lectores",
+        "date": "2023-01-18",
+        "publication": "el-espectador",
+        "title": "Una torpeza bilateral",
+        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/una-torpeza-bilateral/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-01-18",
+        "publication": "el-espectador",
+        "title": "Dec\u00edamos ayer",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/deciamos-ayer/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-01-18",
+        "publication": "el-espectador",
+        "title": "Una feria intocable de corrupci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/una-feria-intocable-de-corrupcion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-01-18",
+        "publication": "el-espectador",
+        "title": "La paz parcial ",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/la-paz-parcial/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-01-18",
+        "publication": "el-espectador",
+        "title": "El mismo caminado",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/el-mismo-caminado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando Roa Su\u00e1rez",
+        "date": "2023-01-18",
+        "publication": "el-espectador",
+        "title": "\u00bfLa paz? \u00a1S\u00ed! Avancemos",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/la-paz-si-avancemos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Miranda",
+        "date": "2023-01-18",
+        "publication": "el-espectador",
+        "title": "Davos y el mundo",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/davos-y-el-mundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Forero Neme",
+        "date": "2023-01-18",
+        "publication": "el-espectador",
+        "title": "La verdad tard\u00eda: Jorge 40 en la JEP y Otoniel en Nueva York",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-verdad-tardia-jorge-40-en-la-jep-y-otoniel-en-nueva-york/"
     },
     {
         "article-type": "column",
@@ -144,147 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/paz-o-narcotrafico-el-dilema-del-eln/"
     },
     {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "Los auxilios y los cupos indicativos",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/los-auxilios-y-los-cupos-indicativos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Teresita Goyeneche",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "Las fuerzas centr\u00edfugas del nuevo poder",
-        "url": "https://www.elespectador.com/opinion/columnistas/teresita-goyeneche/las-fuerzas-centrifugas-del-nuevo-poder/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "La sombra del pr\u00edncipe Harry",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/la-sombra-del-principe-harry/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "El proyecto de reforma penal",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/el-proyecto-de-reforma-penal/"
-    },
-    {
-        "article-type": "column",
-        "author": "Centro de Estudios sobre Seguridad y Drogas (Cesed)",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "Presidente: \u00a1p\u00f3ngase las pilas con el cannabis legal incluyente!",
-        "url": "https://www.elespectador.com/colombia-20/analistas/columna-de-opinion-gobierno-de-gustavo-petro-debe-ponerse-las-pilas-con-el-cannabis-legal-incluyente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-01-16",
-        "publication": "el-espectador",
-        "title": "Visor de 500.000 nuevos cupos en educaci\u00f3n superior (1)",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/visor-de-500000-nuevos-cupos-en-educacion-superior-1/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-01-16",
-        "publication": "el-espectador",
-        "title": "Bienvenidos a la Trocha del Sol",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/bienvenidos-a-la-trocha-del-sol/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Teresa Ronderos",
-        "date": "2023-01-16",
-        "publication": "el-espectador",
-        "title": "Un plan para emparejar a las dos Colombias",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/un-plan-para-emparejar-a-las-dos-colombias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "\u00bfHay alguna diferencia entre \u00aba favor de\u00bb y \u00aben favor de\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina/hay-alguna-diferencia-entre-a-favor-de-y-en-favor-de/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-01-16",
-        "publication": "el-espectador",
-        "title": "Un acuerdo entre los mismos",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/un-acuerdo-entre-los-mismos/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-17",
+        "date": "2023-01-18",
         "publication": "el-tiempo",
-        "title": "Soluci\u00f3n de fondo",
-        "url": "https://www.eltiempo.com/opinion/editorial/solucion-de-fondo-editorial-el-tiempo-734225"
+        "title": "Deuda de las Farc",
+        "url": "https://www.eltiempo.com/opinion/editorial/deuda-de-las-farc-editorial-el-tiempo-734579"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-01-17",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-01-18",
         "publication": "el-tiempo",
-        "title": "Querer no es poder",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/querer-no-es-poder-columna-de-jose-manuel-acevedo-734161"
+        "title": "Los narcotraficantes no son delincuentes pol\u00edticos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/los-narcos-no-son-delincuentes-politicos-columna-de-alfonso-gomez-734522"
     },
     {
         "article-type": "column",
-        "author": "Marcela Mel\u00e9ndez",
-        "date": "2023-01-17",
+        "author": "Vladdo",
+        "date": "2023-01-18",
         "publication": "el-tiempo",
-        "title": "Pensiones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/pensiones-columna-de-marcela-melendez-734258"
+        "title": "Devolviendo la pel\u00edcula",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/devolviendo-la-pelicula-columna-de-vladdo-734566"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2023-01-17",
+        "author": "Andr\u00e9s Hurtado Garc\u00eda",
+        "date": "2023-01-18",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 dir\u00e1 el plan de desarrollo?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/que-dira-el-plan-de-desarrollo-columna-de-francisco-cajiao-734157"
+        "title": "Feliz a\u00f1o y felices lecturas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/feliz-ano-y-felices-lecturas-columna-de-andres-hurtado-garcia-734494"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2023-01-17",
+        "author": "Gustavo Duncan",
+        "date": "2023-01-18",
         "publication": "el-tiempo",
-        "title": "La ley del rev\u00f3lver",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/la-ley-del-revolver-columna-de-sergio-munoz-bata-734153"
+        "title": "Moral selectiva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/moral-selectiva-columna-de-gustavo-duncan-734515"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2023-01-17",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-01-18",
         "publication": "el-tiempo",
-        "title": "\u00c1lvaro Mutis (I)",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/alvaro-mutis-i-columna-de-fernando-quiroz-734165"
+        "title": "Salvo Basile cont\u00f3 su vida de pel\u00edcula",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/salvo-basile-conto-su-vida-de-pelicula-columna-de-poncho-renteria-734520"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2023-01-17",
+        "author": "Fernando Posada",
+        "date": "2023-01-18",
         "publication": "el-tiempo",
-        "title": "Estados sin ley: conflictos devastadores",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/estados-sin-ley-conflictos-devastadores-columna-de-victor-corcoba-734183"
-    },
-    {
-        "article-type": "column",
-        "author": "Alex\u00e1nder Cambero",
-        "date": "2023-01-17",
-        "publication": "el-tiempo",
-        "title": "Cuando el cielo fue naranja",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/cuando-el-cielo-fue-naranja-columna-de-alexander-cambero-734171"
+        "title": "Un a\u00f1o de debates definitivos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/un-ano-de-debates-definitivos-columna-de-fernando-posada-734569"
     }
 ]
