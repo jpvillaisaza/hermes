@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-18",
+        "date": "2023-01-19",
         "publication": "el-colombiano",
-        "title": "\u00bfDe qu\u00e9 sirve congelar los peajes?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/de-que-sirve-congelar-los-peajes-OB20128143"
+        "title": "Aumentar o no la edad de jubilaci\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/aumentar-o-no-la-edad-de-jubilacion-FH20143644"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Botero Montoya",
+        "date": "2023-01-19",
+        "publication": "el-colombiano",
+        "title": "A\u00f1o 2022. Evaluaci\u00f3n Preliminar",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ano-2022-evaluacion-preliminar-JA20139716"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2023-01-19",
+        "publication": "el-colombiano",
+        "title": "Sembrar semillas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sembrar-semillas-LA20139662"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-01-19",
+        "publication": "el-colombiano",
+        "title": "Feliz eternidad, maestro Elkin",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/feliz-eternidad-maestro-elkin-PA20139699"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez G.",
+        "date": "2023-01-19",
+        "publication": "el-colombiano",
+        "title": "\u00bfAcci\u00f3n p\u00fablica o casaci\u00f3n?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/accion-publica-o-casacion-FA20139682"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2023-01-19",
+        "publication": "el-colombiano",
+        "title": "La hormiga at\u00f3mica salvar\u00e1 el mundo ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-hormiga-atomica-salvara-el-mundo-FA20139628"
     },
     {
         "article-type": "column",
@@ -48,52 +88,100 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/un-rayo-de-inteligencia-ilumina-los-cielos-antioquenos-EB20125515"
     },
     {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2023-01-18",
-        "publication": "el-colombiano",
-        "title": "Qu\u00e9 linda familia ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/que-linda-familia-FB20125440"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Mej\u00eda Cubillos",
-        "date": "2023-01-17",
-        "publication": "el-colombiano",
-        "title": "La generaci\u00f3n que est\u00e1 desmoronando la justicia ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-generacion-que-esta-desmoronando-la-justicia-CC20111311"
-    },
-    {
-        "article-type": "column",
-        "author": "Amalia Londo\u00f1o Duque",
-        "date": "2023-01-17",
-        "publication": "el-colombiano",
-        "title": "La ciudad de otros",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-ciudad-de-otros-IC20111328"
-    },
-    {
-        "article-type": "column",
-        "author": "Federico Hoyos Salazar",
-        "date": "2023-01-17",
-        "publication": "el-colombiano",
-        "title": "Reforma pol\u00edtica y listas cerradas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/reforma-politica-y-listas-cerradas-OC20111294"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2023-01-17",
-        "publication": "el-colombiano",
-        "title": "Lecciones del error garrafal",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/lecciones-del-error-garrafal-GC20111362"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2023-01-18",
         "publication": "el-espectador",
         "title": "La investigaci\u00f3n contra Iv\u00e1n Vel\u00e1squez es perversa",
         "url": "https://www.elespectador.com/opinion/editorial/la-investigacion-contra-ivan-velasquez-es-perversa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario M\u00e9ndez",
+        "date": "2023-01-19",
+        "publication": "el-espectador",
+        "title": "Cuando fui el invitado de Pel\u00e9",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-mendez/cuando-fui-el-invitado-de-pele/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-01-19",
+        "publication": "el-espectador",
+        "title": "Racismo estatal y violencia sexual ",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/racismo-estatal-y-violencia-sexual/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-01-19",
+        "publication": "el-espectador",
+        "title": "El sonido de los libros ",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/el-sonido-de-los-libros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2023-01-19",
+        "publication": "el-espectador",
+        "title": "Iluminados: comedia en dos actos",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/iluminados-comedia-en-dos-actos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2023-01-19",
+        "publication": "el-espectador",
+        "title": "Llorar y facturar",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/llorar-y-facturar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2023-01-19",
+        "publication": "el-espectador",
+        "title": "El pulso de los r\u00edos",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/el-pulso-de-los-rios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-01-19",
+        "publication": "el-espectador",
+        "title": "La florister\u00eda de Nicol\u00e1s Maduro",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/la-floristeria-de-nicolas-maduro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-01-19",
+        "publication": "el-espectador",
+        "title": "Un vasito de agua, por favor",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/un-vasito-de-agua-por-favor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2023-01-19",
+        "publication": "el-espectador",
+        "title": "La revoluci\u00f3n de los dragones",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/la-revolucion-de-los-dragones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Felipe Carrillo G\u00e1faro",
+        "date": "2023-01-19",
+        "publication": "el-espectador",
+        "title": "Los primeros d\u00edas del a\u00f1o",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/los-primeros-dias-del-ano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-01-19",
+        "publication": "el-espectador",
+        "title": "Errores tan terribles que no hay manera de evitar rese\u00f1arlos",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/errores-tan-terribles-que-no-hay-manera-de-evitar-resenarlos/"
     },
     {
         "article-type": "column",
@@ -113,11 +201,11 @@
     },
     {
         "article-type": "column",
-        "author": "Cartas de los lectores",
+        "author": "Cecilia Orozco Tasc\u00f3n",
         "date": "2023-01-18",
         "publication": "el-espectador",
-        "title": "Una torpeza bilateral",
-        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/una-torpeza-bilateral/"
+        "title": "Una feria intocable de corrupci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/una-feria-intocable-de-corrupcion/"
     },
     {
         "article-type": "column",
@@ -129,22 +217,6 @@
     },
     {
         "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-01-18",
-        "publication": "el-espectador",
-        "title": "Una feria intocable de corrupci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/una-feria-intocable-de-corrupcion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-01-18",
-        "publication": "el-espectador",
-        "title": "La paz parcial ",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/la-paz-parcial/"
-    },
-    {
-        "article-type": "column",
         "author": "Mario Morales",
         "date": "2023-01-18",
         "publication": "el-espectador",
@@ -152,131 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/el-mismo-caminado/"
     },
     {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2023-01-18",
-        "publication": "el-espectador",
-        "title": "\u00bfLa paz? \u00a1S\u00ed! Avancemos",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/la-paz-si-avancemos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz Miranda",
-        "date": "2023-01-18",
-        "publication": "el-espectador",
-        "title": "Davos y el mundo",
-        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/davos-y-el-mundo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Forero Neme",
-        "date": "2023-01-18",
-        "publication": "el-espectador",
-        "title": "La verdad tard\u00eda: Jorge 40 en la JEP y Otoniel en Nueva York",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-verdad-tardia-jorge-40-en-la-jep-y-otoniel-en-nueva-york/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "Muntu-Bantu en riesgo",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/muntu-bantu-en-riesgo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Barajas Sandoval",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "En el espejo de Washington",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/en-el-espejo-de-washington/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "Mar\u00eda poeta, Mar\u00eda resistencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/maria-poeta-maria-resistencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "Comunistas a la carta",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/comunistas-a-la-carta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "\u201cDeslumbrante pesadilla\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/deslumbrante-pesadilla/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-01-17",
-        "publication": "el-espectador",
-        "title": "Paz o narcotr\u00e1fico, el dilema del Eln",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/paz-o-narcotrafico-el-dilema-del-eln/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-01-18",
+        "date": "2023-01-19",
         "publication": "el-tiempo",
-        "title": "Deuda de las Farc",
-        "url": "https://www.eltiempo.com/opinion/editorial/deuda-de-las-farc-editorial-el-tiempo-734579"
+        "title": "Urgen protocolos",
+        "url": "https://www.eltiempo.com/opinion/editorial/urgen-protocolos-editorial-el-tiempo-734927"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-01-18",
+        "author": "Pedro Medellin",
+        "date": "2023-01-19",
         "publication": "el-tiempo",
-        "title": "Los narcotraficantes no son delincuentes pol\u00edticos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/los-narcos-no-son-delincuentes-politicos-columna-de-alfonso-gomez-734522"
+        "title": "Mucha pol\u00edtica, poco poder",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/mucha-politica-poco-poder-columna-de-pedro-medellin-734922"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-01-18",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-01-19",
         "publication": "el-tiempo",
-        "title": "Devolviendo la pel\u00edcula",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/devolviendo-la-pelicula-columna-de-vladdo-734566"
+        "title": "La vida es sue\u00f1o",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/la-vida-es-sueno-columna-de-juan-esteban-constain-734864"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2023-01-18",
+        "author": "Claudia Palacios",
+        "date": "2023-01-19",
         "publication": "el-tiempo",
-        "title": "Feliz a\u00f1o y felices lecturas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/feliz-ano-y-felices-lecturas-columna-de-andres-hurtado-garcia-734494"
+        "title": "Amorosa-mente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/amorosa-mente-columna-de-claudia-palacios-734833"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-01-18",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-01-19",
         "publication": "el-tiempo",
-        "title": "Moral selectiva",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/moral-selectiva-columna-de-gustavo-duncan-734515"
+        "title": "El novelista trascendente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/el-novelista-trascendente-columna-de-sergio-ramirez-734855"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-01-18",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-01-19",
         "publication": "el-tiempo",
-        "title": "Salvo Basile cont\u00f3 su vida de pel\u00edcula",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/salvo-basile-conto-su-vida-de-pelicula-columna-de-poncho-renteria-734520"
+        "title": "Caba\u00f1uelas y pecadillos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/cabanuelas-y-pecadillos-columna-de-oscar-dominguez-giraldo-734879"
     },
     {
         "article-type": "column",
-        "author": "Fernando Posada",
-        "date": "2023-01-18",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2023-01-19",
         "publication": "el-tiempo",
-        "title": "Un a\u00f1o de debates definitivos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/un-ano-de-debates-definitivos-columna-de-fernando-posada-734569"
+        "title": "Cuatro experiencias vivenciales del pasado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/cuatro-experiencias-vivenciales-del-pasado-columna-de-mauricio-laurens-734890"
+    },
+    {
+        "article-type": "column",
+        "author": "Women in Connection",
+        "date": "2023-01-19",
+        "publication": "el-tiempo",
+        "title": "La inclusi\u00f3n financiera de las mujeres como una tarea en avance positivo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/la-inclusion-financiera-de-las-mujeres-como-una-tarea-en-avance-positivo-734897"
     }
 ]
