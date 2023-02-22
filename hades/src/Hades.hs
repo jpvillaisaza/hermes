@@ -29,6 +29,7 @@ import qualified Network.URI as Uri
 
 -- tagsoup
 import qualified Text.HTML.TagSoup as TagSoup
+import Text.StringLike (StringLike)
 
 -- text
 import Data.Text (Text)
@@ -184,7 +185,7 @@ getArticles manager ElColombiano = do
           , articleAuthor = Nothing
           , articleDate = day
           , articlePublication = ElColombiano
-          , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText (title !! 1)
+          , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ safeFromTagText (title !! 1)
           , articleUrl = Url (Uri.relativeTo url (publicationUri ElColombiano))
           }
       pure (Just article)
@@ -208,10 +209,14 @@ getArticles manager ElColombiano = do
                     Just uri ->
                       Just Article
                       { articleArticleType = Column
-                      , articleAuthor = Just (TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText au)
+                      , articleAuthor =
+                          TextLazy.toStrict . TextEncoding.decodeUtf8
+                            <$> TagSoup.maybeTagText au
                       , articleDate = day
                       , articlePublication = ElColombiano
-                      , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText t
+                      , articleTitle =
+                          TextLazy.toStrict $ TextEncoding.decodeUtf8 $
+                            safeFromTagText t
                       , articleUrl = Url (Uri.relativeTo uri (publicationUri ElColombiano))
                       }
                     Nothing ->
@@ -242,7 +247,7 @@ getArticles manager ElEspectador = do
           , articleAuthor = Nothing
           , articleDate = day
           , articlePublication = ElEspectador
-          , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText (as !! 1)
+          , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ safeFromTagText (as !! 1)
           , articleUrl = Url (Uri.relativeTo uri (publicationUri ElEspectador))
           }
       pure (Just article)
@@ -263,10 +268,10 @@ getArticles manager ElEspectador = do
               Just uri ->
                 Just Article
                 { articleArticleType = Column
-                , articleAuthor = Just (TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText au)
+                , articleAuthor = Just (TextLazy.toStrict $ TextEncoding.decodeUtf8 $ safeFromTagText au)
                 , articleDate = day
                 , articlePublication = ElEspectador
-                , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText t
+                , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ safeFromTagText t
                 , articleUrl = Url (Uri.relativeTo uri (publicationUri ElEspectador))
                 }
               Nothing ->
@@ -299,7 +304,7 @@ getArticles manager ElTiempo = do
                 , articleAuthor = Nothing
                 , articleDate = day
                 , articlePublication = ElTiempo
-                , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText title
+                , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ safeFromTagText title
                 , articleUrl = Url (Uri.relativeTo uri (publicationUri ElTiempo))
                 }
             Nothing ->
@@ -347,13 +352,17 @@ getArticles manager ElTiempo = do
         let
           article = Article
             { articleArticleType = Column
-            , articleAuthor = Just $ TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText $ authorTags !! 1
+            , articleAuthor = Just $ TextLazy.toStrict $ TextEncoding.decodeUtf8 $ safeFromTagText $ authorTags !! 1
             , articleDate = day
             , articlePublication = ElTiempo
-            , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ TagSoup.fromTagText title
+            , articleTitle = TextLazy.toStrict $ TextEncoding.decodeUtf8 $ safeFromTagText title
             , articleUrl = Url (Uri.relativeTo uri (publicationUri ElTiempo))
             }
         pure (Just article)
       _ ->
         pure Nothing
   pure (catMaybes (mEditorial:articles))
+
+safeFromTagText :: StringLike string => TagSoup.Tag string -> string
+safeFromTagText tag =
+  fromMaybe (TagSoup.innerText [tag]) (TagSoup.maybeTagText tag)
