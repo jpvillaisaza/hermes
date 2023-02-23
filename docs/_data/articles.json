@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-02-22",
+        "date": "2023-02-23",
         "publication": "el-colombiano",
-        "title": "La vida de Leyner Palacios",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-vida-de-leyner-palacios-GB20474031"
+        "title": "R\u00e9quiem por los recursos de la educaci\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/requiem-por-los-recursos-de-la-educacion-BO20487305"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2023-02-23",
+        "publication": "el-colombiano",
+        "title": "La Plaza Botero ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-plaza-botero-DO20486342"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2023-02-23",
+        "publication": "el-colombiano",
+        "title": "Dulce castigo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/dulce-castigo-JO20486618"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2023-02-23",
+        "publication": "el-colombiano",
+        "title": "El legado sandinista: una cueva de piratas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-legado-sandinista-una-cueva-de-piratas-AO20486305"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Perfetti del Corral",
+        "date": "2023-02-23",
+        "publication": "el-colombiano",
+        "title": "El cambio, el balc\u00f3n y la pol\u00edtica p\u00fablica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-cambio-el-balcon-y-la-politica-publica-EO20486637"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-02-23",
+        "publication": "el-colombiano",
+        "title": "Croch\u00e9 de proust\u00e1ticos ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/croche-de-proustaticos-FO20486366"
     },
     {
         "article-type": "column",
@@ -48,52 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-acidez-de-un-debate-CB20472527"
     },
     {
-        "article-type": "column",
-        "author": "Luz Mar\u00eda M\u00fanera Medina",
-        "date": "2023-02-22",
-        "publication": "el-colombiano",
-        "title": "Una mirada \u00e9tica sobre el ejercicio pol\u00edtico ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/una-mirada-etica-sobre-el-ejercicio-politico-AB20472507"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2023-02-22",
-        "publication": "el-colombiano",
-        "title": "Salud, cat\u00e1strofe anunciada",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/salud-catastrofe-anunciada-EA20466398"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2023-02-22",
-        "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/cuando-veas-las-barbas-de-tu-vecino-arder-IA20466529"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Camilo Quintero",
-        "date": "2023-02-22",
-        "publication": "el-colombiano",
-        "title": "Pr\u00f3ximo gobernador, ojo con la migraci\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/proximo-gobernador-ojo-con-la-migracion-PA20466458"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Ram\u00edrez Correa",
-        "date": "2023-02-22",
-        "publication": "el-colombiano",
-        "title": "El balc\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-balcon-EA20466552"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-02-22",
+        "date": "2023-02-23",
         "publication": "el-espectador",
-        "title": "Mejor evitar un vicio de forma en la reforma a la salud",
-        "url": "https://www.elespectador.com/opinion/editorial/mejor-evitar-un-vicio-de-forma-en-la-reforma-a-la-salud/"
+        "title": "El inaceptable terror de un excomisionado de la Verdad",
+        "url": "https://www.elespectador.com/opinion/editorial/el-inaceptable-terror-de-un-excomisionado-de-la-verdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Oscar Guardiola-Rivera",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "Destruir, destruir",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/destruir-destruir/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "Aborto: la conversaci\u00f3n debe seguir",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/aborto-la-conversacion-debe-seguir/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "Revelar los conflictos de inter\u00e9s en la salud (II)",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/revelar-los-conflictos-de-interes-en-la-salud-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "Promesas  \u00bf(in)cumplidas?",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/promesas-incumplidas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "Por el mundo de la cultura",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/por-el-mundo-de-la-cultura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "Inteligencia artificial y pol\u00edtica p\u00fablica",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/inteligencia-artificial-y-politica-publica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo Gall\u00f3n",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "\u201cPara una nueva visi\u00f3n de seguridad para la paz\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/para-una-nueva-vision-de-seguridad-para-la-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "Halc\u00f3n, paloma y avestruz",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/halcon-paloma-y-avestruz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Manuel Ospina",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "\u00bfPara d\u00f3nde va Petro?",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/para-donde-va-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "Mucho mayor",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/mucho-mayor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitada",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "Del texto al hecho",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/del-texto-al-hecho/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "M\u00e1s mujeres y ni\u00f1as cient\u00edficas, un compromiso con la resignificaci\u00f3n del rol de la mujer",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/mas-mujeres-y-ninas-cientificas-un-compromiso-con-la-resignificacion-del-rol-de-la-mujer/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "El sans-culottismo del siglo veintiuno",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-sans-culottismo-del-siglo-veintiuno/"
+    },
+    {
+        "article-type": "column",
+        "author": "H\u00e9ctor Garc\u00eda",
+        "date": "2023-02-23",
+        "publication": "el-espectador",
+        "title": "Sede electr\u00f3nica: herramienta de transformaci\u00f3n digital del estado colombiano",
+        "url": "https://www.elespectador.com/opinion/columnistas/hectorgarcia/sede-electronica-herramienta-de-transformacion-digital-del-estado-colombiano/"
     },
     {
         "article-type": "column",
@@ -112,179 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/la-nota-sobre-el-balconazo-de-petro-parecia-escrita-para-extraterrestres/"
     },
     {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "El nuevo (des)orden mundial",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/el-nuevo-desorden-mundial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "Result\u00f3 bandida",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/resulto-bandida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "Don Pedro",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/don-pedro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "Un a\u00f1o sangriento",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/un-ano-sangriento/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "Plan Nacional de Desarrollo y sostenibilidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/plan-nacional-de-desarrollo-y-sostenibilidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "Un d\u00eda profano",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/un-dia-profano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "\u00bfMedios para la paz?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/medios-para-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "Cr\u00eda cuervos y te sacar\u00e1n los ojos",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/cria-cuervos-y-te-sacaran-los-ojos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "El maestro universitario y la paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/el-maestro-universitario-y-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "A la espera del revolc\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/a-la-espera-del-revolcon/"
-    },
-    {
-        "article-type": "column",
-        "author": "Foro Nacional por Colombia*",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "Derechos humanos, democracia, Estado colombiano y Paz Total",
-        "url": "https://www.elespectador.com/colombia-20/analistas/derechos-humanos-democracia-estado-colombiano-y-paz-total/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "El atentado al general Reyes",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-atentado-al-general-reyes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "Todos nuestros muertos merecen respeto",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/todos-nuestros-muertos-merecen-respeto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "Ultimo",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/ultimo/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-02-22",
+        "date": "2023-02-23",
         "publication": "el-tiempo",
-        "title": "Eln: paso en falso",
-        "url": "https://www.eltiempo.com/opinion/editorial/eln-paso-en-falso-editorial-el-tiempo-744115"
+        "title": "Taxistas, reto pendiente",
+        "url": "https://www.eltiempo.com/opinion/editorial/taxistas-reto-pendiente-editorial-el-tiempo-744437"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-02-22",
+        "author": "Pedro Medellin",
+        "date": "2023-02-23",
         "publication": "el-tiempo",
-        "title": "Cien a\u00f1os de la U. Libre",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/cien-anos-de-la-u-libre-columna-de-alfonso-gomez-mendez-744069"
+        "title": "\u00bfRevanchismo o transformaci\u00f3n?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/revanchismo-o-transformacion-columna-de-pedro-medellin-744389"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-02-22",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-02-23",
         "publication": "el-tiempo",
-        "title": "Desde el balc\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/desde-el-balcon-columna-de-vladdo-744083"
+        "title": "Leer basura",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/leer-basura-columna-de-juan-esteban-constain-744381"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2023-02-22",
+        "author": "Juliana Mej\u00eda",
+        "date": "2023-02-23",
         "publication": "el-tiempo",
-        "title": "Florence en el metro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/florence-en-el-metro-columna-de-florence-thomas-744031"
+        "title": "Retos del 2023",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/retos-del-2023-columna-de-juliana-mejia-744391"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2023-02-22",
+        "author": "Josep Borrell",
+        "date": "2023-02-23",
         "publication": "el-tiempo",
-        "title": "El oto\u00f1o de las hojas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/el-otono-de-las-hojas-columna-de-jotamario-arbelaez-744075"
+        "title": "Actuar juntos para que prevalezca el derecho internacional",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/juntos-por-el-derecho-internacional-columna-de-josep-borrel-744378"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-02-22",
+        "author": "Diana Pardo",
+        "date": "2023-02-23",
         "publication": "el-tiempo",
-        "title": "Ver\u00f3nica Alcocer necesita bronceado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/veronica-alcocer-necesita-bronceado-columna-de-poncho-renteria-744051"
+        "title": "\u2018Matilda\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/matilda-columna-de-diana-pardo-744396"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Adelaida Correa",
-        "date": "2023-02-22",
+        "author": "Women in Connection",
+        "date": "2023-02-23",
         "publication": "el-tiempo",
-        "title": "Preservando al felino m\u00e1s grande de Am\u00e9rica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/preservando-al-felino-mas-grande-de-america-maria-adelaida-correa-744046"
+        "title": "La formaci\u00f3n corporativa, una iniciativa en la que todos ganamos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/la-formacion-corporativa-una-iniciativa-en-la-que-todos-ganamos-744418"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2023-02-22",
+        "author": "Andr\u00e9s Allamand",
+        "date": "2023-02-23",
         "publication": "el-tiempo",
-        "title": "Falta de sentido profundo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/falta-de-sentido-profundo-columna-de-victor-corcoba-herrero-742160"
+        "title": "Hacia una Iberoam\u00e9rica justa y sostenible",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/hacia-una-iberoamerica-justa-y-sostenible-columna-de-andres-allamand-744420"
     }
 ]
