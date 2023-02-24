@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-02-23",
+        "date": "2023-02-24",
         "publication": "el-colombiano",
-        "title": "R\u00e9quiem por los recursos de la educaci\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/requiem-por-los-recursos-de-la-educacion-BO20487305"
+        "title": "365 d\u00edas de insensatez ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/365-dias-de-insensatez-BH20508382"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Manuel Restrepo Abondano",
+        "date": "2023-02-24",
+        "publication": "el-colombiano",
+        "title": "Me declaro Antioquia 2040",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/me-declaro-antioquia-2040-OH20508262"
+    },
+    {
+        "article-type": "column",
+        "author": "Sof\u00eda Gil S\u00e1nchez",
+        "date": "2023-02-24",
+        "publication": "el-colombiano",
+        "title": "La pol\u00edtica de la exclusi\u00f3n ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-politica-de-la-exclusion-KH20507940"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2023-02-24",
+        "publication": "el-colombiano",
+        "title": "Oposici\u00f3n sin opositores",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/oposicion-sin-opositores-IH20507834"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2023-02-24",
+        "publication": "el-colombiano",
+        "title": "\u00a1Pobre Roald Dahl! ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/pobre-roald-dahl-IH20508000"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Manrique",
+        "date": "2023-02-24",
+        "publication": "el-colombiano",
+        "title": "P\u00f3nganle competencia a Uber ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/ponganle-competencia-a-uber-MH20507856"
     },
     {
         "article-type": "column",
@@ -48,52 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/croche-de-proustaticos-FO20486366"
     },
     {
-        "article-type": "column",
-        "author": "David Yanovich",
-        "date": "2023-02-22",
-        "publication": "el-colombiano",
-        "title": "Genocidas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/genocidas-KB20472585"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2023-02-22",
-        "publication": "el-colombiano",
-        "title": "Motos y carros del infierno",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/motos-y-carros-del-infierno-BB20472663"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2023-02-22",
-        "publication": "el-colombiano",
-        "title": "\u00bfMantiene EE.UU. a la dictadura de Nicaragua? ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/mantiene-ee-uu-a-la-dictadura-de-nicaragua-CB20472606"
-    },
-    {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2023-02-22",
-        "publication": "el-colombiano",
-        "title": "Doce meses de terror ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/doce-meses-de-terror-DB20472562"
-    },
-    {
-        "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2023-02-22",
-        "publication": "el-colombiano",
-        "title": "La acidez de un debate ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-acidez-de-un-debate-CB20472527"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-02-23",
+        "date": "2023-02-24",
         "publication": "el-espectador",
-        "title": "El inaceptable terror de un excomisionado de la Verdad",
-        "url": "https://www.elespectador.com/opinion/editorial/el-inaceptable-terror-de-un-excomisionado-de-la-verdad/"
+        "title": "Ucrania se ha crecido tras la agresi\u00f3n en su contra",
+        "url": "https://www.elespectador.com/opinion/editorial/ucrania-se-ha-crecido-tras-la-agresion-en-su-contra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "Adi\u00f3s, amiga",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/adios-amiga/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "\u00bfGanar para qu\u00e9?",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/ganar-para-que/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "El primer centro m\u00e9dico en Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-primer-centro-medico-en-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "Los menores de edad que quieren morir",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/los-menores-de-edad-que-quieren-morir/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "Revisionismo literario",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/revisionismo-literario/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "Concreto flexible",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/concreto-flexible/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "La candela que no acaba con el sombrero vueltiao",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/la-candela-que-no-acaba-con-el-sombrero-vueltiao/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "\u00bfSin la S\u00e9ptima no hay campa\u00f1a pol\u00edtica en Bogot\u00e1?",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/sin-la-septima-no-hay-campana-politica-en-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "El bocado que cura",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/el-bocado-que-cura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda del Pilar Bernal",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "Las dudas sobre la transici\u00f3n energ\u00e9tica en los territorios",
+        "url": "https://www.elespectador.com/colombia-20/analistas/las-dudas-sobre-la-transicion-energetica-en-los-territorios/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "\u00bfPetro va a llenar la calle de CRIMINALES? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-petro-va-a-llenar-la-calle-de-criminales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2023-02-24",
+        "publication": "el-espectador",
+        "title": "\u00bf Y la reforma a la salud qu\u00e9? Reflexiones desde la desigualdad",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/y-la-reforma-a-la-salud-que-reflexiones-desde-la-desigualdad/"
     },
     {
         "article-type": "column",
@@ -128,163 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/promesas-incumplidas/"
     },
     {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-02-23",
-        "publication": "el-espectador",
-        "title": "Por el mundo de la cultura",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/por-el-mundo-de-la-cultura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-02-23",
-        "publication": "el-espectador",
-        "title": "Inteligencia artificial y pol\u00edtica p\u00fablica",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/inteligencia-artificial-y-politica-publica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gustavo Gall\u00f3n",
-        "date": "2023-02-23",
-        "publication": "el-espectador",
-        "title": "\u201cPara una nueva visi\u00f3n de seguridad para la paz\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/para-una-nueva-vision-de-seguridad-para-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-02-23",
-        "publication": "el-espectador",
-        "title": "Halc\u00f3n, paloma y avestruz",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/halcon-paloma-y-avestruz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2023-02-23",
-        "publication": "el-espectador",
-        "title": "\u00bfPara d\u00f3nde va Petro?",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/para-donde-va-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-02-23",
-        "publication": "el-espectador",
-        "title": "Mucho mayor",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/mucho-mayor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitada",
-        "date": "2023-02-23",
-        "publication": "el-espectador",
-        "title": "Del texto al hecho",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/del-texto-al-hecho/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-02-23",
-        "publication": "el-espectador",
-        "title": "M\u00e1s mujeres y ni\u00f1as cient\u00edficas, un compromiso con la resignificaci\u00f3n del rol de la mujer",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/mas-mujeres-y-ninas-cientificas-un-compromiso-con-la-resignificacion-del-rol-de-la-mujer/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-02-23",
-        "publication": "el-espectador",
-        "title": "El sans-culottismo del siglo veintiuno",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-sans-culottismo-del-siglo-veintiuno/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Garc\u00eda",
-        "date": "2023-02-23",
-        "publication": "el-espectador",
-        "title": "Sede electr\u00f3nica: herramienta de transformaci\u00f3n digital del estado colombiano",
-        "url": "https://www.elespectador.com/opinion/columnistas/hectorgarcia/sede-electronica-herramienta-de-transformacion-digital-del-estado-colombiano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Kai Ambos",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "Nicaragua: la expatriaci\u00f3n como forma agravada de persecuci\u00f3n pol\u00edtica",
-        "url": "https://www.elespectador.com/opinion/columnistas/kai-ambos/nicaragua-la-expatriacion-como-forma-agravada-de-persecucion-politica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-02-22",
-        "publication": "el-espectador",
-        "title": "La nota sobre el \u201cbalconazo\u201d de Petro parec\u00eda escrita para extraterrestres",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/la-nota-sobre-el-balconazo-de-petro-parecia-escrita-para-extraterrestres/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-02-23",
+        "date": "2023-02-24",
         "publication": "el-tiempo",
-        "title": "Taxistas, reto pendiente",
-        "url": "https://www.eltiempo.com/opinion/editorial/taxistas-reto-pendiente-editorial-el-tiempo-744437"
+        "title": "Parar la barbarie",
+        "url": "https://www.eltiempo.com/opinion/editorial/parar-la-barbarie-editorial-el-tiempo-744761"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-02-23",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-02-24",
         "publication": "el-tiempo",
-        "title": "\u00bfRevanchismo o transformaci\u00f3n?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/revanchismo-o-transformacion-columna-de-pedro-medellin-744389"
+        "title": "Amor a la ciencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/amor-a-la-ciencia-columna-de-moises-wasserman-744685"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-02-23",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-02-24",
         "publication": "el-tiempo",
-        "title": "Leer basura",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/leer-basura-columna-de-juan-esteban-constain-744381"
+        "title": "Palacios",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/palacios-columna-de-ricardo-silva-romero-744711"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2023-02-23",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2023-02-24",
         "publication": "el-tiempo",
-        "title": "Retos del 2023",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/retos-del-2023-columna-de-juliana-mejia-744391"
+        "title": "Muros y migrantes en la \u2018fortaleza europea\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/muros-y-migrantes-en-la-fortaleza-europea-columna-de-antonio-albinana-744729"
     },
     {
         "article-type": "column",
-        "author": "Josep Borrell",
-        "date": "2023-02-23",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-02-24",
         "publication": "el-tiempo",
-        "title": "Actuar juntos para que prevalezca el derecho internacional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/juntos-por-el-derecho-internacional-columna-de-josep-borrel-744378"
+        "title": "Posdemocracia, pospopulismo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/posdemocracia-pospopulismo-columna-de-eduardo-posada-carbo-744694"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2023-02-23",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2023-02-24",
         "publication": "el-tiempo",
-        "title": "\u2018Matilda\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/matilda-columna-de-diana-pardo-744396"
+        "title": "El siglo XX",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/el-siglo-xx-columna-de-manuel-guzman-hennessey-744731"
     },
     {
         "article-type": "column",
-        "author": "Women in Connection",
-        "date": "2023-02-23",
+        "author": "Gregory Lobo",
+        "date": "2023-02-24",
         "publication": "el-tiempo",
-        "title": "La formaci\u00f3n corporativa, una iniciativa en la que todos ganamos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/la-formacion-corporativa-una-iniciativa-en-la-que-todos-ganamos-744418"
+        "title": "La libertad y la sociedad en crisis",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/la-libertad-y-la-sociedad-en-crisis-columna-de-gregory-lobo-744742"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Allamand",
-        "date": "2023-02-23",
+        "author": "Pedro Javier Rojas Guevara",
+        "date": "2023-02-24",
         "publication": "el-tiempo",
-        "title": "Hacia una Iberoam\u00e9rica justa y sostenible",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/hacia-una-iberoamerica-justa-y-sostenible-columna-de-andres-allamand-744420"
+        "title": "\u00bfDesmilitarizar la seguridad?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-javier-rojas-guevara/desmilitarizar-la-seguridad-columna-de-pedro-javier-rojas-744740"
     }
 ]
