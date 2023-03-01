@@ -2,10 +2,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-02-28",
+        "date": "2023-03-01",
         "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-terquedad-de-la-izquierda-GE20600767"
+        "title": "Desplome",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/desplome-BF20611099"
+    },
+    {
+        "article-type": "column",
+        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
+        "date": "2023-03-01",
+        "publication": "el-colombiano",
+        "title": "Y la lava al final lo quem\u00f3",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/y-la-lava-al-final-lo-quemo-HF20610465"
+    },
+    {
+        "article-type": "column",
+        "author": "Luz Mar\u00eda M\u00fanera Medina",
+        "date": "2023-03-01",
+        "publication": "el-colombiano",
+        "title": "\u00a1S\u00ed a las reformas del cambio! ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/si-a-las-reformas-del-cambio-EF20610657"
+    },
+    {
+        "article-type": "column",
+        "author": "Dany Alejandro Hoyos",
+        "date": "2023-03-01",
+        "publication": "el-colombiano",
+        "title": "El humor no tiene la culpa ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-humor-no-tiene-la-culpa-AF20610541"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas a la Directora",
+        "date": "2023-03-01",
+        "publication": "el-colombiano",
+        "title": "\u00a1Cuenten lo que vieron!",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cuenten-lo-que-vieron-HF20610700"
+    },
+    {
+        "article-type": "column",
+        "author": "David E. Santos G\u00f3mez",
+        "date": "2023-03-01",
+        "publication": "el-colombiano",
+        "title": "La gorra infame ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-gorra-infame-MF20610639"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Oppenheimer",
+        "date": "2023-03-01",
+        "publication": "el-colombiano",
+        "title": "La deriva autoritaria de M\u00e9xico",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-deriva-autoritaria-de-mexico-AF20610514"
     },
     {
         "article-type": "column",
@@ -40,60 +88,76 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-violencia-como-camino-hacia-la-paz-AO20599889"
     },
     {
-        "article-type": "column",
-        "author": "Amalia Londo\u00f1o Duque",
-        "date": "2023-02-28",
-        "publication": "el-colombiano",
-        "title": "Una reforma sin salud mental",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/una-reforma-sin-salud-mental-DO20599794"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
-        "date": "2023-02-27",
-        "publication": "el-colombiano",
-        "title": "Del utilitarismo a la pasi\u00f3n por la libertad ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/del-utilitarismo-a-la-pasion-por-la-libertad-AE20533726"
-    },
-    {
-        "article-type": "column",
-        "author": "Josefina Agudelo Trujillo",
-        "date": "2023-02-27",
-        "publication": "el-colombiano",
-        "title": "Comprender el estilo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/comprender-el-estilo-BE20533763"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Escobar Valencia",
-        "date": "2023-02-27",
-        "publication": "el-colombiano",
-        "title": "Las vacaciones de la invasi\u00f3n a Ucrania pronto terminar\u00e1n",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/las-vacaciones-de-la-invasion-a-ucrania-pronto-terminaran-NE20533781"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
-        "date": "2023-02-27",
-        "publication": "el-colombiano",
-        "title": "La venerable democracia puede con todo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-venerable-democracia-puede-con-todo-FE20533745"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Bibiana Botero C.",
-        "date": "2023-02-27",
-        "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/por-una-antioquia-abierta-al-mundo-FE20533701"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-02-28",
+        "date": "2023-03-01",
         "publication": "el-espectador",
-        "title": "Con noticias falsas no se defienden las reformas  ",
-        "url": "https://www.elespectador.com/opinion/editorial/con-noticias-falsas-no-se-defienden-las-reformas/"
+        "title": "\u00bfGobierno: en crisis o en transici\u00f3n? Ojal\u00e1 sea lo segundo",
+        "url": "https://www.elespectador.com/opinion/editorial/gobierno-en-crisis-o-en-transicion-ojala-sea-lo-segundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-03-01",
+        "publication": "el-espectador",
+        "title": "\u201cNo soy cercano a ninguna familia Noguera\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/no-soy-cercano-a-ninguna-familia-noguera/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-03-01",
+        "publication": "el-espectador",
+        "title": "El futuro o ese pasado repetido",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/el-futuro-o-ese-pasado-repetido/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-03-01",
+        "publication": "el-espectador",
+        "title": "Un bareto parlamentario",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/un-bareto-parlamentario/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-03-01",
+        "publication": "el-espectador",
+        "title": "Estos tiempos",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/estos-tiempos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2023-03-01",
+        "publication": "el-espectador",
+        "title": "\u00bfQui\u00e9n le teme a Miguel \u00c1ngel del R\u00edo?",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/quien-le-teme-a-miguel-angel-del-rio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-03-01",
+        "publication": "el-espectador",
+        "title": "Un proyecto enfermizo",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/un-proyecto-enfermizo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Diana Guzm\u00e1n",
+        "date": "2023-03-01",
+        "publication": "el-espectador",
+        "title": "Paz con seguridad",
+        "url": "https://www.elespectador.com/opinion/columnistas/dianaguzman/paz-con-seguridad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Joan C. L\u00f3pez*",
+        "date": "2023-03-01",
+        "publication": "el-espectador",
+        "title": "Dejemos de hablar del conflicto en pasado, la memoria es un asunto del presente",
+        "url": "https://www.elespectador.com/colombia-20/analistas/comision-de-la-verdad-dejemos-de-hablar-del-conflicto-en-pasado-memoria-es-un-asunto-del-presente/"
     },
     {
         "article-type": "column",
@@ -160,131 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/bogota-metro-y-territorio/"
     },
     {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "\u00bfLas redes sociales causan depresi\u00f3n en los j\u00f3venes?",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/las-redes-sociales-causan-depresion-en-los-jovenes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz Vanegas Ath\u00edas",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "El baile que ofende",
-        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/el-baile-que-ofende/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Convergencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/convergencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Barajas Sandoval",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Las voces del Sur",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/las-voces-del-sur/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Don dinero es el que manda",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/don-dinero-es-el-que-manda/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Black Hawk",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/black-hawk/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Garc\u00eda-Pe\u00f1a",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "\u00a1Sandinista!",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/sandinista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jan Boesten**",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Apuntes de la Paz Total I: Colombia, \u00bfuna democracia con tendencias oligarcas?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/apuntes-de-la-paz-total-i-colombia-una-democracia-con-tendencias-oligarcas-jan-boesten/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-02-28",
+        "date": "2023-03-01",
         "publication": "el-tiempo",
-        "title": "Extorsi\u00f3n: urge actuar",
-        "url": "https://www.eltiempo.com/opinion/editorial/extorsion-urge-actuar-editorial-el-tiempo-745727"
+        "title": "Ecos de un remez\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/editorial/ecos-de-un-remezon-editorial-746093"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-02-28",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-03-01",
         "publication": "el-tiempo",
-        "title": "Hablando nos va mejor",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/hablando-nos-va-mejor-columna-de-jose-manuel-acevedo-745647"
+        "title": "El circo pol\u00edtico electoral",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/el-circo-politico-electoral-columna-de-alfonso-gomez-mendez-746040"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2023-02-28",
+        "author": "Vladdo",
+        "date": "2023-03-01",
         "publication": "el-tiempo",
-        "title": "Vergonzoso silencio de la izquierda fidelista latinoamericana",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/vergonzoso-silencio-de-la-izquierda-fidelista-sergio-munoz-745661"
+        "title": "En deuda con Belisario",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/en-deuda-con-belisario-columna-de-vladdo-746065"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2023-02-28",
+        "author": "Andr\u00e9s Hurtado Garc\u00eda",
+        "date": "2023-03-01",
         "publication": "el-tiempo",
-        "title": "Tiempo escolar y brechas sociales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/tiempo-escolar-y-brechas-sociales-columna-de-francisco-cajiao-745638"
+        "title": "A Marruecos no se lo trata as\u00ed",
+        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/a-marruecos-no-se-lo-trata-asi-columna-de-andres-hurtado-garcia-745998"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2023-02-28",
+        "author": "Gustavo Duncan",
+        "date": "2023-03-01",
         "publication": "el-tiempo",
-        "title": "\u00bfLey ordinaria o estatutaria?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/ley-ordinaria-o-estatutaria-columna-de-fernando-sanchez-torres-745710"
+        "title": "La paz por encima del narco",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/la-paz-por-encima-del-narco-columna-de-gustavo-duncan-746033"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2023-02-28",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-03-01",
         "publication": "el-tiempo",
-        "title": "\u00c1lvaro Mutis (II)",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/alvaro-mutis-ii-columna-de-fernando-quiroz-745654"
+        "title": "La alcaldesa castig\u00f3 protesta en el Chic\u00f3",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/la-alcaldesa-castigo-protesta-en-el-chico-columna-de-poncho-renteria-746056"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Riveros Gonz\u00e1lez",
-        "date": "2023-02-28",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2023-03-01",
         "publication": "el-tiempo",
-        "title": "Inteligencia artificial e idiotez humana",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/inteligencia-artificial-e-idiotez-humana-columna-de-alejandro-riveros-745669"
-    },
-    {
-        "article-type": "column",
-        "author": "Alex\u00e1nder Cambero",
-        "date": "2023-02-28",
-        "publication": "el-tiempo",
-        "title": "\u2018Magdalena: la historia que nadie cont\u00f3'",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/magdalena-la-historia-que-nadie-conto-columna-de-alexander-cambero-745671"
+        "title": "Escoger la vida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/escoger-la-vida-columna-de-victor-corcoba-herrero-746012"
     }
 ]
