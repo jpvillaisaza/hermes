@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-01",
+        "date": "2023-03-02",
         "publication": "el-colombiano",
-        "title": "Desplome",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/desplome-BF20611099"
+        "title": "\u00a1Muy aviones! ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/muy-aviones-DH20634997"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Botero Montoya",
+        "date": "2023-03-02",
+        "publication": "el-colombiano",
+        "title": "Sobre Pol\u00edtica Exterior",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-politica-exterior-AH20634631"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2023-03-02",
+        "publication": "el-colombiano",
+        "title": "Opinar con desconocimiento ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/opinar-con-desconocimiento-AH20634756"
+    },
+    {
+        "article-type": "column",
+        "author": "Sara Jaramillo Klinkert",
+        "date": "2023-03-02",
+        "publication": "el-colombiano",
+        "title": "Un minuto demasiado tarde ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-minuto-demasiado-tarde-FH20634735"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-03-02",
+        "publication": "el-colombiano",
+        "title": "Manual para disculparse",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/manual-para-disculparse-CH20634677"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2023-03-02",
+        "publication": "el-colombiano",
+        "title": "El ecocidio de Maduro",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-ecocidio-de-maduro-EH20634653"
     },
     {
         "article-type": "column",
@@ -48,52 +88,92 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-gorra-infame-MF20610639"
     },
     {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2023-03-01",
-        "publication": "el-colombiano",
-        "title": "La deriva autoritaria de M\u00e9xico",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-deriva-autoritaria-de-mexico-AF20610514"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2023-02-28",
-        "publication": "el-colombiano",
-        "title": "La grosera excusa",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-grosera-excusa-JO20599752"
-    },
-    {
-        "article-type": "column",
-        "author": "Federico Hoyos Salazar",
-        "date": "2023-02-28",
-        "publication": "el-colombiano",
-        "title": "Desconfianza hist\u00f3rica ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/desconfianza-historica-NO20599774"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2023-02-28",
-        "publication": "el-colombiano",
-        "title": "China: equidistancia ambigua ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/china-equidistancia-ambigua-CO20599847"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Mej\u00eda Cubillos",
-        "date": "2023-02-28",
-        "publication": "el-colombiano",
-        "title": "La violencia como camino hacia la paz ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-violencia-como-camino-hacia-la-paz-AO20599889"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-01",
+        "date": "2023-03-02",
         "publication": "el-espectador",
-        "title": "\u00bfGobierno: en crisis o en transici\u00f3n? Ojal\u00e1 sea lo segundo",
-        "url": "https://www.elespectador.com/opinion/editorial/gobierno-en-crisis-o-en-transicion-ojala-sea-lo-segundo/"
+        "title": "La suerte de Viva Air debe ser definida con urgencia ",
+        "url": "https://www.elespectador.com/opinion/editorial/la-suerte-de-viva-air-debe-ser-definida-con-urgencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2023-03-02",
+        "publication": "el-espectador",
+        "title": "Peor",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/peor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2023-03-02",
+        "publication": "el-espectador",
+        "title": "Drogas: el debate que nos deben",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/drogas-el-debate-que-nos-deben/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-03-02",
+        "publication": "el-espectador",
+        "title": "Carnaval y monarqu\u00eda II",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/carnaval-y-monarquia-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-03-02",
+        "publication": "el-espectador",
+        "title": "Las formas son tan importantes como los fines",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/las-formas-son-tan-importantes-como-los-fines/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-03-02",
+        "publication": "el-espectador",
+        "title": "El esqueleto de la esperanza",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/el-esqueleto-de-la-esperanza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2023-03-02",
+        "publication": "el-espectador",
+        "title": "Cosmoschools: llegar a unos colegios distintos",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/cosmoschools-llegar-a-unos-colegios-distintos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-03-02",
+        "publication": "el-espectador",
+        "title": "Impotencia estatal",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/impotencia-estatal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-03-02",
+        "publication": "el-espectador",
+        "title": "Derecho penal a la medida",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/derecho-penal-a-la-medida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-03-02",
+        "publication": "el-espectador",
+        "title": "Casi provocamos el segundo revolc\u00f3n en el Gobierno",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/casi-provocamos-el-segundo-revolcon-en-el-gobierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2023-03-02",
+        "publication": "el-espectador",
+        "title": "Ecolog\u00eda metalaboral",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/ecologia-metalaboral/"
     },
     {
         "article-type": "column",
@@ -144,139 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/un-proyecto-enfermizo/"
     },
     {
-        "article-type": "column",
-        "author": "Diana Guzm\u00e1n",
-        "date": "2023-03-01",
-        "publication": "el-espectador",
-        "title": "Paz con seguridad",
-        "url": "https://www.elespectador.com/opinion/columnistas/dianaguzman/paz-con-seguridad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Joan C. L\u00f3pez*",
-        "date": "2023-03-01",
-        "publication": "el-espectador",
-        "title": "Dejemos de hablar del conflicto en pasado, la memoria es un asunto del presente",
-        "url": "https://www.elespectador.com/colombia-20/analistas/comision-de-la-verdad-dejemos-de-hablar-del-conflicto-en-pasado-memoria-es-un-asunto-del-presente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Cuba y la esclavitud moderna",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/cuba-y-la-esclavitud-moderna-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz Miranda",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "La saga de un globo chino",
-        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-miranda/la-saga-de-un-globo-chino/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Malas palabras",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/malas-palabras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Ucrania: parar la mataz\u00f3n y negociar la paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/ucrania-parar-la-matazon-y-negociar-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Disidentes y desertores del Acuerdo de Paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/disidentes-y-desertores-del-acuerdo-de-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Desde el balc\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/desde-el-balcon/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Maurizio Costanzo",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/maurizio-costanzo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Leyva",
-        "date": "2023-02-28",
-        "publication": "el-espectador",
-        "title": "Bogot\u00e1, metro y territorio ",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/bogota-metro-y-territorio/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-01",
+        "date": "2023-03-02",
         "publication": "el-tiempo",
-        "title": "Ecos de un remez\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/editorial/ecos-de-un-remezon-editorial-746093"
+        "title": "El aire de Bogot\u00e1",
+        "url": "https://www.eltiempo.com/opinion/columnistas/editorial/el-aire-de-bogota-editorial-el-tiempo-746442"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-03-01",
+        "author": "Pedro Medellin",
+        "date": "2023-03-02",
         "publication": "el-tiempo",
-        "title": "El circo pol\u00edtico electoral",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/el-circo-politico-electoral-columna-de-alfonso-gomez-mendez-746040"
+        "title": "Forzando la m\u00e1quina",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/forzando-la-maquina-columna-de-pedro-medellin-746417"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-03-01",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-03-02",
         "publication": "el-tiempo",
-        "title": "En deuda con Belisario",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/en-deuda-con-belisario-columna-de-vladdo-746065"
+        "title": "La muerte del estratega",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/la-muerte-del-estratega-columna-de-juan-esteban-constain-746341"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2023-03-01",
+        "author": "Claudia Palacios",
+        "date": "2023-03-02",
         "publication": "el-tiempo",
-        "title": "A Marruecos no se lo trata as\u00ed",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/a-marruecos-no-se-lo-trata-asi-columna-de-andres-hurtado-garcia-745998"
+        "title": "El fracaso de intentarlo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/empoderamiento-el-fracaso-de-intentarlo-columna-de-claudia-palacios-746364"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-03-01",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-03-02",
         "publication": "el-tiempo",
-        "title": "La paz por encima del narco",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/la-paz-por-encima-del-narco-columna-de-gustavo-duncan-746033"
+        "title": "C\u00edrculos conc\u00e9ntricos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/circulos-concentricos-columna-de-sergio-ramirez-746337"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-03-01",
+        "author": "Armando Silva",
+        "date": "2023-03-02",
         "publication": "el-tiempo",
-        "title": "La alcaldesa castig\u00f3 protesta en el Chic\u00f3",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/la-alcaldesa-castigo-protesta-en-el-chico-columna-de-poncho-renteria-746056"
+        "title": "La belleza aprisionada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/la-belleza-aprisionada-columna-de-armando-silva-746444"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2023-03-01",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2023-03-02",
         "publication": "el-tiempo",
-        "title": "Escoger la vida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/escoger-la-vida-columna-de-victor-corcoba-herrero-746012"
+        "title": "Amor y amistad en tres cintas nominadas al \u00d3scar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/amor-y-amistad-en-tres-cintas-nominadas-al-oscar-mauricio-laurens-746400"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-03-02",
+        "publication": "el-tiempo",
+        "title": "\u2018Entre dos orillas\u2019, Novela de Juanita Henao Escobar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/entre-dos-orillas-novela-de-juanita-henao-escobar-jose-miguel-alzate-746401"
     }
 ]
