@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-03",
+        "date": "2023-03-04",
         "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-dictadura-de-la-correccion-NA20648371"
+        "title": "\u00bfEl Suroeste en jaque? ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-suroeste-en-jaque-JB20659231"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Mesa Puyo",
+        "date": "2023-03-04",
+        "publication": "el-colombiano",
+        "title": "Digitalizaci\u00f3n y eficiencia ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/digitalizacion-y-eficiencia-EB20655616"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Correa Vel\u00e1squez",
+        "date": "2023-03-04",
+        "publication": "el-colombiano",
+        "title": "Las malmiradas ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/las-malmiradas-AB20655656"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2023-03-04",
+        "publication": "el-colombiano",
+        "title": "En el principio fue la soledad",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/en-el-principio-fue-la-soledad-MB20656082"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Jos\u00e9 Bernal Gaviria",
+        "date": "2023-03-04",
+        "publication": "el-colombiano",
+        "title": "Que no nos cojan cansados",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/que-no-nos-cojan-cansados-NB20658342"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2023-03-04",
+        "publication": "el-colombiano",
+        "title": "Sobre sentir al diablo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-sentir-al-diablo-MB20655678"
     },
     {
         "article-type": "column",
@@ -48,52 +88,100 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/dialogo-entre-servidores-sin-competencia-LA20648311"
     },
     {
-        "article-type": "column",
-        "author": "Rodrigo Botero Montoya",
-        "date": "2023-03-02",
-        "publication": "el-colombiano",
-        "title": "Sobre Pol\u00edtica Exterior",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-politica-exterior-AH20634631"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2023-03-02",
-        "publication": "el-colombiano",
-        "title": "Opinar con desconocimiento ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/opinar-con-desconocimiento-AH20634756"
-    },
-    {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2023-03-02",
-        "publication": "el-colombiano",
-        "title": "Un minuto demasiado tarde ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/un-minuto-demasiado-tarde-FH20634735"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2023-03-02",
-        "publication": "el-colombiano",
-        "title": "Manual para disculparse",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/manual-para-disculparse-CH20634677"
-    },
-    {
-        "article-type": "column",
-        "author": "Humberto Montero",
-        "date": "2023-03-02",
-        "publication": "el-colombiano",
-        "title": "El ecocidio de Maduro",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-ecocidio-de-maduro-EH20634653"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-03",
+        "date": "2023-03-04",
         "publication": "el-espectador",
-        "title": "Conflictos familiares",
-        "url": "https://www.elespectador.com/opinion/editorial/conflictos-familiares/"
+        "title": "Tenemos que hablar de tecnolog\u00eda y salud mental",
+        "url": "https://www.elespectador.com/opinion/editorial/tenemos-que-hablar-de-tecnologia-y-salud-mental/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2023-03-04",
+        "publication": "el-espectador",
+        "title": "Un humilde gorri\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/un-humilde-gorrion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-03-04",
+        "publication": "el-espectador",
+        "title": "Bukele, el salvador",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/bukele-el-salvador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-03-04",
+        "publication": "el-espectador",
+        "title": "Las cabezas de los ministros, las copas y la pataner\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/las-cabezas-de-los-ministros-las-copas-y-la-pataneria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2023-03-04",
+        "publication": "el-espectador",
+        "title": "El debate sobre la salud",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/el-debate-sobre-la-salud/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-03-04",
+        "publication": "el-espectador",
+        "title": "Comunicar los fundamentos de la reforma a la salud",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/comunicar-los-fundamentos-de-la-reforma-a-la-salud/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2023-03-04",
+        "publication": "el-espectador",
+        "title": "1923",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/un-ano-excepcional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-03-04",
+        "publication": "el-espectador",
+        "title": "El gabinete de ministros",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/el-gabinete-de-ministros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ochoa",
+        "date": "2023-03-04",
+        "publication": "el-espectador",
+        "title": "Temblor en el gabinete",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/temblor-en-el-gabinete/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro \u00c1lvarez",
+        "date": "2023-03-04",
+        "publication": "el-espectador",
+        "title": "Las universidades y la paz total",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-alvarez/las-universidades-y-la-paz-total/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-03-04",
+        "publication": "el-espectador",
+        "title": "Cuando el Estado vigila: el ciberpatrullaje",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/cuando-el-estado-vigila-el-ciberpatrullaje/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dejusticia",
+        "date": "2023-03-04",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 pas\u00f3 con las propuestas campesinas en el Plan Nacional de Desarrollo?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/que-paso-con-las-propuestas-campesinas-en-el-plan-nacional-de-desarrollo/"
     },
     {
         "article-type": "column",
@@ -136,171 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/una-mafia-blindada-en-la-unp/"
     },
     {
-        "article-type": "column",
-        "author": "Juan Carlos Botero",
-        "date": "2023-03-03",
-        "publication": "el-espectador",
-        "title": "Una visi\u00f3n equivocada",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/una-vision-equivocada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Leal Buitrago",
-        "date": "2023-03-03",
-        "publication": "el-espectador",
-        "title": "Propuestas de reformas (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/propuestas-de-reformas-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Sevillano",
-        "date": "2023-03-03",
-        "publication": "el-espectador",
-        "title": "Francia M\u00e1rquez, Dapa y el helic\u00f3ptero",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/francia-marquez-dapa-y-el-helicoptero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-03-03",
-        "publication": "el-espectador",
-        "title": "Salve usted la patria",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/salve-usted-la-patria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
-        "date": "2023-03-03",
-        "publication": "el-espectador",
-        "title": "Econom\u00eda 2022 y proyecciones 2023",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/economia-2022-y-proyecciones-2023/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Bada",
-        "date": "2023-03-03",
-        "publication": "el-espectador",
-        "title": "90 a\u00f1os del estreno de \u00c9xtasis",
-        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/90-anos-del-estreno-de-extasis/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Felipe Carrillo G\u00e1faro",
-        "date": "2023-03-03",
-        "publication": "el-espectador",
-        "title": "F\u00fatbol salvaje",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/futbol-salvaje/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Parra Gallego*",
-        "date": "2023-03-03",
-        "publication": "el-espectador",
-        "title": "El desminado humanitario en Colombia es una buena inversi\u00f3n",
-        "url": "https://www.elespectador.com/colombia-20/analistas/el-desminado-humanitario-en-colombia-es-una-buena-inversion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-03-03",
-        "publication": "el-espectador",
-        "title": "La menopausia y la falsa idea de que estamos enfermas y somos desechables",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/la-menopausia-y-la-falsa-idea-de-que-estamos-enfermas-y-somos-desechables/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2023-03-02",
-        "publication": "el-espectador",
-        "title": "Peor",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/peor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2023-03-02",
-        "publication": "el-espectador",
-        "title": "Drogas: el debate que nos deben",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/drogas-el-debate-que-nos-deben/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-03",
+        "date": "2023-03-04",
         "publication": "el-tiempo",
-        "title": "Los cultivos il\u00edcitos",
-        "url": "https://www.eltiempo.com/opinion/editorial/los-cultivos-ilicitos-editorial-el-tiempo-746799"
+        "title": "Trasplantes de vida",
+        "url": "https://www.eltiempo.com/opinion/editorial/trasplantes-de-vida-editorial-el-tiempo-747126"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-03-03",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2023-03-04",
         "publication": "el-tiempo",
-        "title": "Dahl y los neopuritanos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/dahl-y-los-neopuritanos-columna-de-moises-wasserman-746710"
+        "title": "Costosa incertidumbre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/costosa-incertidumbre-columna-de-mauricio-cardenas-santamaria-747096"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-03-03",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-03-04",
         "publication": "el-tiempo",
-        "title": "Gestos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/gestos-columna-de-ricardo-silva-romero-746745"
+        "title": "Para alquilar balc\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/para-alquilar-balcon-columna-de-luis-noe-ochoa-747108"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2023-03-03",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2023-03-04",
         "publication": "el-tiempo",
-        "title": "Viva, tormenta de alto riesgo (I)",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/viva-tormenta-de-alto-riesgo-i-columna-de-martha-ortiz-746762"
+        "title": "Viva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/viva-columna-de-jose-gregorio-hernandez-747044"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2023-03-03",
+        "author": "Manuel Rodr\u00edguez Becerra",
+        "date": "2023-03-04",
         "publication": "el-tiempo",
-        "title": "\u00bfSomos reemplazables?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/somos-reemplazables-columna-de-claudia-hakim-746726"
+        "title": "\u00bfCaos en los bonos de carbono forestales?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/caos-en-los-bonos-de-carbono-forestales-columna-de-manuel-rodriguez-747047"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-03-03",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-03-04",
         "publication": "el-tiempo",
-        "title": "En tiempos de crisis",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/en-tiempos-de-crisis-columna-de-eduardo-posada-carbo-746713"
+        "title": "\u00bfQu\u00e9 hay detr\u00e1s de una foto?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/que-hay-detras-de-una-foto-columna-de-oscar-dominguez-giraldo-747056"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Cheyne",
-        "date": "2023-03-03",
+        "author": "Proyect Syndicate",
+        "date": "2023-03-04",
         "publication": "el-tiempo",
-        "title": "Serenidad en el Congreso",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-cheyne/serenidad-en-el-congreso-columna-de-alejandro-cheyne-746773"
-    },
-    {
-        "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2023-03-03",
-        "publication": "el-tiempo",
-        "title": "Excelente y accidentada \u2018Tosca\u2019, de Puccini",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/excelente-y-accidentada-tosca-de-puccini-columna-de-martha-senn-746770"
-    },
-    {
-        "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2023-03-03",
-        "publication": "el-tiempo",
-        "title": "Sometimiento, con glifosato",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/sometimiento-con-glifosato-columna-de-alfredo-rangel-746749"
-    },
-    {
-        "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2023-03-03",
-        "publication": "el-tiempo",
-        "title": "Adaptarse al cambio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/adaptarse-al-cambio-columna-de-salvo-basile-746741"
+        "title": "La diplomacia de la muchedumbre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/proyect-syndicate/la-diplomacia-de-la-muchedumbre-columna-de-proyect-syndicate-747058"
     }
 ]
