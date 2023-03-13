@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-12",
+        "date": "2023-03-13",
         "publication": "el-colombiano",
-        "title": "El Petrogate",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-petrogate-ED20767605"
+        "title": "La c\u00e1rcel de Bukele",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-carcel-de-bukele-GD20769870"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
+        "date": "2023-03-13",
+        "publication": "el-colombiano",
+        "title": "La tragedia de la miner\u00eda",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-tragedia-de-la-mineria-FD20767750"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Escobar Valencia",
+        "date": "2023-03-13",
+        "publication": "el-colombiano",
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cuando-la-tolerancia-no-es-virtud-BD20767732"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2023-03-13",
+        "publication": "el-colombiano",
+        "title": "Oposici\u00f3n C\u00edvica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/oposicion-civica-DD20767703"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Bibiana Botero C.",
+        "date": "2023-03-13",
+        "publication": "el-colombiano",
+        "title": "La consentida ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-consentida-PD20767686"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Bernardo V\u00e9lez M.",
+        "date": "2023-03-13",
+        "publication": "el-colombiano",
+        "title": "Cuidemos la infancia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cuidemos-la-infancia-PD20767668"
     },
     {
         "article-type": "column",
@@ -48,52 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/los-nuevos-progresismos-latinoamericanos-ID20767438"
     },
     {
-        "article-type": "column",
-        "author": "Rafael Pardo Rueda",
-        "date": "2023-03-12",
-        "publication": "el-colombiano",
-        "title": "Tres rutas sobre la coca condenadas a un mismo destino",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/tres-rutas-sobre-la-coca-condenadas-a-un-mismo-destino-LD20767419"
-    },
-    {
-        "article-type": "column",
-        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
-        "date": "2023-03-12",
-        "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/incels-del-rechazo-al-crimen-ID20767384"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2023-03-12",
-        "publication": "el-colombiano",
-        "title": "La justicia, \u00fanico contrapoder que subsiste en Colombia. \u00bfDar\u00e1 la talla?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-justicia-unico-contrapoder-que-subsiste-en-colombia-dara-la-talla-HD20767356"
-    },
-    {
-        "article-type": "column",
-        "author": " Alejandro Noguera C.",
-        "date": "2023-03-11",
-        "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/commemoratio-BD20764885"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Guillermo \u00c1ngel",
-        "date": "2023-03-11",
-        "publication": "el-colombiano",
-        "title": "Sobre descomposiciones",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-descomposiciones-LD20764834"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-12",
+        "date": "2023-03-13",
         "publication": "el-espectador",
-        "title": " Aida Merlano: no m\u00e1s show, lleg\u00f3 la hora de las pruebas ",
-        "url": "https://www.elespectador.com/opinion/editorial/aida-merlano-no-mas-show-llego-la-hora-de-las-pruebas/"
+        "title": "Un buen acuerdo entre Gobierno y sector financiero",
+        "url": "https://www.elespectador.com/opinion/editorial/un-buen-acuerdo-entre-gobierno-y-sector-financiero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Allison Benson Hern\u00e1ndez",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "Es la econom\u00eda, se\u00f1or presidente",
+        "url": "https://www.elespectador.com/opinion/columnistas/allison-benson-hernandez/es-la-economia-senor-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "Desequilibrios",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/desequilibrios-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "Inminente riesgo agr\u00edcola",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/inminente-riesgo-agricola/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "Borrachera de poder",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/borrachera-de-poder/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcelo Caruso A.",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "Desde los balcones",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/desde-los-balcones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "No, la tilde no volvi\u00f3 a \u00absolo\u00bb (2.\u00aa parte)",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/no-la-tilde-no-volvio-a-solo-2-parte/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "La hist\u00f3rica responsabilidad del Congreso",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/la-historica-responsabilidad-del-congreso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "Negociar con Fecode, no simplemente consensuar",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/negociar-con-fecode-no-simplemente-consensuar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "\u00bfTikTok, el caballo de Troya?",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/tiktok-el-caballo-de-troya/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "La econom\u00eda no se regulariza",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/la-economia-no-se-regulariza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: La canasta de Pascual",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-la-canasta-de-pascual/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2023-03-13",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cNo m\u00e1s shows, lleg\u00f3 la hora de las pruebas\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-no-mas-shows-llego-la-hora-de-las-pruebas/"
     },
     {
         "article-type": "column",
@@ -128,171 +224,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/karim-ganem/"
     },
     {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Preguntas sin respuestas",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/preguntas-sin-respuestas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Con m de mentiras",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/con-m-de-mentiras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Cuando nos toman por idiotas ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/cuando-nos-toman-por-idiotas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Lazos familiares",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/lazos-familiares/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Paz total, narcotr\u00e1fico y prohibici\u00f3n (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/paz-total-narcotrafico-y-prohibicion-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Los efectos autodestructivos de la tristeza progresista",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/los-efectos-autodestructivos-de-la-tristeza-progresista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Regreso del hijo del Ejecutivo",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/regreso-del-hijo-del-ejecutivo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja consuelan al presidente Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-consuelan-al-presidente-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Se va la gente, se va la plata",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/se-va-la-gente-se-va-la-plata/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Once Caldas: conocimiento y experiencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/once-caldas-conocimiento-y-experiencia-columna-de-luis-fernando-montoya-pedro-sarmiento/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Microlingotes",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-86/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-03-12",
-        "publication": "el-espectador",
-        "title": "Incre\u00edblemente perfectos ",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/increiblemente-perfectos/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-12",
+        "date": "2023-03-13",
         "publication": "el-tiempo",
-        "title": "La hora de las cortes",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-12-de-marzo-de-2023-la-hora-de-las-cortes-749432"
+        "title": "La crisis del Bajo Cauca",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-13-de-marzo-de-2023-la-crisis-del-bajo-cauca-749575"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-03-12",
+        "author": "Juan Lozano",
+        "date": "2023-03-13",
         "publication": "el-tiempo",
-        "title": "Ahora quieren acabar con la vivienda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-ahora-quieren-acabar-con-la-vivienda-749433"
+        "title": "Aida y Nicol\u00e1s",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-aida-y-nicolas-749591"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-03-12",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2023-03-13",
         "publication": "el-tiempo",
-        "title": "Los riesgos del adulterio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-los-riesgos-del-adulterio-749445"
+        "title": "Fracaso temprano del proceso de paz total",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-fracaso-del-proceso-de-paz-total-749592"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-03-12",
+        "author": "Luis Felipe Henao",
+        "date": "2023-03-13",
         "publication": "el-tiempo",
-        "title": "\u00bfY la responsabilidad pol\u00edtica?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-y-la-responsabilidad-politica-749451"
+        "title": "Infarto en la paz",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-infarto-en-la-paz-749588"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-03-12",
+        "author": "Diego Santos",
+        "date": "2023-03-13",
         "publication": "el-tiempo",
-        "title": "Pensar en chiquito",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-pensar-en-chiquito-749434"
+        "title": "El estrepitoso colapso del banco de las \u2018start-ups\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-el-colapso-del-banco-de-las-start-ups-749599"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-03-12",
+        "author": "Paola Ochoa",
+        "date": "2023-03-13",
         "publication": "el-tiempo",
-        "title": "Vivir ins\u00edpido",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-vivir-insipido-749446"
+        "title": "Yo no lo crie",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-yo-no-lo-crie-749600"
     },
     {
         "article-type": "column",
-        "author": "Paula Moreno",
-        "date": "2023-03-12",
+        "author": "Armando Silva",
+        "date": "2023-03-13",
         "publication": "el-tiempo",
-        "title": "Un historiador que hace historia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paula-moreno/columna-de-paula-moreno-un-historiador-que-hace-historia-749449"
+        "title": "\u2018Esto se jodi\u00f3\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-esto-se-jodio-749578"
     },
     {
         "article-type": "column",
-        "author": "Jaime Castro",
-        "date": "2023-03-12",
+        "author": "Melba Escobar",
+        "date": "2023-03-13",
         "publication": "el-tiempo",
-        "title": "La oposici\u00f3n debe ser alternativa de poder",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jaime-castro/columna-de-jaime-castro-la-oposicion-debe-ser-alternativa-de-poder-749452"
+        "title": "Una familia es una familia es una familia es una familia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-una-familia-es-una-familia-749598"
     },
     {
         "article-type": "column",
-        "author": "Fabio Mart\u00ednez",
-        "date": "2023-03-12",
+        "author": "Alejandro Higuera Sotomayor",
+        "date": "2023-03-13",
         "publication": "el-tiempo",
-        "title": "Isa\u00edas Pe\u00f1a Guti\u00e9rrez, el forjador de escritores",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/columna-de-fabio-martinez-isaias-pena-gutierrez-749454"
+        "title": "Deshipersexualic\u00e9monos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-deshipersexualicemonos-749622"
     }
 ]
