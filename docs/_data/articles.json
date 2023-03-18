@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-17",
+        "date": "2023-03-18",
         "publication": "el-colombiano",
-        "title": "La vicepresidenta ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-vicepresidenta-LM20799406"
+        "title": "\u00bfY el poder para qu\u00e9? ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/y-el-poder-para-que-LL20812494"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Mesa Puyo",
+        "date": "2023-03-18",
+        "publication": "el-colombiano",
+        "title": "Discusiones globales ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/discusiones-globales-MK20808114"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Correa Vel\u00e1squez",
+        "date": "2023-03-18",
+        "publication": "el-colombiano",
+        "title": "En sentido contrario a las agujas del reloj",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/en-sentido-contrario-a-las-agujas-del-reloj-DK20807073"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2023-03-18",
+        "publication": "el-colombiano",
+        "title": "Sobre la abundancia de malestar",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-la-abundancia-de-malestar-AK20807052"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2023-03-18",
+        "publication": "el-colombiano",
+        "title": "Los j\u00f3venes y la pol\u00edtica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/los-jovenes-y-la-politica-AK20806996"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Juli\u00e1n Rend\u00f3n",
+        "date": "2023-03-18",
+        "publication": "el-colombiano",
+        "title": "Bajo Cauca Antioque\u00f1o: mucha zanahoria, poco garrote",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/bajo-cauca-antioqueno-mucha-zanahoria-poco-garrote-EK20806750"
     },
     {
         "article-type": "column",
@@ -48,52 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/sufrimos-bipolaridad-KM20792558"
     },
     {
-        "article-type": "column",
-        "author": "Juan G\u00f3mez Mart\u00ednez",
-        "date": "2023-03-16",
-        "publication": "el-colombiano",
-        "title": "Lleg\u00f3 el cambio",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/llego-el-cambio-AN20788888"
-    },
-    {
-        "article-type": "column",
-        "author": "Humberto Montero",
-        "date": "2023-03-16",
-        "publication": "el-colombiano",
-        "title": "Histerismos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/histerismos-FN20788863"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Rengifo Botero",
-        "date": "2023-03-16",
-        "publication": "el-colombiano",
-        "title": "Mi doble moral",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/mi-doble-moral-BN20788845"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Botero Montoya",
-        "date": "2023-03-16",
-        "publication": "el-colombiano",
-        "title": "Hugo Ch\u00e1vez y Colombia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/hugo-chavez-y-colombia-BN20788823"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2023-03-16",
-        "publication": "el-colombiano",
-        "title": "Adi\u00f3s, celibato",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/adios-celibato-KN20788662"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-17",
+        "date": "2023-03-18",
         "publication": "el-espectador",
-        "title": "La justa libertad de Judith Pinedo Fl\u00f3rez",
-        "url": "https://www.elespectador.com/opinion/editorial/la-justa-libertad-de-judith-pinedo-florez/"
+        "title": "Tic toc para TikTok y el espionaje chino",
+        "url": "https://www.elespectador.com/opinion/editorial/tic-toc-para-tiktok-y-el-espionaje-chino/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "1961-2023",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/un-estrecho-horizonte-moral/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "\u00a1Sigue bajando el coeficiente de inteligencia!",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/sigue-bajando-el-coeficiente-de-inteligencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "Minas: \u00bflegislar lo ilegislable?",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/minas-legislar-lo-ilegislable/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "La c\u00e1rcel de Bukele",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/la-carcel-de-bukele/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "Se obedece, pero no se cumple (I)",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/se-obedece-pero-no-se-cumple-i/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "Un poquito de levedad, por favor",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/un-poquito-de-levedad-por-favor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Ochoa",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "Paz sobre el pantano",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-ochoa/paz-sobre-el-pantano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mart\u00edn Jaramillo",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "La tensi\u00f3n entre pol\u00edticos y expertos",
+        "url": "https://www.elespectador.com/opinion/columnistas/martin-jaramillo/la-tension-entre-politicos-y-expertos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro \u00c1lvarez",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "Vuelve el debate sobre la Ley 30",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-alvarez/vuelve-el-debate-sobre-la-ley-30/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "Sexismo, grabaciones y protesta",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/sexismo-grabaciones-y-protesta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "Una salida",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/una-salida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Foro Nacional por Colombia",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "Un escollo m\u00e1s en la ruta de la reparaci\u00f3n",
+        "url": "https://www.elespectador.com/colombia-20/analistas/un-escollo-mas-en-la-ruta-de-la-reparacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-03-18",
+        "publication": "el-espectador",
+        "title": "Cristina Britez y la violencia obst\u00e9trica en Argentina",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/cristina-britez-y-la-violencia-obstetrica-en-argentina/"
     },
     {
         "article-type": "column",
@@ -120,179 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/mascotas-sostenibles/"
     },
     {
-        "article-type": "column",
-        "author": "Teresita Goyeneche",
-        "date": "2023-03-17",
-        "publication": "el-espectador",
-        "title": "Este presente fugaz",
-        "url": "https://www.elespectador.com/opinion/columnistas/teresita-goyeneche/este-presente-fugaz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-03-17",
-        "publication": "el-espectador",
-        "title": "Preocupante ley de sometimiento",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/preocupante-ley-de-sometimiento/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2023-03-17",
-        "publication": "el-espectador",
-        "title": "Madrugones",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/madrugones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2023-03-17",
-        "publication": "el-espectador",
-        "title": "\u00bfVuelve el tren al Valle?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/vuelve-el-tren-al-valle/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Sevillano",
-        "date": "2023-03-17",
-        "publication": "el-espectador",
-        "title": "El reto de Esteban Restrepo",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/el-reto-de-esteban-restrepo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-03-17",
-        "publication": "el-espectador",
-        "title": "Qu\u00e9 ser\u00eda vivir sin...",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/que-seria-vivir-sin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
-        "date": "2023-03-17",
-        "publication": "el-espectador",
-        "title": "Nasa: cohetes nucleares",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/nasa-cohetes-nucleares/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2023-03-17",
-        "publication": "el-espectador",
-        "title": "La tormenta y los anhelos",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/la-tormenta-y-los-anhelos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Bada",
-        "date": "2023-03-17",
-        "publication": "el-espectador",
-        "title": "Hern\u00e1n Vald\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/hernan-valdes/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2023-03-17",
-        "publication": "el-espectador",
-        "title": "Reforma a la salud: \u00bfEl desastre o la salvaci\u00f3n de Colombia?",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/reforma-a-la-salud-el-desastre-o-la-salvacion-de-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-03-16",
-        "publication": "el-espectador",
-        "title": "Anhelos autoritaristas",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/anhelos-autoritaristas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
-        "date": "2023-03-16",
-        "publication": "el-espectador",
-        "title": "Los costos universitarios ",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/los-costos-universitarios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Adriana Cooper",
-        "date": "2023-03-16",
-        "publication": "el-espectador",
-        "title": "Cuando un pa\u00eds no come bien",
-        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/cuando-un-pais-no-come-bien/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-17",
+        "date": "2023-03-18",
         "publication": "el-tiempo",
-        "title": "Minas m\u00e1s seguras",
-        "url": "https://www.eltiempo.com/opinion/editorial/minas-mas-seguras-editorial-el-tiempo-751046"
+        "title": "El s\u00e9ptimo intento",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-septimo-intento-editorial-el-tiempo-751379"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-03-17",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2023-03-18",
         "publication": "el-tiempo",
-        "title": "La \u2018tragedia de los bienes comunales\u2019 y la verdad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/la-tragedia-de-los-bienes-comunales-y-la-verdad-moises-wasserman-750974"
+        "title": "La receta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/la-receta-columna-de-mauricio-cardenas-santamaria-751414"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-03-17",
+        "author": "Sara Tufano",
+        "date": "2023-03-18",
         "publication": "el-tiempo",
-        "title": "Par\u00e9ntesis",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/parentesis-columna-de-ricardo-silva-romero-750985"
+        "title": "Contra el fanatismo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/contra-el-fanatismo-columna-de-sara-tufano-751289"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2023-03-17",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-03-18",
         "publication": "el-tiempo",
-        "title": "\u00a1Viva! La industria de la aviaci\u00f3n (II)",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/viva-la-industria-de-la-aviacion-columna-de-martha-ortiz-750995"
+        "title": "Darle en el coco a la coca",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/darle-en-el-coco-a-la-coca-columna-de-luis-noe-ochoa-751368"
     },
     {
         "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2023-03-17",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2023-03-18",
         "publication": "el-tiempo",
-        "title": "Reforma laboral antiempresa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/reforma-laboral-antiempresa-columna-de-alfredo-rangel-750968"
+        "title": "El error judicial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/el-error-judicial-columna-de-jose-gregorio-hernandez-751331"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2023-03-17",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2023-03-18",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 hacemos con la incertidumbre?\u00b9",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/que-hacemos-con-la-incertidumbre-columna-de-claudia-hakim-750965"
+        "title": "Tras las rejas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/tras-las-rejas-columna-de-victor-manuel-ruiz-751297"
     },
     {
         "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2023-03-17",
+        "author": "Peter Singer",
+        "date": "2023-03-18",
         "publication": "el-tiempo",
-        "title": "Inculto e infortunado despido",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/inculto-e-infortunado-despido-columna-de-martha-senn-750970"
+        "title": "\u00bfRevisar\u00e1 la Iglesia Cat\u00f3lica su doctrina sobre la anticoncepci\u00f3n?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/peter-singer/revisara-la-iglesia-catolica-su-doctrina-sobre-la-anticoncepcion-751364"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-03-17",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2023-03-18",
         "publication": "el-tiempo",
-        "title": "En b\u00fasqueda de \u00c9lis\u00e9e Reclus",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/en-busqueda-de-elisee-reclus-columna-de-eduardo-posada-carbo-750979"
-    },
-    {
-        "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2023-03-17",
-        "publication": "el-tiempo",
-        "title": "Ciberfeudalismo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/ciberfeudalismo-columna-de-salvo-basile-750992"
+        "title": "Visiones del horror de la Primera Guerra Mundial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/visiones-del-horror-de-la-primera-guerra-mundial-mauricio-laurens-751361"
     }
 ]
