@@ -2,10 +2,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-21",
+        "date": "2023-03-22",
         "publication": "el-colombiano",
-        "title": "\u00bfQu\u00e9 hacer con ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/que-hacer-con-las-reformas-LI20828344"
+        "title": "Los bancos y las startups",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/los-bancos-y-las-startups-DJ20837422"
+    },
+    {
+        "article-type": "column",
+        "author": "David E. Santos G\u00f3mez",
+        "date": "2023-03-22",
+        "publication": "el-colombiano",
+        "title": "El periodismo de la mentira ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-periodismo-de-la-mentira-EJ20837298"
+    },
+    {
+        "article-type": "column",
+        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
+        "date": "2023-03-22",
+        "publication": "el-colombiano",
+        "title": "Se enred\u00f3 en las espuelas ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/se-enredo-en-las-espuelas-GJ20837155"
+    },
+    {
+        "article-type": "column",
+        "author": "Luz Mar\u00eda M\u00fanera Medina",
+        "date": "2023-03-22",
+        "publication": "el-colombiano",
+        "title": "\u00a1Pactemos por Colombia, por Antioquia, por Medell\u00edn! ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/pactemos-por-colombia-por-antioquia-por-medellin-DJ20837015"
+    },
+    {
+        "article-type": "column",
+        "author": "David Yanovich",
+        "date": "2023-03-22",
+        "publication": "el-colombiano",
+        "title": "Sindicatos privilegiados",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sindicatos-privilegiados-GJ20836918"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Oppenheimer",
+        "date": "2023-03-22",
+        "publication": "el-colombiano",
+        "title": "El sorprendente balance del r\u00e9gimen de Maduro ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-sorprendente-balance-del-regimen-de-maduro-HJ20836809"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas a la Directora",
+        "date": "2023-03-22",
+        "publication": "el-colombiano",
+        "title": "Una guerra contra la escuela y los maestros",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/una-guerra-contra-la-escuela-y-los-maestros-JJ20837358"
     },
     {
         "article-type": "column",
@@ -40,68 +88,68 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/pues-de-malas-BI20828191"
     },
     {
-        "article-type": "column",
-        "author": "Natalia Zuluaga Rivera",
-        "date": "2023-03-21",
-        "publication": "el-colombiano",
-        "title": "La voz de una mujer se escucha",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-voz-de-una-mujer-se-escucha-NI20828173"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Vargas Llosa",
-        "date": "2023-03-20",
-        "publication": "el-colombiano",
-        "title": "Rastros de genocidio",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/rastros-de-genocidio-OI20823638"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Escobar Valencia",
-        "date": "2023-03-20",
-        "publication": "el-colombiano",
-        "title": "\u00bfA la inflaci\u00f3n del \u201cRat\u00f3n P\u00e9rez\u201d quien le mete el diente?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/a-la-inflacion-del-raton-perez-quien-le-mete-el-diente-MI20823582"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
-        "date": "2023-03-20",
-        "publication": "el-colombiano",
-        "title": "Sufrimiento econ\u00f3mico ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sufrimiento-economico-EI20823564"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Bibiana Botero C.",
-        "date": "2023-03-20",
-        "publication": "el-colombiano",
-        "title": "Mensaje para los Congresistas: responsabilidad y bien colectivo ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/mensaje-para-los-congresistas-responsabilidad-y-bien-colectivo-EI20823546"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
-        "date": "2023-03-20",
-        "publication": "el-colombiano",
-        "title": "Seguimos muy mal conectados ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/seguimos-muy-mal-conectados-MI20823528"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-21",
+        "date": "2023-03-22",
         "publication": "el-espectador",
-        "title": "No hab\u00eda otra opci\u00f3n con el Clan del Golfo",
-        "url": "https://www.elespectador.com/opinion/editorial/no-habia-otra-opcion-con-el-clan-del-golfo/"
+        "title": "Putin y su orden de detenci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/editorial/putin-y-su-orden-de-detencion/"
     },
     {
         "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-03-21",
+        "author": "Juan Pablo Ruiz Soto",
+        "date": "2023-03-22",
         "publication": "el-espectador",
-        "title": "El D\u00eda del Hombre",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/el-dia-del-hombre/"
+        "title": "Colombia: parque automotriz e hidrocarburos",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/colombia-parque-automotriz-e-hidrocarburos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-03-22",
+        "publication": "el-espectador",
+        "title": "El negociador",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-negociador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-03-22",
+        "publication": "el-espectador",
+        "title": "Carta a un amigo no \u00edntimo",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/carta-a-un-amigo-no-intimo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-03-22",
+        "publication": "el-espectador",
+        "title": "Si quieren paz...",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/si-quieren-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-03-22",
+        "publication": "el-espectador",
+        "title": "Un \u201ch\u00e9roe\u201d cuestionado",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/un-heroe-cuestionado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Segovia",
+        "date": "2023-03-22",
+        "publication": "el-espectador",
+        "title": "Contin\u00faa el remez\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/continua-el-remezon/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2023-03-22",
+        "publication": "el-espectador",
+        "title": "San Andr\u00e9s no da tanta espera",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/san-andres-no-da-tanta-espera/"
     },
     {
         "article-type": "column",
@@ -113,6 +161,14 @@
     },
     {
         "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-03-21",
+        "publication": "el-espectador",
+        "title": "El D\u00eda del Hombre",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/el-dia-del-hombre/"
+    },
+    {
+        "article-type": "column",
         "author": "\u00d3scar Alarc\u00f3n",
         "date": "2023-03-21",
         "publication": "el-espectador",
@@ -121,19 +177,19 @@
     },
     {
         "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-03-21",
-        "publication": "el-espectador",
-        "title": "\u00bfCogobierno con el Eln en armas?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/cogobierno-con-el-eln-en-armas/"
-    },
-    {
-        "article-type": "column",
         "author": "Alejandro Reyes Posada",
         "date": "2023-03-21",
         "publication": "el-espectador",
         "title": "Nuevo trato a la movilizaci\u00f3n social",
         "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/nuevo-trato-a-la-movilizacion-social/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-03-21",
+        "publication": "el-espectador",
+        "title": "\u00bfCogobierno con el Eln en armas?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/cogobierno-con-el-eln-en-armas/"
     },
     {
         "article-type": "column",
@@ -168,123 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/bajo-la-sombrilla-china/"
     },
     {
-        "article-type": "column",
-        "author": "Rafael Orduz",
-        "date": "2023-03-21",
-        "publication": "el-espectador",
-        "title": "\u00bfPerderemos el tren de la inteligencia artificial?",
-        "url": "https://www.elespectador.com/opinion/columnistas/rafael-orduz/perderemos-el-tren-de-la-inteligencia-artificial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-03-21",
-        "publication": "el-espectador",
-        "title": "Sigue la decadencia del \u00d3scar",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/sigue-la-decadencia-del-oscar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Estefan\u00eda Ciro*",
-        "date": "2023-03-21",
-        "publication": "el-espectador",
-        "title": "\u00bfUna paz total a la altura del conflicto en Putumayo?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/una-paz-total-a-la-altura-del-conflicto-en-putumayo-opinion-estefania-ciro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Barbosa",
-        "date": "2023-03-20",
-        "publication": "el-espectador",
-        "title": "Primero ganar",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/primero-ganar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2023-03-20",
-        "publication": "el-espectador",
-        "title": "\u201cBad little\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/bad-little/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-03-20",
-        "publication": "el-espectador",
-        "title": "La integraci\u00f3n burs\u00e1til agr\u00edcola",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/la-integracion-bursatil-agricola/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-03-21",
-        "publication": "el-espectador",
-        "title": "Los hijos enredan a los padres",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/los-hijos-enredan-a-los-padres/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-21",
+        "date": "2023-03-22",
         "publication": "el-tiempo",
-        "title": "Lecciones de un cese",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-21-de-marzo-de-2023-lecciones-de-un-cese-751889"
+        "title": "Cuidar la vivienda",
+        "url": "https://www.eltiempo.com/opinion/editorial/cuidar-la-vivienda-editorial-el-tiempo-752216"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-03-21",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-03-22",
         "publication": "el-tiempo",
-        "title": "En defensa de la Fuerza P\u00fablica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-en-defensa-de-la-fuerza-publica-751899"
+        "title": "Pensemos en la educaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/pensemos-en-la-educacion-columna-de-alfonso-gomez-mendez-752146"
     },
     {
         "article-type": "column",
-        "author": "Viviane Morales Hoyos",
-        "date": "2023-03-21",
+        "author": "Florence Thomas",
+        "date": "2023-03-22",
         "publication": "el-tiempo",
-        "title": "La dinast\u00eda de los \u2018de malas\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/columna-de-viviane-morales-la-dinastia-de-los-de-malas-751900"
+        "title": "Cuidar, el verbo vital de un gran libro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/cuidar-el-verbo-vital-de-un-gran-libro-columna-de-florence-thomas-752155"
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2023-03-21",
+        "author": "Vladdo",
+        "date": "2023-03-22",
         "publication": "el-tiempo",
-        "title": "Muy agradecido",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/columna-de-oscar-dominguez-muy-agradecido-751892"
+        "title": "Irak, una guerra de mentiras",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/irak-una-guerra-de-mentiras-columna-de-vladdo-752176"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2023-03-21",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2023-03-22",
         "publication": "el-tiempo",
-        "title": "El derecho a participar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/columna-de-fernando-sanchez-torres-el-derecho-a-participar-751902"
+        "title": "De lirios del inmortal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/de-lirios-del-inmortal-columna-de-jotamario-arbelaez-752150"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2023-03-21",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-03-22",
         "publication": "el-tiempo",
-        "title": "A quien le caiga el guante...",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-escobar-a-quien-le-caiga-el-guante-751903"
+        "title": "Petro y Leyva, pifiados en su diplomacia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-y-leyva-pifiados-en-su-diplomacia-columna-de-poncho-renteria-752171"
     },
     {
         "article-type": "column",
-        "author": "Carolina Avenda\u00f1o",
-        "date": "2023-03-21",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-03-22",
         "publication": "el-tiempo",
-        "title": "Cuando el deporte no es salud sino vicio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carolina-avendano/columna-de-carolina-avendano-cuando-el-deporte-no-es-salud-sino-vicio-751905"
+        "title": "Hendrik Pfalzgraf: un personaje encantador",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/hendrik-pfalzgraf-un-personaje-encantador-columna-de-jose-miguel-alzate-752158"
     },
     {
         "article-type": "column",
-        "author": "Alpher Rojas C.",
-        "date": "2023-03-21",
+        "author": "Dar\u00edo Hidalgo",
+        "date": "2023-03-22",
         "publication": "el-tiempo",
-        "title": "Reformar con el coraz\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/columna-de-alpher-rojas-reformar-con-el-corazon-751906"
+        "title": "Sin paz vial no hay paz total",
+        "url": "https://www.eltiempo.com/opinion/columnistas/dario-hidalgo/sin-paz-vial-no-hay-paz-total-columna-de-dario-hidalgo-752181"
     }
 ]
