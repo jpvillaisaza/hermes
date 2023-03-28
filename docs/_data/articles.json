@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-25",
+        "date": "2023-03-28",
         "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/bien-ida-la-reforma-politica-KL20909773"
+        "title": "Trump y Johnson: un mismo ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/trump-y-johnson-un-mismo-modus-operandi-PJ20929053"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2023-03-28",
+        "publication": "el-colombiano",
+        "title": "Tragicomedia gubernamental",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/tragicomedia-gubernamental-BJ20927996"
+    },
+    {
+        "article-type": "column",
+        "author": "Federico Hoyos Salazar",
+        "date": "2023-03-28",
+        "publication": "el-colombiano",
+        "title": "Paz total: m\u00e1s que palabras e intenciones",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/paz-total-mas-que-palabras-e-intenciones-KJ20927940"
+    },
+    {
+        "article-type": "column",
+        "author": "Amalia Londo\u00f1o Duque",
+        "date": "2023-03-28",
+        "publication": "el-colombiano",
+        "title": "Conversaciones compartidas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/conversaciones-compartidas-OJ20927922"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2023-03-28",
+        "publication": "el-colombiano",
+        "title": "Xi , el componedor ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/xi-el-componedor-NJ20927903"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Mej\u00eda Cubillos",
+        "date": "2023-03-28",
+        "publication": "el-colombiano",
+        "title": "La innovaci\u00f3n se ha estancado y la academia es responsable ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-innovacion-se-ha-estancado-y-la-academia-es-responsable-CJ20927885"
     },
     {
         "article-type": "column",
@@ -48,243 +88,203 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/es-elastica-o-inelastica-la-relacion-entre-dinero-y-felicidad-NC20886649"
     },
     {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2023-03-26",
-        "publication": "el-colombiano",
-        "title": "La \u00faltima cena ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-ultima-cena-DD20895556"
+        "article-type": "editorial",
+        "author": null,
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "Estigmatizar desde la funci\u00f3n p\u00fablica no es libertad de culto",
+        "url": "https://www.elespectador.com/opinion/editorial/estigmatizar-desde-la-funcion-publica-no-es-libertad-de-culto/"
     },
     {
         "article-type": "column",
-        "author": "Rafael Pardo Rueda",
-        "date": "2023-03-26",
-        "publication": "el-colombiano",
-        "title": "Reforma pensional ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/reforma-pensional-AD20895533"
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "\u00bfPetr\u00f3leo o no petr\u00f3leo?",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/petroleo-o-no-petroleo/"
     },
     {
         "article-type": "column",
-        "author": "David Gonz\u00e1lez Escobar",
-        "date": "2023-03-26",
-        "publication": "el-colombiano",
-        "title": "Quiero a Medell\u00edn",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/quiero-a-medellin-ED20895515"
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "N\u00fa\u00f1ez, entre los amores y la paternidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/nunez-entre-los-amores-y-la-paternidad/"
     },
     {
         "article-type": "column",
-        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
-        "date": "2023-03-26",
-        "publication": "el-colombiano",
-        "title": "El rascacielos de los cerdos",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-rascacielos-de-los-cerdos-OD20895496"
+        "author": "Aldo Civico",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "Desobedecer ",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/desobedecer/"
     },
     {
         "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2023-03-26",
-        "publication": "el-colombiano",
-        "title": "Reflexiones sobre \u201cPaz Total\u201d y seguridad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/reflexiones-sobre-paz-total-y-seguridad-JD20895387"
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "No m\u00e1s estad\u00edsticas",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/no-mas-estadisticas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "\u00bfComplementar o modificar el Acuerdo de Paz?",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/complementar-o-modificar-el-acuerdo-de-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "La transici\u00f3n energ\u00e9tica y los alimentos",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/la-transicion-energetica-y-los-alimentos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "El obispo, el censor y el general",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/el-obispo-el-censor-y-el-general/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "No se rinde",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/no-se-rinde/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "\u00bfLatifundios para qu\u00e9?",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/latifundios-para-que/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "Complicidad y sanaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/complicidad-y-sanacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "La mentira y la guerra",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/la-mentira-y-la-guerra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "Cada proceso de paz es distinto",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/cada-proceso-de-paz-es-distinto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Camargo",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "M\u00e1s autenticidad y menos perfecci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/mas-autenticidad-y-menos-perfeccion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "\u00bfPor qu\u00e9 quieren convencernos de que el mundo es cada vez m\u00e1s violento?",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/por-que-quieren-convencernos-de-que-el-mundo-es-cada-vez-mas-violento/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "Veintinueve Cincuenta y Seis",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/veintinueve-cincuenta-y-seis/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-03-28",
+        "publication": "el-espectador",
+        "title": "A Beethoven tambi\u00e9n lo criticaron",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/a-beethoven-tambien-lo-criticaron/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "\u00bfUna reforma a la salud concertada?",
-        "url": "https://www.elespectador.com/opinion/editorial/una-reforma-a-la-salud-concertada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Teresa Ronderos",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "El \u201cmilagro\u201d Bukele",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/el-milagro-bukele/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "\u00bfCu\u00e1l es la diferencia entre \u00aboferente\u00bb y \u00abofertante\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/cual-es-la-diferencia-entre-oferente-y-ofertante/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "La agobiante inflaci\u00f3n ",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-agobiante-inflacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "\u201c\u00bfEl proyecto de reforma a la salud s\u00ed desarrolla la Ley Estatutaria?\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/el-proyecto-de-reforma-a-la-salud-desarrolla-la-ley-estatutaria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "Cada reforma, un proceso",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/cada-reforma-un-proceso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "Columa de Jorge Tovar: No a la ley Anti-Dibu",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columa-de-jorge-tovar-no-a-la-ley-anti-dibu/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "Cabalgar sobre estereotipos y buscar acabarlos",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/cabalgar-sobre-estereotipos-y-buscar-acabarlos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "\u00bfSe hundir\u00e1n otras reformas?",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/se-hundiran-otras-reformas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "Sobre el Plan de Desarrollo",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/sobre-el-plan-de-desarrollo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "Los programas sociales y el estado de la econom\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/los-programas-sociales-y-el-estado-de-la-economia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cProcuradora y fiscal, \u00bfactores pol\u00edticos?\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-procuradora-y-fiscal-actores-politicos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Antequera Guzm\u00e1n",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "La paz total en la naci\u00f3n amurallada",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-paz-total-en-la-nacion-amurallada-gustavo-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-03-27",
-        "publication": "el-espectador",
-        "title": "Referentes para creer",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/referentes-para-creer/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2023-03-26",
-        "publication": "el-espectador",
-        "title": "La reforma laboral: pasado como futuro",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/la-reforma-laboral-pasado-como-futuro/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-03-26",
-        "publication": "el-espectador",
-        "title": "Reforma o revoluci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/reforma-o-revolucion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-03-26",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja ceden su columna a la Inteligencia Artificial",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-ceden-su-columna-a-la-inteligencia-artificial/"
-    },
-    {
-        "article-type": "editorial",
-        "author": null,
-        "date": "2023-03-27",
+        "date": "2023-03-28",
         "publication": "el-tiempo",
-        "title": "Vientos cruzados",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-27-de-marzo-de-2023-vientos-cruzados-753717"
+        "title": "El desangre de Pdvsa",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-desangre-de-pdvsa-editorial-el-tiempo-754073"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-03-27",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-03-28",
         "publication": "el-tiempo",
-        "title": "Urge su voz, ministro Ocampo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-urge-su-voz-ministro-ocampo-753729"
+        "title": "Hablaron los gobernadores",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/hablaron-los-gobernadores-columna-de-jose-manuel-acevedo-754017"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2023-03-27",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2023-03-28",
         "publication": "el-tiempo",
-        "title": "La responsabilidad presidencial",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-la-responsabilidad-presidencial-753730"
+        "title": "Migraci\u00f3n significa movimiento",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/migracion-significa-movimiento-columna-de-marcela-melendez-754056"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-03-27",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2023-03-28",
         "publication": "el-tiempo",
-        "title": "Reformas para el fracaso",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-reformas-para-el-fracaso-753735"
+        "title": "Vuelven los idus de marzo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/vuelven-los-idus-de-marzo-columna-de-sergio-munoz-bata-753979"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-03-27",
+        "author": "Francisco Cajiao",
+        "date": "2023-03-28",
         "publication": "el-tiempo",
-        "title": "Los videojuegos ya no son cosa de ni\u00f1os",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-los-videojuegos-ya-no-son-cosa-de-ninos-753734"
+        "title": "A prop\u00f3sito de un discurso",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/a-proposito-de-un-discurso-columna-de-francisco-cajiao-753995"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2023-03-27",
+        "author": "Fernando Quiroz",
+        "date": "2023-03-28",
         "publication": "el-tiempo",
-        "title": "Con la vara que midas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-con-la-vara-que-midas-753738"
+        "title": "De vida o muerte",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/de-vida-o-muerte-columna-de-fernando-quiroz-754005"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-03-27",
+        "author": "Fernando Posada",
+        "date": "2023-03-28",
         "publication": "el-tiempo",
-        "title": "Seguridad digital del Estado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-seguridad-digital-del-estado-753720"
+        "title": "Defender la protesta como antes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/defender-la-protesta-como-antes-columna-de-fernando-posada-754046"
     },
     {
         "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-03-27",
+        "author": "Gregory Lobo",
+        "date": "2023-03-28",
         "publication": "el-tiempo",
-        "title": "Tragedias cotidianas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-tragedias-cotidianas-753732"
+        "title": "Las prohibiciones prohibidas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/las-prohibiciones-prohibidas-columna-de-gregory-lobo-754031"
     }
 ]
