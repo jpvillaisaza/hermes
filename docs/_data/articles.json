@@ -2,10 +2,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-29",
+        "date": "2023-03-30",
         "publication": "el-colombiano",
-        "title": "Algo huele mal ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/algo-huele-mal-LP20941479"
+        "title": "No seguir el terrible ejemplo de PDVSA ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/no-seguir-el-terrible-ejemplo-de-pdvsa-GO20955627"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Botero Montoya",
+        "date": "2023-03-30",
+        "publication": "el-colombiano",
+        "title": "Industrializaci\u00f3n y Proteccionismo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/industrializacion-y-proteccionismo-MO20955779"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-03-30",
+        "publication": "el-colombiano",
+        "title": "La culpa es de la vaca",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-culpa-es-de-la-vaca-OO20955685"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Luisa Zapata",
+        "date": "2023-03-30",
+        "publication": "el-colombiano",
+        "title": "Seres disruptivos ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/seres-disruptivos-CO20955645"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2023-03-30",
+        "publication": "el-colombiano",
+        "title": "Entre rejas ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/entre-rejas-EO20955551"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2023-03-30",
+        "publication": "el-colombiano",
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-lenta-evolucion-del-trabajo-domestico-decente-MO20955458"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2023-03-30",
+        "publication": "el-colombiano",
+        "title": "Por la Uni\u00f3n Iberoamericana",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/por-la-union-iberoamericana-GO20950798"
     },
     {
         "article-type": "column",
@@ -40,60 +88,116 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/temblor-en-la-isla-BP20941110"
     },
     {
-        "article-type": "column",
-        "author": "Luz Mar\u00eda M\u00fanera Medina",
-        "date": "2023-03-29",
-        "publication": "el-colombiano",
-        "title": "\u00bfSer\u00e1 que el FMI se volvi\u00f3 Castro \u2013 Chavista? ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sera-que-el-fmi-se-volvio-castro-chavista-FP20940959"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2023-03-29",
-        "publication": "el-colombiano",
-        "title": "Sobre el poder y su caducidad",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-el-poder-y-su-caducidad-MP20940873"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2023-03-28",
-        "publication": "el-colombiano",
-        "title": "Tragicomedia gubernamental",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/tragicomedia-gubernamental-BJ20927996"
-    },
-    {
-        "article-type": "column",
-        "author": "Federico Hoyos Salazar",
-        "date": "2023-03-28",
-        "publication": "el-colombiano",
-        "title": "Paz total: m\u00e1s que palabras e intenciones",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/paz-total-mas-que-palabras-e-intenciones-KJ20927940"
-    },
-    {
-        "article-type": "column",
-        "author": "Amalia Londo\u00f1o Duque",
-        "date": "2023-03-28",
-        "publication": "el-colombiano",
-        "title": "Conversaciones compartidas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/conversaciones-compartidas-OJ20927922"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2023-03-28",
-        "publication": "el-colombiano",
-        "title": "Xi , el componedor ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/xi-el-componedor-NJ20927903"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-29",
+        "date": "2023-03-30",
         "publication": "el-espectador",
-        "title": "Netanyahu se repliega, pero no desiste",
-        "url": "https://www.elespectador.com/opinion/editorial/netanyahu-se-repliega-pero-no-desiste/"
+        "title": "No hay libertad de prensa sin seguridad",
+        "url": "https://www.elespectador.com/opinion/editorial/no-hay-libertad-de-prensa-sin-seguridad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "Henry Sanabria vs. El Maligno ",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/henry-sanabria-vs-el-maligno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "\u00bfPara cu\u00e1ndo el cese al fuego entre Estado y Eln?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/para-cuando-el-cese-al-fuego-entre-estado-y-eln/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "En el centro del universo",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/en-el-centro-del-universo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "Hacia el sue\u00f1o de una civilizaci\u00f3n global",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/hacia-el-sueno-de-una-civilizacion-global/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "Muertos y memorias esquivas",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/muertos-y-memorias-esquivas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcelo Caruso A.",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "Reforma y revoluci\u00f3n democr\u00e1tica",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/reforma-y-revolucion-democratica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "Frustraci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/frustracion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "Las malas amistades de Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/las-malas-amistades-de-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "Dios o patria",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/dios-o-patria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "Columna de Luis F. Montoya: selecci\u00f3n de Colombia, hay con qu\u00e9",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/seleccion-de-colombia-hay-con-que-columna-de-luis-fernando-montoya/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "Las leyes de la gravedad",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/las-leyes-de-la-gravedad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Foro Nacional por Colombia*",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "La Paz en el Plan Nacional de Desarrollo",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-paz-en-el-plan-nacional-de-desarrollo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-03-30",
+        "publication": "el-espectador",
+        "title": "Nuestro enigma de esta semana: una foto que se anunciaba, pero no aparec\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nuestro-enigma-de-esta-semana-una-foto-que-se-anunciaba-pero-no-aparecia/"
     },
     {
         "article-type": "column",
@@ -120,163 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/van-por-todo/"
     },
     {
-        "article-type": "column",
-        "author": "Pablo Leyva",
-        "date": "2023-03-29",
-        "publication": "el-espectador",
-        "title": "Macron, atrapado en el 49.3",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/macron-atrapado-en-el-493/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-03-29",
-        "publication": "el-espectador",
-        "title": "Oposici\u00f3n y gobierno: juegos peligrosos",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/oposicion-y-gobierno-juegos-peligrosos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-03-29",
-        "publication": "el-espectador",
-        "title": "Dios y magia",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/dios-y-magia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-03-29",
-        "publication": "el-espectador",
-        "title": "Yo no la crie ni la quise",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/yo-no-la-crie-ni-la-quise/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2023-03-29",
-        "publication": "el-espectador",
-        "title": "Del cielo a la tierra",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/del-cielo-a-la-tierra/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitada",
-        "date": "2023-03-29",
-        "publication": "el-espectador",
-        "title": "(Opini\u00f3n) Custodia equivocada: el asesinato del ni\u00f1o Lucio Dupuy en Argentina",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/opinion-custodia-equivocada-el-asesinato-del-nino-lucio-dupuy-en-argentina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-03-29",
-        "publication": "el-espectador",
-        "title": "M\u00fasica contempor\u00e1nea para todos",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/musica-contemporanea-para-todos/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Garc\u00eda",
-        "date": "2023-03-29",
-        "publication": "el-espectador",
-        "title": "Inteligencia Artificial: \u00bfReemplazo o complemento del ser humano?",
-        "url": "https://www.elespectador.com/opinion/columnistas/hectorgarcia/inteligencia-artificial-reemplazo-o-complemento-del-ser-humano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ana Lyda Melo",
-        "date": "2023-03-29",
-        "publication": "el-espectador",
-        "title": "\u00a1Manduco, Rallo y Concha para la Paz!",
-        "url": "https://www.elespectador.com/colombia-20/analistas/manduco-rallo-y-concha-para-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-03-29",
-        "publication": "el-espectador",
-        "title": "Los peligros de tener una relaci\u00f3n con personas narcisistas",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/los-peligros-de-tener-una-relacion-con-personas-narcisistas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2023-03-28",
-        "publication": "el-espectador",
-        "title": "\u00bfPetr\u00f3leo o no petr\u00f3leo?",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/petroleo-o-no-petroleo/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-03-28",
-        "publication": "el-espectador",
-        "title": "N\u00fa\u00f1ez, entre los amores y la paternidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/nunez-entre-los-amores-y-la-paternidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-03-28",
-        "publication": "el-espectador",
-        "title": "Desobedecer ",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/desobedecer/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-03-29",
+        "date": "2023-03-30",
         "publication": "el-tiempo",
-        "title": "El plan y las regiones",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-plan-y-las-regiones-editorial-754508"
+        "title": "Rechazo y solidaridad",
+        "url": "https://www.eltiempo.com/opinion/editorial/rechazo-y-solidaridad-editorial-el-tiempo-754910"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-03-29",
+        "author": "Pedro Medellin",
+        "date": "2023-03-30",
         "publication": "el-tiempo",
-        "title": "El \u2018decrecimiento\u2019 de la clase pol\u00edtica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/el-decrecimiento-de-la-clase-politica-columna-de-alfonso-gomez-mendez-754437"
+        "title": "Del Ferrari al Twingo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/del-ferrari-al-twingo-columna-de-pedro-medellin-754893"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-03-29",
+        "author": "Claudia Palacios",
+        "date": "2023-03-30",
         "publication": "el-tiempo",
-        "title": "Otro Roy",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/otro-roy-columna-de-vladdo-754461"
+        "title": "\u00bfPara repensar la pensional?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/para-repensar-la-pensional-columna-de-claudia-isabel-palacios-754823"
     },
     {
         "article-type": "column",
-        "author": "Consuelo Corredor Mart\u00ednez",
-        "date": "2023-03-29",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-03-30",
         "publication": "el-tiempo",
-        "title": "La institucionalidad de los Acuerdos y la paz total",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/acuerdos-y-la-paz-total-columna-de-consuelo-corredor-754439"
+        "title": "Voy por mil",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/voy-por-mil-columna-de-juan-esteban-constain-754838"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2023-03-29",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-03-30",
         "publication": "el-tiempo",
-        "title": "Guardianes de un para\u00edso",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/guardianes-de-un-paraiso-columna-de-andres-hurtado-garcia-754416"
+        "title": "La lengua que es mi patria",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/la-lengua-que-es-mi-patria-columna-de-sergio-ramirez-754829"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-03-29",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2023-03-30",
         "publication": "el-tiempo",
-        "title": "Reciclaje",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/reciclaje-columna-de-gustavo-duncan-754391"
+        "title": "Acuerdos sin notariato",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/acuerdos-sin-notariato-columna-de-victor-manuel-ruiz-754866"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-03-29",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2023-03-30",
         "publication": "el-tiempo",
-        "title": "Explosiva discusi\u00f3 en la peluquer\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/explosiva-discusio-en-la-peluqueria-columna-de-poncho-renteria-754424"
+        "title": "El exilio interior de Fernando Cruz Kronfly",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/el-exilio-interior-de-fernando-cruz-kronfly-columna-de-fabio-martinez-754857"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2023-03-30",
+        "publication": "el-tiempo",
+        "title": "Film criminal franc\u00e9s y secuela familiar inglesa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/film-criminal-frances-y-secuela-familiar-inglesa-mauricio-laurens-754850"
     }
 ]
