@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-05",
+        "date": "2023-04-06",
         "publication": "el-colombiano",
-        "title": "A precio de oro negro",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/a-precio-de-oro-negro-CD21003908"
+        "title": "Trump hace historia ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/trump-hace-historia-BG21051347"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2023-04-06",
+        "publication": "el-colombiano",
+        "title": "\u00a1Buena esa, General! ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/buena-esa-general-HG21051574"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Perfetti del Corral",
+        "date": "2023-04-06",
+        "publication": "el-colombiano",
+        "title": "Carlos Ra\u00fal Yepes: madera de l\u00edder",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/carlos-raul-yepes-madera-de-lider-PG21051529"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-04-06",
+        "publication": "el-colombiano",
+        "title": "Vidas para lelos: Camila y Camilo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/vidas-para-lelos-camila-y-camilo-MG21051397"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2023-04-06",
+        "publication": "el-colombiano",
+        "title": "La ruina populista ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-ruina-populista-EG21051252"
+    },
+    {
+        "article-type": "column",
+        "author": "Juliana Vel\u00e1squez Rodr\u00edguez",
+        "date": "2023-04-06",
+        "publication": "el-colombiano",
+        "title": "Una declaraci\u00f3n de dolor ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/una-declaracion-de-dolor-MG21051184"
     },
     {
         "article-type": "column",
@@ -48,52 +88,92 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/prohibiciones-y-masacres-BD21001743"
     },
     {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2023-04-05",
-        "publication": "el-colombiano",
-        "title": "Nueva generaci\u00f3n de j\u00f3venes o nueva generaci\u00f3n de adultos ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/nueva-generacion-de-jovenes-o-nueva-generacion-de-adultos-PD21000395"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Ram\u00edrez Correa",
-        "date": "2023-04-04",
-        "publication": "el-colombiano",
-        "title": "Columpio",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/columpio-DD21000021"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Camilo Quintero",
-        "date": "2023-04-04",
-        "publication": "el-colombiano",
-        "title": "Inteligencia Artificial: \u00bfel desaf\u00edo final? ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/inteligencia-artificial-el-desafio-final-KC20999982"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Diego Monsalve",
-        "date": "2023-04-04",
-        "publication": "el-colombiano",
-        "title": "China y Estados Unidos: tensiones en aumento ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/china-y-estados-unidos-tensiones-en-aumento-HC20999934"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2023-04-04",
-        "publication": "el-colombiano",
-        "title": "Algunos pecados de la \u201cPaz Total\u201d",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/algunos-pecados-de-la-paz-total-BC20999866"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-05",
+        "date": "2023-04-06",
         "publication": "el-espectador",
-        "title": "Se requiere reorganizar el mercado a\u00e9reo colombiano",
-        "url": "https://www.elespectador.com/opinion/editorial/se-requiere-reorganizar-el-mercado-aereo-colombiano/"
+        "title": "La inmadurez de responder a cr\u00edticas con amenazas",
+        "url": "https://www.elespectador.com/opinion/editorial/la-inmadurez-de-responder-a-criticas-con-amenazas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-04-06",
+        "publication": "el-espectador",
+        "title": "\u00bfLa ca\u00edda de Trump?",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/la-caida-de-trump/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-04-06",
+        "publication": "el-espectador",
+        "title": "La b\u00fasqueda de rumbos para la cultura",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-busqueda-de-rumbos-para-la-cultura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2023-04-06",
+        "publication": "el-espectador",
+        "title": "Las mujeres ya no callan\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/las-mujeres-ya-no-callan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo Gall\u00f3n",
+        "date": "2023-04-06",
+        "publication": "el-espectador",
+        "title": "\u201cSobre el legado de la Comisi\u00f3n de la Verdad\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/sobre-el-legado-de-la-comision-de-la-verdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2023-04-06",
+        "publication": "el-espectador",
+        "title": "Alertas tempranas ",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/alertas-tempranas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-04-06",
+        "publication": "el-espectador",
+        "title": "Pol\u00edtica p\u00fablica para creyentes y mafiosos",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/politica-publica-para-creyentes-y-mafiosos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
+        "date": "2023-04-06",
+        "publication": "el-espectador",
+        "title": "La cocina del terru\u00f1o y el turismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/la-cocina-del-terruno-y-el-turismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-04-06",
+        "publication": "el-espectador",
+        "title": "El cambio permanente de la transformaci\u00f3n digital",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-cambio-permanente-de-la-transformacion-digital/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Obdulio Espejo Mu\u00f1oz",
+        "date": "2023-04-06",
+        "publication": "el-espectador",
+        "title": "Las cuentas de la Paz Total",
+        "url": "https://www.elespectador.com/colombia-20/analistas/las-cuentas-de-la-paz-total/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-04-06",
+        "publication": "el-espectador",
+        "title": "Citamos a Gustavo Petro, pero con una foto de Francisco Barbosa",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/citamos-a-gustavo-petro-pero-con-una-foto-de-francisco-barbosa/"
     },
     {
         "article-type": "column",
@@ -144,147 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-reto-del-silencio/"
     },
     {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "Baj\u00e9monos del sue\u00f1o del autom\u00f3vil particular",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/bajemonos-del-sueno-del-automovil-particular/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "Eliminaci\u00f3n de un caricaturista inc\u00f3modo",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/eliminacion-de-un-caricaturista-incomodo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "La no eternidad del terco tirano",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/la-no-eternidad-del-terco-tirano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "La mala hora",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/la-mala-hora/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "Quincea\u00f1ero independiente",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/quinceanero-independiente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Parra",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "La acci\u00f3n contra minas antipersonal no puede esperar",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-accion-contra-minas-antipersonal-no-puede-esperar/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-04-04",
-        "publication": "el-espectador",
-        "title": "La fe cat\u00f3lica de los generales",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-fe-catolica-de-los-generales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejandro Reyes Posada",
-        "date": "2023-04-04",
-        "publication": "el-espectador",
-        "title": "Ruta cr\u00edtica para la reforma rural",
-        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/ruta-critica-para-la-reforma-rural/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-04-04",
-        "publication": "el-espectador",
-        "title": "\u201cUn pa\u00eds ba\u00f1ado en sangre\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/un-pais-banado-en-sangre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-04-04",
-        "publication": "el-espectador",
-        "title": "Felicidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/felicidad/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-05",
+        "date": "2023-04-06",
         "publication": "el-tiempo",
-        "title": "Arma de doble filo",
-        "url": "https://www.eltiempo.com/opinion/editorial/arma-de-doble-filo-editorial-el-tiempo-756659"
+        "title": "Una vez al a\u00f1o",
+        "url": "https://www.eltiempo.com/opinion/editorial/una-vez-al-ano-edtitorial-757021"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-04-05",
+        "author": "Pedro Medellin",
+        "date": "2023-04-06",
         "publication": "el-tiempo",
-        "title": "\u00bfLas \u2018lentejas\u2019, buenas para la salud?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/las-lentejas-buenas-para-la-salud-columna-de-alfonso-gomez-mendez-756593"
+        "title": "El camino a una cultura de odio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-camino-a-una-cultura-de-odio-columna-de-pedro-medellin-757023"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-04-05",
+        "author": "Jineth Bedoya Lima",
+        "date": "2023-04-06",
         "publication": "el-tiempo",
-        "title": "El \u2018pecado\u2019 del David",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/el-pecado-del-david-columna-de-vladdo-756657"
+        "title": "Acto de contrici\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/acto-de-contricion-columna-de-jineth-bedoya-756962"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2023-04-05",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-04-06",
         "publication": "el-tiempo",
-        "title": "Mi abuela Marie",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/mi-abuela-marie-columna-de-florence-thomas-756564"
+        "title": "Terrazas desiertas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/terrazas-desiertas-columna-de-juan-esteban-constain-756920"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2023-04-05",
+        "author": "An\u00edbal Gaviria Correa",
+        "date": "2023-04-06",
         "publication": "el-tiempo",
-        "title": "\u00a1Mataron a Gait\u00e1n!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/mataron-a-gaitan-columna-de-jotamario-abelaez-756575"
+        "title": "La paradoja del oro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/anibal-gaviria-correa/la-paradoja-del-oro-columna-de-anibal-gaviria-756937"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-04-05",
+        "author": "Diana Pardo",
+        "date": "2023-04-06",
         "publication": "el-tiempo",
-        "title": "Trump, en l\u00edos por una avivata",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/trump-en-lios-por-una-avivata-columna-de-poncho-renteria-756624"
+        "title": "Nuestra voz cuenta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/nuestra-voz-cuenta-columna-de-diana-pardo-756923"
     },
     {
         "article-type": "column",
-        "author": "Santiago Vargas Acebedo",
-        "date": "2023-04-05",
+        "author": "Juliana Mej\u00eda",
+        "date": "2023-04-06",
         "publication": "el-tiempo",
-        "title": "Cinco consejos para ser tan carism\u00e1ticos como Bukele",
-        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/cinco-consejos-para-ser-tan-carismaticos-como-bukele-santiago-vargas-756619"
+        "title": "El valor del tiempo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/el-valor-del-tiempo-columna-de-juliana-mejia-756967"
     },
     {
         "article-type": "column",
-        "author": "Fernando Montes Negret",
-        "date": "2023-04-05",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-04-06",
         "publication": "el-tiempo",
-        "title": "\u00bfUna nueva crisis bancaria global?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/una-nueva-crisis-bancaria-global-columna-de-fernando-montes-negret-756614"
+        "title": "Eligio \u00c1lvarez Ni\u00f1o, el poeta del amor",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/eligio-alvarez-nino-el-poeta-del-amor-columna-de-jose-miguel-alzate-756965"
     }
 ]
