@@ -97,6 +97,30 @@
     },
     {
         "article-type": "column",
+        "author": "Maria Clara Zea Gallego",
+        "date": "2023-04-07",
+        "publication": "el-espectador",
+        "title": "Medell\u00edn en el mapa de la Pol\u00edtica Nacional de Drogas",
+        "url": "https://www.elespectador.com/colombia-20/analistas/medellin-en-el-mapa-de-la-politica-nacional-de-drogas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-04-07",
+        "publication": "el-espectador",
+        "title": "As\u00ed suena y se ve la violencia econ\u00f3mica",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/asi-suena-y-se-ve-la-violencia-economica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitada",
+        "date": "2023-04-07",
+        "publication": "el-espectador",
+        "title": "Columna de la Ministra del Deporte: Aprender jugando, una experiencia para la vida",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/columna-de-la-ministra-del-deporte-aprender-jugando-una-experiencia-para-la-vida/"
+    },
+    {
+        "article-type": "column",
         "author": "Catalina Ruiz-Navarro",
         "date": "2023-04-06",
         "publication": "el-espectador",
@@ -137,19 +161,19 @@
     },
     {
         "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-04-06",
-        "publication": "el-espectador",
-        "title": "Pol\u00edtica p\u00fablica para creyentes y mafiosos",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/politica-publica-para-creyentes-y-mafiosos/"
-    },
-    {
-        "article-type": "column",
         "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
         "date": "2023-04-06",
         "publication": "el-espectador",
         "title": "La cocina del terru\u00f1o y el turismo",
         "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/la-cocina-del-terruno-y-el-turismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-04-06",
+        "publication": "el-espectador",
+        "title": "Pol\u00edtica p\u00fablica para creyentes y mafiosos",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/politica-publica-para-creyentes-y-mafiosos/"
     },
     {
         "article-type": "column",
@@ -200,30 +224,6 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/nivelados-por-lo-alto/"
     },
     {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "Cuando reina la impunidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/cuando-reina-la-impunidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "Dilema gringo",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/dilema-gringo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "El reto del silencio",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-reto-del-silencio/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2023-04-06",
@@ -233,58 +233,74 @@
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-04-06",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-04-07",
         "publication": "el-tiempo",
-        "title": "El camino a una cultura de odio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-camino-a-una-cultura-de-odio-columna-de-pedro-medellin-757023"
+        "title": "Fin del mundo, creencias y opiniones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/fin-del-mundo-creencias-y-opiniones-columna-de-moises-wasserman-755163"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2023-04-06",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-04-07",
         "publication": "el-tiempo",
-        "title": "Acto de contrici\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/acto-de-contricion-columna-de-jineth-bedoya-756962"
+        "title": "Fanatismos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/fanatismos-columna-de-ricardo-silva-romero-755208"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-04-06",
+        "author": "Martha Ortiz",
+        "date": "2023-04-07",
         "publication": "el-tiempo",
-        "title": "Terrazas desiertas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/terrazas-desiertas-columna-de-juan-esteban-constain-756920"
+        "title": "Un gobierno atrapado en el ego",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/un-gobierno-atrapado-en-el-ego-martha-senn-755238"
     },
     {
         "article-type": "column",
-        "author": "An\u00edbal Gaviria Correa",
-        "date": "2023-04-06",
+        "author": "Alfredo Rangel",
+        "date": "2023-04-07",
         "publication": "el-tiempo",
-        "title": "La paradoja del oro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/anibal-gaviria-correa/la-paradoja-del-oro-columna-de-anibal-gaviria-756937"
+        "title": "Por qu\u00e9 va mal Petro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/por-que-va-mal-petro-columna-de-alfredo-rangel-755199"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2023-04-06",
+        "author": "Camilo Marulanda L\u00f3pez",
+        "date": "2023-04-07",
         "publication": "el-tiempo",
-        "title": "Nuestra voz cuenta",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/nuestra-voz-cuenta-columna-de-diana-pardo-756923"
+        "title": "Propuestas para estabilizar los precios de energ\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/camilo-marulanda-lopez/propuestas-para-estabilizar-los-precios-de-energia-camilo-marulanda-755223"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2023-04-06",
+        "author": "Claudia Hakim",
+        "date": "2023-04-07",
         "publication": "el-tiempo",
-        "title": "El valor del tiempo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/el-valor-del-tiempo-columna-de-juliana-mejia-756967"
+        "title": "El arte alerta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/el-arte-alerta-columna-de-claudia-hakim-755182"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2023-04-06",
+        "author": "Martha Senn",
+        "date": "2023-04-07",
         "publication": "el-tiempo",
-        "title": "Eligio \u00c1lvarez Ni\u00f1o, el poeta del amor",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/eligio-alvarez-nino-el-poeta-del-amor-columna-de-jose-miguel-alzate-756965"
+        "title": "Una \u2018Traviata\u2019 en Medell\u00edn",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/una-traviata-en-medellin-columna-de-martha-senn-755193"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-04-07",
+        "publication": "el-tiempo",
+        "title": "\u00bfEl fin de la Quinta Rep\u00fablica?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/el-fin-de-la-quinta-republica-columna-de-eduardo-posada-carbo-755188"
+    },
+    {
+        "article-type": "column",
+        "author": "Salvo Basile",
+        "date": "2023-04-07",
+        "publication": "el-tiempo",
+        "title": "De la rumba al reciclaje",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/de-la-rumba-al-reciclaje-columna-de-salvo-basile-755204"
     }
 ]
