@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-06",
+        "date": "2023-04-08",
         "publication": "el-colombiano",
-        "title": "Trump hace historia ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/trump-hace-historia-BG21051347"
+        "title": "Epidemia de adictos a la tecnolog\u00eda ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/epidemia-de-adictos-a-la-tecnologia-JG21055297"
+    },
+    {
+        "article-type": "column",
+        "author": " Alejandro Noguera C.",
+        "date": "2023-04-08",
+        "publication": "el-colombiano",
+        "title": "Educaci\u00f3n y democracia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/educacion-y-democracia-EG21055144"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Mesa Puyo",
+        "date": "2023-04-08",
+        "publication": "el-colombiano",
+        "title": "El eslab\u00f3n perdido en la transici\u00f3n energ\u00e9tica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-eslabon-perdido-en-la-transicion-energetica-NG21055118"
+    },
+    {
+        "article-type": "column",
+        "author": "Ernesto Ochoa Moreno",
+        "date": "2023-04-08",
+        "publication": "el-colombiano",
+        "title": "Una espiritualidad de S\u00e1bado Santo ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/una-espiritualidad-de-sabado-santo-BG21055073"
+    },
+    {
+        "article-type": "column",
+        "author": "Sof\u00eda Gil S\u00e1nchez",
+        "date": "2023-04-08",
+        "publication": "el-colombiano",
+        "title": "Medell\u00edn Futuro ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/medellin-futuro-CG21055025"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Guillermo \u00c1ngel",
+        "date": "2023-04-08",
+        "publication": "el-colombiano",
+        "title": "Sobre tres festividades santas ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sobre-tres-festividades-santas-NG21054999"
     },
     {
         "article-type": "column",
@@ -48,52 +88,68 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/una-declaracion-de-dolor-MG21051184"
     },
     {
-        "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2023-04-05",
-        "publication": "el-colombiano",
-        "title": "Celibato y la mujer en el Vaticano",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/celibato-y-la-mujer-en-el-vaticano-FD21002689"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2023-04-05",
-        "publication": "el-colombiano",
-        "title": "Las \u201cclases de felicidad\u201d en las escuelas Indias",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/las-clases-de-felicidad-en-las-escuelas-indias-OD21002581"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2023-04-05",
-        "publication": "el-colombiano",
-        "title": "El desmantelamiento de la Polic\u00eda Nacional",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-desmantelamiento-de-la-policia-nacional-GD21002433"
-    },
-    {
-        "article-type": "column",
-        "author": "Luz Mar\u00eda M\u00fanera Medina",
-        "date": "2023-04-05",
-        "publication": "el-colombiano",
-        "title": "EPM, nuestro presente y futuro ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/epm-nuestro-presente-y-futuro-FD21001949"
-    },
-    {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2023-04-05",
-        "publication": "el-colombiano",
-        "title": "Prohibiciones y masacres ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/prohibiciones-y-masacres-BD21001743"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-06",
+        "date": "2023-04-08",
         "publication": "el-espectador",
-        "title": "La inmadurez de responder a cr\u00edticas con amenazas",
-        "url": "https://www.elespectador.com/opinion/editorial/la-inmadurez-de-responder-a-criticas-con-amenazas/"
+        "title": "Las drogas de las que no habla el debate p\u00fablico nacional",
+        "url": "https://www.elespectador.com/opinion/editorial/las-drogas-de-las-que-no-habla-el-debate-publico-nacional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2023-04-08",
+        "publication": "el-espectador",
+        "title": "La novela dentro de la novela",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/la-novela-dentro-de-la-novela/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-04-08",
+        "publication": "el-espectador",
+        "title": "Tres versiones de Judas",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/tres-versiones-de-judas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-04-08",
+        "publication": "el-espectador",
+        "title": "\u00bfPor qu\u00e9 tantos rusos quieren combatir en Ucrania?",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/por-que-tantos-rusos-quieren-combatir-en-ucrania/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-04-08",
+        "publication": "el-espectador",
+        "title": "La pen\u00faltima escena ",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/la-penultima-escena/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-04-08",
+        "publication": "el-espectador",
+        "title": "Un recuerdo de Semana Santa ",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/un-recuerdo-de-semana-santa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lucas Mar\u00edn Llanes",
+        "date": "2023-04-08",
+        "publication": "el-espectador",
+        "title": "\u00bfFunciona el desarrollo alternativo?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/funciona-el-desarrollo-alternativo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2023-04-08",
+        "publication": "el-espectador",
+        "title": "Columna de Luis F. Montoya: Buen Comienzo",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-f-montoya-buen-comienzo/"
     },
     {
         "article-type": "column",
@@ -168,139 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/la-cocina-del-terruno-y-el-turismo/"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-04-06",
-        "publication": "el-espectador",
-        "title": "Pol\u00edtica p\u00fablica para creyentes y mafiosos",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/politica-publica-para-creyentes-y-mafiosos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-04-06",
-        "publication": "el-espectador",
-        "title": "El cambio permanente de la transformaci\u00f3n digital",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-cambio-permanente-de-la-transformacion-digital/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Obdulio Espejo Mu\u00f1oz",
-        "date": "2023-04-06",
-        "publication": "el-espectador",
-        "title": "Las cuentas de la Paz Total",
-        "url": "https://www.elespectador.com/colombia-20/analistas/las-cuentas-de-la-paz-total/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-04-06",
-        "publication": "el-espectador",
-        "title": "Citamos a Gustavo Petro, pero con una foto de Francisco Barbosa",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/citamos-a-gustavo-petro-pero-con-una-foto-de-francisco-barbosa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "Maduro y los tent\u00e1culos de la corrupci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/maduro-y-los-tentaculos-de-la-corrupcion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "Pascua",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/pascua/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-04-05",
-        "publication": "el-espectador",
-        "title": "Nivelados por lo alto",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/nivelados-por-lo-alto/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-06",
+        "date": "2023-04-08",
         "publication": "el-tiempo",
-        "title": "Una vez al a\u00f1o",
-        "url": "https://www.eltiempo.com/opinion/editorial/una-vez-al-ano-edtitorial-757021"
+        "title": "El riesgo del Ruiz",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-8-de-abril-de-2023-el-riesgo-del-ruiz-757341"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-04-07",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2023-04-08",
         "publication": "el-tiempo",
-        "title": "Fin del mundo, creencias y opiniones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/fin-del-mundo-creencias-y-opiniones-columna-de-moises-wasserman-755163"
+        "title": "A prop\u00f3sito de reformas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/columna-de-carlos-caballero-argaez-a-proposito-de-reformas-757352"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-04-07",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2023-04-08",
         "publication": "el-tiempo",
-        "title": "Fanatismos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/fanatismos-columna-de-ricardo-silva-romero-755208"
+        "title": "La manzana del pecado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/columna-de-adolfo-zableh-la-manzana-del-pecado-757364"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2023-04-07",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-04-08",
         "publication": "el-tiempo",
-        "title": "Un gobierno atrapado en el ego",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/un-gobierno-atrapado-en-el-ego-martha-senn-755238"
+        "title": "Hasta el volc\u00e1n nos amenaza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/columna-de-luis-noe-ochoa-hasta-el-volcan-nos-amenaza-757351"
     },
     {
         "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2023-04-07",
+        "author": "Carlos Camargo Assis",
+        "date": "2023-04-08",
         "publication": "el-tiempo",
-        "title": "Por qu\u00e9 va mal Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/por-que-va-mal-petro-columna-de-alfredo-rangel-755199"
+        "title": "\u00bfY los derechos de los consumidores qu\u00e9?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-camargo-assis/columna-de-carlos-camargo-y-los-derechos-de-los-consumidores-que-757362"
     },
     {
         "article-type": "column",
-        "author": "Camilo Marulanda L\u00f3pez",
-        "date": "2023-04-07",
+        "author": "Cristina Esguerra Miranda",
+        "date": "2023-04-08",
         "publication": "el-tiempo",
-        "title": "Propuestas para estabilizar los precios de energ\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/camilo-marulanda-lopez/propuestas-para-estabilizar-los-precios-de-energia-camilo-marulanda-755223"
+        "title": "El peligro de las discusiones simples",
+        "url": "https://www.eltiempo.com/opinion/columnistas/cristina-esguerra-miranda/columna-de-cristina-esguerra-el-peligro-de-las-discusiones-simples-757365"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2023-04-07",
+        "author": "Alfonso Carvajal",
+        "date": "2023-04-08",
         "publication": "el-tiempo",
-        "title": "El arte alerta",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/el-arte-alerta-columna-de-claudia-hakim-755182"
-    },
-    {
-        "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2023-04-07",
-        "publication": "el-tiempo",
-        "title": "Una \u2018Traviata\u2019 en Medell\u00edn",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/una-traviata-en-medellin-columna-de-martha-senn-755193"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-04-07",
-        "publication": "el-tiempo",
-        "title": "\u00bfEl fin de la Quinta Rep\u00fablica?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/el-fin-de-la-quinta-republica-columna-de-eduardo-posada-carbo-755188"
-    },
-    {
-        "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2023-04-07",
-        "publication": "el-tiempo",
-        "title": "De la rumba al reciclaje",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/de-la-rumba-al-reciclaje-columna-de-salvo-basile-755204"
+        "title": "\u2018Cartucho\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/columna-de-alfonso-carvajal-cartucho-757345"
     }
 ]
