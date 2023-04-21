@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-20",
+        "date": "2023-04-21",
         "publication": "el-colombiano",
-        "title": "Haciendo trizas la paz ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/haciendo-trizas-la-paz-DE21161662"
+        "title": "\u00bfTesla en La Guajira? ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/tesla-en-la-guajira-JF21170922"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Manuel Restrepo Abondano",
+        "date": "2023-04-21",
+        "publication": "el-colombiano",
+        "title": "V\u00edctimas: m\u00e1s recursos s\u00ed, pero no as\u00ed",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/victimas-mas-recursos-si-pero-no-asi-LF21171028"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2023-04-21",
+        "publication": "el-colombiano",
+        "title": "Legitimar el uso de la violencia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/legitimar-el-uso-de-la-violencia-CF21171003"
+    },
+    {
+        "article-type": "column",
+        "author": "Sof\u00eda Gil S\u00e1nchez",
+        "date": "2023-04-21",
+        "publication": "el-colombiano",
+        "title": "Medell\u00edn no merece m\u00e1s Correa",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/medellin-no-merece-mas-correa-FF21170984"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2023-04-21",
+        "publication": "el-colombiano",
+        "title": "Manuel Mej\u00eda Vallejo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/manuel-mejia-vallejo-CF21170882"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Manrique",
+        "date": "2023-04-21",
+        "publication": "el-colombiano",
+        "title": "La pandemia m\u00e1s antigua de la humanidad tiene cura",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-pandemia-mas-antigua-de-la-humanidad-tiene-cura-CF21170828"
     },
     {
         "article-type": "column",
@@ -48,52 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/reconectar-con-la-vida-EE21161353"
     },
     {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2023-04-19",
-        "publication": "el-colombiano",
-        "title": "La deprimente lista de la revista Time de las 100 personas m\u00e1s influyentes",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-deprimente-lista-de-la-revista-time-de-las-100-personas-mas-influyentes-CG21141344"
-    },
-    {
-        "article-type": "column",
-        "author": "David Yanovich",
-        "date": "2023-04-19",
-        "publication": "el-colombiano",
-        "title": "Confianza",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/confianza-DG21141323"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas a la Directora",
-        "date": "2023-04-19",
-        "publication": "el-colombiano",
-        "title": "\u00bfQui\u00e9n puede tirar la primera piedra por el auge de barras bravas?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/quien-puede-tirar-la-primera-piedra-por-el-auge-de-barras-bravas-PG21141284"
-    },
-    {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2023-04-19",
-        "publication": "el-colombiano",
-        "title": "Tiempos dif\u00edciles para el Lula pragm\u00e1tico ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/tiempos-dificiles-para-el-lula-pragmatico-HG21141262"
-    },
-    {
-        "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2023-04-19",
-        "publication": "el-colombiano",
-        "title": "Un populista en la Casa Blanca ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/un-populista-en-la-casa-blanca-FG21141235"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-20",
+        "date": "2023-04-21",
         "publication": "el-espectador",
-        "title": "La econom\u00eda popular est\u00e1 aqu\u00ed, as\u00ed algunos no quieran verla",
-        "url": "https://www.elespectador.com/opinion/editorial/la-economia-popular-esta-aqui-asi-algunos-no-quieran-verla/"
+        "title": "Las mentiras s\u00ed tienen consecuencias",
+        "url": "https://www.elespectador.com/opinion/editorial/las-mentiras-si-tienen-consecuencias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "La cultura: \u201cel patito feo\u201d de Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/la-cultura-el-patito-feo-de-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Leal Buitrago",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "Turismo: afectaci\u00f3n menor del medio ambiente",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/turismo-afectacion-menor-del-medio-ambiente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "Los reyes malditos",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/los-reyes-malditos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "Imposible no ver el documental \u201cCuando las aguas se juntan\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/imposible-no-ver-el-documental-cuando-las-aguas-se-juntan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "Nuestro \u201ctonto sobre la colina\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/nuestro-tonto-sobre-la-colina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "\u00bfSe despeja la Mulal\u00f3-Loboguerrero?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/se-despeja-la-mulalo-loboguerrero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "Palpito\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/palpito/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "Me gusta la paz total, pero\u2026 ",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/me-gusta-la-paz-total-pero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "Costos de la educaci\u00f3n en Colombia y en EE. UU.",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/costos-de-la-educacion-en-colombia-y-en-ee-uu/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "Reforma pensional de Petro: \u00bfhay que temerle? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-reforma-pensional-de-petro-hay-que-temerle/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "\u00bfC\u00f3mo funciona la generaci\u00f3n de energ\u00eda en Colombia?",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado/como-funciona-la-generacion-de-energia-en-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Linares",
+        "date": "2023-04-21",
+        "publication": "el-espectador",
+        "title": "Cann\u00e1bicas y cann\u00e1bicos de Colombia: un\u00edos",
+        "url": "https://www.elespectador.com/colombia-20/analistas/cannabicas-y-cannabicos-de-colombia-unios/"
     },
     {
         "article-type": "column",
@@ -128,163 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/gustavo-gallon/sintesis-de-los-hallazgos-de-la-cev-parte-i/"
     },
     {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2023-04-20",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 m\u00e1s puede pedir \u201cMordisco\u201d?",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/que-mas-puede-pedir-mordisco/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-04-20",
-        "publication": "el-espectador",
-        "title": "Recuerdo de Enrique Uribe White",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/recuerdo-de-enrique-uribe-white/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-04-20",
-        "publication": "el-espectador",
-        "title": "Disc\u00edpulas decoloniales de Boa",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/discipulas-decoloniales-de-boa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-04-20",
-        "publication": "el-espectador",
-        "title": "Columna del profe Montoya: pare violencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-del-profe-montoya-pare-violencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2023-04-20",
-        "publication": "el-espectador",
-        "title": "Un rompecabezas para armar",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/un-rompecabezas-para-armar/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Garc\u00eda",
-        "date": "2023-04-20",
-        "publication": "el-espectador",
-        "title": "Identidad digital y billeteras virtuales",
-        "url": "https://www.elespectador.com/opinion/columnistas/hectorgarcia/identidad-digital-y-billeteras-virtuales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-04-20",
-        "publication": "el-espectador",
-        "title": "En una de cada tres quejas contra el sistema de salud est\u00e1 en riesgo la vida",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/en-una-de-cada-tres-quejas-contra-el-sistema-de-salud-esta-en-riesgo-la-vida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-04-20",
-        "publication": "el-espectador",
-        "title": "Alquiler de vientre en Colombia: precio, legalidad, tipos y m\u00e1s preguntas",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/alquiler-de-vientre-en-colombia-precio-legalidad-tipos-y-mas-preguntas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2023-04-20",
-        "publication": "el-espectador",
-        "title": "\u00bfPa\u00eds inviable?",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/sudan-pais-inviable-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-04-20",
-        "publication": "el-espectador",
-        "title": "Dos titulares torpes y una reflexi\u00f3n: por esto nos jalaron las orejas esta semana",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/dos-titulares-torpes-y-una-reflexion-por-esto-nos-jalaron-las-orejas-esta-semana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-04-20",
-        "publication": "el-espectador",
-        "title": "Libros infantiles para adultos ",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/libros-infantiles-para-adultos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-04-19",
-        "publication": "el-espectador",
-        "title": "Oportunidad\u2026 o pereza",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/oportunidad-o-pereza/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-20",
+        "date": "2023-04-21",
         "publication": "el-tiempo",
-        "title": "Un riesgo innecesario",
-        "url": "https://www.eltiempo.com/opinion/editorial/un-riesgo-innecesario-editorial-el-tiempo-760928"
+        "title": "Retiros que alertan",
+        "url": "https://www.eltiempo.com/opinion/editorial/retiros-que-alertan-editorial-el-tiempo-761303"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-04-20",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-04-21",
         "publication": "el-tiempo",
-        "title": "\u00bfInstitucionalizar para-Estados?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/institucionalizar-para-estados-columna-de-pedro-medellin-760899"
+        "title": "El lugar de la ciencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/el-lugar-de-la-ciencia-columna-de-moises-wasserman-761192"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2023-04-20",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-04-21",
         "publication": "el-tiempo",
-        "title": "La balada de \u2018Iv\u00e1n Mordisco\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/la-balada-de-ivan-mordisco-columna-de-jineth-bedoya-lima-760881"
+        "title": "Criterio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/criterio-columna-de-ricardo-silva-romero-761262"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-04-20",
+        "author": "Alejandro Cheyne",
+        "date": "2023-04-21",
         "publication": "el-tiempo",
-        "title": "Listos para la foto",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/listos-para-la-foto-columna-de-juan-esteban-constain-760840"
+        "title": "Calma y confianza en nuestra econom\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-cheyne/calma-y-confianza-en-nuestra-economia-columna-de-alejandro-cheyne-761215"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2023-04-20",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2023-04-21",
         "publication": "el-tiempo",
-        "title": "El Premio F\u00e9nix",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/el-premio-fenix-columna-de-juliana-mejia-760797"
+        "title": "Redes sociales, \u00bfuna amenaza para la democracia?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/redes-sociales-una-amenaza-para-la-democracia-antonio-albinana-761207"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2023-04-20",
+        "author": "Mar\u00eda A. Garc\u00eda de la Torre",
+        "date": "2023-04-21",
         "publication": "el-tiempo",
-        "title": "\u2018Limpia\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/limpia-columna-de-diana-pardo-760804"
+        "title": "Los cartones de Mar\u00eda Jos\u00e9",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-a-garcia-de-la-torre/los-cartones-de-maria-jose-columna-de-maria-antonia-garcia-de-la-torre-761257"
     },
     {
         "article-type": "column",
-        "author": "Carlos Gonz\u00e1lez Puche",
-        "date": "2023-04-20",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2023-04-21",
         "publication": "el-tiempo",
-        "title": "Identificar y sancionar a los violentos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-gonzalez-puche/identificar-y-sancionar-a-los-violentos-columna-de-carlos-gonzalez-puche-760866"
+        "title": "\u00a1Por la Ant\u00e1rtida!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/por-la-antartida-columna-de-manuel-guzman-hennessey-761221"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2023-04-20",
+        "author": "Helena Storm",
+        "date": "2023-04-21",
         "publication": "el-tiempo",
-        "title": "Lectores y autores",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/lectores-y-autores-columna-de-victor-corcoba-760871"
+        "title": "Innovaci\u00f3n y democracia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/helena-storm/innovacion-y-democracia-columna-de-helena-storm-y-danna-culma-761264"
     }
 ]
