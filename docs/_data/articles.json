@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-24",
+        "date": "2023-04-25",
         "publication": "el-colombiano",
-        "title": "Muchos puentes quebrados, \u00bfcon qu\u00e9 los curaremos? ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/muchos-puentes-quebrados-con-que-los-curaremos-AK21186644"
+        "title": "Boric el acr\u00f3bata",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/boric-el-acrobata-DL21196162"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Mej\u00eda Cubillos",
+        "date": "2023-04-25",
+        "publication": "el-colombiano",
+        "title": "Petro en Stanford",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/petro-en-stanford-FL21195918"
+    },
+    {
+        "article-type": "column",
+        "author": "Federico Hoyos Salazar",
+        "date": "2023-04-25",
+        "publication": "el-colombiano",
+        "title": "La otra apuesta de Petro",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-otra-apuesta-de-petro-KL21195791"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz de Majo",
+        "date": "2023-04-25",
+        "publication": "el-colombiano",
+        "title": "Lo oscuro del financiamiento chino",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/lo-oscuro-del-financiamiento-chino-PL21195749"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Nieto Loaiza",
+        "date": "2023-04-25",
+        "publication": "el-colombiano",
+        "title": "Para rematar, inseguridad creciente",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/para-rematar-inseguridad-creciente-EL21195661"
+    },
+    {
+        "article-type": "column",
+        "author": "Amalia Londo\u00f1o Duque",
+        "date": "2023-04-25",
+        "publication": "el-colombiano",
+        "title": "Pena ajena: la nueva emoci\u00f3n pol\u00edtica",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/pena-ajena-la-nueva-emocion-politica-IL21195638"
     },
     {
         "article-type": "column",
@@ -48,52 +88,60 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/la-mala-hora-CK21186554"
     },
     {
-        "article-type": "column",
-        "author": "Sara Jaramillo Klinkert",
-        "date": "2023-04-23",
-        "publication": "el-colombiano",
-        "title": "Juego de ni\u00f1os",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/juego-de-ninos-KK21185843"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Hoyos",
-        "date": "2023-04-23",
-        "publication": "el-colombiano",
-        "title": "Gracias por el fuego",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/gracias-por-el-fuego-KK21185825"
-    },
-    {
-        "article-type": "column",
-        "author": "David Gonz\u00e1lez Escobar",
-        "date": "2023-04-23",
-        "publication": "el-colombiano",
-        "title": "N\u00f3madas digitales, turismo y Gomorra",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/nomadas-digitales-turismo-y-gomorra-IK21185782"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Pardo Rueda",
-        "date": "2023-04-23",
-        "publication": "el-colombiano",
-        "title": "Las disidencias en rojo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/las-disidencias-en-rojo-EK21185760"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejo Vargas Vel\u00e1squez",
-        "date": "2023-04-23",
-        "publication": "el-colombiano",
-        "title": "Balance positivo: gira del presidente Petro",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/balance-positivo-gira-del-presidente-petro-EK21185735"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2023-04-24",
         "publication": "el-espectador",
         "title": "Colombia, por fin, escucha a la oposici\u00f3n venezolana",
         "url": "https://www.elespectador.com/opinion/editorial/colombia-por-fin-escucha-a-la-oposicion-venezolana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2023-04-25",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 es la innovaci\u00f3n popular?",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/que-es-la-innovacion-popular/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-04-25",
+        "publication": "el-espectador",
+        "title": "La barbarie en el f\u00fatbol",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/la-barbarie-en-el-futbol/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-04-25",
+        "publication": "el-espectador",
+        "title": "Ant\u00eddotos contra el pesimismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/antidotos-contra-el-pesimismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-04-25",
+        "publication": "el-espectador",
+        "title": "Caminando la palabra de vida en el Plan Nacional de Desarrollo",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/caminando-la-palabra-de-vida-en-el-plan-nacional-de-desarrollo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2023-04-25",
+        "publication": "el-espectador",
+        "title": "Canciones populares que refuerzan el machismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/canciones-populares-que-refuerzan-el-machismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2023-04-25",
+        "publication": "el-espectador",
+        "title": "El \u00c1frica de Kagame",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/el-africa-de-kagame/"
     },
     {
         "article-type": "column",
@@ -176,123 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/tambien-son-culpables-los-televidentes/"
     },
     {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2023-04-24",
-        "publication": "el-espectador",
-        "title": "Autoritarismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/autoritarismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-04-24",
-        "publication": "el-espectador",
-        "title": "Desenfocados",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/desenfocados/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lucero Mart\u00ednez Kasab",
-        "date": "2023-04-24",
-        "publication": "el-espectador",
-        "title": "La infancia despreciada y el ICBF",
-        "url": "https://www.elespectador.com/opinion/columnistas/lucero-martinez-kasab/la-infancia-despreciada-y-el-icbf/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2023-04-24",
-        "publication": "el-espectador",
-        "title": "Editorial en video: una visita provechosa de Petro a EE. UU.",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-una-visita-provechosa-de-petro-a-ee-uu/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-04-23",
-        "publication": "el-espectador",
-        "title": "Mi continente no es su laboratorio clim\u00e1tico gigante",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/mi-continente-no-es-su-laboratorio-climatico-gigante/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2023-04-23",
-        "publication": "el-espectador",
-        "title": "\u00bfQui\u00e9n manda en nuestra democracia?",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/quien-manda-en-nuestra-democracia/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-24",
+        "date": "2023-04-25",
         "publication": "el-tiempo",
-        "title": "Pilas con la extorsi\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-24-de-abril-de-2023-pilas-con-la-extorsion-761985"
+        "title": "Un mercado indignante",
+        "url": "https://www.eltiempo.com/opinion/editorial/un-mercado-indignante-editorial-el-tiempo-762335"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-04-24",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-04-25",
         "publication": "el-tiempo",
-        "title": "En defensa de las altas cortes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-en-defensa-de-las-altas-cortes-761994"
+        "title": "Primero, la confianza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/primero-la-confianza-editorial-el-tiempo-762226"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2023-04-24",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2023-04-25",
         "publication": "el-tiempo",
-        "title": "Asunto de mec\u00e1nica pol\u00edtica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-asunto-de-mecanica-politica-761998"
+        "title": "La pobreza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/la-pobreza-columna-de-marcela-melendez-762298"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-04-24",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-04-25",
         "publication": "el-tiempo",
-        "title": "Caos total",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-caos-total-762002"
+        "title": "\u00bfSe puede ser neutral frente al abuso?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/se-puede-ser-neutral-frente-al-abuso-columna-de-sergio-ramirez-762254"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-04-24",
+        "author": "Francisco Cajiao",
+        "date": "2023-04-25",
         "publication": "el-tiempo",
-        "title": "Donde los celulares no existen",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-donde-los-celulares-no-existen-762003"
+        "title": "La riqueza de la diversidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/la-riqueza-de-la-diversidad-columna-de-francisco-cajiao-762271"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2023-04-24",
+        "author": "Fernando Quiroz",
+        "date": "2023-04-25",
         "publication": "el-tiempo",
-        "title": "La Primera Dama",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-la-primera-dama-762004"
+        "title": "La comedia humana",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/la-comedia-humana-columna-de-fernando-quiroz-762235"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-04-24",
+        "author": "Alejandro Riveros Gonz\u00e1lez",
+        "date": "2023-04-25",
         "publication": "el-tiempo",
-        "title": "Transformaci\u00f3n digital y deporte",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-transformacion-digital-y-deporte-761987"
+        "title": "La cicatriz en la ni\u00f1ez",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/la-cicatriz-en-la-ninez-columna-de-alejandro-riveros-762302"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2023-04-24",
+        "author": "Peter Singer",
+        "date": "2023-04-25",
         "publication": "el-tiempo",
-        "title": "El futuro del arte",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-el-futuro-del-arte-761995"
-    },
-    {
-        "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-04-24",
-        "publication": "el-tiempo",
-        "title": "Todos vamos a morir",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-todos-vamos-a-morir-761999"
+        "title": "\u00bfHay que investigar sobre geoingenier\u00eda?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/peter-singer/hay-que-investigar-sobre-geoingenieria-columna-de-peter-singer-762312"
     }
 ]
