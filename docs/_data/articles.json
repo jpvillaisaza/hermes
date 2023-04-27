@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-26",
+        "date": "2023-04-27",
         "publication": "el-colombiano",
-        "title": "\u00bfOperaci\u00f3n mermelada?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/operacion-mermelada-KB21209443"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/lo-bueno-y-lo-malo-de-la-crisis-BA21217152"
+    },
+    {
+        "article-type": "column",
+        "author": "Humberto Montero",
+        "date": "2023-04-27",
+        "publication": "el-colombiano",
+        "title": "Petrochavismo",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/petrochavismo-KA21215807"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan G\u00f3mez Mart\u00ednez",
+        "date": "2023-04-27",
+        "publication": "el-colombiano",
+        "title": "La oposici\u00f3n sin su jefe",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-oposicion-sin-su-jefe-MA21215786"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-04-27",
+        "publication": "el-colombiano",
+        "title": "Los chuz\u00f3grafos de la poes\u00eda",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/los-chuzografos-de-la-poesia-NA21215686"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Guti\u00e9rrez Ram\u00edrez",
+        "date": "2023-04-27",
+        "publication": "el-colombiano",
+        "title": "\u00bfC\u00f3mo repensar la educaci\u00f3n en pleno auge de la Inteligencia Artificial?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/como-repensar-la-educacion-en-pleno-auge-de-la-inteligencia-artificial-BA21215499"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Botero Montoya",
+        "date": "2023-04-27",
+        "publication": "el-colombiano",
+        "title": "El poder de la tecnocracia colombiana",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-poder-de-la-tecnocracia-colombiana-MA21215449"
     },
     {
         "article-type": "column",
@@ -48,52 +88,44 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/diablos-dan-ganas-de-llorar-MB21206183"
     },
     {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2023-04-26",
-        "publication": "el-colombiano",
-        "title": "El heredero ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-heredero-EB21206075"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Mej\u00eda Cubillos",
-        "date": "2023-04-25",
-        "publication": "el-colombiano",
-        "title": "Petro en Stanford",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/petro-en-stanford-FL21195918"
-    },
-    {
-        "article-type": "column",
-        "author": "Federico Hoyos Salazar",
-        "date": "2023-04-25",
-        "publication": "el-colombiano",
-        "title": "La otra apuesta de Petro",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-otra-apuesta-de-petro-KL21195791"
-    },
-    {
-        "article-type": "column",
-        "author": "Beatriz de Majo",
-        "date": "2023-04-25",
-        "publication": "el-colombiano",
-        "title": "Lo oscuro del financiamiento chino",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/lo-oscuro-del-financiamiento-chino-PL21195749"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Nieto Loaiza",
-        "date": "2023-04-25",
-        "publication": "el-colombiano",
-        "title": "Para rematar, inseguridad creciente",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/para-rematar-inseguridad-creciente-EL21195661"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-26",
+        "date": "2023-04-27",
         "publication": "el-espectador",
-        "title": "El debate sobre una comisi\u00f3n de justicia internacional",
-        "url": "https://www.elespectador.com/opinion/editorial/el-debate-sobre-una-comision-de-justicia-internacional/"
+        "title": "La democracia, aunque incomode, no es un estorbo  ",
+        "url": "https://www.elespectador.com/opinion/editorial/la-democracia-aunque-incomode-no-es-un-estorbo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-04-27",
+        "publication": "el-espectador",
+        "title": "Diez a\u00f1os de \u201cEl beso de los invisibles\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/diez-anos-de-el-beso-de-los-invisibles/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2023-04-27",
+        "publication": "el-espectador",
+        "title": "China y Estados Unidos",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/china-y-estados-unidos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-04-27",
+        "publication": "el-espectador",
+        "title": "Campeones en los campos de algod\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/campeones-en-los-campos-de-algodon/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2023-04-27",
+        "publication": "el-espectador",
+        "title": "\u00bfA d\u00f3nde se fue el entusiasmo por la paz?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/a-donde-se-fue-el-entusiasmo-por-la-paz/"
     },
     {
         "article-type": "column",
@@ -128,163 +160,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/un-vodevil-improvisado/"
     },
     {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-04-26",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 le pasa al angustiado Barbosa?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/que-le-pasa-al-angustiado-barbosa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-04-26",
-        "publication": "el-espectador",
-        "title": "\u00bfSe desploma el precio de la coca\u00edna?",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/se-desploma-el-precio-de-la-cocaina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-04-26",
-        "publication": "el-espectador",
-        "title": "El Midas del fracaso",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-midas-del-fracaso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2023-04-26",
-        "publication": "el-espectador",
-        "title": "Pocas piedras lleva",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/pocas-piedras-lleva/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-04-26",
-        "publication": "el-espectador",
-        "title": "Cuando Tunja fue un punto clave para el feminismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/cuando-tunja-fue-un-punto-clave-para-el-feminismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-04-26",
-        "publication": "el-espectador",
-        "title": "Publican los diarios completos de Kafka",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/publican-los-diarios-completos-de-kafka/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2023-04-25",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 es la innovaci\u00f3n popular?",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/que-es-la-innovacion-popular/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2023-04-26",
-        "publication": "el-espectador",
-        "title": "De micos y leguleyadas",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/de-micos-y-leguleyadas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-04-26",
-        "publication": "el-espectador",
-        "title": "Berl\u00edn",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/berlin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-04-26",
-        "publication": "el-espectador",
-        "title": "Reformas: a enmendar la plana",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/reformas-a-enmendar-la-plana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-04-26",
-        "publication": "el-espectador",
-        "title": "Resiliencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/resiliencia-2/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-04-26",
-        "publication": "el-espectador",
-        "title": "Estados Unidos y Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/estados-unidos-y-colombia/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-04-26",
+        "date": "2023-04-27",
         "publication": "el-tiempo",
-        "title": "C\u00f3mo le va a Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/editorial/como-le-va-a-bogota-editorial-el-tiempo-762733"
+        "title": "Atenci\u00f3n al Sumapaz",
+        "url": "https://www.eltiempo.com/opinion/editorial/atencion-al-sumapaz-editorial-763123"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-04-26",
+        "author": "Pedro Medellin",
+        "date": "2023-04-27",
         "publication": "el-tiempo",
-        "title": "Moci\u00f3n de censura y vicepresidencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/mocion-de-censura-y-vicepresidencia-columna-de-alfonso-gomez-mendez-762686"
+        "title": "Una democracia sin territorios",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/una-democracia-sin-territorios-columna-de-pedro-medellin-763114"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-04-26",
+        "author": "Claudia Palacios",
+        "date": "2023-04-27",
         "publication": "el-tiempo",
-        "title": "\u00bfUna inteligencia excesiva?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/una-inteligencia-excesiva-columna-de-vladdo-762691"
+        "title": "Ni que hablar de la muerte matara",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/ni-que-hablar-de-la-muerte-matara-columna-de-claudia-palacios-763047"
     },
     {
         "article-type": "column",
-        "author": "Margarita Posada",
-        "date": "2023-04-26",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-04-27",
         "publication": "el-tiempo",
-        "title": "Cositas que odio de la sororidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/margarita-posada/cositas-que-odio-de-la-sororidad-columna-de-margarita-posada-762660"
+        "title": "Del arte de leer",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/del-arte-de-leer-columna-de-juan-esteban-constain-763040"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2023-04-26",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-04-27",
         "publication": "el-tiempo",
-        "title": "Agua, por el amor de r\u00edos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/agua-por-el-amor-de-rios-columna-de-andres-hurtado-garcia-762642"
+        "title": "El cauce m\u00e1gico de los r\u00edos profundos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/el-cauce-magico-de-los-rios-profundos-columna-de-sergio-ramirez-763026"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-04-26",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-04-27",
         "publication": "el-tiempo",
-        "title": "De coalici\u00f3n a colisi\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/de-coalicion-a-colision-columna-de-gustavo-duncan-762622"
+        "title": "La lujuria de leer",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/la-lujuria-de-leer-columna-de-oscar-dominguez-giraldo-763054"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-04-26",
+        "author": "Jenny Lindo",
+        "date": "2023-04-27",
         "publication": "el-tiempo",
-        "title": "Ver\u00f3nica en el Capitolio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/veronica-en-el-capitolio-columna-de-poncho-renteria-762632"
+        "title": "Contrataci\u00f3n estrat\u00e9gica para las regiones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/contratacion-estrategica-para-las-regiones-columna-de-jenny-lindo-763076"
     },
     {
         "article-type": "column",
-        "author": "Women in Connection",
-        "date": "2023-04-26",
+        "author": "Javier Borda Diaz",
+        "date": "2023-04-27",
         "publication": "el-tiempo",
-        "title": "Emprendimientos sociales, un modelo de negocio necesario",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/emprendimientos-sociales-un-modelo-de-negocio-necesario-762673"
+        "title": "Brutos ante la Inteligencia Artificial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/brutos-ante-la-inteligencia-artificial-columna-de-javier-borda-763082"
     }
 ]
