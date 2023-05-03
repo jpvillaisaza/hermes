@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-02",
+        "date": "2023-05-03",
         "publication": "el-colombiano",
-        "title": "\u00bfDe qu\u00e9 desarrollo estamos hablando? ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/de-que-desarrollo-estamos-hablando-CE21250130"
+        "title": "Petro preso de su narrativa",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/petro-preso-de-su-narrativa-DH21260113"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Oppenheimer",
+        "date": "2023-05-03",
+        "publication": "el-colombiano",
+        "title": "Guaid\u00f3 desenmascar\u00f3 al presidente de Colombia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/guaido-desenmascaro-al-presidente-de-colombia-GE21255245"
+    },
+    {
+        "article-type": "column",
+        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
+        "date": "2023-05-03",
+        "publication": "el-colombiano",
+        "title": "La tempestad",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-tempestad-AE21255162"
+    },
+    {
+        "article-type": "column",
+        "author": "David E. Santos G\u00f3mez",
+        "date": "2023-05-03",
+        "publication": "el-colombiano",
+        "title": "La posibilidad de un segundo tiempo ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-posibilidad-de-un-segundo-tiempo-NE21255118"
+    },
+    {
+        "article-type": "column",
+        "author": "David Yanovich",
+        "date": "2023-05-03",
+        "publication": "el-colombiano",
+        "title": "Delirante ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/delirante-DE21255053"
+    },
+    {
+        "article-type": "column",
+        "author": "Luz Mar\u00eda M\u00fanera Medina",
+        "date": "2023-05-03",
+        "publication": "el-colombiano",
+        "title": "Un plan de desarrollo para la vida ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-plan-de-desarrollo-para-la-vida-DE21254799"
     },
     {
         "article-type": "column",
@@ -48,52 +88,108 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/emergencia-en-zarzal-CF21249083"
     },
     {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
-        "date": "2023-05-01",
-        "publication": "el-colombiano",
-        "title": "Los \u00faltimos d\u00edas del trabajo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-ultimos-dias-del-trabajo-FF21241141"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Escobar Valencia",
-        "date": "2023-05-01",
-        "publication": "el-colombiano",
-        "title": "La diplomacia del lado oscuro",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-diplomacia-del-lado-oscuro-CF21241120"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Bibiana Botero C.",
-        "date": "2023-05-01",
-        "publication": "el-colombiano",
-        "title": "Es la ERA para la educaci\u00f3n rural",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/es-la-era-para-la-educacion-rural-BF21241101"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
-        "date": "2023-05-01",
-        "publication": "el-colombiano",
-        "title": "Lo fundamental ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/lo-fundamental-KF21241083"
-    },
-    {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2023-05-01",
-        "publication": "el-colombiano",
-        "title": "La ropa sucia no s\u00f3lo se lava en casa",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-ropa-sucia-no-solo-se-lava-en-casa-NF21241048"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-02",
+        "date": "2023-05-03",
         "publication": "el-espectador",
-        "title": "Colombia como filtro para el asilo",
-        "url": "https://www.elespectador.com/opinion/editorial/colombia-como-filtro-para-el-asilo/"
+        "title": "Las interpretaciones del \u201cbalconazo\u201d presidencial ",
+        "url": "https://www.elespectador.com/opinion/las-interpretaciones-del-balconazo-presidencial/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "Polarizaci\u00f3n y ruptura",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/polarizacion-y-ruptura-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Segovia",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "Peor la cura que la enfermedad",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/peor-la-cura-que-la-enfermedad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "Harry, el inolvidable",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/harry-el-inolvidable/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "Cambiar de empleo",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/cambiar-de-empleo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "No va m\u00e1s",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/no-va-mas/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "Proust da sue\u00f1o",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/proust-da-sueno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "Un remez\u00f3n en el aire",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/un-remezon-en-el-aire/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitada",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "Fiscal\u00eda: impunidad y mermelada",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/fiscalia-impunidad-y-mermelada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Pablo Ruiz Soto",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "\u00bfPetro, en retro?",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/petro-en-retro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 A. Guti\u00e9rrez*",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "\u00bfC\u00f3mo puede contribuir la justicia transformativa a la construcci\u00f3n de Paz Total?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/apuntes-de-paz-total-como-puede-contribuir-la-justicia-transformativa-a-la-construccion-de-paz-total/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "El despiporre del gobierno",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-despiporre-del-gobierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-05-03",
+        "publication": "el-espectador",
+        "title": "\u00bfEl fin de los superh\u00e9roes?",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-fin-de-los-superheroes/"
     },
     {
         "article-type": "column",
@@ -128,163 +224,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/nueva-energia-joven-para-la-reforma-rural/"
     },
     {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-05-02",
-        "publication": "el-espectador",
-        "title": "Vuelco en seguridad y defensa",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/vuelco-en-seguridad-y-defensa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pedro Viveros",
-        "date": "2023-05-02",
-        "publication": "el-espectador",
-        "title": "Petro vio lo que ven\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/petro-vio-lo-que-venia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-05-02",
-        "publication": "el-espectador",
-        "title": "Un caf\u00e9 con Luis",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/un-cafe-con-luis/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Barajas Sandoval",
-        "date": "2023-05-02",
-        "publication": "el-espectador",
-        "title": "Palabras como misiles",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/palabras-como-misiles/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Orduz",
-        "date": "2023-05-02",
-        "publication": "el-espectador",
-        "title": "Dietas contra la informaci\u00f3n chatarra",
-        "url": "https://www.elespectador.com/opinion/columnistas/rafael-orduz/dietas-contra-la-informacion-chatarra/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-05-02",
-        "publication": "el-espectador",
-        "title": "La era del \u201cempendejamiento\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/la-era-del-empendejamiento/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-05-02",
-        "publication": "el-espectador",
-        "title": "H\u00e9rcules Pretorius",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/hercules-pretorius/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ana Mar\u00eda Malag\u00f3n & Carlos Quesada*",
-        "date": "2023-05-02",
-        "publication": "el-espectador",
-        "title": "\u00bfCu\u00e1l es el temor de permitir que el campesinado participe?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/cual-es-el-temor-de-permitir-que-el-campesinado-participe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-05-01",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: \u201cEl mejor equipo del mundo\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/el-mejor-equipo-del-mundo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-05-01",
-        "publication": "el-espectador",
-        "title": "El trabajo y el pa\u00eds: reflexiones ante varios puntos de inflexi\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-trabajo-y-el-pais-reflexiones-ante-varios-puntos-de-inflexion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2023-05-01",
-        "publication": "el-espectador",
-        "title": "Los que salen",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/los-que-salen/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2023-05-01",
-        "publication": "el-espectador",
-        "title": "La advertencia de Petro (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/la-advertencia-de-petro-ii/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-02",
+        "date": "2023-05-03",
         "publication": "el-tiempo",
-        "title": "Prudencia en Ecopetrol",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-2-de-mayo-de-2023-prudencia-en-ecopetrol-764300"
+        "title": "Un mal mensaje",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-3-de-mayo-de-2023-un-mal-mensaje-764684"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-05-02",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-05-03",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 har\u00edamos sin empresas?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-que-hariamos-sin-empresas-764304"
+        "title": "Federalismo en la Constituci\u00f3n de Rionegro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/columna-de-alfonso-gomez-mendez-federalismo-en-la-constitucion-de-rionegro-764668"
     },
     {
         "article-type": "column",
-        "author": "Viviane Morales Hoyos",
-        "date": "2023-05-02",
+        "author": "Vladdo",
+        "date": "2023-05-03",
         "publication": "el-tiempo",
-        "title": "La trampa miliciana del Plan de Desarrollo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/columna-de-viviane-morales-la-trampa-miliciana-del-plan-de-desarrollo-764305"
+        "title": "Provocador, s\u00ed; tonto, no",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/columna-de-vladdo-provocador-si-tonto-no-764670"
     },
     {
         "article-type": "column",
-        "author": "Juan Mart\u00edn Caicedo Ferrer",
-        "date": "2023-05-02",
+        "author": "Florence Thomas",
+        "date": "2023-05-03",
         "publication": "el-tiempo",
-        "title": "\u00a1Somos 68.000!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-martin-caicedo-ferrer/columna-de-juan-martin-caicedo-somos-68-000-764308"
+        "title": "\u00bfUn plan de desarrollo para las mujeres?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/columna-de-florence-thomas-un-plan-de-desarrollo-para-las-mujeres-764695"
     },
     {
         "article-type": "column",
-        "author": "Aurora Vergara Figueroa",
-        "date": "2023-05-02",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-05-03",
         "publication": "el-tiempo",
-        "title": "Pr\u00e1cticas restaurativas y acciones integrales frente al acoso escolar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/aurora-vergara-figueroa/columna-de-aurora-vergara-practicas-restaurativas-frente-al-acoso-escolar-764314"
+        "title": "Super-Petro, hoy con la nobleza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/columna-de-poncho-renteria-super-petro-hoy-con-la-nobleza-764693"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2023-05-02",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2023-05-03",
         "publication": "el-tiempo",
-        "title": "El celular y el metro de Nueva York",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-el-celular-y-el-metro-de-nueva-york-764302"
+        "title": "El nada\u00edsta cachorro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/columna-de-jotamario-arbelaez-el-nadaista-cachorro-764667"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2023-05-02",
+        "author": "Alpher Rojas C.",
+        "date": "2023-05-03",
         "publication": "el-tiempo",
-        "title": "Recuerdo de un olvidado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-escobar-recuerdo-de-un-olvidado-764307"
+        "title": "La dimensi\u00f3n de un estadista",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/columna-de-alpher-rojas-la-dimension-de-un-estadista-764674"
     },
     {
         "article-type": "column",
-        "author": "Fabio Mart\u00ednez",
-        "date": "2023-05-02",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2023-05-03",
         "publication": "el-tiempo",
-        "title": "Salud, amor e inteligencia artificial",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/columna-de-fabio-martinez-salud-amor-e-inteligencia-artificial-764313"
+        "title": "El trabajo es vida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/columna-de-victor-corcoba-el-trabajo-es-vida-764696"
     }
 ]
