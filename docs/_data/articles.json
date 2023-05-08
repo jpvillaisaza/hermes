@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-07",
+        "date": "2023-05-08",
         "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/las-preguntas-del-presidente-DA21306984"
+        "title": "\u00bfColombia federal?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/colombia-federal-HA21308780"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Vargas Llosa",
+        "date": "2023-05-08",
+        "publication": "el-colombiano",
+        "title": "Sartre y el viejo librero",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/sartre-y-el-viejo-librero-GA21306541"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
+        "date": "2023-05-08",
+        "publication": "el-colombiano",
+        "title": "La Inteligencia Artificial y el Negrito del Batey",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-inteligencia-artificial-y-el-negrito-del-batey-GA21306505"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Escobar Valencia",
+        "date": "2023-05-08",
+        "publication": "el-colombiano",
+        "title": "Lecciones administrativas de un lamb\u00f3n insigne ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/lecciones-administrativas-de-un-lambon-insigne-PA21306458"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Bibiana Botero C.",
+        "date": "2023-05-08",
+        "publication": "el-colombiano",
+        "title": "Cuidar las ra\u00edces",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/cuidar-las-raices-EA21306406"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
+        "date": "2023-05-08",
+        "publication": "el-colombiano",
+        "title": "Todo se les despiporra",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/todo-se-les-despiporra-CA21306370"
     },
     {
         "article-type": "column",
@@ -48,52 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/donde-estan-los-hombres-EA21306673"
     },
     {
-        "article-type": "column",
-        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez G.",
-        "date": "2023-05-07",
-        "publication": "el-colombiano",
-        "title": "Independencia y colaboraci\u00f3n arm\u00f3nica",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/independencia-y-colaboracion-armonica-LA21306638"
-    },
-    {
-        "article-type": "column",
-        "author": "David Escobar Arango",
-        "date": "2023-05-07",
-        "publication": "el-colombiano",
-        "title": "Actuar por lo vivo: regenerar la palabra",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/actuar-por-lo-vivo-regenerar-la-palabra-DA21306612"
-    },
-    {
-        "article-type": "column",
-        "author": "Lina Mar\u00eda M\u00fanera Guti\u00e9rrez",
-        "date": "2023-05-07",
-        "publication": "el-colombiano",
-        "title": "La realeza de las clases obreras",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-realeza-de-las-clases-obreras-PA21306559"
-    },
-    {
-        "article-type": "column",
-        "author": "Diego Mesa Puyo",
-        "date": "2023-05-06",
-        "publication": "el-colombiano",
-        "title": "Seguridad energ\u00e9tica",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/seguridad-energetica-GA21304233"
-    },
-    {
-        "article-type": "column",
-        "author": " Alejandro Noguera C.",
-        "date": "2023-05-06",
-        "publication": "el-colombiano",
-        "title": "Desactivar las campanitas...",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/desactivar-las-campanitas-FA21304001"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-07",
+        "date": "2023-05-08",
         "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 hacemos con tanta irresponsabilidad junta?",
-        "url": "https://www.elespectador.com/opinion/editorial/que-hacemos-con-tanta-irresponsabilidad-junta/"
+        "title": "Inaceptables y temibles amenazas contra la JEP",
+        "url": "https://www.elespectador.com/opinion/editorial/inaceptables-y-temibles-amenazas-contra-la-jep/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: Se juega como se vive",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/se-juega-como-se-vive/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "Cena con el presidente",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/cena-con-el-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "Mallas, mafias y otras pira\u00f1as",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/mallas-mafias-y-otras-piranas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "\u00abNo es nada\u00bb: la doble negaci\u00f3n en espa\u00f1ol",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/no-es-nada-la-doble-negacion-en-espanol/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "El quijote de las marchas",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/el-quijote-de-las-marchas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Villamizar",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "El poder de la palabra",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/el-poder-de-la-palabra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "Cambio de ministro o de modelo",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/cambio-de-ministro-o-de-modelo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "El Plan de Desarrollo 2022-2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-plan-de-desarrollo-2022-2026/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "Balc\u00f3n y guardias \u201cpetrorianas\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/balcon-y-guardias-petrorianas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "Recesi\u00f3n agr\u00edcola",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/recesion-agricola/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "Petro y el Pacto, en su lugar",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/petro-y-el-pacto-en-su-lugar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carlos C\u00e1rdenas \u00c1ngel*",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "Suecia: vientos de cambio y sus efectos para la paz en Colombia (Parte II)",
+        "url": "https://www.elespectador.com/colombia-20/analistas/suecia-vientos-de-cambio-y-sus-efectos-para-la-paz-en-colombia-parte-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u00bfQu\u00e9 hacemos con tanta irresponsabilidad junta?",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-que-hacemos-con-tanta-irresponsabilidad-junta/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Candidata",
+        "date": "2023-05-08",
+        "publication": "el-espectador",
+        "title": "Cap\u00edtulo 37: Las jefas de la oposici\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/gustavo-petro-gradua-de-opositoras-a-directoras-de-la-silla-vacia-y-semana/"
     },
     {
         "article-type": "column",
@@ -112,187 +224,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/avestruces-y-geoingenieria/"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "Hablar no cuesta nada, actuar s\u00ed ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/hablar-no-cuesta-nada-actuar-si/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "Lo que mal comienza",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/lo-que-mal-comienza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "El para\u00edso perdido",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/el-paraiso-perdido/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "As\u00ed es como debemos regular la inteligencia artificial",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/asi-es-como-debemos-regular-la-inteligencia-artificial/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "Huelga de poetas",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/huelga-de-poetas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja: As\u00ed analiz\u00f3 Chat GPT la visita de Petro a Espa\u00f1a",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-asi-analizo-chat-gpt-la-visita-de-petro-a-espana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "Un nuevo lente",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/un-nuevo-lente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "Revoluci\u00f3n al rev\u00e9s ",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/revolucion-al-reves/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "El despiporre",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/el-despiporre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Leal Buitrago",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "De nuevo, Petro, impredecible",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/de-nuevo-petro-impredecible/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "Presidente: no hay plata",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/presidente-no-hay-plata/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "Las recomendaciones de la CEV en serio ",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/las-recomendaciones-de-la-cev-en-serio/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-93/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos C\u00e1rdenas \u00c1ngel",
-        "date": "2023-05-07",
-        "publication": "el-espectador",
-        "title": "Suecia: vientos de cambio y sus efectos para la paz en Colombia",
-        "url": "https://www.elespectador.com/colombia-20/analistas/suecia-vientos-de-cambio-y-sus-efectos-para-la-paz-en-colombia/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-07",
+        "date": "2023-05-08",
         "publication": "el-tiempo",
-        "title": "El nuevo Plan de Desarrollo",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-7-de-mayo-de-2023-el-nuevo-plan-de-desarrollo-765986"
+        "title": "Ojo con el acoso escolar",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-8-de-mayo-de-2023-ojo-con-el-acoso-escolar-766131"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-05-07",
+        "author": "Juan Lozano",
+        "date": "2023-05-08",
         "publication": "el-tiempo",
-        "title": "El balconazo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-el-balconazo-765987"
+        "title": "El monarquismo contagioso",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-el-monarquismo-contagioso-766151"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-05-07",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2023-05-08",
         "publication": "el-tiempo",
-        "title": "La desnudez del frac",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-la-desnudez-del-frac-765993"
+        "title": "El mico sabe en qu\u00e9 palo trepa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-el-mico-sabe-en-que-palo-trepa-766157"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-05-07",
+        "author": "Luis Felipe Henao",
+        "date": "2023-05-08",
         "publication": "el-tiempo",
-        "title": "El sofisma en el balc\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-el-sofisma-en-el-balcon-766000"
+        "title": "Gustavo I: \u2018El Estado soy yo\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-gustavo-i-el-estado-soy-yo-766163"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Antonio Ocampo",
-        "date": "2023-05-07",
+        "author": "Diego Santos",
+        "date": "2023-05-08",
         "publication": "el-tiempo",
-        "title": "El compromiso con la estabilidad macroecon\u00f3mica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo/columna-de-jose-a-ocampo-compromiso-con-estabilidad-macroeconomica-765995"
+        "title": "\u00bfCu\u00e1nto tiempo \u00fatil nos queda a los que vivimos de escribir?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-cuanto-tiempo-util-nos-queda-766150"
     },
     {
         "article-type": "column",
-        "author": "Carlos Hern\u00e1n Rodr\u00edguez Becerra",
-        "date": "2023-05-07",
+        "author": "Paola Ochoa",
+        "date": "2023-05-08",
         "publication": "el-tiempo",
-        "title": "No le conviene al pa\u00eds un escenario de polarizaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-hernan-rodriguez-becerra/columna-de-carlos-hernan-rodriguez-mirarnos-al-espejo-766005"
+        "title": "El Presidente no madruga",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-el-presidente-no-madruga-766164"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-05-07",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-05-08",
         "publication": "el-tiempo",
-        "title": "Despelote, por sectores",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-despelote-por-sectores-765988"
+        "title": "Lleg\u00f3 la inteligencia artificial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-llego-la-inteligencia-artificial-766133"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-05-07",
+        "author": "Alejandro Higuera Sotomayor",
+        "date": "2023-05-08",
         "publication": "el-tiempo",
-        "title": "\u2018Mayday\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-mayday-765994"
+        "title": "Autodiagnosticados",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-autodiagnosticados-766138"
     },
     {
         "article-type": "column",
-        "author": "Santiago Vargas Acebedo",
-        "date": "2023-05-07",
+        "author": "Melba Escobar",
+        "date": "2023-05-08",
         "publication": "el-tiempo",
-        "title": "\u00bfEs v\u00e1lido que el Presidente llame a las calles?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/columna-de-santiago-vargas-es-valido-que-el-presidente-llame-a-las-calles-766007"
+        "title": "La palabra familia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-la-palabra-familia-766158"
     }
 ]
