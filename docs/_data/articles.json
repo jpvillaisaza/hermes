@@ -2,10 +2,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-09",
+        "date": "2023-05-10",
         "publication": "el-colombiano",
-        "title": "Despiste total",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/despiste-total-DD21332573"
+        "title": "Chile, el laboratorio pol\u00edtico",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/chile-el-laboratorio-politico-AE21348800"
+    },
+    {
+        "article-type": "column",
+        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
+        "date": "2023-05-10",
+        "publication": "el-colombiano",
+        "title": "\u00bfUn grito en el desierto?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/un-grito-en-el-desierto-HE21342140"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Oppenheimer",
+        "date": "2023-05-10",
+        "publication": "el-colombiano",
+        "title": "El inminente alud de videos falsos en internet ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/el-inminente-alud-de-videos-falsos-en-internet-AE21342075"
+    },
+    {
+        "article-type": "column",
+        "author": "Dany Alejandro Hoyos",
+        "date": "2023-05-10",
+        "publication": "el-colombiano",
+        "title": "Juventud divino tesoro ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/juventud-divino-tesoro-ME21341827"
+    },
+    {
+        "article-type": "column",
+        "author": "David E. Santos G\u00f3mez",
+        "date": "2023-05-10",
+        "publication": "el-colombiano",
+        "title": "Latinoam\u00e9rica no cree en sus gobiernos ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/latinoamerica-no-cree-en-sus-gobiernos-KE21341784"
+    },
+    {
+        "article-type": "column",
+        "author": "Invitado",
+        "date": "2023-05-10",
+        "publication": "el-colombiano",
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/gira-por-africa-derroche-u-oportunidad-historica-BE21341734"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas a la Directora",
+        "date": "2023-05-10",
+        "publication": "el-colombiano",
+        "title": "La degradaci\u00f3n de El Poblado, tierra de nadie",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-degradacion-de-el-poblado-tierra-de-nadie-FE21341712"
     },
     {
         "article-type": "column",
@@ -40,60 +88,84 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/el-mundo-no-es-hoy-mas-desigual-JC21325369"
     },
     {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2023-05-09",
-        "publication": "el-colombiano",
-        "title": "Democratizaci\u00f3n en Venezuela: Petro no es aliado",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/democratizacion-en-venezuela-petro-no-es-aliado-FC21324032"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Vargas Llosa",
-        "date": "2023-05-08",
-        "publication": "el-colombiano",
-        "title": "Sartre y el viejo librero",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/sartre-y-el-viejo-librero-GA21306541"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Guillermo V\u00e9lez \u00c1lvarez",
-        "date": "2023-05-08",
-        "publication": "el-colombiano",
-        "title": "La Inteligencia Artificial y el Negrito del Batey",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/la-inteligencia-artificial-y-el-negrito-del-batey-GA21306505"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Escobar Valencia",
-        "date": "2023-05-08",
-        "publication": "el-colombiano",
-        "title": "Lecciones administrativas de un lamb\u00f3n insigne ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/lecciones-administrativas-de-un-lambon-insigne-PA21306458"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Bibiana Botero C.",
-        "date": "2023-05-08",
-        "publication": "el-colombiano",
-        "title": "Cuidar las ra\u00edces",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/cuidar-las-raices-EA21306406"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Jos\u00e9 Garc\u00eda Posada",
-        "date": "2023-05-08",
-        "publication": "el-colombiano",
-        "title": "Todo se les despiporra",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/todo-se-les-despiporra-CA21306370"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-09",
+        "date": "2023-05-10",
         "publication": "el-espectador",
-        "title": "El cambio de Chile que algo dice sobre Colombia",
-        "url": "https://www.elespectador.com/opinion/editorial/el-cambio-de-chile-que-algo-dice-sobre-colombia/"
+        "title": "Cambio en la Superintendencia Financiera",
+        "url": "https://www.elespectador.com/opinion/editorial/cambio-en-la-superintendencia-financiera/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio Borges",
+        "date": "2023-05-10",
+        "publication": "el-espectador",
+        "title": "Colombia y Venezuela, siameses inseparables",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/colombia-y-venezuela-siameses-inseparables/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-05-10",
+        "publication": "el-espectador",
+        "title": "La apuesta del litio",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/la-apuesta-del-litio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-05-10",
+        "publication": "el-espectador",
+        "title": "Salirse del corral",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/salirse-del-corral/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-05-10",
+        "publication": "el-espectador",
+        "title": "Falsedad ideol\u00f3gica",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/falsedad-ideologica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-05-10",
+        "publication": "el-espectador",
+        "title": "No hay mal que dure 100 a\u00f1os\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/no-hay-mal-que-dure-100-anos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-05-10",
+        "publication": "el-espectador",
+        "title": "El titiritero",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-titiritero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2023-05-10",
+        "publication": "el-espectador",
+        "title": "Otra guerra perdida",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/otra-guerra-perdida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2023-05-10",
+        "publication": "el-espectador",
+        "title": "Carga de profundidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/carga-de-profundidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Cala",
+        "date": "2023-05-10",
+        "publication": "el-espectador",
+        "title": "Buscar a los desaparecidos y prevenir que sigan desapareciendo: dos tareas del PND",
+        "url": "https://www.elespectador.com/colombia-20/analistas/buscar-a-los-desaparecidos-y-prevenir-que-sigan-desapareciendo-dos-tareas-del-pnd/"
     },
     {
         "article-type": "column",
@@ -152,139 +224,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/rey-finalmente/"
     },
     {
-        "article-type": "column",
-        "author": "Beatriz Vanegas Ath\u00edas",
-        "date": "2023-05-09",
-        "publication": "el-espectador",
-        "title": "Sobre el dolor de los animales (I)",
-        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/sobre-el-dolor-de-los-animales-i/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2023-05-09",
-        "publication": "el-espectador",
-        "title": "\u00bfSer\u00e1n desplazados los docentes por la inteligencia artificial?",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/seran-desplazados-los-docentes-por-la-inteligencia-artificial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-05-09",
-        "publication": "el-espectador",
-        "title": "Disentir",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/disentir/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2023-05-09",
-        "publication": "el-espectador",
-        "title": "Trino y uno",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/trino-y-uno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-05-09",
-        "publication": "el-espectador",
-        "title": "Sobre mes\u00edas y otros redentores",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/sobre-mesias-y-otros-redentores/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. William Pearl",
-        "date": "2023-05-09",
-        "publication": "el-espectador",
-        "title": "Dal\u00e1i",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/dalai/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Barajas Sandoval",
-        "date": "2023-05-09",
-        "publication": "el-espectador",
-        "title": "El mal ejemplo de Sud\u00e1n",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/el-mal-ejemplo-de-sudan/"
-    },
-    {
-        "article-type": "column",
-        "author": "Kenneth Burbano Villamar\u00edn",
-        "date": "2023-05-09",
-        "publication": "el-espectador",
-        "title": "El mando de los col\u00e9ricos",
-        "url": "https://www.elespectador.com/colombia-20/analistas/el-mando-de-los-colericos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-05-09",
-        "publication": "el-espectador",
-        "title": "\u201cAm\u00e9n, Francisco responde\u201d: el Papa recibe el pa\u00f1uelo verde y habla de aborto",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/amen-francisco-responde-el-papa-recibe-el-panuelo-verde-y-habla-de-aborto/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-09",
+        "date": "2023-05-10",
         "publication": "el-tiempo",
-        "title": "Confianza en las empresas",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-9-de-mayo-de-2023-confianza-en-las-empresas-766522"
+        "title": "Mensaje desde el sur",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-10-de-mayo-de-2023-mensaje-desde-el-sur-766915"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-05-09",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-05-10",
         "publication": "el-tiempo",
-        "title": "Cuando los jefes se encuentren",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/cuando-los-jefes-se-encuentren-columna-de-jose-manuel-acevedo-766524"
+        "title": "Presidencialismo e independencia judicial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/presidencialismo-e-independencia-judicial-columna-de-alfonso-gomez-mendez-766923"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2023-05-09",
+        "author": "Vladdo",
+        "date": "2023-05-10",
         "publication": "el-tiempo",
-        "title": "Los gemelos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/los-gemelos-columna-de-sergio-munoz-bata-766527"
+        "title": "Choque de egos; no de trenes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/choque-de-egos-no-de-trenes-columna-de-vladdo-766917"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2023-05-09",
+        "author": "Gustavo Duncan",
+        "date": "2023-05-10",
         "publication": "el-tiempo",
-        "title": "Las buenas noticias",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/las-buenas-noticias-columna-de-fernando-quiroz-766537"
+        "title": "La pol\u00edtica de grandes ideas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/la-politica-de-grandes-ideas-columna-de-gustavo-duncan-766926"
     },
     {
         "article-type": "column",
-        "author": "Marcela Mel\u00e9ndez",
-        "date": "2023-05-09",
+        "author": "Elizabeth Melo",
+        "date": "2023-05-10",
         "publication": "el-tiempo",
-        "title": "Los impuestos saludables",
-        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/los-impuestos-saludables-columna-de-marcela-melendez-766525"
+        "title": "Promover la equidad, la diversidad y la inclusi\u00f3n, una tarea de todos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/promover-la-equidad-la-diversidad-y-la-inclusion-una-tarea-de-todos-766879"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2023-05-09",
+        "author": "Andr\u00e9s Hurtado Garc\u00eda",
+        "date": "2023-05-10",
         "publication": "el-tiempo",
-        "title": "Los desaf\u00edos de la paz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/los-desafios-de-la-paz-columna-de-francisco-cajiao-766532"
+        "title": "La Tierra llora",
+        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/la-tierra-llora-columna-de-andres-hurtado-garcia-766929"
     },
     {
         "article-type": "column",
-        "author": "Alex\u00e1nder Cambero",
-        "date": "2023-05-09",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-05-10",
         "publication": "el-tiempo",
-        "title": "Cartas de amor de los abuelos de Mar\u00eda Corina Machado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/cartas-de-amor-de-los-abuelos-de-maria-corina-machado-alexander-cambero-766479"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda A. Garc\u00eda de la Torre",
-        "date": "2023-05-09",
-        "publication": "el-tiempo",
-        "title": "Adi\u00f3s a la Real Academia Espa\u00f1ola",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-a-garcia-de-la-torre/adios-a-la-real-academia-espanola-columna-de-maria-a-garcia-de-la-torre-766473"
+        "title": "A Ver\u00f3nica le sobr\u00f3 el baile en la calle",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/a-veronica-le-sobro-el-baile-en-la-calle-columna-de-poncho-renteria-766916"
     }
 ]
