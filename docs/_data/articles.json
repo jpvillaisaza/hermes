@@ -2,10 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-11",
+        "date": "2023-05-12",
         "publication": "el-colombiano",
-        "title": "Una reforma ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/una-reforma-pensional-sin-ruido-FG21365220"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/medellin-la-poco-educada-EH21374891"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Manuel Restrepo Abondano",
+        "date": "2023-05-12",
+        "publication": "el-colombiano",
+        "title": "\u00bfApag\u00f3n en camino?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/apagon-en-camino-CH21373375"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Aristiz\u00e1bal",
+        "date": "2023-05-12",
+        "publication": "el-colombiano",
+        "title": "\u00bfTodos amenazamos?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/todos-amenazamos-NH21373169"
+    },
+    {
+        "article-type": "column",
+        "author": "Llu\u00eds Bassets",
+        "date": "2023-05-12",
+        "publication": "el-colombiano",
+        "title": "Manual de rusofobia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/manual-de-rusofobia-LH21373109"
+    },
+    {
+        "article-type": "column",
+        "author": "Sof\u00eda Gil S\u00e1nchez",
+        "date": "2023-05-12",
+        "publication": "el-colombiano",
+        "title": "Quintero: aqu\u00ed te ves ",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/quintero-aqui-te-ves-DH21372980"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando \u00c1lvarez",
+        "date": "2023-05-12",
+        "publication": "el-colombiano",
+        "title": "La jefatura del Estado",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-jefatura-del-estado-IH21372192"
     },
     {
         "article-type": "column",
@@ -48,52 +88,124 @@
         "url": "https://www.elcolombiano.com/opinion/columnistas/medellin-es-una-madre-nada-se-ama-como-a-una-madre-OG21364219"
     },
     {
-        "article-type": "column",
-        "author": "Alberto Vel\u00e1squez Mart\u00ednez",
-        "date": "2023-05-10",
-        "publication": "el-colombiano",
-        "title": "\u00bfUn grito en el desierto?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/un-grito-en-el-desierto-HE21342140"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Oppenheimer",
-        "date": "2023-05-10",
-        "publication": "el-colombiano",
-        "title": "El inminente alud de videos falsos en internet ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-inminente-alud-de-videos-falsos-en-internet-AE21342075"
-    },
-    {
-        "article-type": "column",
-        "author": "Dany Alejandro Hoyos",
-        "date": "2023-05-10",
-        "publication": "el-colombiano",
-        "title": "Juventud divino tesoro ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/juventud-divino-tesoro-ME21341827"
-    },
-    {
-        "article-type": "column",
-        "author": "David E. Santos G\u00f3mez",
-        "date": "2023-05-10",
-        "publication": "el-colombiano",
-        "title": "Latinoam\u00e9rica no cree en sus gobiernos ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/latinoamerica-no-cree-en-sus-gobiernos-KE21341784"
-    },
-    {
-        "article-type": "column",
-        "author": "Invitado",
-        "date": "2023-05-10",
-        "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/gira-por-africa-derroche-u-oportunidad-historica-BE21341734"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-11",
+        "date": "2023-05-12",
         "publication": "el-espectador",
-        "title": "Los lazos con \u00c1frica son importantes",
-        "url": "https://www.elespectador.com/opinion/editorial/los-lazos-con-africa-son-importantes/"
+        "title": "Ratificada, por fin, condena a Jorge Pretelt",
+        "url": "https://www.elespectador.com/opinion/editorial/ratificada-por-fin-condena-a-jorge-pretelt/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Iguazos y otras historias",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/iguazos-y-otras-historias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Ya viene el Mono N\u00fa\u00f1ez ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/ya-viene-el-mono-nunez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "D\u00eda de Madre",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/dia-de-madre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Con amigos as\u00ed\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/con-amigos-asi/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Matamos el aburrimiento",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/matamos-el-aburrimiento/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tom\u00e1s Molina",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Carlos Windsor es preso de la Corona",
+        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/carlos-windsor-es-preso-de-la-corona/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Absurdos de la reforma a la salud",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/absurdos-de-la-reforma-a-la-salud/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Campa\u00f1a en poes\u00eda, gobierno en prosa",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/campana-en-poesia-gobierno-en-prosa/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Funcionarios p\u00fablicos con poca humildad",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/funcionarios-publicos-con-poca-humildad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Sinergia de clases",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/sinergia-de-clases/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Del lugar en que vivo",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/del-lugar-en-que-vivo/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "\u00bfElon Musk nos va a salvar? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-elon-musk-nos-va-a-salvar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Los comentarios que hacen sobre nuestro cuerpo",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/los-comentarios-que-hacen-sobre-nuestro-cuerpo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Foro Nacional por Colombia*",
+        "date": "2023-05-12",
+        "publication": "el-espectador",
+        "title": "Armonizar la Paz Total y el Acuerdo de Paz para frenar el conflicto en el Caribe",
+        "url": "https://www.elespectador.com/colombia-20/analistas/armonizar-la-paz-total-y-el-acuerdo-de-paz-para-frenar-el-conflicto-en-el-caribe/"
     },
     {
         "article-type": "column",
@@ -105,70 +217,6 @@
     },
     {
         "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2023-05-11",
-        "publication": "el-espectador",
-        "title": "Con esos amigos\u2026",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/con-esos-amigos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2023-05-11",
-        "publication": "el-espectador",
-        "title": "Cavilaciones",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/cavilaciones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2023-05-11",
-        "publication": "el-espectador",
-        "title": "La impronta indeleble de la reforma a la salud",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/la-impronta-indeleble-de-la-reforma-a-la-salud/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-05-11",
-        "publication": "el-espectador",
-        "title": "Pompa y desigualdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/pompa-y-desigualdad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2023-05-11",
-        "publication": "el-espectador",
-        "title": "Monarqu\u00eda y posmodernidad ",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/monarquia-y-posmodernidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-05-11",
-        "publication": "el-espectador",
-        "title": "Los esfuerzos por civilizar a Aureliano",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/los-esfuerzos-por-civilizar-a-aureliano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-05-11",
-        "publication": "el-espectador",
-        "title": "Columna de profe Luis F. Montoya: Alto nivel",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/alto-nivel/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-05-11",
-        "publication": "el-espectador",
-        "title": "\u201cLa bella Otero\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-bella-otero/"
-    },
-    {
-        "article-type": "column",
         "author": "Javier Ortiz Cassiani",
         "date": "2023-05-11",
         "publication": "el-espectador",
@@ -176,107 +224,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/una-carcel-construida-con-barrotes-de-prejuicio/"
     },
     {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-05-11",
-        "publication": "el-espectador",
-        "title": "La historia en la monarqu\u00eda brit\u00e1nica",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/la-historia-en-la-monarquia-britanica/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2023-05-11",
-        "publication": "el-espectador",
-        "title": "Gobierno usa a la revista \u201cSemana\u201d para desviar la atenci\u00f3n: la Candidata",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/gustavo-petro-controla-oposicion-de-vicky-davila-con-entrevistas-exclusivas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-05-11",
-        "publication": "el-espectador",
-        "title": "La historia del primer error de ortograf\u00eda que Fidel Cano cometi\u00f3 en El Espectador",
-        "url": "https://www.elespectador.com/opinion/video-la-historia-del-primer-error-de-ortografia-que-fidel-cano-cometio-en-el-espectador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2023-05-10",
-        "publication": "el-espectador",
-        "title": "Colombia y Venezuela, siameses inseparables",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/colombia-y-venezuela-siameses-inseparables/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-05-10",
-        "publication": "el-espectador",
-        "title": "Salirse del corral",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/salirse-del-corral/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-05-10",
-        "publication": "el-espectador",
-        "title": "La apuesta del litio",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/la-apuesta-del-litio/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-11",
+        "date": "2023-05-12",
         "publication": "el-tiempo",
-        "title": "Los retos de Salamanca",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-11-de-mayo-de-2023-los-retos-de-salamanca-767322"
+        "title": "Crisis migratoria",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-12-de-mayo-de-2023-crisis-migratoria-767708"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-05-11",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-05-12",
         "publication": "el-tiempo",
-        "title": "El ef\u00edmero poder del Twitter",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-efimero-poder-del-twitter-columna-de-pedro-medellin-767334"
+        "title": "Mis revoluciones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/mis-revoluciones-columna-de-moises-wasserman-767676"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2023-05-11",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-05-12",
         "publication": "el-tiempo",
-        "title": "Fortuna desperdiciada",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/fortuna-desperdiciada-columna-de-claudia-palacios-767341"
+        "title": "Purgatorio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/purgatorio-columna-de-ricardo-silva-romero-767711"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-05-11",
+        "author": "Claudia Hakim",
+        "date": "2023-05-12",
         "publication": "el-tiempo",
-        "title": "El mito y la corona",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/el-mito-y-la-corona-columna-de-juan-esteban-constain-767337"
+        "title": "El arte y la plenitud de la mujer",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/el-arte-y-la-plenitud-de-la-mujer-columna-de-claudia-hakim-767681"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2023-05-11",
+        "author": "Martha Ortiz",
+        "date": "2023-05-12",
         "publication": "el-tiempo",
-        "title": "Las escopetas y las palomas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/las-escopetas-y-las-palomas-columna-de-sergio-ramirez-767327"
+        "title": "Petro, traici\u00f3n a un voto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/petro-traicion-a-un-voto-columna-de-martha-ortiz-767719"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Manuel Ruiz",
-        "date": "2023-05-11",
+        "author": "Alfredo Rangel",
+        "date": "2023-05-12",
         "publication": "el-tiempo",
-        "title": "\u2018Muebles viejos\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/muebles-viejos-columna-de-victor-manuel-ruiz-767343"
+        "title": "Petro, en el espejo de Chile",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/petro-en-el-espejo-de-chile-columna-de-alfredo-rangel-767722"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Rosan\u00eda",
-        "date": "2023-05-11",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-05-12",
         "publication": "el-tiempo",
-        "title": "La contraofensiva ucraniana",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-rosania/la-contraofensiva-ucraniana-columna-de-nestor-rosania-767284"
+        "title": "\u00bfAl pueblo qui\u00e9n lo representa?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/al-pueblo-quien-lo-representa-columna-de-eduardo-posada-carbo-767686"
+    },
+    {
+        "article-type": "column",
+        "author": "Salvo Basile",
+        "date": "2023-05-12",
+        "publication": "el-tiempo",
+        "title": "El poder de Facebook",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/el-poder-de-facebook-columna-de-salvo-basile-767712"
+    },
+    {
+        "article-type": "column",
+        "author": "Martha Senn",
+        "date": "2023-05-12",
+        "publication": "el-tiempo",
+        "title": "Deleites en la Feria del Libro 2023",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/deleites-en-la-feria-del-libro-2023-columna-de-martha-senn-767723"
     }
 ]
