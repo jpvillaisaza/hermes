@@ -2,18 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-30",
+        "date": "2023-05-31",
         "publication": "el-colombiano",
-        "title": "La cuesta arriba de gobernar sin coalici\u00f3n",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-cuesta-arriba-de-gobernar-sin-coalicion-LD21551921"
+        "title": "Ganar indulgencias con padrenuestros ajenos",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/ganar-indulgencias-con-padrenuestros-ajenos-ID21557186"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-30",
+        "date": "2023-05-31",
         "publication": "el-espectador",
-        "title": "Espa\u00f1a se viste de azul",
-        "url": "https://www.elespectador.com/opinion/editorial/espana-se-viste-de-azul/"
+        "title": "\u00bfCu\u00e1l golpe blando?",
+        "url": "https://www.elespectador.com/opinion/editorial/cual-golpe-blando/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Segovia",
+        "date": "2023-05-31",
+        "publication": "el-espectador",
+        "title": "Del amor al odio\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/del-amor-al-odio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2023-05-31",
+        "publication": "el-espectador",
+        "title": "La reforma a la salud: defender lo construido, ignorando lo destruido",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/la-reforma-a-la-salud-defender-lo-construido-ignorando-lo-destruido/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-05-31",
+        "publication": "el-espectador",
+        "title": "El ritmo",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/el-ritmo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-05-31",
+        "publication": "el-espectador",
+        "title": "Cambio de balanza",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/cambio-de-balanza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-05-31",
+        "publication": "el-espectador",
+        "title": "De piroman\u00edas y fratricidios ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/de-piromanias-y-fratricidios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2023-05-31",
+        "publication": "el-espectador",
+        "title": "Abrirle campo al campo",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/abrirle-campo-al-campo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-05-31",
+        "publication": "el-espectador",
+        "title": "Trinos para siete millones y caos",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/trinos-para-siete-millones-y-caos/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2023-05-31",
+        "publication": "el-espectador",
+        "title": "Formas de pasar a un escritor por la guillotina",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/formas-de-pasar-a-un-escritor-por-la-guillotina/"
     },
     {
         "article-type": "column",
@@ -80,131 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/de-oveja-negra-a-estrella-renaciente/"
     },
     {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2023-05-30",
-        "publication": "el-espectador",
-        "title": "Las matem\u00e1ticas y la democracia",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/las-matematicas-y-la-democracia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-05-30",
-        "publication": "el-espectador",
-        "title": "El genocida Henry Kissinger",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-genocida-henry-kissinger/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2023-05-30",
-        "publication": "el-espectador",
-        "title": "Columna de Jorge Tovar: Racismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/racismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2023-05-30",
-        "publication": "el-espectador",
-        "title": "La cruzada del ministro TIC",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-cruzada-del-ministro-tic/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Lora",
-        "date": "2023-05-30",
-        "publication": "el-espectador",
-        "title": "D\u00f3nde poner las prioridades",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-lora-/donde-poner-las-prioridades/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2023-05-30",
-        "publication": "el-espectador",
-        "title": "\u201cNo es pa\u00eds para viejos\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/no-es-pais-para-viejos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-05-30",
-        "publication": "el-espectador",
-        "title": "La credibilidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/la-credibilidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-05-30",
-        "publication": "el-espectador",
-        "title": "El abandono de la ciencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-abandono-de-la-ciencia/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-05-30",
+        "date": "2023-05-31",
         "publication": "el-tiempo",
-        "title": "Tareas urgentes",
-        "url": "https://www.eltiempo.com/opinion/editorial/tareas-urgentes-editorial-el-tiempo-772896"
+        "title": "La voz de los j\u00f3venes",
+        "url": "https://www.eltiempo.com/opinion/editorial/la-voz-de-los-jovenes-editorial-el-tiempo-773277"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-05-30",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-05-31",
         "publication": "el-tiempo",
-        "title": "Condescendencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/condescendencia-columna-de-jose-manuel-acevedo-772860"
+        "title": "Jefatura de gabinete",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/jefatura-de-gabinete-columna-de-alfonso-gomez-mendez-773221"
     },
     {
         "article-type": "column",
-        "author": "Viviane Morales Hoyos",
-        "date": "2023-05-30",
+        "author": "Vladdo",
+        "date": "2023-05-31",
         "publication": "el-tiempo",
-        "title": "El \u2018se\u00f1or Iv\u00e1n Mordisco\u2019, \u00bfgran elector?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/el-senor-ivan-mordisco-gran-elector-columna-de-viviane-morales-772838"
+        "title": "Recuerdos de un escritor",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/recuerdos-de-un-escritor-columna-de-vladdo-773229"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2023-05-30",
+        "author": "Florence Thomas",
+        "date": "2023-05-31",
         "publication": "el-tiempo",
-        "title": "Memoria de Gait\u00e1n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/memoria-de-gaitan-columna-de-eduardo-escobar-772851"
+        "title": "Los estragos del amor y los feminicidios",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/los-estragos-del-amor-y-los-feminicidios-columna-de-florence-thomas-773231"
     },
     {
         "article-type": "column",
-        "author": "Patricia Rinc\u00f3n Mazo",
-        "date": "2023-05-30",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2023-05-31",
         "publication": "el-tiempo",
-        "title": "\u00bfSe acabar\u00eda primero la democracia que el capitalismo?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/patricia-rincon-mazo/se-acabaria-primero-la-democracia-que-el-capitalismo-patricia-rincon-772844"
+        "title": "David Manzur, artista por 70 a\u00f1os",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/david-manzur-artista-por-70-anos-columna-de-jotamario-arbelaez-773230"
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2023-05-30",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-05-31",
         "publication": "el-tiempo",
-        "title": "Tribulaciones de IA",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/tribulaciones-de-ia-columna-de-oscar-dominguez-772856"
+        "title": "Petro, en Brasil y rebaj\u00f3 los trinos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-en-brasil-y-rebajo-los-trinos-columna-de-poncho-renteria-773233"
     },
     {
         "article-type": "column",
-        "author": "Margarita Posada",
-        "date": "2023-05-30",
+        "author": "Robert Max Steenkist",
+        "date": "2023-05-31",
         "publication": "el-tiempo",
-        "title": "Colombia: la nueva maquila de Hollywood",
-        "url": "https://www.eltiempo.com/opinion/columnistas/margarita-posada/colombia-la-nueva-maquila-de-hollywood-columna-de-margarita-posada-772866"
+        "title": "Centinelas y exploradores",
+        "url": "https://www.eltiempo.com/opinion/columnistas/robert-max-steenkist/centinelas-y-exploradores-columna-de-robert-max-steenkist-773240"
     },
     {
         "article-type": "column",
-        "author": "Gregory Lobo",
-        "date": "2023-05-30",
+        "author": "Dejusticia",
+        "date": "2023-05-31",
         "publication": "el-tiempo",
-        "title": "M\u00e1s all\u00e1 del binario izquierda derecha",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/mas-alla-del-binario-izquierda-derecha-columna-de-gregory-lobo-772863"
+        "title": "\u00bfC\u00f3mo es la jurisdicci\u00f3n agraria que Colombia necesita?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/como-es-la-jurisdiccion-agraria-que-colombia-necesita-carlos-quesada-773238"
     }
 ]
