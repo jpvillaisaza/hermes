@@ -2,26 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-01",
+        "date": "2023-06-02",
         "publication": "el-colombiano",
-        "title": "El Meta somos todos ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-meta-somos-todos-KA21569021"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/espana-vuelve-y-vira-a-la-derecha-BP21597798"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-01",
+        "date": "2023-06-02",
         "publication": "el-espectador",
-        "title": "La equivocada narrativa de Lula",
-        "url": "https://www.elespectador.com/opinion/editorial/la-equivocada-narrativa-de-lula/"
+        "title": "Dos p\u00e9simas formas de hacer pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/editorial/dos-pesimas-formas-de-hacer-politica/"
     },
     {
         "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2023-06-01",
+        "author": "Mario Fernando Prado",
+        "date": "2023-06-02",
         "publication": "el-espectador",
-        "title": "Si otros lo hacen, \u00bfpor qu\u00e9 yo no?",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/si-otros-lo-hacen-por-que-yo-no/"
+        "title": "La cabalgata del Tino Asprilla",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/la-cabalgata-del-tino-asprilla/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2023-06-02",
+        "publication": "el-espectador",
+        "title": "Est\u00e9tica",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/estetica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2023-06-02",
+        "publication": "el-espectador",
+        "title": "La burla contra el sector cultural",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/la-burla-contra-el-sector-cultural/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-06-02",
+        "publication": "el-espectador",
+        "title": "Hasta siempre, Heriberto Fiorillo",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/hasta-siempre-heriberto-fiorillo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-06-02",
+        "publication": "el-espectador",
+        "title": "Uribe en campa\u00f1a",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/uribe-en-campana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juliana Mu\u00f1oz Toro",
+        "date": "2023-06-02",
+        "publication": "el-espectador",
+        "title": "R\u00edo de hilo",
+        "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/rio-de-hilo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-06-02",
+        "publication": "el-espectador",
+        "title": "Un libro que es un ladrillo y no es \u2018un ladrillo\u2019",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/un-libro-que-es-un-ladrillo-y-no-es-un-ladrillo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-06-02",
+        "publication": "el-espectador",
+        "title": "Desde m\u00e1s all\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/desde-mas-alla/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hern\u00e1n Gonz\u00e1lez Rodr\u00edguez",
+        "date": "2023-06-02",
+        "publication": "el-espectador",
+        "title": "Fracaso del globalismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/fracaso-del-globalismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2023-06-02",
+        "publication": "el-espectador",
+        "title": "Columna del profesor Luis Fernando Montoya: Avanza la sub-20",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-del-profesor-luis-fernando-montoya-avanza-la-sub-20/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-06-02",
+        "publication": "el-espectador",
+        "title": "Lo malo, lo horrible (y algo bueno) del fiscal Barbosa | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-lo-malo-lo-horrible-y-algo-bueno-del-fiscal-barbosa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Kenneth Burbano Villamar\u00edn",
+        "date": "2023-06-02",
+        "publication": "el-espectador",
+        "title": "Reclutamiento y ejecuci\u00f3n de ni\u00f1os: ferocidad y barbarie",
+        "url": "https://www.elespectador.com/colombia-20/analistas/reclutamiento-y-ejecucion-de-ninos-ferocidad-y-barbarie/"
     },
     {
         "article-type": "column",
@@ -41,11 +129,11 @@
     },
     {
         "article-type": "column",
-        "author": "Juan David Zuloaga D.",
+        "author": "Elisabeth Ungar Bleier",
         "date": "2023-06-01",
         "publication": "el-espectador",
-        "title": "Una vida carmes\u00ed",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/una-vida-carmesi/"
+        "title": "Si otros lo hacen, \u00bfpor qu\u00e9 yo no?",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/si-otros-lo-hacen-por-que-yo-no/"
     },
     {
         "article-type": "column",
@@ -56,155 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/elecciones-violencia-y-popularidad-presidencial/"
     },
     {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2023-06-01",
-        "publication": "el-espectador",
-        "title": "Riesgo",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/riesgo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-06-01",
-        "publication": "el-espectador",
-        "title": "El \u201cDr\u00e1cula\u201d que vio Garc\u00eda M\u00e1rquez",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-dracula-que-vio-garcia-marquez/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-06-01",
-        "publication": "el-espectador",
-        "title": "Santer\u00eda bolivariana",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/santeria-bolivariana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2023-06-01",
-        "publication": "el-espectador",
-        "title": "En la salud son Estado y privados haci\u00e9ndole juntos",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/en-la-salud-son-estado-y-privados-haciendole-juntos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Centro de Estudios sobre Seguridad y Drogas (Cesed)",
-        "date": "2023-06-01",
-        "publication": "el-espectador",
-        "title": "El costo humano de la crisis en Buenaventura",
-        "url": "https://www.elespectador.com/colombia-20/analistas/paz-total-el-costo-humano-de-la-crisis-en-buenaventura-primer-laboratorio-de-paz-de-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2023-06-01",
-        "publication": "el-espectador",
-        "title": "Sult\u00e1n Recep I",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/sultan-recep-i-erdogan-y-su-victoria-en-turquia-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-05-31",
-        "publication": "el-espectador",
-        "title": "Del amor al odio\u2026",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/del-amor-al-odio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2023-05-31",
-        "publication": "el-espectador",
-        "title": "La reforma a la salud: defender lo construido, ignorando lo destruido",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/la-reforma-a-la-salud-defender-lo-construido-ignorando-lo-destruido/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-05-31",
-        "publication": "el-espectador",
-        "title": "El ritmo",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/el-ritmo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-05-31",
-        "publication": "el-espectador",
-        "title": "Cambio de balanza",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/cambio-de-balanza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-05-31",
-        "publication": "el-espectador",
-        "title": "De piroman\u00edas y fratricidios ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/de-piromanias-y-fratricidios/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-01",
+        "date": "2023-06-02",
         "publication": "el-tiempo",
-        "title": "Hechos, no narrativas",
-        "url": "https://www.eltiempo.com/opinion/editorial/hechos-no-narrativas-editorial-el-tiempo-773650"
+        "title": "El nuevo comando \u00e9lite",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-nuevo-comando-elite-editorial-el-tiempo-774050"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-06-01",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-06-02",
         "publication": "el-tiempo",
-        "title": "La soledad de Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/la-soledad-de-petro-columna-de-pedro-medellin-773565"
+        "title": "Gobierno e intuici\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/gobierno-e-intuicion-columna-de-moises-wasserman-773969"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2023-06-01",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-06-02",
         "publication": "el-tiempo",
-        "title": "Pactos efectivos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/pactos-efectivos-columna-de-jineth-bedoya-lima-773587"
+        "title": "Revoltijo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/revoltijo-columna-de-ricardo-silva-romero-773988"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-06-01",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2023-06-02",
         "publication": "el-tiempo",
-        "title": "\u00bfEl lado correcto?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/el-lado-correcto-columna-de-juan-esteban-constain-773571"
+        "title": "\u2018Tsunami\u2019 pol\u00edtico en Espa\u00f1a",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/tsunami-politico-en-espana-columna-de-antonio-albinana-773976"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Lloreda",
-        "date": "2023-06-01",
+        "author": "Claudia Pinilla",
+        "date": "2023-06-02",
         "publication": "el-tiempo",
-        "title": "Flaca herencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/flaca-herencia-columna-de-mauricio-lloreda-773579"
+        "title": "Entre la perfecci\u00f3n y la autenticidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/entre-la-perfeccion-y-la-autenticidad-columna-de-women-in-connection-774026"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2023-06-01",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-06-02",
         "publication": "el-tiempo",
-        "title": "N\u00f3madas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/nomadas-columna-de-diana-pardo-773582"
+        "title": "Heriberto Fiorillo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/heriberto-fiorillo-columna-de-eduardo-posada-carbo-773980"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2023-06-01",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2023-06-02",
         "publication": "el-tiempo",
-        "title": "Los desaf\u00edos de la inteligencia artificial",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/los-desafios-de-la-inteligencia-artificial-columna-de-juliana-mejia-773601"
+        "title": "Comunidades energ\u00e9ticas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/comunidades-energeticas-columna-de-manuel-guzman-hennessey-773991"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2023-06-01",
+        "author": "Otros columnistas",
+        "date": "2023-06-02",
         "publication": "el-tiempo",
-        "title": "La barbarie paramilitar contada por Salvatore Mancuso",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/la-barbarie-paramilitar-contada-por-salvatore-mancuso-jose-miguel-alzate-773597"
+        "title": "\u00bfQu\u00e9 significa ser un l\u00edder?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/que-significa-ser-un-lider-columna-de-juan-carlos-mora-774023"
     }
 ]
