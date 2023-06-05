@@ -2,10 +2,10 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-04",
+        "date": "2023-06-05",
         "publication": "el-colombiano",
-        "title": "El ni\u00f1eragate",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-nineragate-ME21619243"
+        "title": "Una promesa que ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/una-promesa-que-se-desploma-IE21619212"
     },
     {
         "article-type": "editorial",
@@ -17,19 +17,67 @@
     },
     {
         "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2023-06-05",
+        "publication": "el-espectador",
+        "title": "Se salv\u00f3 la 230 y peligra TikTok",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/se-salvo-la-230-y-peligra-tiktok/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-06-05",
+        "publication": "el-espectador",
+        "title": "Un nuevo modelo productivo",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/un-nuevo-modelo-productivo-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2023-06-05",
+        "publication": "el-espectador",
+        "title": "Campanazo con el Icfes",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/campanazo-con-el-icfes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2023-06-05",
+        "publication": "el-espectador",
+        "title": "De sirvientas y magistrados",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/de-sirvientas-y-magistrados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Comisi\u00f3n Colombiana de Juristas",
+        "date": "2023-06-05",
+        "publication": "el-espectador",
+        "title": "Los reconocimientos de verdad y responsabilidad de los comparecientes ante la JEP",
+        "url": "https://www.elespectador.com/colombia-20/analistas/los-reconocimientos-de-verdad-y-responsabilidad-de-los-comparecientes-ante-la-jep/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-06-05",
+        "publication": "el-espectador",
+        "title": "Editorial en video: El inaceptable terror de las chuzadas",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-el-inaceptable-terror-de-las-chuzadas/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Candidata",
+        "date": "2023-06-05",
+        "publication": "el-espectador",
+        "title": "Cap\u00edtulo 38: \u00abPorque usted es negra\u00bb",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/racismo-y-clasismo-detras-de-criticas-a-francia-marquez-por-viaje-a-africa/"
+    },
+    {
+        "article-type": "column",
         "author": "Marc Hofstetter",
         "date": "2023-06-04",
         "publication": "el-espectador",
         "title": "Colombia, abril de 2021",
         "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/colombia-abril-de-2021/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Todos contra el fisco",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/todos-contra-el-fisco/"
     },
     {
         "article-type": "column",
@@ -46,6 +94,14 @@
         "publication": "el-espectador",
         "title": "Ciudades dignas",
         "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/ciudades-dignas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando G\u00f3mez Buend\u00eda",
+        "date": "2023-06-04",
+        "publication": "el-espectador",
+        "title": "Todos contra el fisco",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/todos-contra-el-fisco/"
     },
     {
         "article-type": "column",
@@ -88,131 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/jbayly/desventuras-de-un-escritor-con-sobrepeso/"
     },
     {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Cay\u00e9ndose a pedazos",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/cayendose-a-pedazos/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "\u00bfVivir como Aquiles o como Odiseo?",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/vivir-como-aquiles-o-como-odiseo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Pandemia, crisis e imaginaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/pandemia-crisis-e-imaginacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "William Ospina",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "El banquete",
-        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/el-banquete/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Bukele: \u00bfel salvador? (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/bukele-el-salvador-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Microlingotes",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-97/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Semblanza(s) de William Maestre",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/semblanzas-de-william-maestre/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-04",
+        "date": "2023-06-05",
         "publication": "el-tiempo",
-        "title": "Llegar a la verdad",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-4-de-junio-de-2023-llegar-a-la-verdad-774582"
+        "title": "Alerta temprana",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-5-de-junio-de-2023-alerta-temprana-774731"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-06-04",
+        "author": "Juan Lozano",
+        "date": "2023-06-05",
         "publication": "el-tiempo",
-        "title": "Y ahora el gas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-y-ahora-el-gas-774583"
+        "title": "70 preguntas sobre el esc\u00e1ndalo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-70-preguntas-sobre-el-escandalo-774754"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-06-04",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2023-06-05",
         "publication": "el-tiempo",
-        "title": "\u00bfSe cae la estanter\u00eda?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-se-cae-la-estanteria-774589"
+        "title": "\u00bfQui\u00e9n es la otra?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-quien-es-la-otra-774755"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-06-04",
+        "author": "Luis Felipe Henao",
+        "date": "2023-06-05",
         "publication": "el-tiempo",
-        "title": "\u00bfDe qu\u00e9 lado juega Danilo Rueda?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-de-que-lado-juega-danilo-rueda-774601"
+        "title": "Petro contra su gobierno",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-petro-contra-su-gobierno-774743"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Antonio Ocampo",
-        "date": "2023-06-04",
+        "author": "Diego Santos",
+        "date": "2023-06-05",
         "publication": "el-tiempo",
-        "title": "Se necesita urgentemente un plan de transici\u00f3n energ\u00e9tica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo/columna-de-jose-antonio-ocampo-se-necesita-un-plan-de-transicion-energetica-774592"
+        "title": "\u00bfQu\u00e9 tan informado est\u00e1 usted sobre la transici\u00f3n energ\u00e9tica?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-esta-informado-sobre-la-transicion-energetica-774753"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-06-04",
+        "author": "Paola Ochoa",
+        "date": "2023-06-05",
         "publication": "el-tiempo",
-        "title": "\u00bf\u2018Omert\u00e0\u2019 o ley de sapos?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-omerta-o-ley-de-sapos-774584"
+        "title": "Las nadies",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-las-nadies-774757"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-06-04",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-06-05",
         "publication": "el-tiempo",
-        "title": "\u2018Nannygate\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-nannygate-774590"
+        "title": "Estado y tecnolog\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-estado-y-tecnologia-774733"
     },
     {
         "article-type": "column",
-        "author": "Paula Moreno",
-        "date": "2023-06-04",
+        "author": "Melba Escobar",
+        "date": "2023-06-05",
         "publication": "el-tiempo",
-        "title": "Vanguardia cultural",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paula-moreno/columna-de-paula-moreno-vanguardia-cultural-774602"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Eduardo Londo\u00f1o",
-        "date": "2023-06-04",
-        "publication": "el-tiempo",
-        "title": "D\u00eda del campesino",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-jorge-eduardo-londono-dia-del-campesino-774604"
+        "title": "Humano, demasiado humano",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-humano-demasiado-humano-774758"
     }
 ]
