@@ -2,18 +2,122 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-05",
+        "date": "2023-06-06",
         "publication": "el-colombiano",
-        "title": "Una promesa que ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/una-promesa-que-se-desploma-IE21619212"
+        "title": "Seamos serios",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/seamos-serios-LH21629301"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-04",
+        "date": "2023-06-06",
         "publication": "el-espectador",
-        "title": "El inaceptable terror de las chuzadas",
-        "url": "https://www.elespectador.com/opinion/editorial/el-inaceptable-terror-de-las-chuzadas/"
+        "title": "\u00bfEntr\u00f3 dinero sin reportar a la campa\u00f1a del presidente Petro?",
+        "url": "https://www.elespectador.com/opinion/editorial/entro-dinero-sin-reportar-a-la-campana-del-presidente-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitada",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "Colombia: Un futuro sostenible impulsado por la transici\u00f3n energ\u00e9tica",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/colombia-un-futuro-sostenible-impulsado-por-la-transicion-energetica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "El gato encerrado de las EPS",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/el-gato-encerrado-de-las-eps/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "Errar es humano",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/errar-es-humano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "Juan Vitta",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/juan-vitta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "Democracia y diversidad de opiniones",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/democracia-y-diversidad-de-opiniones/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "Adi\u00f3s, Fiori",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/adios-fiori/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "La soledad del poder",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/la-soledad-del-poder/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Barajas Sandoval",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "Encanto y desencanto de lo predecible",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-barajas-sandoval/encanto-y-desencanto-de-lo-predecible/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. William Pearl",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "Matrimonio",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/matrimonio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Beatriz Vanegas Ath\u00edas",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "Tenemos presidente",
+        "url": "https://www.elespectador.com/opinion/columnistas/beatriz-vanegas-athias/tenemos-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "\u201cChuzadas\u201d y el \u201cSarabia-gate\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/chuzadas-y-el-sarabia-gate/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Cetina*",
+        "date": "2023-06-06",
+        "publication": "el-espectador",
+        "title": "\u2018La verdad\u2019 de Mancuso y la importancia de los datos para la paz de Colombia",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-verdad-de-mancuso-y-la-importancia-de-los-datos-para-la-paz-de-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2023-06-05",
+        "publication": "el-espectador",
+        "title": "Se salv\u00f3 la 230 y peligra TikTok",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/se-salvo-la-230-y-peligra-tiktok-2/"
     },
     {
         "article-type": "column",
@@ -25,186 +129,82 @@
     },
     {
         "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-06-05",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2023-06-06",
         "publication": "el-espectador",
-        "title": "Un nuevo modelo productivo",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/un-nuevo-modelo-productivo-2/"
+        "title": "Dos funcionarios abusivos y la tristeza del caso",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/dos-funcionarios-abusivos-y-la-tristeza-del-caso/"
     },
     {
         "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-06-05",
+        "author": "Mar\u00eda Alejandra Villamizar",
+        "date": "2023-06-06",
         "publication": "el-espectador",
-        "title": "Campanazo con el Icfes",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/campanazo-con-el-icfes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2023-06-05",
-        "publication": "el-espectador",
-        "title": "De sirvientas y magistrados",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/de-sirvientas-y-magistrados/"
-    },
-    {
-        "article-type": "column",
-        "author": "Comisi\u00f3n Colombiana de Juristas",
-        "date": "2023-06-05",
-        "publication": "el-espectador",
-        "title": "Los reconocimientos de verdad y responsabilidad de los comparecientes ante la JEP",
-        "url": "https://www.elespectador.com/colombia-20/analistas/los-reconocimientos-de-verdad-y-responsabilidad-de-los-comparecientes-ante-la-jep/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-06-05",
-        "publication": "el-espectador",
-        "title": "Editorial en video: El inaceptable terror de las chuzadas",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-el-inaceptable-terror-de-las-chuzadas/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2023-06-05",
-        "publication": "el-espectador",
-        "title": "Cap\u00edtulo 38: \u00abPorque usted es negra\u00bb",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/racismo-y-clasismo-detras-de-criticas-a-francia-marquez-por-viaje-a-africa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Colombia, abril de 2021",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/colombia-abril-de-2021/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Una sustituci\u00f3n bien hecha ",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/una-sustitucion-bien-hecha/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Ciudades dignas",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/ciudades-dignas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Todos contra el fisco",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/todos-contra-el-fisco/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "S\u00e1nchez se juega el todo por el todo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/pedro-sanchez-se-juega-el-todo-por-el-todo-en-espana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Casa de Nari",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/casa-de-nari/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Nostalgias de Cusiana (I)",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/nostalgias-de-cusiana-i/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja vigilan a la ni\u00f1era de Nicol\u00e1s Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-vigilan-a-la-ninera-de-nicolas-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-06-04",
-        "publication": "el-espectador",
-        "title": "Desventuras de un escritor con sobrepeso",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/desventuras-de-un-escritor-con-sobrepeso/"
+        "title": "Cayeron caballos de Troya",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/cayeron-caballos-de-troya/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-05",
+        "date": "2023-06-06",
         "publication": "el-tiempo",
-        "title": "Alerta temprana",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-5-de-junio-de-2023-alerta-temprana-774731"
+        "title": "Confiar en la Justicia",
+        "url": "https://www.eltiempo.com/opinion/editorial/confiar-en-la-justicia-editorial-el-tiempo-775120"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-06-05",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-06-06",
         "publication": "el-tiempo",
-        "title": "70 preguntas sobre el esc\u00e1ndalo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-70-preguntas-sobre-el-escandalo-774754"
+        "title": "Y mientras tanto...",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/y-mientras-tanto-columna-de-jose-manuel-acevedo-775094"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2023-06-05",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2023-06-06",
         "publication": "el-tiempo",
-        "title": "\u00bfQui\u00e9n es la otra?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-quien-es-la-otra-774755"
+        "title": "Los informales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/los-informales-columna-de-marcela-melendez-774982"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-06-05",
+        "author": "Francisco Cajiao",
+        "date": "2023-06-06",
         "publication": "el-tiempo",
-        "title": "Petro contra su gobierno",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-petro-contra-su-gobierno-774743"
+        "title": "Violencia y escuela",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/violencia-y-escuela-columna-de-francisco-cajiao-775006"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-06-05",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2023-06-06",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 tan informado est\u00e1 usted sobre la transici\u00f3n energ\u00e9tica?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-esta-informado-sobre-la-transicion-energetica-774753"
+        "title": "\u00bfEl triunfo de los populismos?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/el-triunfo-de-los-populismos-columna-de-sergio-munoz-bata-774978"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2023-06-05",
+        "author": "Fernando Quiroz",
+        "date": "2023-06-06",
         "publication": "el-tiempo",
-        "title": "Las nadies",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-las-nadies-774757"
+        "title": "Treinta a\u00f1os despu\u00e9s",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/treinta-anos-despues-columna-de-fernando-quiroz-775097"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-06-05",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2023-06-06",
         "publication": "el-tiempo",
-        "title": "Estado y tecnolog\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-estado-y-tecnologia-774733"
+        "title": "\u2018\u00bfPara qu\u00e9 poetas en tiempos de penuria?\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/para-que-poetas-en-tiempos-de-penuria-columna-de-fabio-martinez-775132"
     },
     {
         "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-06-05",
+        "author": "Fernando Montes Negret",
+        "date": "2023-06-06",
         "publication": "el-tiempo",
-        "title": "Humano, demasiado humano",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-humano-demasiado-humano-774758"
+        "title": "Dos interpretaciones sobre la inflaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/dos-interpretaciones-sobre-la-inflacion-columna-de-fernando-montes-775130"
     }
 ]
