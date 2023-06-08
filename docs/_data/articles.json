@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-07",
+        "date": "2023-06-08",
         "publication": "el-colombiano",
-        "title": "\u00bfPor qu\u00e9 no le alcanza la plata a Quintero?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/por-que-no-le-alcanza-la-plata-a-quintero-GA21650969"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-economia-nos-da-un-respiro-FC21675088"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-07",
+        "date": "2023-06-08",
         "publication": "el-espectador",
-        "title": "Necesitamos una reforma pensional, recuerda la Corte",
-        "url": "https://www.elespectador.com/opinion/editorial/necesitamos-una-reforma-pensional-recuerda-la-corte/"
+        "title": "Sospechas y mermelada en el Fondo Nacional del Ahorro",
+        "url": "https://www.elespectador.com/opinion/editorial/sospechas-y-mermelada-en-el-fondo-nacional-del-ahorro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "Saudade",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/saudade/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "Tortura y heteronorma",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/tortura-y-heteronorma-terapias-de-conversion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "Una Mariamulata en la plaza",
+        "url": "https://www.elespectador.com/opinion/caricaturistas/javier-ortiz/una-mariamulata-en-la-plaza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "Contraejemplo",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/contraejemplo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "Narrativas ecol\u00f3gicas en la gentrificaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/narrativas-ecologicas-en-la-gentrificacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "Pedro S\u00e1nchez, el caudillo",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/pedro-sanchez-el-caudillo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "Cr\u00e9dito para el cambio",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/credito-para-el-cambio/"
+    },
+    {
+        "article-type": "column",
+        "author": "H\u00e9ctor Garc\u00eda",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "Presencialidad en las audiencias: \u00bfUn retroceso en justicia digital?",
+        "url": "https://www.elespectador.com/opinion/columnistas/hectorgarcia/presencialidad-en-las-audiencias-un-retroceso-en-justicia-digital/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Ospina Rend\u00f3n",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "La trasformaci\u00f3n de la justicia imaginada por la Comisi\u00f3n de la Verdad",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-trasformacion-de-la-justicia-imaginada-por-la-comision-de-la-verdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Candidata",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "A Laura Sarabia la \u201cinflaron\u201d para despu\u00e9s \u201clincharla\u201d: la Candidata",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/del-viaje-a-africa-de-francia-marquez-al-poligrafo-y-la-ninera-de-laura-sarabia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "Columna de Andr\u00e9s Marocco: \u00bfS\u00ed hay futuro ?",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/columna-de-andres-marocco-si-hay-futuro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "Entre errores y culpas, una semana turbulenta en la redacci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/entre-errores-y-culpas-una-semana-turbulenta-en-la-redaccion/"
     },
     {
         "article-type": "column",
@@ -33,27 +129,11 @@
     },
     {
         "article-type": "column",
-        "author": "Cartas de los lectores",
-        "date": "2023-06-07",
-        "publication": "el-espectador",
-        "title": "El color del gato no nos deber\u00eda importar ",
-        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/el-color-del-gato-no-nos-deberia-importar/"
-    },
-    {
-        "article-type": "column",
         "author": "Pascual Gaviria",
         "date": "2023-06-07",
         "publication": "el-espectador",
         "title": "Contadores de campa\u00f1a",
         "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/contadores-de-campana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-06-07",
-        "publication": "el-espectador",
-        "title": "Lo de Petro va mal",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/lo-de-petro-va-mal/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-error-de-petro-y-las-infulas-de-barbosa/"
     },
     {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2023-06-07",
-        "publication": "el-espectador",
-        "title": "Reformar la salud: \u00bfpol\u00edtica de estado, o de gobierno?",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/reformar-la-salud-politica-de-estado-o-de-gobierno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2023-06-07",
-        "publication": "el-espectador",
-        "title": "Alas para volar ",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/alas-para-volar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-06-07",
-        "publication": "el-espectador",
-        "title": "El peor peligro cultural es la indiferencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-peor-peligro-cultural-es-la-indiferencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-06-07",
-        "publication": "el-espectador",
-        "title": "Las rondas infantiles que incitan a vivir en una sociedad violenta y desigual",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/las-rondas-infantiles-que-incitan-a-vivir-en-una-sociedad-violenta-y-desigual/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-06-06",
-        "publication": "el-espectador",
-        "title": "El gato encerrado de las EPS",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/el-gato-encerrado-de-las-eps/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-06-06",
-        "publication": "el-espectador",
-        "title": "Errar es humano",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/errar-es-humano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-06-06",
-        "publication": "el-espectador",
-        "title": "Juan Vitta",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/juan-vitta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2023-06-06",
-        "publication": "el-espectador",
-        "title": "Democracia y diversidad de opiniones",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/democracia-y-diversidad-de-opiniones/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-06-06",
-        "publication": "el-espectador",
-        "title": "Adi\u00f3s, Fiori",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/adios-fiori/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-06-06",
-        "publication": "el-espectador",
-        "title": "La soledad del poder",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/la-soledad-del-poder/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-07",
+        "date": "2023-06-08",
         "publication": "el-tiempo",
-        "title": "Qu\u00e9 pasa con el aseo",
-        "url": "https://www.eltiempo.com/opinion/editorial/que-pasa-con-el-aseo-editorial-el-tiempo-775493"
+        "title": "Atenci\u00f3n a Choc\u00f3",
+        "url": "https://www.eltiempo.com/opinion/editorial/atencion-a-choco-editorial-el-tiempo-775867"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-06-07",
+        "author": "Pedro Medellin",
+        "date": "2023-06-08",
         "publication": "el-tiempo",
-        "title": "\u00bfDemocracia bloqueada?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/democracia-bloqueada-columna-de-alfonso-gomez-mendez-775458"
+        "title": "El \u2018autogolpe\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-autogolpe-columna-de-juan-esteban-constain-775880"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-06-07",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-06-08",
         "publication": "el-tiempo",
-        "title": "Las lecciones de Benedetti",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/las-lecciones-de-benedetti-columna-de-vladdo-775472"
+        "title": "Casi un siglo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/casi-un-siglo-columna-de-juan-esteban-constain-775825"
     },
     {
         "article-type": "column",
-        "author": "Catalina Morales",
-        "date": "2023-06-07",
+        "author": "Claudia Palacios",
+        "date": "2023-06-08",
         "publication": "el-tiempo",
-        "title": "\u00bfEstamos listos para crear un entorno laboral seguro?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/estamos-listos-para-crear-un-entorno-laboral-seguro-women-in-connection-775415"
+        "title": "\u00bfQu\u00e9 hacer con \u2018los nadies\u2019 desesperanzados?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/que-hacer-con-los-nadies-desesperanzados-claudia-palacios-775804"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2023-06-07",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-06-08",
         "publication": "el-tiempo",
-        "title": "Los primeros del mundo, \u00a1de malas!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/los-primeros-del-mundo-de-malas-columna-de-andres-hurtado-garcia-775402"
+        "title": "El tendero y su hijo el abogado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/el-tendero-y-su-hijo-el-abogado-columna-de-sergio-ramirez-775781"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-06-07",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2023-06-08",
         "publication": "el-tiempo",
-        "title": "Tiempos convulsos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/tiempos-convulsos-columna-de-gustavo-duncan-775385"
+        "title": "El uso del lenguaje",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/el-uso-del-lenguaje-columna-de-victor-manuel-ruiz-775785"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-06-07",
+        "author": "Alejandro Riveros Gonz\u00e1lez",
+        "date": "2023-06-08",
         "publication": "el-tiempo",
-        "title": "Petro, Benedetti y Laura Sarabia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-benedetti-y-laura-sarabia-columna-de-poncho-renteria-775460"
+        "title": "A combustible regalado\u2026",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/a-combustible-regalado-columna-de-alejandro-riveros-775849"
     },
     {
         "article-type": "column",
-        "author": "Jorge Bustamante",
-        "date": "2023-06-07",
+        "author": "Javier Borda Diaz",
+        "date": "2023-06-08",
         "publication": "el-tiempo",
-        "title": "Ni administra ni gobierna",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-bustamante/ni-administra-ni-gobierna-columna-de-jorge-bustamante-775431"
+        "title": "Petro, m\u00e1s tuitero que Presidente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/petro-mas-tuitero-que-presidente-columna-de-javier-borda-diaz-775854"
     }
 ]
