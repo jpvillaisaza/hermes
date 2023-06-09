@@ -5,15 +5,103 @@
         "date": "2023-06-08",
         "publication": "el-colombiano",
         "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-economia-nos-da-un-respiro-FC21675088"
+        "url": "https://www.elcolombiano.com/opinion/editoriales/por-que-no-quieren-con-quintero-OM21699052"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-08",
+        "date": "2023-06-09",
         "publication": "el-espectador",
-        "title": "Sospechas y mermelada en el Fondo Nacional del Ahorro",
-        "url": "https://www.elespectador.com/opinion/editorial/sospechas-y-mermelada-en-el-fondo-nacional-del-ahorro/"
+        "title": "La resignificaci\u00f3n de Reficar",
+        "url": "https://www.elespectador.com/opinion/editorial/la-resignificacion-de-reficar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-06-09",
+        "publication": "el-espectador",
+        "title": "La extinci\u00f3n de una especie",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/la-extincion-de-una-especie/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tom\u00e1s Molina",
+        "date": "2023-06-09",
+        "publication": "el-espectador",
+        "title": "Mar\u00eda Fernanda Cabal podr\u00eda ser de izquierda ",
+        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/maria-fernanda-cabal-podria-ser-de-izquierda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2023-06-09",
+        "publication": "el-espectador",
+        "title": "Errores, errores y m\u00e1s errores",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/errores-errores-y-mas-errores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2023-06-09",
+        "publication": "el-espectador",
+        "title": "En memoria de Diego Felipe Becerra: perd\u00f3n, arte y cultura",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/en-memoria-de-diego-felipe-becerra-perdon-arte-y-cultura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Barbosa",
+        "date": "2023-06-09",
+        "publication": "el-espectador",
+        "title": "BRI: 10 a\u00f1os",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/bri-10-anos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-06-09",
+        "publication": "el-espectador",
+        "title": "\u00a1El Valle del Cauca se respeta!",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-valle-del-cauca-se-respeta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2023-06-09",
+        "publication": "el-espectador",
+        "title": "\u201cBlanca Olmedo\u201d, una gloriosa desconocida",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/blanca-olmedo-una-gloriosa-desconocida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-06-09",
+        "publication": "el-espectador",
+        "title": "\u00bfDe qu\u00e9 estamos orgullosos?",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/de-que-estamos-orgullosos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Felipe Carrillo G\u00e1faro",
+        "date": "2023-06-09",
+        "publication": "el-espectador",
+        "title": "La sombra",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/la-sombra/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-06-09",
+        "publication": "el-espectador",
+        "title": "\u00bfQui\u00e9n es Armando Benedetti y por qu\u00e9 puso a temblar al Gobierno?",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-quien-es-armando-benedetti-y-por-que-puso-a-temblar-al-gobierno-de-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Oscar Guardiola-Rivera",
+        "date": "2023-06-09",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 es un golpe blando?",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/que-es-un-golpe-blando-noticias-hoy/"
     },
     {
         "article-type": "column",
@@ -33,19 +121,19 @@
     },
     {
         "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2023-06-08",
-        "publication": "el-espectador",
-        "title": "Una Mariamulata en la plaza",
-        "url": "https://www.elespectador.com/opinion/caricaturistas/javier-ortiz/una-mariamulata-en-la-plaza/"
-    },
-    {
-        "article-type": "column",
         "author": "Jos\u00e9 Fernando Isaza",
         "date": "2023-06-08",
         "publication": "el-espectador",
         "title": "Contraejemplo",
         "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/contraejemplo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-06-08",
+        "publication": "el-espectador",
+        "title": "Una Mariamulata en la plaza",
+        "url": "https://www.elespectador.com/opinion/caricaturistas/javier-ortiz/una-mariamulata-en-la-plaza/"
     },
     {
         "article-type": "column",
@@ -56,155 +144,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/narrativas-ecologicas-en-la-gentrificacion/"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-06-08",
-        "publication": "el-espectador",
-        "title": "Pedro S\u00e1nchez, el caudillo",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/pedro-sanchez-el-caudillo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-06-08",
-        "publication": "el-espectador",
-        "title": "Cr\u00e9dito para el cambio",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/credito-para-el-cambio/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Garc\u00eda",
-        "date": "2023-06-08",
-        "publication": "el-espectador",
-        "title": "Presencialidad en las audiencias: \u00bfUn retroceso en justicia digital?",
-        "url": "https://www.elespectador.com/opinion/columnistas/hectorgarcia/presencialidad-en-las-audiencias-un-retroceso-en-justicia-digital/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Ospina Rend\u00f3n",
-        "date": "2023-06-08",
-        "publication": "el-espectador",
-        "title": "La trasformaci\u00f3n de la justicia imaginada por la Comisi\u00f3n de la Verdad",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-trasformacion-de-la-justicia-imaginada-por-la-comision-de-la-verdad/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2023-06-08",
-        "publication": "el-espectador",
-        "title": "A Laura Sarabia la \u201cinflaron\u201d para despu\u00e9s \u201clincharla\u201d: la Candidata",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/del-viaje-a-africa-de-francia-marquez-al-poligrafo-y-la-ninera-de-laura-sarabia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Marocco",
-        "date": "2023-06-08",
-        "publication": "el-espectador",
-        "title": "Columna de Andr\u00e9s Marocco: \u00bfS\u00ed hay futuro ?",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/columna-de-andres-marocco-si-hay-futuro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-06-08",
-        "publication": "el-espectador",
-        "title": "Entre errores y culpas, una semana turbulenta en la redacci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/entre-errores-y-culpas-una-semana-turbulenta-en-la-redaccion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-06-07",
-        "publication": "el-espectador",
-        "title": "El saldo en rojo de Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-saldo-en-rojo-de-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-06-07",
-        "publication": "el-espectador",
-        "title": "Paradojas y baja intensidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/paradojas-y-baja-intensidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-06-07",
-        "publication": "el-espectador",
-        "title": "Contadores de campa\u00f1a",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/contadores-de-campana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-06-07",
-        "publication": "el-espectador",
-        "title": "El error de Petro y las \u00ednfulas de Barbosa",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-error-de-petro-y-las-infulas-de-barbosa/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-08",
+        "date": "2023-06-09",
         "publication": "el-tiempo",
-        "title": "Atenci\u00f3n a Choc\u00f3",
-        "url": "https://www.eltiempo.com/opinion/editorial/atencion-a-choco-editorial-el-tiempo-775867"
+        "title": "Que sea un cese integral",
+        "url": "https://www.eltiempo.com/opinion/editorial/que-sea-un-cese-integra-editorial-el-tiempo-776275"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-06-08",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-06-09",
         "publication": "el-tiempo",
-        "title": "El \u2018autogolpe\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-autogolpe-columna-de-juan-esteban-constain-775880"
+        "title": "El pensamiento cr\u00edtico",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/el-pensamiento-critico-columna-de-moises-wasserman-776113"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-06-08",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-06-09",
         "publication": "el-tiempo",
-        "title": "Casi un siglo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/casi-un-siglo-columna-de-juan-esteban-constain-775825"
+        "title": "Maniacopol\u00edtica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/maniacopolitica-columna-de-ricardo-silva-romero-776205"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2023-06-08",
+        "author": "Claudia Hakim",
+        "date": "2023-06-09",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 hacer con \u2018los nadies\u2019 desesperanzados?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/que-hacer-con-los-nadies-desesperanzados-claudia-palacios-775804"
+        "title": "Una mano para los gestores de cultura",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/una-mano-para-los-gestores-de-cultura-columna-de-claudia-hakim-776125"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2023-06-08",
+        "author": "Martha Ortiz",
+        "date": "2023-06-09",
         "publication": "el-tiempo",
-        "title": "El tendero y su hijo el abogado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/el-tendero-y-su-hijo-el-abogado-columna-de-sergio-ramirez-775781"
+        "title": "Se buscan l\u00edderes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/se-buscan-lideres-columna-de-martha-ortiz-776221"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Manuel Ruiz",
-        "date": "2023-06-08",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-06-09",
         "publication": "el-tiempo",
-        "title": "El uso del lenguaje",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/el-uso-del-lenguaje-columna-de-victor-manuel-ruiz-775785"
+        "title": "En el d\u00eda de los archivos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/en-el-dia-de-los-archivos-columna-de-eduardo-posada-carbo-776119"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Riveros Gonz\u00e1lez",
-        "date": "2023-06-08",
+        "author": "Alfredo Rangel",
+        "date": "2023-06-09",
         "publication": "el-tiempo",
-        "title": "A combustible regalado\u2026",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/a-combustible-regalado-columna-de-alejandro-riveros-775849"
+        "title": "El cambio en reversa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/el-cambio-en-reversa-columna-de-alfredo-rangel-776231"
     },
     {
         "article-type": "column",
-        "author": "Javier Borda Diaz",
-        "date": "2023-06-08",
+        "author": "Martha Senn",
+        "date": "2023-06-09",
         "publication": "el-tiempo",
-        "title": "Petro, m\u00e1s tuitero que Presidente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/petro-mas-tuitero-que-presidente-columna-de-javier-borda-diaz-775854"
+        "title": "\u2018Campe\u00f3n\u2019, \u00f3pera que pasar\u00e1 a la historia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/campeon-opera-que-pasara-a-la-historia-columna-de-martha-senn-776229"
+    },
+    {
+        "article-type": "column",
+        "author": "Salvo Basile",
+        "date": "2023-06-09",
+        "publication": "el-tiempo",
+        "title": "Una foto, un \u2018scoop\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/una-foto-un-scoop-columna-de-salvo-basile-776136"
     }
 ]
