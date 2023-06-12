@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-11",
+        "date": "2023-06-12",
         "publication": "el-colombiano",
-        "title": "Por qu\u00e9 colapsar\u00e1 la salud con la reforma",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/por-que-colapsara-la-salud-con-la-reforma-LF21717628"
+        "title": "\u00a115.000 millones de pesos!",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/15000-millones-de-pesos-AF21719779"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-11",
+        "date": "2023-06-12",
         "publication": "el-espectador",
-        "title": "No se equivoque, presidente, ni pretenda confundir ",
-        "url": "https://www.elespectador.com/opinion/editorial/no-se-equivoque-presidente-ni-pretenda-confundir/"
+        "title": "Trump, asustado, ataca la democracia",
+        "url": "https://www.elespectador.com/opinion/editorial/trump-asustado-ataca-la-democracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2023-06-12",
+        "publication": "el-espectador",
+        "title": "La poderosa Laura",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/la-poderosa-laura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-06-12",
+        "publication": "el-espectador",
+        "title": "Para muchos fue as\u00ed",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/para-muchos-fue-asi/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alvaro Forero Tasc\u00f3n",
+        "date": "2023-06-12",
+        "publication": "el-espectador",
+        "title": "Atajar a Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/atajar-a-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-06-12",
+        "publication": "el-espectador",
+        "title": "La econom\u00eda, bien",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-economia-bien/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2023-06-12",
+        "publication": "el-espectador",
+        "title": "Reforma de la educaci\u00f3n superior: primero el dise\u00f1o, luego la plata",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/reforma-de-la-educacion-superior-primero-el-diseno-luego-la-plata/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-06-12",
+        "publication": "el-espectador",
+        "title": "Impactos de los TLC",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/impactos-de-los-tlc/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2023-06-12",
+        "publication": "el-espectador",
+        "title": "Golpes de humo y autogolpes",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/golpes-de-humo-y-autogolpes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Foro Nacional por Colombia",
+        "date": "2023-06-12",
+        "publication": "el-espectador",
+        "title": "La Educaci\u00f3n en el gobierno de Petro \u00bfUna nueva pol\u00edtica?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-educacion-en-el-gobierno-de-petro-una-nueva-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2023-06-12",
+        "publication": "el-espectador",
+        "title": "Editorial en\u00a0video: no se equivoque, presidente, ni pretenda confundir",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-no-se-equivoque-presidente-ni-pretenda-confundir/"
     },
     {
         "article-type": "column",
@@ -22,14 +94,6 @@
         "publication": "el-espectador",
         "title": "Tasa de inter\u00e9s  y revaluaci\u00f3n",
         "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/tasa-de-interes-y-revaluacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-06-11",
-        "publication": "el-espectador",
-        "title": "Gobierno callejero",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/gobierno-callejero/"
     },
     {
         "article-type": "column",
@@ -46,6 +110,14 @@
         "publication": "el-espectador",
         "title": "Nostalgias de Cusiana (II)",
         "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/nostalgias-de-cusiana-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ramiro Bejarano Guzm\u00e1n",
+        "date": "2023-06-11",
+        "publication": "el-espectador",
+        "title": "Gobierno callejero",
+        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/gobierno-callejero/"
     },
     {
         "article-type": "column",
@@ -72,155 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/el-reparto/"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-06-11",
-        "publication": "el-espectador",
-        "title": "Opera\u00e7\u00e3o lava Maduro",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/operacao-lava-maduro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Laura Ardila Arrieta",
-        "date": "2023-06-11",
-        "publication": "el-espectador",
-        "title": "La \u201ccachaza\u201d del periodismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-ardila-arrieta/la-cachaza-del-periodismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-06-11",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja le sacan infidencias a Benedetti",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-le-sacan-infidencias-a-benedetti/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2023-06-11",
-        "publication": "el-espectador",
-        "title": "Aritm\u00e9tica energ\u00e9tica para evitar un apag\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/aritmetica-energetica-para-evitar-un-apagon/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2023-06-11",
-        "publication": "el-espectador",
-        "title": "Delirio, malestar y tristeza",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/delirio-malestar-y-tristeza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-06-11",
-        "publication": "el-espectador",
-        "title": "Reformas prioritarias",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/reformas-prioritarias/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-06-11",
-        "publication": "el-espectador",
-        "title": "De la paz total a la pelea perpetua",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/de-la-paz-total-a-la-pelea-perpetua/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-06-11",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-98/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-06-11",
-        "publication": "el-espectador",
-        "title": "La voz de los que no tienen voz",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/la-voz-de-los-que-no-tienen-voz/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-11",
+        "date": "2023-06-12",
         "publication": "el-tiempo",
-        "title": "El Presidente y la prensa",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-11-de-junio-de-2023-el-presidente-y-la-prensa-776769"
+        "title": "Lecciones de un milagro",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-12-de-junio-de-2023-lecciones-de-un-milagro-776940"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-06-11",
+        "author": "Juan Lozano",
+        "date": "2023-06-12",
         "publication": "el-tiempo",
-        "title": "Todo vale",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-todo-vale-776770"
+        "title": "50 preguntas m\u00e1s sobre los esc\u00e1ndalos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-50-preguntas-mas-sobre-los-escandalos-776948"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-06-11",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2023-06-12",
         "publication": "el-tiempo",
-        "title": "Que no se caiga Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-que-no-se-caiga-petro-776781"
+        "title": "Lesly Mucutuy",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-lesly-mucutuy-776956"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-06-11",
+        "author": "Luis Felipe Henao",
+        "date": "2023-06-12",
         "publication": "el-tiempo",
-        "title": "La factura de octubre",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-la-factura-de-octubre-776790"
+        "title": "Los tres elefantes de Petro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-los-tres-elefantes-de-petro-776947"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Cheyne",
-        "date": "2023-06-11",
+        "author": "Diego Santos",
+        "date": "2023-06-12",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 piensan, sienten y quieren los j\u00f3venes en Colombia?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-cheyne/columna-de-alejandro-cheyne-que-piensan-los-jovenes-776791"
+        "title": "\u00bfC\u00f3mo se gest\u00f3 #LaMarchaDeLaMayor\u00eda de este 20 de junio?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-como-se-gesto-lamarchadelamayoria-776954"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-06-11",
+        "author": "Yolanda Reyes",
+        "date": "2023-06-12",
         "publication": "el-tiempo",
-        "title": "El divorcio Petro-L\u00f3pez",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-el-divorcio-petro-lopez-776771"
+        "title": "Tantas ni\u00f1as perdidas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-tantas-ninas-perdidas-776952"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-06-11",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-06-12",
         "publication": "el-tiempo",
-        "title": "Pecados originales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-pecados-originales-776782"
+        "title": "Cuidado con la inteligencia artificial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-cuidado-con-la-inteligencia-artificial-776942"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2023-06-11",
+        "author": "Alejandro Higuera Sotomayor",
+        "date": "2023-06-12",
         "publication": "el-tiempo",
-        "title": "Ideolog\u00eda vs. hechos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-ideologia-vs-hechos-776783"
-    },
-    {
-        "article-type": "column",
-        "author": "Mois\u00e9s Na\u00edm",
-        "date": "2023-06-11",
-        "publication": "el-tiempo",
-        "title": "Dictadores sin salida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-naim/columna-de-moises-naim-dictadores-sin-salida-776792"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2023-06-11",
-        "publication": "el-tiempo",
-        "title": "Israel y el drama palestino",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/columna-de-antonio-albinana-israel-y-el-drama-palestino-776795"
+        "title": "Interpelar nuestra verdad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-interpelar-nuestra-verdad-776951"
     }
 ]
