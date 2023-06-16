@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-15",
+        "date": "2023-06-16",
         "publication": "el-colombiano",
-        "title": "Dineros y cortinas",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/dineros-y-cortinas-DA21742155"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/trump-frente-a-la-democracia-EB21757553"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-15",
+        "date": "2023-06-16",
         "publication": "el-espectador",
-        "title": "El miedo no \u201cconvierte\u201d, destruye a los seres humanos",
-        "url": "https://www.elespectador.com/opinion/editorial/el-miedo-no-convierte-destruye-a-los-seres-humanos/"
+        "title": "El Congreso trabajar\u00e1 m\u00e1s, ojal\u00e1",
+        "url": "https://www.elespectador.com/opinion/editorial/el-congreso-trabajara-mas-ojala/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "Buenaventura, incomunicada",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/buenaventura-incomunicada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "\u201cO tempora, o mores\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/o-tempora-o-mores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "Magdalena",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/magdalena/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "Oficio para Petro en La Guajira",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/oficio-para-petro-en-la-guajira/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "Mucha soberbia y actos de contrici\u00f3n esquivos",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/mucha-soberbia-y-actos-de-contricion-esquivos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "El foco es el Plan Nacional de Desarrollo",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/el-foco-es-el-plan-de-desarrollo/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Sevillano",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "M\u00e1s emprendimientos, mejor econom\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/mas-emprendimientos-mejor-economia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "Omn\u00edvoros",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/omnivoros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "Los ni\u00f1os que fabricaron su milagro",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/los-ninos-que-fabricaron-su-milagro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "Columna del profe Luis Fernando Montoya: Posibles finalistas",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/posibles-finalistas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "Las confusiones que gener\u00f3 la Corte Constitucional sobre el aborto",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/las-confusiones-que-genero-la-corte-constitucional-sobre-el-aborto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitada",
+        "date": "2023-06-16",
+        "publication": "el-espectador",
+        "title": "Reforma a la salud y la amenaza a la ruta de acceso a medicamentos",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/reforma-a-la-salud-y-la-amenaza-a-la-ruta-de-acceso-a-medicamentos/"
     },
     {
         "article-type": "column",
@@ -48,163 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/en-todas-partes-se-cuecen-habas/"
     },
     {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2023-06-15",
-        "publication": "el-espectador",
-        "title": "Una esperanza esquiva",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/una-esperanza-esquiva/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-06-15",
-        "publication": "el-espectador",
-        "title": "Una sociedad dividida",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/una-sociedad-dividida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Santiago Villa",
-        "date": "2023-06-15",
-        "publication": "el-espectador",
-        "title": "Medios y censura",
-        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/medios-y-censura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-06-15",
-        "publication": "el-espectador",
-        "title": "\u201cColoqu\u00e9monos\u201d serios: escogimos mal una foto e ilusionamos a los santafere\u00f1os",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/coloquemonos-serios-escogimos-mal-una-foto-e-ilusionamos-a-los-santaferenos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2023-06-15",
-        "publication": "el-espectador",
-        "title": "Beduinos en Israel",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/beduinos-en-israel/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2023-06-14",
-        "publication": "el-espectador",
-        "title": "Crisis clim\u00e1tica y capitalismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/crisis-climatica-y-capitalismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-06-14",
-        "publication": "el-espectador",
-        "title": "El poeta no se despide...",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/el-poeta-no-se-despide/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-06-14",
-        "publication": "el-espectador",
-        "title": "Petrump",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/petrump/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-06-14",
-        "publication": "el-espectador",
-        "title": "Hipocres\u00eda y libertad de prensa",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/hipocresia-y-libertad-de-prensa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-06-14",
-        "publication": "el-espectador",
-        "title": "\u00a1Los ni\u00f1os!",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/los-ninos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-06-14",
-        "publication": "el-espectador",
-        "title": "Los \u201cemprendedores\u201d de Benedetti",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/los-emprendedores-de-benedetti/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-06-14",
-        "publication": "el-espectador",
-        "title": "Folcl\u00f3rico",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/folclorico/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-15",
+        "date": "2023-06-16",
         "publication": "el-tiempo",
-        "title": "Preocupantes indicios",
-        "url": "https://www.eltiempo.com/opinion/editorial/preocupantes-indicios-editorial-el-tiempo-777789"
+        "title": "El fallo de Reficar",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-fallo-de-reficar-editorial-el-tiempo-778178"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-06-15",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-06-16",
         "publication": "el-tiempo",
-        "title": "El peligroso camino de las asambleas populares",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-peligroso-camino-de-las-asambleas-populares-pedro-medellin-777778"
+        "title": "El \u2018Unabomber\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/el-unabomber-columna-de-moises-wasserman-778107"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-06-15",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-06-16",
         "publication": "el-tiempo",
-        "title": "En el burdel",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/en-el-burdel-columna-de-juan-esteban-constain-777760"
+        "title": "Sigue",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/sigue-ricardo-silva-romero-778123"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2023-06-15",
+        "author": "Catherine Colonna",
+        "date": "2023-06-16",
         "publication": "el-tiempo",
-        "title": "JEP, ya no hay m\u00e1s excusas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/jep-ya-no-hay-mas-excusas-columna-de-jineth-bedoya-777725"
+        "title": "Francia y Latinoam\u00e9rica: una asociaci\u00f3n contra los desaf\u00edos mundiales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/francia-y-latinoamerica-una-asociacion-contra-los-desafios-mundiales-778120"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2023-06-15",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2023-06-16",
         "publication": "el-tiempo",
-        "title": "Las voces del territorio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/las-voces-del-territorio-columna-de-juliana-mejia-777703"
+        "title": "La nueva geopol\u00edtica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/la-nueva-geopolitica-columna-de-antonio-albinana-778116"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2023-06-15",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2023-06-16",
         "publication": "el-tiempo",
-        "title": "Matrimonios perfectos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/matrimonios-perfectos-columna-de-diana-pardo-777705"
+        "title": "Vivir de otra manera",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/vivir-de-otra-manera-columna-de-manuel-guzman-hennessey-778128"
     },
     {
         "article-type": "column",
-        "author": "Dejusticia",
-        "date": "2023-06-15",
+        "author": "Carolina Nieto",
+        "date": "2023-06-16",
         "publication": "el-tiempo",
-        "title": "Del acceso a la informaci\u00f3n p\u00fablica ambiental y otras pesadillas ciudadanas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/del-acceso-a-la-informacion-publica-ambiental-y-otras-pesadillas-777762"
+        "title": "El acantilado de cristal: el obst\u00e1culo oculto para el liderazgo femenino",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/el-acantilado-de-cristal-el-obstaculo-oculto-para-el-liderazgo-femenino-778136"
     },
     {
         "article-type": "column",
-        "author": "Stefano Farn\u00e9",
-        "date": "2023-06-15",
+        "author": "Alpher Rojas C.",
+        "date": "2023-06-16",
         "publication": "el-tiempo",
-        "title": "El debate de las reformas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/stefano-farne/el-debate-de-las-reformas-columna-de-stefano-farne-777765"
+        "title": "Colombia, a superar sus terribles dramas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/colombia-a-superar-sus-terribles-dramas-columna-de-alpher-rojas-778134"
     }
 ]
