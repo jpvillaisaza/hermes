@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-16",
+        "date": "2023-06-17",
         "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/trump-frente-a-la-democracia-EB21757553"
+        "title": "La dictadura de la correcci\u00f3n extrema",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-dictadura-de-la-correccion-extrema-DC21769486"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-16",
+        "date": "2023-06-17",
         "publication": "el-espectador",
-        "title": "El Congreso trabajar\u00e1 m\u00e1s, ojal\u00e1",
-        "url": "https://www.elespectador.com/opinion/editorial/el-congreso-trabajara-mas-ojala/"
+        "title": "Guatemala encarcela a un periodista por inc\u00f3modo",
+        "url": "https://www.elespectador.com/opinion/editorial/guatemala-encarcela-a-un-periodista-por-incomodo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Felipe Carrillo G\u00e1faro",
+        "date": "2023-06-17",
+        "publication": "el-espectador",
+        "title": "Las cuatro esquinas de Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/las-cuatro-esquinas-de-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2023-06-17",
+        "publication": "el-espectador",
+        "title": "El melodrama seg\u00fan Almod\u00f3var ",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/el-melodrama-segun-almodovar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-06-17",
+        "publication": "el-espectador",
+        "title": "Terapias de conversi\u00f3n para la empat\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/terapias-de-conversion-para-la-empatia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-06-17",
+        "publication": "el-espectador",
+        "title": "Desde abajo",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/desde-abajo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-06-17",
+        "publication": "el-espectador",
+        "title": "Tan bellos los indiecitos",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/tan-bellos-los-indiecitos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2023-06-17",
+        "publication": "el-espectador",
+        "title": "Ha muerto mi profeta\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/ha-muerto-mi-profeta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-06-17",
+        "publication": "el-espectador",
+        "title": "\u00a1Apag\u00f3n en Reddit! Y... \u00bfeso qu\u00e9?",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/apagon-en-reddit-y-eso-que/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dolly Montoya Casta\u00f1o",
+        "date": "2023-06-17",
+        "publication": "el-espectador",
+        "title": "El deporte como motor del desarrollo humano",
+        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/el-deporte-como-motor-del-desarrollo-humano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2023-06-17",
+        "publication": "el-espectador",
+        "title": "El estado de la econom\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/el-estado-de-la-economia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Zuleta*",
+        "date": "2023-06-17",
+        "publication": "el-espectador",
+        "title": "El largo camino de la regulaci\u00f3n del cannabis est\u00e1 hasta ahora empezando",
+        "url": "https://www.elespectador.com/colombia-20/analistas/el-largo-camino-de-la-regulacion-del-cannabis-esta-hasta-ahora-empezando/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/el-foco-es-el-plan-de-desarrollo/"
     },
     {
-        "article-type": "column",
-        "author": "\u00d3scar Sevillano",
-        "date": "2023-06-16",
-        "publication": "el-espectador",
-        "title": "M\u00e1s emprendimientos, mejor econom\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-sevillano/mas-emprendimientos-mejor-economia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-06-16",
-        "publication": "el-espectador",
-        "title": "Omn\u00edvoros",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/omnivoros/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2023-06-16",
-        "publication": "el-espectador",
-        "title": "Los ni\u00f1os que fabricaron su milagro",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/los-ninos-que-fabricaron-su-milagro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-06-16",
-        "publication": "el-espectador",
-        "title": "Columna del profe Luis Fernando Montoya: Posibles finalistas",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/posibles-finalistas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-06-16",
-        "publication": "el-espectador",
-        "title": "Las confusiones que gener\u00f3 la Corte Constitucional sobre el aborto",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/las-confusiones-que-genero-la-corte-constitucional-sobre-el-aborto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitada",
-        "date": "2023-06-16",
-        "publication": "el-espectador",
-        "title": "Reforma a la salud y la amenaza a la ruta de acceso a medicamentos",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/reforma-a-la-salud-y-la-amenaza-a-la-ruta-de-acceso-a-medicamentos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2023-06-15",
-        "publication": "el-espectador",
-        "title": "Gobierno y activismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/gobierno-y-activismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-06-15",
-        "publication": "el-espectador",
-        "title": "Milagros y duendes",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/milagros-y-duendes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2023-06-15",
-        "publication": "el-espectador",
-        "title": "Boric y Lesly: serenidad en la adversidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/boric-y-lesly-serenidad-en-la-adversidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2023-06-15",
-        "publication": "el-espectador",
-        "title": "En todas partes se cuecen habas",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/en-todas-partes-se-cuecen-habas/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-16",
+        "date": "2023-06-17",
         "publication": "el-tiempo",
-        "title": "El fallo de Reficar",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-fallo-de-reficar-editorial-el-tiempo-778178"
+        "title": "Espera por la vida",
+        "url": "https://www.eltiempo.com/opinion/editorial/espera-por-la-vida-editorial-el-tiempo-778512"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-06-16",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2023-06-17",
         "publication": "el-tiempo",
-        "title": "El \u2018Unabomber\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/el-unabomber-columna-de-moises-wasserman-778107"
+        "title": "La actualidad de una misi\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/la-actualidad-de-una-mision-columna-de-carlos-caballero-argaez-778429"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-06-16",
+        "author": "Juan Mart\u00edn Caicedo Ferrer",
+        "date": "2023-06-17",
         "publication": "el-tiempo",
-        "title": "Sigue",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/sigue-ricardo-silva-romero-778123"
+        "title": "La piedra filosofal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-martin-caicedo-ferrer/la-piedra-filosofal-columna-de-juan-martin-caicedo-778443"
     },
     {
         "article-type": "column",
-        "author": "Catherine Colonna",
-        "date": "2023-06-16",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2023-06-17",
         "publication": "el-tiempo",
-        "title": "Francia y Latinoam\u00e9rica: una asociaci\u00f3n contra los desaf\u00edos mundiales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/francia-y-latinoamerica-una-asociacion-contra-los-desafios-mundiales-778120"
+        "title": "La silla no reclina",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/la-silla-no-reclina-columna-de-adolfo-zableh-duran-778435"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2023-06-16",
+        "author": "Sonia G\u00f3mez G\u00f3mez",
+        "date": "2023-06-17",
         "publication": "el-tiempo",
-        "title": "La nueva geopol\u00edtica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/la-nueva-geopolitica-columna-de-antonio-albinana-778116"
+        "title": "S\u00ed a la legalizaci\u00f3n del cannabis",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sonia-gomez-gomez/si-a-la-legalizacion-del-cannabis-columna-de-sonia-gomez-778463"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2023-06-16",
+        "author": "Andr\u00e9s Ch\u00e1vez",
+        "date": "2023-06-17",
         "publication": "el-tiempo",
-        "title": "Vivir de otra manera",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/vivir-de-otra-manera-columna-de-manuel-guzman-hennessey-778128"
+        "title": "La hora del tren",
+        "url": "https://www.eltiempo.com/opinion/columnistas/andres-chavez/la-hora-del-tren-columna-de-andres-chaves-778456"
     },
     {
         "article-type": "column",
-        "author": "Carolina Nieto",
-        "date": "2023-06-16",
+        "author": "Armando Silva",
+        "date": "2023-06-17",
         "publication": "el-tiempo",
-        "title": "El acantilado de cristal: el obst\u00e1culo oculto para el liderazgo femenino",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/el-acantilado-de-cristal-el-obstaculo-oculto-para-el-liderazgo-femenino-778136"
+        "title": "El diablo y los medios",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/el-diablo-y-los-medios-columna-de-armando-silva-778460"
     },
     {
         "article-type": "column",
-        "author": "Alpher Rojas C.",
-        "date": "2023-06-16",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2023-06-17",
         "publication": "el-tiempo",
-        "title": "Colombia, a superar sus terribles dramas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/colombia-a-superar-sus-terribles-dramas-columna-de-alpher-rojas-778134"
+        "title": "La piedra en el zapato",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/la-piedra-en-el-zapato-columna-de-alexander-cambero-778465"
     }
 ]
