@@ -2,10 +2,10 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-19",
+        "date": "2023-06-20",
         "publication": "el-colombiano",
-        "title": "Orde\u00f1ando a EPM",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/ordenando-a-epm-FD21774230"
+        "title": "Reformas a ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/reformas-a-codazos-y-jugaditas-FD21775275"
     },
     {
         "article-type": "editorial",
@@ -17,11 +17,91 @@
     },
     {
         "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-06-19",
+        "author": "Manuel Drezner",
+        "date": "2023-06-20",
         "publication": "el-espectador",
-        "title": "Total es con todo",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/total-es-con-todo/"
+        "title": "Carlos Villa, un gran artista que se fue",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/carlos-villa-un-gran-artista-que-se-fue/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2023-06-20",
+        "publication": "el-espectador",
+        "title": "Potencia de vida y negritudes",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/potencia-de-vida-y-negritudes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-06-20",
+        "publication": "el-espectador",
+        "title": "Hay algo detr\u00e1s",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/hay-algo-detras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2023-06-20",
+        "publication": "el-espectador",
+        "title": "La regulaci\u00f3n del cannabis para uso adulto",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/la-regulacion-del-cannabis-para-uso-adulto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2023-06-20",
+        "publication": "el-espectador",
+        "title": "Bumer\u00e1n tecnol\u00f3gico",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/bumeran-tecnologico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-06-20",
+        "publication": "el-espectador",
+        "title": "Barranquilla",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/siento-que-barranquilla-no-tiene-doliente/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-06-20",
+        "publication": "el-espectador",
+        "title": "Colombia y Per\u00fa",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/colombia-y-peru/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2023-06-20",
+        "publication": "el-espectador",
+        "title": "En octubre ser\u00e1 la moci\u00f3n de censura",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/en-octubre-sera-la-mocion-de-censura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-06-20",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 est\u00e1 pasando con el Consejo Nacional Electoral?",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/que-esta-pasando-con-el-consejo-nacional-electoral/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ramiro Bejarano Guzm\u00e1n",
+        "date": "2023-06-20",
+        "publication": "el-espectador",
+        "title": "\u201cEl chisme no es periodismo, ni nunca lo ser\u00e1\u201d: Ramiro Bejarano",
+        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/el-chisme-no-es-periodismo-ni-nunca-lo-sera-ramiro-bejarano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-06-20",
+        "publication": "el-espectador",
+        "title": "Paz con el ELN, entre el azar y la esperanza",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/paz-con-el-eln-entre-el-azar-y-la-esperanza/"
     },
     {
         "article-type": "column",
@@ -30,6 +110,14 @@
         "publication": "el-espectador",
         "title": "Nueva miner\u00eda, viejos problemas",
         "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/nueva-mineria-viejos-problemas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-06-19",
+        "publication": "el-espectador",
+        "title": "Total es con todo",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/total-es-con-todo/"
     },
     {
         "article-type": "column",
@@ -56,163 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/el-nombre-del-presidente/"
     },
     {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2023-06-19",
-        "publication": "el-espectador",
-        "title": "El salvavidas del liberalismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/el-salvavidas-del-liberalismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-06-19",
-        "publication": "el-espectador",
-        "title": "Ley de gratuidad universal en educaci\u00f3n superior: inequidad rampante",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/ley-de-gratuidad-universal-en-educacion-superior-inequidad-rampante/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-06-19",
-        "publication": "el-espectador",
-        "title": "Industrializar el agro",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/industrializar-el-agro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2023-06-19",
-        "publication": "el-espectador",
-        "title": "\u201cCarajo, dejen de ser miserables\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/carajo-dejen-de-ser-miserables/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-06-19",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Final so\u00f1ada",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/final-sonada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos C\u00e1rdenas Angel",
-        "date": "2023-06-19",
-        "publication": "el-espectador",
-        "title": "Entre la espada y la espada",
-        "url": "https://www.elespectador.com/colombia-20/analistas/opinion-asi-nacio-la-juntanza-nacional-campesina-y-popular-luz-perly-cordoba-mosquera/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2023-06-19",
-        "publication": "el-espectador",
-        "title": "Editorial en\u00a0video: bienvenida la jurisdicci\u00f3n agraria y rural",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-bienvenida-la-jurisdiccion-agraria-y-rural/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2023-06-19",
-        "publication": "el-espectador",
-        "title": "Las tres cuentas ",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/las-tres-cuentas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-06-18",
-        "publication": "el-espectador",
-        "title": "La Constituci\u00f3n reconoce al campesinado",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/la-constitucion-reconoce-al-campesinado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-06-18",
-        "publication": "el-espectador",
-        "title": "El C\u00f3digo Penal ha quedado sin vigencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/el-codigo-penal-ha-quedado-sin-vigencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2023-06-18",
-        "publication": "el-espectador",
-        "title": "Se extingue una estrella",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/se-extingue-una-estrella-economia-universidad-del-rosario/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-19",
+        "date": "2023-06-20",
         "publication": "el-tiempo",
-        "title": "Flagelo silencioso",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-19-de-junio-de-2023-flagelo-silencioso-778842"
+        "title": "El Ni\u00f1o ya est\u00e1 aqu\u00ed",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-20-de-junio-de-2023-el-nino-ya-esta-aqui-778990"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-06-19",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-06-20",
         "publication": "el-tiempo",
-        "title": "\u00bfRegalarle plata al Eln?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-regalarle-plata-al-eln-778854"
+        "title": "Colombia est\u00e1 hist\u00e9rica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-guia-para-no-equivocarnos-778997"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2023-06-19",
+        "author": "Fernando Quiroz",
+        "date": "2023-06-20",
         "publication": "el-tiempo",
-        "title": "Del Yar\u00ed a Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-del-yari-a-bogota-778858"
+        "title": "Un tal Woyzeck",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/columna-de-fernando-quiroz-un-tal-woyzeck-778996"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-06-19",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2023-06-20",
         "publication": "el-tiempo",
-        "title": "Marchar por la libertad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-marchar-por-la-libertad-778866"
+        "title": "El mal ejemplo de Berlusconi",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/columna-de-sergio-munoz-bataa-el-mal-ejemplo-de-berlusconi-779005"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-06-19",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2023-06-20",
         "publication": "el-tiempo",
-        "title": "El 20 de junio marchar\u00e9 porque Colombia no se fund\u00f3 el 7 de agosto de 2022",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-el-20-de-junio-marchare-778863"
+        "title": "El primer escal\u00f3n de la innovaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/columna-de-marcela-melendez-el-primer-escalon-de-la-innovacion-779006"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2023-06-19",
+        "author": "Francisco Cajiao",
+        "date": "2023-06-20",
         "publication": "el-tiempo",
-        "title": "Doble vida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-doble-vida-778865"
+        "title": "El espacio universitario",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/columna-de-francisco-cajiao-el-espacio-universitario-779007"
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2023-06-19",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2023-06-20",
         "publication": "el-tiempo",
-        "title": "Haciendo historia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/columna-de-oscar-dominguez-giraldo-haciendo-historia-778845"
+        "title": "La hoja de coca y otras yerbas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/columna-de-fabio-martinez-la-hoja-de-coca-y-otras-yerbas-779010"
     },
     {
         "article-type": "column",
-        "author": "Patricia Rinc\u00f3n Mazo",
-        "date": "2023-06-19",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2023-06-20",
         "publication": "el-tiempo",
-        "title": "Control a los contratistas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/patricia-rincon-mazo/columna-de-patricia-rincon-mazo-control-a-los-contratistas-778853"
-    },
-    {
-        "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-06-19",
-        "publication": "el-tiempo",
-        "title": "Est\u00e1s despedido",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-estas-despedido-778859"
+        "title": "Desplazados forzosos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/columna-de-victor-corcoba-desplazados-forzosos-779011"
     }
 ]
