@@ -2,26 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-21",
+        "date": "2023-06-22",
         "publication": "el-colombiano",
-        "title": "S\u00ed est\u00e1 en peligro",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/si-esta-en-peligro-JM21786825"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-guerra-fria-de-biden-y-xi-GN21791667"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-21",
+        "date": "2023-06-22",
         "publication": "el-espectador",
-        "title": "Nicol\u00e1s Maduro vuelve a las jugaditas antidemocr\u00e1ticas",
-        "url": "https://www.elespectador.com/opinion/editorial/nicolas-maduro-vuelve-a-las-jugaditas-antidemocraticas/"
+        "title": "Contar cabezas en las marchas es in\u00fatil",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/contar-cabezas-en-las-marchas-es-inutil/"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-06-21",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-06-22",
         "publication": "el-espectador",
-        "title": "Mirar hacia adentro",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/mirar-hacia-adentro/"
+        "title": "Las cig\u00fce\u00f1as vuelan de noche",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/las-ciguenas-vuelan-de-noche/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2023-06-22",
+        "publication": "el-espectador",
+        "title": "Acuapon\u00edas",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/acuaponias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Manuel Ospina",
+        "date": "2023-06-22",
+        "publication": "el-espectador",
+        "title": "Cuando el turismo deja de serlo\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/cuando-el-turismo-deja-de-serlo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2023-06-22",
+        "publication": "el-espectador",
+        "title": "Marchar por la derecha (II)",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/marchar-por-la-derecha-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2023-06-22",
+        "publication": "el-espectador",
+        "title": "Las reformas en el Estado social de derecho",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/las-reformas-en-el-estado-social-de-derecho/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-06-22",
+        "publication": "el-espectador",
+        "title": "Filosof\u00eda, chuzadas y paz total",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/filosofia-chuzadas-y-paz-total/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2023-06-22",
+        "publication": "el-espectador",
+        "title": "Estupor",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/estupor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-06-22",
+        "publication": "el-espectador",
+        "title": "Errores al ponerles apellido a las marchas en contra del gobierno Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/errores-al-ponerle-apellido-a-las-marchas-en-contra-del-gobierno-petro/"
     },
     {
         "article-type": "column",
@@ -30,6 +86,14 @@
         "publication": "el-espectador",
         "title": "Mi reino por este mundo",
         "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/mi-reino-por-este-mundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-06-21",
+        "publication": "el-espectador",
+        "title": "Mirar hacia adentro",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/mirar-hacia-adentro/"
     },
     {
         "article-type": "column",
@@ -80,131 +144,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/fondo-internacional/"
     },
     {
-        "article-type": "column",
-        "author": "Allison Benson Hern\u00e1ndez",
-        "date": "2023-06-21",
-        "publication": "el-espectador",
-        "title": "\u00bfRicos y benevolentes?",
-        "url": "https://www.elespectador.com/opinion/columnistas/allison-benson-hernandez/ricos-y-benevolentes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-06-20",
-        "publication": "el-espectador",
-        "title": "Paz con el ELN, entre el azar y la esperanza",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/paz-con-el-eln-entre-el-azar-y-la-esperanza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-06-20",
-        "publication": "el-espectador",
-        "title": "Carlos Villa, un gran artista que se fue",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/carlos-villa-un-gran-artista-que-se-fue/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2023-06-20",
-        "publication": "el-espectador",
-        "title": "Bumer\u00e1n tecnol\u00f3gico",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/bumeran-tecnologico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2023-06-20",
-        "publication": "el-espectador",
-        "title": "La regulaci\u00f3n del cannabis para uso adulto",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/la-regulacion-del-cannabis-para-uso-adulto/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-06-20",
-        "publication": "el-espectador",
-        "title": "Colombia y Per\u00fa",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/colombia-y-peru/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-06-21",
-        "publication": "el-espectador",
-        "title": "La masculinidad de Valentino",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/la-masculinidad-de-valentino/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2023-06-20",
-        "publication": "el-espectador",
-        "title": "Potencia de vida y negritudes",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/potencia-de-vida-y-negritudes/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-21",
+        "date": "2023-06-22",
         "publication": "el-tiempo",
-        "title": "Atender las se\u00f1ales",
-        "url": "https://www.eltiempo.com/opinion/editorial/atender-las-senales-editorial-el-tiempo-779360"
+        "title": "El C\u00f3digo Electoral",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-codigo-electoral-editorial-el-tiempo-779716"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-06-21",
+        "author": "Pedro Medellin",
+        "date": "2023-06-22",
         "publication": "el-tiempo",
-        "title": "Entre la \u2018gobernabilidad\u2019 y el cohecho",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/entre-la-gobernabilidad-y-el-cohecho-columna-de-alfonso-gomez-mendez-779307"
+        "title": "Perdieron el miedo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/perdieron-el-miedo-columna-de-pedro-medellin-779700"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-06-21",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-06-22",
         "publication": "el-tiempo",
-        "title": "Del proceso 8.000 a nuestros d\u00edas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/del-proceso-8-000-a-nuestros-dias-columna-de-vladdo-779311"
+        "title": "Cara de l\u00e1stima",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/cara-de-lastima-columna-de-juan-esteban-constain-779666"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-06-21",
+        "author": "Claudia Palacios",
+        "date": "2023-06-22",
         "publication": "el-tiempo",
-        "title": "\u00bfExtra\u00f1ando el muro?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/extranando-el-muro-columna-de-gustavo-duncan-779317"
+        "title": "Proyecto H... de hombres",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/proyecto-h-de-hombres-columna-de-claudia-palacios-779674"
     },
     {
         "article-type": "column",
-        "author": "Women in Connection",
-        "date": "2023-06-21",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-06-22",
         "publication": "el-tiempo",
-        "title": "Sobre el fin de una mentor\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/sobre-el-fin-de-una-mentoria-columna-de-women-in-connection-779329"
+        "title": "El pato Donald contra los nazis",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/el-pato-donald-contra-los-nazis-columna-de-sergio-ramirez-779661"
     },
     {
         "article-type": "column",
-        "author": "An\u00edbal Gaviria Correa",
-        "date": "2023-06-21",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2023-06-22",
         "publication": "el-tiempo",
-        "title": "A\u00fan puede evitarse un fracaso total",
-        "url": "https://www.eltiempo.com/opinion/columnistas/anibal-gaviria-correa/aun-puede-evitarse-un-fracaso-total-columna-de-anibal-gaviria-779319"
+        "title": "Mucha cal y poca arena",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/mucha-cal-y-poca-arena-columna-de-victor-manuel-ruiz-779679"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-06-21",
+        "author": "Dejusticia",
+        "date": "2023-06-22",
         "publication": "el-tiempo",
-        "title": "Par\u00eds es una fiesta, y la goza Gustavo Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/paris-es-una-fiesta-y-la-goza-gustavo-petro-columna-de-poncho-renteria-779325"
-    },
-    {
-        "article-type": "column",
-        "author": "Miguel\u00e1ngel Epeey\u00fci L\u00f3pez-H.",
-        "date": "2023-06-21",
-        "publication": "el-tiempo",
-        "title": "La Guajira, esp\u00edritu de ceniza",
-        "url": "https://www.eltiempo.com/opinion/columnistas/miguelangel-epeeyui-lopez-h/la-guajira-espiritu-de-ceniza-columna-de-miguelangel-epeeyui-779364"
+        "title": "Un futuro incierto para la regularizaci\u00f3n migratoria en Colombia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/un-futuro-incierto-para-la-regularizacion-migratoria-en-colombia-779696"
     }
 ]
