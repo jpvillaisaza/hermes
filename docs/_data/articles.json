@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-22",
+        "date": "2023-06-24",
         "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-descalabro-de-la-super-HL21800142"
+        "title": "Un nuevo orden mundial ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/un-nuevo-orden-mundial-GJ21824460"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-23",
+        "date": "2023-06-24",
         "publication": "el-espectador",
-        "title": "Confusi\u00f3n innecesaria y da\u00f1ina sobre el aborto",
-        "url": "https://www.elespectador.com/opinion/editorial/confusion-innecesaria-y-danina-sobre-el-aborto/"
+        "title": "N\u00e1ufragos de primera clase",
+        "url": "https://www.elespectador.com/opinion/editorial/naufragos-de-primera-clase/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2023-06-24",
+        "publication": "el-espectador",
+        "title": "Salvaje esperanza",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/salvaje-esperanza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2023-06-24",
+        "publication": "el-espectador",
+        "title": "M\u00e1s sobre el Gaviero Mutis",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/mas-sobre-el-gaviero-mutis/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-06-24",
+        "publication": "el-espectador",
+        "title": "Otra mirada",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/otra-mirada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2023-06-24",
+        "publication": "el-espectador",
+        "title": "La melancol\u00eda de Alain Touraine",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/la-melancolia-de-alain-touraine/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-06-24",
+        "publication": "el-espectador",
+        "title": "La mayor\u00eda silenciosa",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/la-mayoria-silenciosa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-06-24",
+        "publication": "el-espectador",
+        "title": "Destino o azar",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/destino-o-azar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Oscar Guardiola-Rivera",
+        "date": "2023-06-24",
+        "publication": "el-espectador",
+        "title": "El signo de los cuatro",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/el-signo-de-los-cuatro/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2023-06-24",
+        "publication": "el-espectador",
+        "title": "Duro p\u2019al campesino",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/duro-pal-campesino/"
+    },
+    {
+        "article-type": "column",
+        "author": "Weildler Guerra",
+        "date": "2023-06-24",
+        "publication": "el-espectador",
+        "title": "La pesca de tortugas en el Caribe",
+        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/la-pesca-de-tortugas-en-el-caribe/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mart\u00edn Jaramillo",
+        "date": "2023-06-24",
+        "publication": "el-espectador",
+        "title": "Una transici\u00f3n energ\u00e9tica que no empobrezca",
+        "url": "https://www.elespectador.com/opinion/columnistas/martin-jaramillo/una-transicion-energetica-que-no-empobrezca/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro \u00c1lvarez",
+        "date": "2023-06-24",
+        "publication": "el-espectador",
+        "title": "La reforma a la educaci\u00f3n superior necesita nuestra inteligencia social",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-alvarez/la-reforma-a-la-educacion-superior-necesita-nuestra-inteligencia-social/"
     },
     {
         "article-type": "column",
@@ -56,171 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/el-autogol-de-la-oposicion/"
     },
     {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-06-23",
-        "publication": "el-espectador",
-        "title": "El aborto sigue siendo un derecho fundamental en Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/el-aborto-sigue-siendo-un-derecho-fundamental-en-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2023-06-23",
-        "publication": "el-espectador",
-        "title": "Uno solo debe dar las peleas que puede ganar",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/uno-solo-debe-dar-las-peleas-que-puede-ganar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2023-06-23",
-        "publication": "el-espectador",
-        "title": "Arde Buenaventura ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/arde-buenaventura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2023-06-23",
-        "publication": "el-espectador",
-        "title": "El Nobel Gurnah y el \u2018para\u00edso\u2019 agrio",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/el-nobel-gurnah-y-el-paraiso-agrio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-06-23",
-        "publication": "el-espectador",
-        "title": "De tripas coraz\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/de-tripas-corazon/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabrina Acosta*",
-        "date": "2023-06-23",
-        "publication": "el-espectador",
-        "title": "Paz y agua para La Guajira",
-        "url": "https://www.elespectador.com/colombia-20/analistas/paz-y-agua-para-la-guajira-construir-paz-mas-alla-del-conflicto-armado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-06-22",
-        "publication": "el-espectador",
-        "title": "Las cig\u00fce\u00f1as vuelan de noche",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/las-ciguenas-vuelan-de-noche/"
-    },
-    {
-        "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2023-06-22",
-        "publication": "el-espectador",
-        "title": "Acuapon\u00edas",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/acuaponias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Manuel Ospina",
-        "date": "2023-06-22",
-        "publication": "el-espectador",
-        "title": "Cuando el turismo deja de serlo\u2026",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-manuel-ospina/cuando-el-turismo-deja-de-serlo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2023-06-22",
-        "publication": "el-espectador",
-        "title": "Marchar por la derecha (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/marchar-por-la-derecha-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2023-06-22",
-        "publication": "el-espectador",
-        "title": "Las reformas en el Estado social de derecho",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/las-reformas-en-el-estado-social-de-derecho/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-23",
+        "date": "2023-06-24",
         "publication": "el-tiempo",
-        "title": "C\u00f3mo va el POT",
-        "url": "https://www.eltiempo.com/opinion/editorial/como-va-el-pot-editorial-el-tiempo-780095"
+        "title": "Cuidar la salud mental",
+        "url": "https://www.eltiempo.com/opinion/editorial/cuidar-la-salud-mental-editorial-el-tiempo-780434"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-06-23",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2023-06-24",
         "publication": "el-tiempo",
-        "title": "Asambleas populares y democracia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/asambleas-populares-y-democracia-columna-de-moises-wasserman-779992"
+        "title": "Tr\u00edpode enclenque",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/tripode-enclenque-columna-de-mauricio-cardenas-780432"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-06-23",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2023-06-24",
         "publication": "el-tiempo",
-        "title": "Coautor\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/coautoria-columna-de-ricardo-silva-romero-780050"
+        "title": "Equilibrio y colaboraci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/equilibrio-y-colaboracion-columna-de-jose-gregorio-hernandez-780375"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2023-06-23",
+        "author": "Sara Tufano",
+        "date": "2023-06-24",
         "publication": "el-tiempo",
-        "title": "Celebrando la memoria",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/celebrando-la-memoria-columna-de-claudia-hakim-780006"
+        "title": "Pasar la p\u00e1gina sin arrancarla",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/pasar-la-pagina-sin-arrancarla-columna-de-sara-tufano-780370"
     },
     {
         "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2023-06-23",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2023-06-24",
         "publication": "el-tiempo",
-        "title": "En los 80 a\u00f1os de una gran artista",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/en-los-80-anos-de-una-gran-artista-columna-de-martha-senn-780073"
+        "title": "La autonom\u00eda universitaria",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/la-autonomia-universitaria-columna-de-fernando-sanchez-torres-780379"
     },
     {
         "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2023-06-23",
+        "author": "Armando Silva",
+        "date": "2023-06-24",
         "publication": "el-tiempo",
-        "title": "Esc\u00e1ndalos y movilizaciones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/escandalos-y-movilizaciones-columna-de-alfredo-rangel-780065"
+        "title": "Filosof\u00eda del tocador",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/filosofia-del-tocador-columna-de-armando-silva-780381"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2023-06-23",
+        "author": "Luz Stella Murgas",
+        "date": "2023-06-24",
         "publication": "el-tiempo",
-        "title": "Marcha el c\u00edrculo de influencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/marcha-el-circulo-de-influencia-columna-de-martha-ortiz-780027"
+        "title": "Del mito a la realidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luz-stella-murgas/del-mito-a-la-realidad-columna-de-luz-stella-murgas-780388"
     },
     {
         "article-type": "column",
-        "author": "Julio Villarreal",
-        "date": "2023-06-23",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-06-24",
         "publication": "el-tiempo",
-        "title": "Respuesta a una columna",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/respuesta-a-una-columna-columna-de-julio-villarreal-780067"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-06-23",
-        "publication": "el-tiempo",
-        "title": "\u00bfFin del populismo?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/fin-del-populismo-columna-de-eduardo-posada-carbo-779999"
-    },
-    {
-        "article-type": "column",
-        "author": "Alfonso Carvajal",
-        "date": "2023-06-23",
-        "publication": "el-tiempo",
-        "title": "Caicedo Licona",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/caicedo-licona-columna-de-alfonso-carvajal-780054"
+        "title": "Y el descontento con Gustavo Petro crece",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/y-el-descontento-con-gustavo-petro-crece-columna-de-jose-miguel-alzate-780384"
     }
 ]
