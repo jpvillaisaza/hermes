@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-28",
+        "date": "2023-06-29",
         "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-paradoja-de-la-guajira-HO21850788"
+        "title": "Coco-loco Wagner",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/coco-loco-wagner-NO21855833"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-28",
+        "date": "2023-06-29",
         "publication": "el-espectador",
-        "title": "El flanco d\u00e9bil de Vladimir Putin",
-        "url": "https://www.elespectador.com/opinion/editorial/el-flanco-debil-de-vladimir-putin/"
+        "title": "S\u00ed, toca decirlo: en Colombia hubo ejecuciones extrajudiciales",
+        "url": "https://www.elespectador.com/opinion/editorial/si-toca-decirlo-en-colombia-hubo-ejecuciones-extrajudiciales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2023-06-29",
+        "publication": "el-espectador",
+        "title": "Nosotros y ellos",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/nosotros-y-ellos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2023-06-29",
+        "publication": "el-espectador",
+        "title": "Encriptaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/encriptacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-06-29",
+        "publication": "el-espectador",
+        "title": "\u201cIberia\u201d, una maravilla pian\u00edstica",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/iberia-una-maravilla-pianistica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2023-06-29",
+        "publication": "el-espectador",
+        "title": "\u00bfExiste todav\u00eda el presidente Petro versi\u00f3n 1.0?",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/existe-todavia-el-presidente-petro-version-10/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-06-29",
+        "publication": "el-espectador",
+        "title": "La 16",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/la-16/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-06-29",
+        "publication": "el-espectador",
+        "title": "Submarinos y necropol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/submarinos-y-necropolitica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-06-29",
+        "publication": "el-espectador",
+        "title": "Hogueras y tambores de san Juan",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/hogueras-y-tambores-de-san-juan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Camargo",
+        "date": "2023-06-29",
+        "publication": "el-espectador",
+        "title": "\u00a1Gracias, Millonarios!",
+        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/gracias-millonarios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2023-06-29",
+        "publication": "el-espectador",
+        "title": "El video de Cohen tiene inter\u00e9s period\u00edstico",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/el-video-de-cohen-tiene-interes-periodistico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juliana Bustamante Reyes",
+        "date": "2023-06-29",
+        "publication": "el-espectador",
+        "title": "Aliados por el legado de la Comisi\u00f3n de la Verdad",
+        "url": "https://www.elespectador.com/colombia-20/analistas/aliados-por-el-legado-de-la-comision-de-la-verdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-06-29",
+        "publication": "el-espectador",
+        "title": "Nos \u00edbamos desfasando al fechar el comienzo de la invasi\u00f3n de Putin a Ucrania",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nos-ibamos-desfasando-al-fechar-el-comienzo-de-la-invasion-de-putin-a-ucrania/"
     },
     {
         "article-type": "column",
@@ -49,30 +137,6 @@
     },
     {
         "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "\u201cDespetrizar\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/despetrizar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "Purgar al carnicero",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/purgar-al-carnicero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "Inequidad masculina",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/inequidad-masculina/"
-    },
-    {
-        "article-type": "column",
         "author": "Andr\u00e9s Hoyos",
         "date": "2023-06-28",
         "publication": "el-espectador",
@@ -80,131 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/desde-mi-escritorio/"
     },
     {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "Ha muerto un escritor: se aconseja evitar el luto",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/ha-muerto-un-escritor-se-aconseja-evitar-el-luto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "De su propia medicina",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/de-su-propia-medicina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "Fumar marihuana",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/fumar-marihuana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Felipe Carrillo G\u00e1faro",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "Escribir sobre pol\u00edtica",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/escribir-sobre-politica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "Una dosis de cambio: de narco-econom\u00eda a bio-econom\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/una-dosis-de-cambio-de-narco-economia-a-bio-economia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "Nuestras abuelas nos dieron el voto, y nuestras madres el divorcio",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/nuestras-abuelas-nos-dieron-el-voto-y-nuestras-madres-el-divorcio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "La cara humana de la crisis cocalera",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/la-cara-humana-de-la-crisis-cocalera/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-06-27",
-        "publication": "el-espectador",
-        "title": "\u201c\u00bfQui\u00e9n mat\u00f3 a Mamatoco?\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/quien-mato-a-mamatoco/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-28",
+        "date": "2023-06-29",
         "publication": "el-tiempo",
-        "title": "J\u00f3venes con futuro",
-        "url": "https://www.eltiempo.com/opinion/editorial/jovenes-con-futuro-editorial-el-tiempo-781398"
+        "title": "Destrabar la energ\u00eda",
+        "url": "https://www.eltiempo.com/opinion/editorial/destrabar-la-energia-editorial-el-tiempo-781782"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-06-28",
+        "author": "Pedro Medellin",
+        "date": "2023-06-29",
         "publication": "el-tiempo",
-        "title": "Las firmas, \u00bfinstrumento de la democracia?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/las-firmas-instrumento-de-la-democracia-alfonso-gomez-mendez-781332"
+        "title": "\u00bfEn las urnas o por las armas?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/en-las-urnas-o-por-las-armas-columna-de-pedro-medellin-781705"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-06-28",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-06-29",
         "publication": "el-tiempo",
-        "title": "Un Putin irreconocible",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/un-putin-irreconocible-columna-de-vladdo-781389"
+        "title": "La edad coreana",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/la-edad-coreana-columna-de-juan-esteban-constain-781664"
     },
     {
         "article-type": "column",
-        "author": "Cristina Esguerra Miranda",
-        "date": "2023-06-28",
+        "author": "Jineth Bedoya Lima",
+        "date": "2023-06-29",
         "publication": "el-tiempo",
-        "title": "Ciudades eruditas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/cristina-esguerra-miranda/ciudades-eruditas-columna-de-cristina-esguerra-781363"
+        "title": "\u00bfQui\u00e9n controla al \u2018clan del Golfo\u2019?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/quien-controla-al-clan-del-golfo-columna-de-jineth-bedoya-lima-781745"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2023-06-28",
+        "author": "Mauricio Lloreda",
+        "date": "2023-06-29",
         "publication": "el-tiempo",
-        "title": "De aqu\u00ed a la eternidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/de-aqui-a-la-eternidad-columna-de-jotamario-arbelaez-781308"
+        "title": "Mot\u00edn a bordo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/motin-a-bordo-columna-de-mauricio-lloreda-781681"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-06-28",
+        "author": "Diana Pardo",
+        "date": "2023-06-29",
         "publication": "el-tiempo",
-        "title": "De arribistas y redentores",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/de-arribistas-y-redentores-columna-de-poncho-renteria-781315"
+        "title": "Paisaje sonoro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/paisaje-sonoro-columna-de-diana-pardo-781652"
     },
     {
         "article-type": "column",
-        "author": "Mariajos\u00e9 Quiceno",
-        "date": "2023-06-28",
+        "author": "Otros columnistas",
+        "date": "2023-06-29",
         "publication": "el-tiempo",
-        "title": "Al pa\u00eds le hace falta tu voz, #LaVozDelLider",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/al-pais-le-hace-falta-tu-voz-lavozdellider-mariajose-quiceno-781360"
+        "title": "Descentralizaci\u00f3n para la vida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/descentralizacion-para-la-vida-columna-de-dario-indalecio-restrepo-781659"
     },
     {
         "article-type": "column",
-        "author": "Alex\u00e1nder Cambero",
-        "date": "2023-06-28",
+        "author": "Alpher Rojas C.",
+        "date": "2023-06-29",
         "publication": "el-tiempo",
-        "title": "El hundimiento de nuestro Titanic",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/el-hundimiento-de-nuestro-titanic-columna-de-alexander-cambero-781357"
+        "title": "La riqueza de las naciones depende de sus capacidades de innovaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/la-riqueza-de-las-naciones-depende-de-sus-capacidades-de-innovacion-781656"
     }
 ]
