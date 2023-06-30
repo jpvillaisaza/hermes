@@ -2,34 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-29",
+        "date": "2023-06-30",
         "publication": "el-colombiano",
-        "title": "Coco-loco Wagner",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/coco-loco-wagner-NO21855833"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-regreso-de-la-caligrafia-GN21862620"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-29",
+        "date": "2023-06-30",
         "publication": "el-espectador",
-        "title": "S\u00ed, toca decirlo: en Colombia hubo ejecuciones extrajudiciales",
-        "url": "https://www.elespectador.com/opinion/editorial/si-toca-decirlo-en-colombia-hubo-ejecuciones-extrajudiciales/"
+        "title": "Hablemos de igualdad como pol\u00edtica de Estado",
+        "url": "https://www.elespectador.com/opinion/editorial/hablemos-de-igualdad-como-politica-de-estado/"
     },
     {
         "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2023-06-29",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-06-30",
         "publication": "el-espectador",
-        "title": "Nosotros y ellos",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/nosotros-y-ellos/"
+        "title": "Rumba eterna",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/rumba-eterna/"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2023-06-29",
+        "author": "Patricia Lara Salive",
+        "date": "2023-06-30",
         "publication": "el-espectador",
-        "title": "Encriptaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/encriptacion/"
+        "title": "Sean valientes: denles la cara a sus v\u00edctimas",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/sean-valientes-denles-la-cara-a-sus-victimas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-06-30",
+        "publication": "el-espectador",
+        "title": "Nos mamaron gallo ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/nos-mamaron-gallo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2023-06-30",
+        "publication": "el-espectador",
+        "title": "Enfermedad",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/enfermedad/"
     },
     {
         "article-type": "column",
@@ -64,147 +80,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/submarinos-y-necropolitica/"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-06-29",
-        "publication": "el-espectador",
-        "title": "Hogueras y tambores de san Juan",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/hogueras-y-tambores-de-san-juan/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Camargo",
-        "date": "2023-06-29",
-        "publication": "el-espectador",
-        "title": "\u00a1Gracias, Millonarios!",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/gracias-millonarios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Santiago Villa",
-        "date": "2023-06-29",
-        "publication": "el-espectador",
-        "title": "El video de Cohen tiene inter\u00e9s period\u00edstico",
-        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/el-video-de-cohen-tiene-interes-periodistico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juliana Bustamante Reyes",
-        "date": "2023-06-29",
-        "publication": "el-espectador",
-        "title": "Aliados por el legado de la Comisi\u00f3n de la Verdad",
-        "url": "https://www.elespectador.com/colombia-20/analistas/aliados-por-el-legado-de-la-comision-de-la-verdad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-06-29",
-        "publication": "el-espectador",
-        "title": "Nos \u00edbamos desfasando al fechar el comienzo de la invasi\u00f3n de Putin a Ucrania",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nos-ibamos-desfasando-al-fechar-el-comienzo-de-la-invasion-de-putin-a-ucrania/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "Los Wagners",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/los-wagners-y-otros-contratistas-militares-privados-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "El riesgo de normalizar la muerte",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/el-riesgo-de-normalizar-la-muerte-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "\u201cEmbajador\u201d \u00bfde qu\u00e9 o de qui\u00e9nes?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/embajador-de-que-o-de-quienes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "Cambio clim\u00e1tico y transici\u00f3n energ\u00e9tica",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/cambio-climatico-y-transicion-energetica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-06-28",
-        "publication": "el-espectador",
-        "title": "Desde mi escritorio",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/desde-mi-escritorio/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-06-29",
+        "date": "2023-06-30",
         "publication": "el-tiempo",
-        "title": "Destrabar la energ\u00eda",
-        "url": "https://www.eltiempo.com/opinion/editorial/destrabar-la-energia-editorial-el-tiempo-781782"
+        "title": "El espejo de Dabeiba",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-espejo-de-dabeiba-editorial-el-tiempo-782135"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-06-29",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-06-30",
         "publication": "el-tiempo",
-        "title": "\u00bfEn las urnas o por las armas?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/en-las-urnas-o-por-las-armas-columna-de-pedro-medellin-781705"
+        "title": "Conocimiento, ciencia, definiciones y presupuesto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/conocimiento-ciencia-definiciones-y-presupuesto-moises-wasserman-782057"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-06-29",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-06-30",
         "publication": "el-tiempo",
-        "title": "La edad coreana",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/la-edad-coreana-columna-de-juan-esteban-constain-781664"
+        "title": "Dabeiba",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/dabeiba-columna-de-ricardo-silva-romero-782070"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2023-06-29",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2023-06-30",
         "publication": "el-tiempo",
-        "title": "\u00bfQui\u00e9n controla al \u2018clan del Golfo\u2019?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/quien-controla-al-clan-del-golfo-columna-de-jineth-bedoya-lima-781745"
+        "title": "Europa: malas noticias",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/europa-malas-noticias-columna-de-antonio-albinana-782067"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Lloreda",
-        "date": "2023-06-29",
+        "author": "Mariajos\u00e9 Quiceno",
+        "date": "2023-06-30",
         "publication": "el-tiempo",
-        "title": "Mot\u00edn a bordo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/motin-a-bordo-columna-de-mauricio-lloreda-781681"
+        "title": "Al pa\u00eds le hace falta tu voz, #LaVozDelLider",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/al-pais-le-hace-falta-tu-voz-lavozdellider-mariajose-quiceno-781360"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2023-06-29",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-06-30",
         "publication": "el-tiempo",
-        "title": "Paisaje sonoro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/paisaje-sonoro-columna-de-diana-pardo-781652"
+        "title": "Democracia reflexiva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/democracia-reflexiva-columna-de-eduardo-posada-carbo-782066"
     },
     {
         "article-type": "column",
-        "author": "Otros columnistas",
-        "date": "2023-06-29",
+        "author": "Jaime Pumarejo",
+        "date": "2023-06-30",
         "publication": "el-tiempo",
-        "title": "Descentralizaci\u00f3n para la vida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/descentralizacion-para-la-vida-columna-de-dario-indalecio-restrepo-781659"
+        "title": "El Estado que mucho abarca y poco aprieta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jaime-pumarejo/el-estado-que-mucho-abarca-y-poco-aprieta-columna-de-jaime-pumarejo-782093"
     },
     {
         "article-type": "column",
-        "author": "Alpher Rojas C.",
-        "date": "2023-06-29",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2023-06-30",
         "publication": "el-tiempo",
-        "title": "La riqueza de las naciones depende de sus capacidades de innovaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/la-riqueza-de-las-naciones-depende-de-sus-capacidades-de-innovacion-781656"
+        "title": "Algo va mal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/algo-va-mal-columna-de-manuel-guzman-hennessey-782075"
     }
 ]
