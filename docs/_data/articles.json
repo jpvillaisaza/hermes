@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-02",
+        "date": "2023-07-03",
         "publication": "el-colombiano",
-        "title": "\u00bfPor qu\u00e9 se pierde el presidente Petro?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/por-que-se-pierde-el-presidente-petro-HM21875772"
+        "title": "Radiograf\u00eda al listado de las grandes empresas ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/radiografia-al-listado-de-las-grandes-empresas-NM21879073"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-02",
+        "date": "2023-07-03",
         "publication": "el-espectador",
-        "title": "Hay que proteger el proceso electoral ",
-        "url": "https://www.elespectador.com/opinion/editorial/hay-que-proteger-el-proceso-electoral/"
+        "title": "Mentiras en el caso de \u00d3scar Iv\u00e1n Zuluaga",
+        "url": "https://www.elespectador.com/opinion/editorial/mentiras-en-el-caso-de-oscar-ivan-zuluaga/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2023-07-03",
+        "publication": "el-espectador",
+        "title": "Las diferencias entre \u00abhace\u00bb y \u00abdesde hace\u00bb",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/las-diferencias-entre-hace-y-desde-hace/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2023-07-03",
+        "publication": "el-espectador",
+        "title": "Dabeiba, bandera y patria",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/dabeiba-bandera-y-patria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-07-03",
+        "publication": "el-espectador",
+        "title": "La riqueza de El Cerrej\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-riqueza-de-el-cerrejon/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2023-07-03",
+        "publication": "el-espectador",
+        "title": "\u00bfDe la c\u00e1rcel a la Casa Blanca?",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/de-la-carcel-a-la-casa-blanca/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-07-03",
+        "publication": "el-espectador",
+        "title": "Tribuno del pueblo",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/tribuno-del-pueblo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2023-07-03",
+        "publication": "el-espectador",
+        "title": "IA, \u00bfy escribir para qu\u00e9?",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/ia-y-escribir-para-que/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2023-07-03",
+        "publication": "el-espectador",
+        "title": "Golpes no tan blandos contra los partidos",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/golpes-no-tan-blandos-contra-los-partidos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2023-07-03",
+        "publication": "el-espectador",
+        "title": "Coalici\u00f3n pol\u00edtica de largo plazo para la reforma educativa",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/coalicion-politica-de-largo-plazo-para-la-reforma-educativa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-07-03",
+        "publication": "el-espectador",
+        "title": "El deterioro de la Regi\u00f3n Caribe",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/el-deterioro-de-la-region-caribe/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2023-07-03",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cHay que proteger el proceso electoral\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-hay-que-proteger-el-proceso-electoral/"
     },
     {
         "article-type": "column",
@@ -64,155 +144,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/los-olvidados/"
     },
     {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-07-02",
-        "publication": "el-espectador",
-        "title": "Las razones del odio",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/las-razones-del-odio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-07-02",
-        "publication": "el-espectador",
-        "title": "Putin ya no es el mismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/putin-ya-no-es-el-mismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2023-07-02",
-        "publication": "el-espectador",
-        "title": "Verdad contra ninguno",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/verdad-contra-ninguno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-07-02",
-        "publication": "el-espectador",
-        "title": "\u00bfTerminar\u00e1 de vasallo de China?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/terminara-rusia-de-vasallo-de-china/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-07-02",
-        "publication": "el-espectador",
-        "title": "El sainete del Gobierno",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/el-sainete-del-gobierno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-07-02",
-        "publication": "el-espectador",
-        "title": "Los archivos",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/los-archivos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-07-02",
-        "publication": "el-espectador",
-        "title": "Vacantes odiosas",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/vacantes-odiosas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2023-07-02",
-        "publication": "el-espectador",
-        "title": "Otro gobierno in\u00fatil",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/otro-gobierno-inutil/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-07-02",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-101/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-07-02",
-        "publication": "el-espectador",
-        "title": "Patas de hojalata",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/patas-de-hojalata/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-02",
+        "date": "2023-07-03",
         "publication": "el-tiempo",
-        "title": "La plata de la salud",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-2-de-julio-de-2023-la-plata-de-la-salud-782655"
+        "title": "Partidos aut\u00f3nomos",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-3-de-julio-de-2023-partidos-autonomos-782821"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-07-02",
+        "author": "Juan Lozano",
+        "date": "2023-07-03",
         "publication": "el-tiempo",
-        "title": "O\u00eddos sordos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-oidos-sordos-782656"
+        "title": "El nido de la corrupci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-el-nido-de-la-corrupcion-782804"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-07-02",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2023-07-03",
         "publication": "el-tiempo",
-        "title": "Petro se discursea en la \u2018Sorbonne\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-petro-se-discursea-en-la-sorbonne-782662"
+        "title": "Hambre en La Guajira y transici\u00f3n energ\u00e9tica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-hambre-en-la-guajira-y-transicion-energetica-782805"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-07-02",
+        "author": "Luis Felipe Henao",
+        "date": "2023-07-03",
         "publication": "el-tiempo",
-        "title": "Conejazo al gasto social",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-conejazo-al-gasto-social-782672"
+        "title": "Gracias, JEP, por revelar la verdad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-gracias-jep-por-revelar-la-verdad-782813"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Antonio Ocampo",
-        "date": "2023-07-02",
+        "author": "Diego Santos",
+        "date": "2023-07-03",
         "publication": "el-tiempo",
-        "title": "La administraci\u00f3n p\u00fablica nacional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo/columna-de-jose-antonio-ocampo-la-administracion-publica-nacional-782665"
+        "title": "Telegram se consolida como la plataforma m\u00e1s potente del mundo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-telegram-la-plataforma-mas-potente-del-mundo-782803"
     },
     {
         "article-type": "column",
-        "author": "Billy Escobar P\u00e9rez",
-        "date": "2023-07-02",
+        "author": "David Racero",
+        "date": "2023-07-03",
         "publication": "el-tiempo",
-        "title": "Perspectivas que generan optimismo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/billy-escobar-perez/columna-de-billy-escobar-perspectivas-que-generan-optimismo-782671"
+        "title": "Congreso del cambio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/david-racero/columna-de-david-racero-congreso-del-cambio-782815"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-07-02",
+        "author": "Paola Ochoa",
+        "date": "2023-07-03",
         "publication": "el-tiempo",
-        "title": "Diez mandamientos para Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-diez-mandamientos-para-petro-782657"
+        "title": "Autodesprecio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-autodesprecio-782814"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-07-02",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-07-03",
         "publication": "el-tiempo",
-        "title": "La Guajira como bola de cristal",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-la-guajira-como-bola-de-cristal-782663"
+        "title": "Alcaldes, sean digitales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-alcaldes-sean-digitales-782819"
     },
     {
         "article-type": "column",
-        "author": "Bj\u00f8rn Lomborg y Bill Gates",
-        "date": "2023-07-02",
+        "author": "Melba Escobar",
+        "date": "2023-07-03",
         "publication": "el-tiempo",
-        "title": "No estamos alcanzando los Objetivos de Desarrollo Sostenible. \u00bfQu\u00e9 hacer?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/columna-de-bjorn-lomborg-y-bill-gates-los-objetivos-de-desarrollo-sostenible-782674"
+        "title": "El precio de estar vivo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-el-precio-de-estar-vivo-782809"
     }
 ]
