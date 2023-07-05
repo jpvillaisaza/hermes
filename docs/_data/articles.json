@@ -2,18 +2,74 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-04",
+        "date": "2023-07-05",
         "publication": "el-colombiano",
-        "title": "Esclavismo",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/esclavismo-AD21880880"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-laboratorio-de-la-paz-total-esta-en-llamas-ID21885850"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-04",
+        "date": "2023-07-05",
         "publication": "el-espectador",
-        "title": "El orgullo es cada vez m\u00e1s necesario",
-        "url": "https://www.elespectador.com/opinion/editorial/el-orgullo-es-cada-vez-mas-necesario/"
+        "title": "Resultado electoral guatemalteco, en entredicho",
+        "url": "https://www.elespectador.com/opinion/editorial/resultado-electoral-guatemalteco-en-entredicho/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-07-05",
+        "publication": "el-espectador",
+        "title": "Cuatro meses de lo mismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/cuatro-meses-de-lo-mismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-07-05",
+        "publication": "el-espectador",
+        "title": "X\u00f3chitl G\u00e1lvez, un fen\u00f3meno",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/xochitl-galvez-un-fenomeno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-07-05",
+        "publication": "el-espectador",
+        "title": "Condenado por la historia",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/condenado-por-la-historia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-07-05",
+        "publication": "el-espectador",
+        "title": "El caso Zuluaga: un buen comienzo",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-caso-zuluaga-un-buen-comienzo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-07-05",
+        "publication": "el-espectador",
+        "title": "\u201cUn bel morir\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/un-bel-morir/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-07-05",
+        "publication": "el-espectador",
+        "title": "Cambios excepcionales",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/cambios-excepcionales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando Roa Su\u00e1rez",
+        "date": "2023-07-05",
+        "publication": "el-espectador",
+        "title": "Construir democracia, 50 a\u00f1os ",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/construir-democracia-50-anos/"
     },
     {
         "article-type": "column",
@@ -22,14 +78,6 @@
         "publication": "el-espectador",
         "title": "Las cajas de Pandora",
         "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/las-cajas-de-pandora/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-07-04",
-        "publication": "el-espectador",
-        "title": "Colisi\u00f3n de coaliciones",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/colision-de-coaliciones/"
     },
     {
         "article-type": "column",
@@ -46,6 +94,14 @@
         "publication": "el-espectador",
         "title": "\u00bfUna nueva pol\u00edtica de drogas?",
         "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/una-nueva-politica-de-drogas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-07-04",
+        "publication": "el-espectador",
+        "title": "Colisi\u00f3n de coaliciones",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/colision-de-coaliciones/"
     },
     {
         "article-type": "column",
@@ -88,123 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/wagner/"
     },
     {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-07-04",
-        "publication": "el-espectador",
-        "title": "El grito de los derrotados",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-grito-de-los-derrotados/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pedro Viveros",
-        "date": "2023-07-04",
-        "publication": "el-espectador",
-        "title": "Colombia o Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/colombia-o-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado",
-        "date": "2023-07-04",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Balance continental",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado/columna-de-antonio-casale-balance-continental/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado",
-        "date": "2023-07-04",
-        "publication": "el-espectador",
-        "title": "Columna de Jorge Tovar: Gamero: entre competir y ganar",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado/columna-de-jorge-tovar-gamero-entre-competir-y-ganar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabrina Acosta",
-        "date": "2023-07-04",
-        "publication": "el-espectador",
-        "title": "La Guajira: la energ\u00eda que somos",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-guajira-la-energia-que-somos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-07-03",
-        "publication": "el-espectador",
-        "title": "Las diferencias entre \u00abhace\u00bb y \u00abdesde hace\u00bb",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/las-diferencias-entre-hace-y-desde-hace/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Teresa Ronderos",
-        "date": "2023-07-03",
-        "publication": "el-espectador",
-        "title": "Dabeiba, bandera y patria",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/dabeiba-bandera-y-patria/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-04",
+        "date": "2023-07-05",
         "publication": "el-tiempo",
-        "title": "Oferta y demanda",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-4-de-julio-de-2023-oferta-y-demanda-782974"
+        "title": "Prioridad ineludible",
+        "url": "https://www.eltiempo.com/opinion/editorial/prioridad-ineludible-editorial-el-tiempo-783295"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-07-04",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-07-05",
         "publication": "el-tiempo",
-        "title": "Las regiones bajo fuego",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-las-regiones-bajo-fuego-782971"
+        "title": "Verdad, corrupci\u00f3n y democracia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/verdad-corrupcion-y-democracia-columna-de-alfonso-gomez-mendez-783257"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2023-07-04",
+        "author": "Vladdo",
+        "date": "2023-07-05",
         "publication": "el-tiempo",
-        "title": "\u00bfDisturbio o rebeli\u00f3n?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/columna-de-sergio-munoz-bata-disturbio-o-rebelion-782963"
+        "title": "El sue\u00f1o roto de Victoria Amelina",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/el-sueno-roto-de-victoria-amelina-columna-de-vladdo-783287"
     },
     {
         "article-type": "column",
-        "author": "Marcela Mel\u00e9ndez",
-        "date": "2023-07-04",
+        "author": "Martha Senn",
+        "date": "2023-07-05",
         "publication": "el-tiempo",
-        "title": "El programa de empleo juvenil de Marion Barry",
-        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/columna-de-marcela-melendez-el-programa-de-empleo-de-marion-barry-782964"
+        "title": "\u2018Woyzeck\u2019 en escena y el Festival del Saxof\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/woyzeck-en-escena-y-el-festival-del-saxofon-columna-de-marhta-senn-783261"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2023-07-04",
+        "author": "Gustavo Duncan",
+        "date": "2023-07-05",
         "publication": "el-tiempo",
-        "title": "A la bici",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/columna-de-fernando-quiroz-a-la-bici-782970"
+        "title": "Una opci\u00f3n complicada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/una-opcion-complicada-columna-de-gustavo-duncan-783254"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2023-07-04",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-07-05",
         "publication": "el-tiempo",
-        "title": "Aprender a resolver problemas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/columna-de-francisco-cajiao-aprender-a-resolver-problemas-782966"
+        "title": "De Zuluaga opinaron en la peluquer\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/de-zuluaga-opinaron-en-la-peluqueria-columna-de-poncho-renteria-783269"
     },
     {
         "article-type": "column",
-        "author": "Carlos Alberto Londo\u00f1o",
-        "date": "2023-07-04",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2023-07-05",
         "publication": "el-tiempo",
-        "title": "\u00bfEn qu\u00e9 se relacionan la libertad personal y la libertad de empresa?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-carlos-alberto-londono-relacion-entre-libertad-personal-y-de-empresa-782951"
+        "title": "Otra de las artima\u00f1as de Wes Anderson",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/otra-de-las-artimanas-de-wes-anderson-columna-de-mauricio-laurens-783274"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2023-07-04",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2023-07-05",
         "publication": "el-tiempo",
-        "title": "Un tal Gonzalo Alvarino, poeta",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/columna-de-jose-miguel-alzate-un-tal-gonzalo-alvarino-poeta-782953"
+        "title": "\u2018El viaje de la marimba\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/el-viaje-de-la-marimba-columna-de-fabio-martinez-783272"
     }
 ]
