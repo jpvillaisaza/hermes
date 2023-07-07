@@ -2,18 +2,74 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-06",
+        "date": "2023-07-07",
         "publication": "el-colombiano",
-        "title": "D\u00f3nde qued\u00f3 la austeridad",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/donde-quedo-la-austeridad-GC21894255"
+        "title": "El \u00e9xito del \u00c9xito",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-exito-del-exito-AK21904859"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-06",
+        "date": "2023-07-07",
         "publication": "el-espectador",
-        "title": "Truena la violencia en Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/truena-la-violencia-en-colombia/"
+        "title": "Justicia contra el abuso sexual",
+        "url": "https://www.elespectador.com/opinion/editorial/justicia-contra-el-abuso-sexual/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-07-07",
+        "publication": "el-espectador",
+        "title": "El Ej\u00e9rcito, ante el espejo",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/el-ejercito-ante-el-espejo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-07-07",
+        "publication": "el-espectador",
+        "title": "Mate ahora y pague despu\u00e9s",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/mate-ahora-y-pague-despues/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tom\u00e1s Molina",
+        "date": "2023-07-07",
+        "publication": "el-espectador",
+        "title": "La verdadera clase media est\u00e1 en Hollywood",
+        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/la-verdadera-clase-media-esta-en-hollywood/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-07-07",
+        "publication": "el-espectador",
+        "title": "Militarizaci\u00f3n con inversi\u00f3n ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/militarizacion-con-inversion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2023-07-07",
+        "publication": "el-espectador",
+        "title": "El triunfo del descaro",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/el-triunfo-del-descaro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-07-07",
+        "publication": "el-espectador",
+        "title": "Sabroso",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/sabroso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-07-07",
+        "publication": "el-espectador",
+        "title": "El divorcio entre el poder y el canto",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/el-divorcio-entre-el-poder-y-el-canto/"
     },
     {
         "article-type": "column",
@@ -25,6 +81,14 @@
     },
     {
         "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-07-06",
+        "publication": "el-espectador",
+        "title": "Shakira, Gabo y la cursiler\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/shakira-gabo-y-la-cursileria/"
+    },
+    {
+        "article-type": "column",
         "author": "Brigitte LG Baptiste",
         "date": "2023-07-06",
         "publication": "el-espectador",
@@ -33,11 +97,11 @@
     },
     {
         "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
+        "author": "Catalina Ruiz-Navarro",
         "date": "2023-07-06",
         "publication": "el-espectador",
-        "title": "Shakira, Gabo y la cursiler\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/shakira-gabo-y-la-cursileria/"
+        "title": "Giros inesperados en las elecciones de Guatemala",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/giros-inesperados-en-las-elecciones-de-guatemala/"
     },
     {
         "article-type": "column",
@@ -54,14 +118,6 @@
         "publication": "el-espectador",
         "title": "Del colapso ambiental al fin de una civilizaci\u00f3n",
         "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/del-colapso-ambiental-al-fin-de-una-civilizacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-07-06",
-        "publication": "el-espectador",
-        "title": "Giros inesperados en las elecciones de Guatemala",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/giros-inesperados-en-las-elecciones-de-guatemala/"
     },
     {
         "article-type": "column",
@@ -88,123 +144,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/no-escribimos-como-pensamos-sino-como-no-pensamos/"
     },
     {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-07-05",
-        "publication": "el-espectador",
-        "title": "Cuatro meses de lo mismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/cuatro-meses-de-lo-mismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-07-05",
-        "publication": "el-espectador",
-        "title": "X\u00f3chitl G\u00e1lvez, un fen\u00f3meno",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/xochitl-galvez-un-fenomeno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-07-05",
-        "publication": "el-espectador",
-        "title": "Condenado por la historia",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/condenado-por-la-historia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-07-05",
-        "publication": "el-espectador",
-        "title": "El caso Zuluaga: un buen comienzo",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-caso-zuluaga-un-buen-comienzo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-07-05",
-        "publication": "el-espectador",
-        "title": "\u201cUn bel morir\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/un-bel-morir/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-07-05",
-        "publication": "el-espectador",
-        "title": "Cambios excepcionales",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/cambios-excepcionales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2023-07-05",
-        "publication": "el-espectador",
-        "title": "Construir democracia, 50 a\u00f1os ",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/construir-democracia-50-anos/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-06",
+        "date": "2023-07-07",
         "publication": "el-tiempo",
-        "title": "Golpe a la democracia",
-        "url": "https://www.eltiempo.com/opinion/editorial/golpe-a-la-democracia-editorial-el-tiempo-783639"
+        "title": "Mal comienzo",
+        "url": "https://www.eltiempo.com/opinion/editorial/mal-comienzo-editorial-el-tiempo-783999"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-07-06",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-07-07",
         "publication": "el-tiempo",
-        "title": "Entre un Gobierno sin territorio, y una democracia sin ciudadanos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/entre-un-gobierno-sin-territorio-y-una-democracia-sin-ciudadanos-783617"
+        "title": "Discursos no pronunciados",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/discursos-no-pronunciados-columna-de-moises-wasserman-783915"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-07-06",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-07-07",
         "publication": "el-tiempo",
-        "title": "Propaganda zombi",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/propaganda-zombi-columna-de-juan-esteban-constain-783609"
+        "title": "Semidiablos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/semidiablos-columna-de-ricardo-silva-romero-783927"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2023-07-06",
+        "author": "Claudia Hakim",
+        "date": "2023-07-07",
         "publication": "el-tiempo",
-        "title": "La rebeli\u00f3n de los privilegiados",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/la-rebelion-de-los-privilegiados-columna-de-claudia-palacios-783557"
+        "title": "Me duele Bogot\u00e1",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/me-duele-bogota-columna-de-claudia-hakim-783941"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2023-07-06",
+        "author": "Martha Ortiz",
+        "date": "2023-07-07",
         "publication": "el-tiempo",
-        "title": "Las cartas sobre la mesa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/las-cartas-sobre-la-mesa-columna-de-sergio-ramirez-783596"
+        "title": "IA, entre la seducci\u00f3n y lo humano",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/ia-entre-la-seduccion-y-lo-humano-columna-de-martha-ortiz-783957"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Manuel Ruiz",
-        "date": "2023-07-06",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-07-07",
         "publication": "el-tiempo",
-        "title": "\u00a1Virgen sant\u00edsima!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/virgen-santisima-columna-de-victor-manuel-ruiz-783561"
+        "title": "Golpes de palacio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/golpes-de-palacio-columna-de-eduardo-posada-carbo-783919"
     },
     {
         "article-type": "column",
-        "author": "Carolina Soto",
-        "date": "2023-07-06",
+        "author": "Alfredo Rangel",
+        "date": "2023-07-07",
         "publication": "el-tiempo",
-        "title": "Igualdad de g\u00e9nero, un momento propicio para avanzar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/igualdad-de-genero-un-momento-propicio-para-avanzar-carolina-soto-783604"
+        "title": "Armar a los buenos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/armar-a-los-buenos-columna-de-alfredo-rangel-783944"
     },
     {
         "article-type": "column",
-        "author": "Alex\u00e1nder Cambero",
-        "date": "2023-07-06",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2023-07-07",
         "publication": "el-tiempo",
-        "title": "La inhabilitaci\u00f3n de Mar\u00eda Corina",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/la-inhabilitacion-de-maria-corina-columna-de-alexander-cambero-783565"
+        "title": "Camino equivocado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/camino-equivocado-columna-de-fernando-sanchez-torres-783954"
+    },
+    {
+        "article-type": "column",
+        "author": "Salvo Basile",
+        "date": "2023-07-07",
+        "publication": "el-tiempo",
+        "title": "La verg\u00fcenza de la desnutrici\u00f3n infantil",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/la-vergueenza-de-la-desnutricion-infantil-columna-de-salvo-basile-783933"
     }
 ]
