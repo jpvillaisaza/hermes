@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-07",
+        "date": "2023-07-08",
         "publication": "el-colombiano",
-        "title": "El \u00e9xito del \u00c9xito",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-exito-del-exito-AK21904859"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/florida-zona-roja-para-los-sin-papeles-AL21913298"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-07",
+        "date": "2023-07-08",
         "publication": "el-espectador",
-        "title": "Justicia contra el abuso sexual",
-        "url": "https://www.elespectador.com/opinion/editorial/justicia-contra-el-abuso-sexual/"
+        "title": "La JEP sigue su incansable labor",
+        "url": "https://www.elespectador.com/opinion/editorial/la-jep-sigue-su-incansable-labor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Weildler Guerra",
+        "date": "2023-07-08",
+        "publication": "el-espectador",
+        "title": "El palenque de Nueva Troya",
+        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/el-palenque-de-nueva-troya/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-07-08",
+        "publication": "el-espectador",
+        "title": "Historias dibujadas en la cabeza de un alfiler",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/historias-dibujadas-en-la-cabeza-de-un-alfiler/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-07-08",
+        "publication": "el-espectador",
+        "title": "Las actrices, los actores y el mercado audiovisual",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/las-actrices-los-actores-y-el-mercado-audiovisual/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-07-08",
+        "publication": "el-espectador",
+        "title": "C\u00f3mo los miran",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/como-los-miran/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2023-07-08",
+        "publication": "el-espectador",
+        "title": "Aprendiz de nazi",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/aprendiz-de-nazi/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2023-07-08",
+        "publication": "el-espectador",
+        "title": "Odebrecht, Pizano, enigmas",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/odebrecht-pizano-enigmas/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2023-07-08",
+        "publication": "el-espectador",
+        "title": "Retroceder nunca, rendirse jam\u00e1s 5 ",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/retroceder-nunca-rendirse-jamas-5/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mart\u00edn Jaramillo",
+        "date": "2023-07-08",
+        "publication": "el-espectador",
+        "title": "La reforma tributaria anti-crecimiento",
+        "url": "https://www.elespectador.com/opinion/columnistas/martin-jaramillo/la-reforma-tributaria-anti-crecimiento/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-07-08",
+        "publication": "el-espectador",
+        "title": "Para enfrentar la tecnolog\u00eda en la ruralidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/para-enfrentar-la-tecnologia-en-la-ruralidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro \u00c1lvarez",
+        "date": "2023-07-08",
+        "publication": "el-espectador",
+        "title": "Perseverar en la transformaci\u00f3n pedag\u00f3gica de la educaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-alvarez/perseverar-en-la-transformacion-pedagogica-de-la-educacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2023-07-08",
+        "publication": "el-espectador",
+        "title": "Lugares m\u00edticos",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/lugares-miticos/"
     },
     {
         "article-type": "column",
@@ -22,14 +110,6 @@
         "publication": "el-espectador",
         "title": "El Ej\u00e9rcito, ante el espejo",
         "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/el-ejercito-ante-el-espejo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2023-07-07",
-        "publication": "el-espectador",
-        "title": "Mate ahora y pague despu\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/mate-ahora-y-pague-despues/"
     },
     {
         "article-type": "column",
@@ -57,162 +137,74 @@
     },
     {
         "article-type": "column",
-        "author": "Madame Papita",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
         "date": "2023-07-07",
         "publication": "el-espectador",
-        "title": "Sabroso",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/sabroso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2023-07-07",
-        "publication": "el-espectador",
-        "title": "El divorcio entre el poder y el canto",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/el-divorcio-entre-el-poder-y-el-canto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2023-07-06",
-        "publication": "el-espectador",
-        "title": "Dabeiba",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/dabeiba/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2023-07-06",
-        "publication": "el-espectador",
-        "title": "Shakira, Gabo y la cursiler\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/shakira-gabo-y-la-cursileria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2023-07-06",
-        "publication": "el-espectador",
-        "title": "LGBTIQ+",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/lgbtiq/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-07-06",
-        "publication": "el-espectador",
-        "title": "Giros inesperados en las elecciones de Guatemala",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/giros-inesperados-en-las-elecciones-de-guatemala/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2023-07-06",
-        "publication": "el-espectador",
-        "title": "Job",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/job/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
-        "date": "2023-07-06",
-        "publication": "el-espectador",
-        "title": "Del colapso ambiental al fin de una civilizaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/del-colapso-ambiental-al-fin-de-una-civilizacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-07-06",
-        "publication": "el-espectador",
-        "title": "Cantar y bailar para unir",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/cantar-y-bailar-para-unir/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Candidata",
-        "date": "2023-07-06",
-        "publication": "el-espectador",
-        "title": "\u201cCuando Gilinski ordena, Vicky obedece\u201d: la Candidata",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/silencio-de-vicky-davila-en-twitter-tras-amenaza-de-gustavo-petro-a-los-gilinski/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-07-06",
-        "publication": "el-espectador",
-        "title": "No escribimos como pensamos, sino como no pensamos",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/no-escribimos-como-pensamos-sino-como-no-pensamos/"
+        "title": "Mate ahora y pague despu\u00e9s",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/mate-ahora-y-pague-despues/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-07",
+        "date": "2023-07-08",
         "publication": "el-tiempo",
-        "title": "Mal comienzo",
-        "url": "https://www.eltiempo.com/opinion/editorial/mal-comienzo-editorial-el-tiempo-783999"
+        "title": "Seguridad alimentaria",
+        "url": "https://www.eltiempo.com/opinion/editorial/seguridad-alimentaria-editorial-el-tiempo-784385"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-07-07",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2023-07-08",
         "publication": "el-tiempo",
-        "title": "Discursos no pronunciados",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/discursos-no-pronunciados-columna-de-moises-wasserman-783915"
+        "title": "Petro 2.0",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/petro-2-0-columna-de-mauricio-cardenas-santamaria-784369"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-07-07",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-07-08",
         "publication": "el-tiempo",
-        "title": "Semidiablos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/semidiablos-columna-de-ricardo-silva-romero-783927"
+        "title": "Para lo que hay que ver...",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/para-lo-que-hay-que-ver-columna-de-luis-noe-ochoa-784337"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2023-07-07",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2023-07-08",
         "publication": "el-tiempo",
-        "title": "Me duele Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/me-duele-bogota-columna-de-claudia-hakim-783941"
+        "title": "Emergencia en La Guajira",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/emergencia-en-la-guajira-columna-de-jose-gregorio-hernandez-784302"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2023-07-07",
+        "author": "Sara Tufano",
+        "date": "2023-07-08",
         "publication": "el-tiempo",
-        "title": "IA, entre la seducci\u00f3n y lo humano",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/ia-entre-la-seduccion-y-lo-humano-columna-de-martha-ortiz-783957"
+        "title": "Desenterrar la verdad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/desenterrar-la-verdad-columna-de-sara-tufano-784292"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-07-07",
+        "author": "Alejandro Higuera Sotomayor",
+        "date": "2023-07-08",
         "publication": "el-tiempo",
-        "title": "Golpes de palacio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/golpes-de-palacio-columna-de-eduardo-posada-carbo-783919"
+        "title": "Un camino diferente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/un-camino-diferente-columna-de-alejandro-higuera-784327"
     },
     {
         "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2023-07-07",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-07-08",
         "publication": "el-tiempo",
-        "title": "Armar a los buenos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/armar-a-los-buenos-columna-de-alfredo-rangel-783944"
+        "title": "San Pedro, tuitero",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/san-pedro-tuitero-columna-de-oscar-dominguez-784315"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2023-07-07",
+        "author": "Javier Borda Diaz",
+        "date": "2023-07-08",
         "publication": "el-tiempo",
-        "title": "Camino equivocado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/camino-equivocado-columna-de-fernando-sanchez-torres-783954"
-    },
-    {
-        "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2023-07-07",
-        "publication": "el-tiempo",
-        "title": "La verg\u00fcenza de la desnutrici\u00f3n infantil",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/la-vergueenza-de-la-desnutricion-infantil-columna-de-salvo-basile-783933"
+        "title": "De la comida r\u00e1pida a la vida r\u00e1pida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/de-la-comida-rapida-a-la-vida-rapida-columna-de-javier-borda-diaz-784333"
     }
 ]
