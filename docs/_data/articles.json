@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-09",
+        "date": "2023-07-10",
         "publication": "el-colombiano",
-        "title": "La arrogancia y el poder",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-arrogancia-y-el-poder-DL21914979"
+        "title": "La energ\u00eda ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-energia-de-la-guajira-IL21915269"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-09",
+        "date": "2023-07-10",
         "publication": "el-espectador",
-        "title": "Cautela con los superpoderes en La Guajira ",
-        "url": "https://www.elespectador.com/opinion/editorial/cautela-con-los-superpoderes-en-la-guajira/"
+        "title": "La inhabilitaci\u00f3n a Mar\u00eda Corina Machado",
+        "url": "https://www.elespectador.com/opinion/editorial/la-inhabilitacion-a-maria-corina-machado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "D\u00e1divas en la Corte",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/dadivas-en-la-corte/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "Fico vuelve",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/fico-vuelve/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "\u201cAsesores espirituales\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/asesores-espirituales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alvaro Forero Tasc\u00f3n",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "\u00bfOfrecerle negociar a Petro?",
+        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/ofrecerle-negociar-a-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "Sobre el verbo \u00abcriar\u00bb",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/sobre-el-verbo-criar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Teresita Goyeneche",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "La censura contra Laura Ardila es un balde de agua hirviendo",
+        "url": "https://www.elespectador.com/opinion/columnistas/teresita-goyeneche/la-censura-contra-laura-ardila-es-un-balde-de-agua-hirviendo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "Informalidad ",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/informalidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "Ordenar la casa",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/ordenar-la-casa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "La democracia y la calle",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/la-democracia-y-la-calle/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "Acuerdo con Fecode: fest\u00edn de m\u00e1s gasto sin contraprestaci\u00f3n de calidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/acuerdo-con-fecode-festin-de-mas-gasto-sin-contraprestacion-de-calidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: La realidad    ",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-la-realidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2023-07-10",
+        "publication": "el-espectador",
+        "title": "Editorial en video: Cautela con los superpoderes en La Guajira ",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-cautela-con-los-superpoderes-en-la-guajira/"
     },
     {
         "article-type": "column",
@@ -48,171 +144,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/atando-cabos/"
     },
     {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-07-09",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja revelan la renuncia que no mand\u00f3 \u00d3scar Iv\u00e1n",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-revelan-la-renuncia-que-no-mando-oscar-ivan/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-07-09",
-        "publication": "el-espectador",
-        "title": "La reforma del cannabis de uso adulto ",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/la-reforma-del-cannabis-de-uso-adulto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-07-09",
-        "publication": "el-espectador",
-        "title": "Entusiasmos (as\u00ed sean breves)",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/entusiasmos-asi-sean-breves/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2023-07-09",
-        "publication": "el-espectador",
-        "title": "Sobre grabaciones y filtraciones",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/sobre-grabaciones-y-filtraciones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-07-09",
-        "publication": "el-espectador",
-        "title": "Al estilo mafioso",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/al-estilo-mafioso/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-07-09",
-        "publication": "el-espectador",
-        "title": "Por el agua o por el fuego",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/por-el-agua-o-por-el-fuego/"
-    },
-    {
-        "article-type": "column",
-        "author": "Paul Krugman",
-        "date": "2023-07-09",
-        "publication": "el-espectador",
-        "title": "Los ricos est\u00e1n m\u00e1s locos que t\u00fa y yo",
-        "url": "https://www.elespectador.com/opinion/columnistas/paul-krugman/los-ricos-estan-mas-locos-que-tu-y-yo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-07-09",
-        "publication": "el-espectador",
-        "title": "Insolvente",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/insolvente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2023-07-09",
-        "publication": "el-espectador",
-        "title": "De paz total a insurrecci\u00f3n total",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/de-paz-total-a-insurreccion-total/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-07-09",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-102/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-07-09",
-        "publication": "el-espectador",
-        "title": "Titiritero ",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/titiritero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Weildler Guerra",
-        "date": "2023-07-08",
-        "publication": "el-espectador",
-        "title": "El palenque de Nueva Troya",
-        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/el-palenque-de-nueva-troya/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-09",
+        "date": "2023-07-10",
         "publication": "el-tiempo",
-        "title": "Unas elecciones cruciales",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-9-de-julio-de-2023-unas-elecciones-cruciales-784537"
+        "title": "Salvar la Amazonia",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-10-de-julio-de-2023-salvar-la-amazonia-784681"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-07-09",
+        "author": "Juan Lozano",
+        "date": "2023-07-10",
         "publication": "el-tiempo",
-        "title": "Emergencia guajira",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-emergencia-guajira-784539"
+        "title": "Equidad, corrupci\u00f3n y burocracia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-equidad-corrupcion-y-burocracia-784691"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-07-09",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2023-07-10",
         "publication": "el-tiempo",
-        "title": "A sabrosearse el Estado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-a-sabrosearse-el-estado-784549"
+        "title": "De las libertades",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-de-las-libertades-784701"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-07-09",
+        "author": "Luis Felipe Henao",
+        "date": "2023-07-10",
         "publication": "el-tiempo",
-        "title": "La Guajira, s\u00ed\u2026 pero no as\u00ed",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-la-guajira-si-pero-no-asi-784557"
+        "title": "Secuestrados otra vez",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-secuestrados-otra-vez-784690"
     },
     {
         "article-type": "column",
-        "author": "Susana Muhamad",
-        "date": "2023-07-09",
+        "author": "Diego Santos",
+        "date": "2023-07-10",
         "publication": "el-tiempo",
-        "title": "Siete a\u00f1os para salvar la Amazon\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-susana-muhamad-siete-anos-para-salvar-la-amazonia-784558"
+        "title": "\u00bfQu\u00e9 hac\u00edamos antes de que existiesen los celulares?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-que-haciamos-antes-de-que-existiesen-los-celulares-784697"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-07-09",
+        "author": "Manuel Rodr\u00edguez Becerra",
+        "date": "2023-07-10",
         "publication": "el-tiempo",
-        "title": "El fuego no cesa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-el-fuego-no-cesa-784538"
+        "title": "Parques nacionales naturales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/columna-de-manuel-rodriguez-becerra-parques-nacionales-naturales-784698"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-07-09",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2023-07-10",
         "publication": "el-tiempo",
-        "title": "Una diferencia de temperatura",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-una-diferencia-de-temperatura-784550"
+        "title": "Nuestros enormes retos actuales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/columna-de-victor-corcoba-nuestros-enormes-retos-actuales-784686"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2023-07-09",
+        "author": "Yolanda Reyes",
+        "date": "2023-07-10",
         "publication": "el-tiempo",
-        "title": "P\u00e9ndulo pol\u00edtico y populismo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-pendulo-politico-y-populismo-784551"
+        "title": "Nuestros otros desaparecidos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-nuestros-otros-desaparecidos-784699"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2023-07-09",
+        "author": "Jorge Barraza",
+        "date": "2023-07-10",
         "publication": "el-tiempo",
-        "title": "Oriente pr\u00f3ximo: la paz m\u00e1s lejos que nunca",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/columna-de-antonio-albinana-oriente-proximo-la-paz-mas-lejos-que-nunca-784559"
+        "title": "Brasil 4 - Italia 1: la emoci\u00f3n de ver a Pel\u00e9",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-brasil-4-italia-1-la-emocion-de-ver-a-pele-784705"
     }
 ]
