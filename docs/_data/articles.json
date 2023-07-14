@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-13",
+        "date": "2023-07-14",
         "publication": "el-colombiano",
-        "title": "Alerta por las finanzas ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/alerta-por-las-finanzas-FJ21932997"
+        "title": "Elecciones bajo fuego",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/elecciones-bajo-fuego-DJ21938218"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-13",
+        "date": "2023-07-14",
         "publication": "el-espectador",
-        "title": "Tener familiares en el Estado es cuestionable",
-        "url": "https://www.elespectador.com/opinion/editorial/tener-familiares-en-el-estado-es-cuestionable/"
+        "title": "Se pudo frenar la arrogancia expansionista nicarag\u00fcense ",
+        "url": "https://www.elespectador.com/opinion/editorial/se-pudo-frenar-la-arrogancia-expansionista-nicaraguense/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-07-14",
+        "publication": "el-espectador",
+        "title": "La mejor de Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/la-mejor-de-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2023-07-14",
+        "publication": "el-espectador",
+        "title": "De censura no se habla",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/de-censura-no-se-habla/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-07-14",
+        "publication": "el-espectador",
+        "title": "OIZ: de mentira en mentira",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/oiz-de-mentira-en-mentira/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2023-07-14",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 pasa con los animales en Santa Marta?",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/que-pasa-con-los-animales-en-santa-marta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-07-14",
+        "publication": "el-espectador",
+        "title": "La insoportable pesantez del no ser",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/la-insoportable-pesantez-del-no-ser/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-07-14",
+        "publication": "el-espectador",
+        "title": "Para construir la casa propia",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/para-construir-la-casa-propia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2023-07-14",
+        "publication": "el-espectador",
+        "title": "Uribe culpable",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/uribe-culpable/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-07-14",
+        "publication": "el-espectador",
+        "title": "Amigo tendero",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/amigo-tendero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2023-07-14",
+        "publication": "el-espectador",
+        "title": "El ministerio de la pol\u00edtica social",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/el-ministerio-de-la-politica-social/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-07-14",
+        "publication": "el-espectador",
+        "title": "\u00bfLa matr\u00edcula cero en universidades es una buena idea? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-la-matricula-cero-en-universidades-es-una-buena-idea/"
     },
     {
         "article-type": "column",
@@ -33,30 +113,6 @@
     },
     {
         "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "\u201c\u00d1o\u00f1oman\u00eda\u201d y la pol\u00edtica real ",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/nonomania-y-la-politica-real/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "Cr\u00f3nica de una renovaci\u00f3n del pase",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/cronica-de-una-renovacion-del-pase/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "Acoso judicial: el m\u00e9todo de censura m\u00e1s eficiente",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/acoso-judicial-el-metodo-de-censura-mas-eficiente/"
-    },
-    {
-        "article-type": "column",
         "author": "Elisabeth Ungar Bleier",
         "date": "2023-07-13",
         "publication": "el-espectador",
@@ -73,138 +129,82 @@
     },
     {
         "article-type": "column",
-        "author": "Santiago Villa",
+        "author": "Yolanda Ruiz",
         "date": "2023-07-13",
         "publication": "el-espectador",
-        "title": "Rechac\u00e9 un premio period\u00edstico en Rusia",
-        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/rechace-un-premio-periodistico-en-rusia/"
+        "title": "\u201c\u00d1o\u00f1oman\u00eda\u201d y la pol\u00edtica real ",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/nonomania-y-la-politica-real/"
     },
     {
         "article-type": "column",
-        "author": "Columnista invitado EE",
+        "author": "Juan David Zuloaga D.",
         "date": "2023-07-13",
         "publication": "el-espectador",
-        "title": "El veinte por ciento",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-veinte-por-ciento/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Parra",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "El sinuoso camino para identificar los campos minados del conflicto con las FARC",
-        "url": "https://www.elespectador.com/colombia-20/analistas/el-sinuoso-camino-para-identificar-los-campos-minados-durante-el-conflicto-con-las/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "Una semana para aprender sobre geograf\u00eda, fotograf\u00eda y contenido comercial",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/una-semana-para-aprender-sobre-geografia-fotografia-y-contenido-comercial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "Aqu\u00ed empez\u00f3",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/aqui-empezo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Oscar Guardiola-Rivera",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "Bailar mejor",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/bailar-mejor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "Desaf\u00edo licencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/desafio-licencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "Amazonia, agua para Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/amazonia-agua-para-bogota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-07-12",
-        "publication": "el-espectador",
-        "title": "Insensibles",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/insensibles/"
+        "title": "Cr\u00f3nica de una renovaci\u00f3n del pase",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/cronica-de-una-renovacion-del-pase/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-13",
+        "date": "2023-07-14",
         "publication": "el-tiempo",
-        "title": "Una herramienta menos",
-        "url": "https://www.eltiempo.com/opinion/editorial/una-herramienta-menos-editorial-el-tiempo-785817"
+        "title": "La regla de la prudencia",
+        "url": "https://www.eltiempo.com/opinion/editorial/la-regla-de-la-prudencia-editorial-el-tiempo-786215"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-07-13",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-07-14",
         "publication": "el-tiempo",
-        "title": "El nuevo impuesto para la \u2018seguridad\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-nuevo-impuesto-para-la-seguridad-columna-de-pedro-medellin-785821"
+        "title": "Reforma de la educaci\u00f3n superior",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/reforma-de-la-educacion-superior-columna-de-moises-wasserman-786146"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-07-13",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-07-14",
         "publication": "el-tiempo",
-        "title": "El sue\u00f1o de la pesadilla",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/el-sueno-de-la-pesadilla-columna-de-juan-esteban-constain-785747"
+        "title": "Afuera",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/afuera-columna-de-ricardo-silva-romero-786168"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2023-07-13",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2023-07-14",
         "publication": "el-tiempo",
-        "title": "Carta a Francia M\u00e1rquez",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/carta-a-francia-marquez-columna-de-jineth-bedoya-785740"
+        "title": "El laberinto espa\u00f1ol",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/el-laberinto-espanol-columna-de-antonio-albinana-786153"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2023-07-13",
+        "author": "Ximena Duque",
+        "date": "2023-07-14",
         "publication": "el-tiempo",
-        "title": "Coincidencias y discrepancias",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/coincidencias-y-discrepancias-columna-de-juliana-mejia-785756"
+        "title": "Las empresas son el cambio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ximena-duque/las-empresas-son-el-cambio-columna-de-ximena-duque-786192"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2023-07-13",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-07-14",
         "publication": "el-tiempo",
-        "title": "Ataque de risa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/ataque-de-risa-columna-de-diana-pardo-785775"
+        "title": "La eterna vigilancia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/la-eterna-vigilancia-columna-de-eduardo-posada-carbo-786165"
     },
     {
         "article-type": "column",
-        "author": "Gregory Lobo",
-        "date": "2023-07-13",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2023-07-14",
         "publication": "el-tiempo",
-        "title": "La neurolog\u00eda de la cultura",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/la-neurologia-de-la-cultura-columna-de-gregory-lobo-785784"
+        "title": "\u00a1Aviones enemigos!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/aviones-enemigos-columna-de-manuel-guzman-hennessey-786171"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2023-07-13",
+        "author": "Rafael Arturo Prieto",
+        "date": "2023-07-14",
         "publication": "el-tiempo",
-        "title": "De c\u00f3mo narra Garc\u00eda M\u00e1rquez la peste del c\u00f3lera que vivi\u00f3 Cartagena",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/de-como-narra-garcia-marquez-la-peste-del-colera-que-vivio-cartagena-785793"
+        "title": "\u00bfY qu\u00e9 hacer ahora con la victoria?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/y-que-hacer-ahora-con-la-victoria-columna-de-rafael-prieto-786195"
     }
 ]
