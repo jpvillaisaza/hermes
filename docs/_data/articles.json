@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-14",
+        "date": "2023-07-15",
         "publication": "el-colombiano",
-        "title": "Elecciones bajo fuego",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/elecciones-bajo-fuego-DJ21938218"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-extrema-derecha-en-europa-EO21945155"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-14",
+        "date": "2023-07-15",
         "publication": "el-espectador",
-        "title": "Se pudo frenar la arrogancia expansionista nicarag\u00fcense ",
-        "url": "https://www.elespectador.com/opinion/editorial/se-pudo-frenar-la-arrogancia-expansionista-nicaraguense/"
+        "title": "La huelga de Hollywood y el futuro del trabajo",
+        "url": "https://www.elespectador.com/opinion/editorial/la-huelga-de-hollywood-y-el-futuro-del-trabajo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2023-07-15",
+        "publication": "el-espectador",
+        "title": "\u201cSoldados de Salamina\u201d, la novela",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/soldados-de-salamina-la-novela/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2023-07-15",
+        "publication": "el-espectador",
+        "title": "\u00a1Proh\u00edbase la realidad!",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/prohibase-la-realidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-07-15",
+        "publication": "el-espectador",
+        "title": "Pueblo sinverg\u00fcenza y sin verg\u00fcenza",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/pueblo-sinverguenza-y-sin-verguenza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2023-07-15",
+        "publication": "el-espectador",
+        "title": "El tema de las columnas",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/el-tema-de-las-columnas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-07-15",
+        "publication": "el-espectador",
+        "title": "Agazapados ",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/agazapados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dolly Montoya Casta\u00f1o",
+        "date": "2023-07-15",
+        "publication": "el-espectador",
+        "title": "UNAL: construyendo futuro en los territorios",
+        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/unal-construyendo-futuro-en-los-territorios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2023-07-15",
+        "publication": "el-espectador",
+        "title": "La econom\u00eda colombiana dentro del contexto mundial",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/la-economia-colombiana-dentro-del-contexto-mundial/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-07-15",
+        "publication": "el-espectador",
+        "title": "Threads\u2026 nuevos hilos, la misma tela",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/threads-nuevos-hilos-la-misma-tela/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fabrina Acosta Contreras*",
+        "date": "2023-07-15",
+        "publication": "el-espectador",
+        "title": "Mujeres en la m\u00fasica como tejedoras de paz: as\u00ed es el caso de Imera Mej\u00eda Ovalle",
+        "url": "https://www.elespectador.com/colombia-20/analistas/mujeres-en-la-musica-como-tejedoras-de-paz-asi-es-el-caso-de-imera-mejia-ovalle/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-07-15",
+        "publication": "el-espectador",
+        "title": "Problemas para el futuro del teatro",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/problemas-para-el-futuro-del-teatro/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/para-construir-la-casa-propia/"
     },
     {
-        "article-type": "column",
-        "author": "Daniel Garc\u00eda-Pe\u00f1a",
-        "date": "2023-07-14",
-        "publication": "el-espectador",
-        "title": "Uribe culpable",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/uribe-culpable/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-07-14",
-        "publication": "el-espectador",
-        "title": "Amigo tendero",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/amigo-tendero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Iv\u00e1n Cuervo R.",
-        "date": "2023-07-14",
-        "publication": "el-espectador",
-        "title": "El ministerio de la pol\u00edtica social",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/el-ministerio-de-la-politica-social/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2023-07-14",
-        "publication": "el-espectador",
-        "title": "\u00bfLa matr\u00edcula cero en universidades es una buena idea? | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-la-matricula-cero-en-universidades-es-una-buena-idea/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "\u00a1Aguanta, Ucrania!",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/aguanta-ucrania-2/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Barbosa",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "El momento hist\u00f3rico",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/el-momento-historico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "Elefantes fantasmas y financiaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/elefantes-fantasmas-y-financiacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "El Banco de la Rep\u00fablica y la cultura",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-banco-de-la-republica-y-la-cultura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "\u201c\u00d1o\u00f1oman\u00eda\u201d y la pol\u00edtica real ",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/nonomania-y-la-politica-real/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-07-13",
-        "publication": "el-espectador",
-        "title": "Cr\u00f3nica de una renovaci\u00f3n del pase",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/cronica-de-una-renovacion-del-pase/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-14",
+        "date": "2023-07-15",
         "publication": "el-tiempo",
-        "title": "La regla de la prudencia",
-        "url": "https://www.eltiempo.com/opinion/editorial/la-regla-de-la-prudencia-editorial-el-tiempo-786215"
+        "title": "Una batalla elemental",
+        "url": "https://www.eltiempo.com/opinion/editorial/una-batalla-elemental-editorial-el-tiempo-786636"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-07-14",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2023-07-15",
         "publication": "el-tiempo",
-        "title": "Reforma de la educaci\u00f3n superior",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/reforma-de-la-educacion-superior-columna-de-moises-wasserman-786146"
+        "title": "\u00bfEl fin del neoliberalismo?*",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/el-fin-del-neoliberalismo-columna-de-carlos-caballero-argaez-786566"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-07-14",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2023-07-15",
         "publication": "el-tiempo",
-        "title": "Afuera",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/afuera-columna-de-ricardo-silva-romero-786168"
+        "title": "Me aburro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/me-aburro-columna-de-adolfo-zableh-786571"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2023-07-14",
+        "author": "Paula Acosta",
+        "date": "2023-07-15",
         "publication": "el-tiempo",
-        "title": "El laberinto espa\u00f1ol",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/el-laberinto-espanol-columna-de-antonio-albinana-786153"
+        "title": "Desde el frente de batalla de la reforma de la salud",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paula-acosta/desde-el-frente-de-batalla-de-la-reforma-de-la-salud-paula-acosta-786583"
     },
     {
         "article-type": "column",
-        "author": "Ximena Duque",
-        "date": "2023-07-14",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-07-15",
         "publication": "el-tiempo",
-        "title": "Las empresas son el cambio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ximena-duque/las-empresas-son-el-cambio-columna-de-ximena-duque-786192"
+        "title": "Al cohecho, pecho",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/al-cohecho-pecho-columna-de-luis-noe-ochoa-786591"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-07-14",
+        "author": "Armando Silva",
+        "date": "2023-07-15",
         "publication": "el-tiempo",
-        "title": "La eterna vigilancia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/la-eterna-vigilancia-columna-de-eduardo-posada-carbo-786165"
+        "title": "Amar la pintura y el cine",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/amar-la-pintura-y-el-cine-columna-de-armando-silva-786595"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2023-07-14",
+        "author": "Pedro Javier Rojas Guevara",
+        "date": "2023-07-15",
         "publication": "el-tiempo",
-        "title": "\u00a1Aviones enemigos!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/aviones-enemigos-columna-de-manuel-guzman-hennessey-786171"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Arturo Prieto",
-        "date": "2023-07-14",
-        "publication": "el-tiempo",
-        "title": "\u00bfY qu\u00e9 hacer ahora con la victoria?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/y-que-hacer-ahora-con-la-victoria-columna-de-rafael-prieto-786195"
+        "title": "\u00a1Una guerra est\u00fapida!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-javier-rojas-guevara/una-guerra-estupida-columna-de-pedro-javier-rojas-786610"
     }
 ]
