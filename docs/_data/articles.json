@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-17",
+        "date": "2023-07-18",
         "publication": "el-colombiano",
-        "title": "La orden de ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-orden-de-hablarles-pasito-BP21950919"
+        "title": "Ojo con las deudas",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/ojo-con-las-deudas-GP21956550"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-17",
+        "date": "2023-07-18",
         "publication": "el-espectador",
-        "title": "La democracia contin\u00faa amenazada en Guatemala",
-        "url": "https://www.elespectador.com/opinion/editorial/la-democracia-continua-amenazada-en-guatemala/"
+        "title": "Rafael Correa es un p\u00e9simo referente para hablar de periodismo ",
+        "url": "https://www.elespectador.com/opinion/editorial/rafael-correa-es-un-pesimo-referente-para-hablar-de-periodismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "Amor propio",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/amor-propio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "Gaviria, ide\u00f3logo de la derecha liberal",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/gaviria-ideologo-de-la-derecha-liberal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "Contra el miedo",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/contra-el-miedo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "Los paramilitares y la JEP",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/los-paramilitares-y-la-jep/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "\u00bfPersecuci\u00f3n a la cultura?",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/persecucion-a-la-cultura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "\u201cMorir dos veces\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/morir-dos-veces/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "Bananeras e incertidumbre",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/bananeras-e-incertidumbre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "Cristo y Molano, Colombia desde dos orillas",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/cristo-y-molano-colombia-desde-dos-orillas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "Censura y censuradores",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/censura-y-censuradores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "Sin transformaci\u00f3n cultural no ser\u00e1 posible el cambio en Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/sin-transformacion-cultural-no-sera-posible-el-cambio-en-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Ortiz",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "Un se\u00f1or llamado Seneor",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-ortiz/un-senor-llamado-seneor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-07-18",
+        "publication": "el-espectador",
+        "title": "Planeta orbita en torno a un guijarro",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/planeta-orbita-en-torno-a-un-guijarro/"
     },
     {
         "article-type": "column",
@@ -48,171 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/desapercibido-es-sinonimo-de-inadvertido/"
     },
     {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Villamizar",
-        "date": "2023-07-17",
-        "publication": "el-espectador",
-        "title": "La costumbre",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/la-costumbre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Teresa Ronderos",
-        "date": "2023-07-17",
-        "publication": "el-espectador",
-        "title": "\u00a1Su\u00e9ltame, pasado!",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/sueltame-pasado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-07-17",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Vuelve y juega",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/vuelve-y-juega/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-07-17",
-        "publication": "el-espectador",
-        "title": "La inquietante reforma curricular que quieren Gobierno y Fecode",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/la-inquietante-reforma-curricular-que-quieren-gobierno-y-fecode/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-07-17",
-        "publication": "el-espectador",
-        "title": "Decisiones irresponsables",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/decisiones-irresponsables/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2023-07-17",
-        "publication": "el-espectador",
-        "title": "Elecciones y responsabilidad ",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/elecciones-y-responsabilidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2023-07-17",
-        "publication": "el-espectador",
-        "title": "La costa no fue nostra",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/la-costa-no-fue-nostra/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2023-07-17",
-        "publication": "el-espectador",
-        "title": "Columna de Jorge Tovar: El deporte en la econom\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-el-deporte-en-la-economia/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2023-07-17",
-        "publication": "el-espectador",
-        "title": "Editorial en video: De \u201cpagar por no matar\u201d a ofrecer oportunidades",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-de-pagar-por-no-matar-a-ofrecer-oportunidades/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabrina Acosta-Contreras*",
-        "date": "2023-07-17",
-        "publication": "el-espectador",
-        "title": "La Guajira en Bogot\u00e1, una cita para tejer paz",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-guajira-en-bogota-una-cita-para-tejer-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2023-07-16",
-        "publication": "el-espectador",
-        "title": "El MFCA",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/el-mfca/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2023-07-16",
-        "publication": "el-espectador",
-        "title": "Tramitar la muerte",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/tramitar-la-muerte/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-17",
+        "date": "2023-07-18",
         "publication": "el-tiempo",
-        "title": "Una pr\u00e1ctica para abolir",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-17-de-julio-de-2023-una-practica-para-abolir-786953"
+        "title": "Despu\u00e9s de la recepci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/editorial/despues-de-la-recepcion-editorial-el-tiempo-787312"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-07-17",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-07-18",
         "publication": "el-tiempo",
-        "title": "\u00bfPagar por no matar? \u00a1Nooo!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-pagar-por-no-matar-nooo-786929"
+        "title": "El irracional sesgo antiempresa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/el-irracional-sesgo-antiempresa-columna-de-jose-manuel-acevedo-787231"
     },
     {
         "article-type": "column",
-        "author": "Nancy Patricia Guti\u00e9rrez",
-        "date": "2023-07-17",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2023-07-18",
         "publication": "el-tiempo",
-        "title": "La ruta del liderazgo nacional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/columna-de-nancy-patricia-gutierrez-la-ruta-del-liderazgo-nacional-786944"
+        "title": "Recibir o restringir la entrada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/recibir-o-restringir-la-entrada-columna-de-marcela-melendez-787290"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-07-17",
+        "author": "Francisco Cajiao",
+        "date": "2023-07-18",
         "publication": "el-tiempo",
-        "title": "Delinquir paga",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-delinquir-paga-786954"
+        "title": "Una reforma compleja",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/una-reforma-compleja-columna-de-francisco-cajiao-787215"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-07-17",
+        "author": "Paola Ochoa",
+        "date": "2023-07-18",
         "publication": "el-tiempo",
-        "title": "\u00bfPor qu\u00e9 tenemos una obsesi\u00f3n con los filtros?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-por-que-tenemos-una-obsesion-con-los-filtros-786930"
+        "title": "\u00bfDesastre calculado?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/desastre-calculado-columna-de-paola-ochoa-787248"
     },
     {
         "article-type": "column",
-        "author": "Silvia Fern\u00e1ndez de Gurmendi",
-        "date": "2023-07-17",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2023-07-18",
         "publication": "el-tiempo",
-        "title": "La Corte Penal Internacional, a los 25 a\u00f1os de su creaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-silvia-fernandez-de-gurmendi-cpi-25-anos-de-su-creacion-786956"
+        "title": "\u00bfHaza\u00f1a o quijotada en Venezuela?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/hazana-o-quijotada-en-venezuela-columna-de-sergio-munoz-bata-787212"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-07-17",
+        "author": "Fernando Quiroz",
+        "date": "2023-07-18",
         "publication": "el-tiempo",
-        "title": "Una nueva Colombia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-una-nueva-colombia-786950"
+        "title": "\u2018Chapeau\u2019, Kundera",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/chapeau-kundera-columna-de-fernando-quiroz-787242"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2023-07-17",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2023-07-18",
         "publication": "el-tiempo",
-        "title": "Los adultos no existen",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-los-adultos-no-existen-786946"
-    },
-    {
-        "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-07-17",
-        "publication": "el-tiempo",
-        "title": "Hoy m\u00e1s que nunca: Kundera",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-hoy-mas-que-nunca-kundera-786945"
+        "title": "En el atardecer de la dictadura",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/en-el-atardecer-de-la-dictadura-columna-de-alexander-cambero-787280"
     }
 ]
