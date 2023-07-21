@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-20",
+        "date": "2023-07-21",
         "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/se-puede-evitar-la-catastrofe-DN21971211"
+        "title": "La Secretar\u00eda de la Exclusi\u00f3n",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-secretaria-de-la-exclusion-EN21972327"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-20",
+        "date": "2023-07-21",
         "publication": "el-espectador",
-        "title": "Necesitamos m\u00e1s concertaci\u00f3n que polarizaci\u00f3n en este Congreso",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/necesitamos-mas-concertacion-que-polarizacion-en-este-congreso/"
+        "title": "Europa y Am\u00e9rica Latina se necesitan",
+        "url": "https://www.elespectador.com/opinion/editorial/europa-y-america-latina-se-necesitan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tom\u00e1s Molina",
+        "date": "2023-07-21",
+        "publication": "el-espectador",
+        "title": "Nos falta silencio y nos sobran carros",
+        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/nos-falta-silencio-y-nos-sobran-carros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2023-07-21",
+        "publication": "el-espectador",
+        "title": "Aviones de alto vuelo",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/aviones-de-alto-vuelo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2023-07-21",
+        "publication": "el-espectador",
+        "title": "No es f\u00e1cil creer",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/no-es-facil-creer/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-07-21",
+        "publication": "el-espectador",
+        "title": "Llegaron las ballenas",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/llegaron-las-ballenas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-07-21",
+        "publication": "el-espectador",
+        "title": "Posibilismo y naci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/posibilismo-y-nacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-07-21",
+        "publication": "el-espectador",
+        "title": "\u201c\u00a1Lo que quiero es escribir, carajo!\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/lo-que-quiero-es-escribir-carajo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2023-07-21",
+        "publication": "el-espectador",
+        "title": "La desaparici\u00f3n de las palabras",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/columna-de-ricardo-bada-la-desaparicion-de-las-palabras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-07-21",
+        "publication": "el-espectador",
+        "title": "La agresividad irracional de la fuerza",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/la-agresividad-irracional-de-la-fuerza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-07-21",
+        "publication": "el-espectador",
+        "title": "Somos colombianos",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/somos-colombianos/"
     },
     {
         "article-type": "column",
@@ -49,6 +121,14 @@
     },
     {
         "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2023-07-20",
+        "publication": "el-espectador",
+        "title": "Ide\u00f3logo",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/ideologo/"
+    },
+    {
+        "article-type": "column",
         "author": "Cristina Nicholls Ocampo",
         "date": "2023-07-20",
         "publication": "el-espectador",
@@ -64,147 +144,83 @@
         "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/recordando-a-manuela-beltran/"
     },
     {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2023-07-20",
-        "publication": "el-espectador",
-        "title": "Ide\u00f3logo",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/ideologo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-07-20",
-        "publication": "el-espectador",
-        "title": "La izquierda cabreada tambi\u00e9n mete miedo",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/la-izquierda-cabreada-tambien-mete-miedo/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2023-07-20",
-        "publication": "el-espectador",
-        "title": "S\u00ed a legalizar la marihuana en Colombia, PERO\u2026 | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-si-a-legalizar-la-marihuana-en-colombia-pero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-07-20",
-        "publication": "el-espectador",
-        "title": "Nuestras predicciones sobre la pel\u00edcula de Barbie",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/nuestras-predicciones-sobre-la-pelicula-de-barbie/"
-    },
-    {
-        "article-type": "column",
-        "author": "Centro de Estudios sobre Seguridad y Drogas (Cesed)",
-        "date": "2023-07-20",
-        "publication": "el-espectador",
-        "title": "Ajustes necesarios a la pol\u00edtica de seguridad del Gobierno Petro",
-        "url": "https://www.elespectador.com/colombia-20/analistas/ajustes-necesarios-a-la-politica-de-seguridad-del-gobierno-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-07-20",
-        "publication": "el-espectador",
-        "title": "Hicimos una publicaci\u00f3n vergonzosa y ofrecemos disculpas por eso",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/hicimos-una-publicacion-vergonzosa-y-ofrecemos-disculpas-por-eso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-07-19",
-        "publication": "el-espectador",
-        "title": "Censura por razones de peso\u2026 ",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/censura-por-razones-de-peso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-07-19",
-        "publication": "el-espectador",
-        "title": "San Andr\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/san-andres/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-07-19",
-        "publication": "el-espectador",
-        "title": "De all\u00e1 y de ac\u00e1 ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/de-alla-y-de-aca/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-07-19",
-        "publication": "el-espectador",
-        "title": "El infierno que ha creado Cielo",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-infierno-que-ha-creado-cielo/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-20",
+        "date": "2023-07-21",
         "publication": "el-tiempo",
-        "title": "Lecciones de la tragedia",
-        "url": "https://www.eltiempo.com/opinion/editorial/lecciones-de-la-tragedia-editorial-el-tiempo-788100"
+        "title": "\u00bfRacionamiento a la vista?",
+        "url": "https://www.eltiempo.com/opinion/editorial/racionamiento-a-la-vista-editorial-el-tiempo-788349"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-07-20",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-07-21",
         "publication": "el-tiempo",
-        "title": "El in\u00fatil r\u00e9gimen de la soberbia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-inutil-regimen-de-la-soberbia-columna-de-pedro-medellin-788078"
+        "title": "Ciencia b\u00e1sica e innovaciones disruptivas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/ciencia-basica-e-innovaciones-disruptivas-columna-de-moises-wasserman-788288"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-07-20",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-07-21",
         "publication": "el-tiempo",
-        "title": "Uno de los m\u00edos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/uno-de-los-mios-columna-de-juan-esteban-constain-788032"
+        "title": "Catalina",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/catalina-columna-de-ricardo-silva-romero-788300"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2023-07-20",
+        "author": "Claudia Hakim",
+        "date": "2023-07-21",
         "publication": "el-tiempo",
-        "title": "Mucho til\u00edn til\u00edn...",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/mucho-tilin-tilin-columna-de-claudia-isabel-palacios-giraldo-788000"
+        "title": "La presencialidad, efecto a favor",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/la-presencialidad-efecto-a-favor-columna-de-claudia-hakim-788290"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2023-07-20",
+        "author": "Martha Ortiz",
+        "date": "2023-07-21",
         "publication": "el-tiempo",
-        "title": "El pa\u00eds de las escasas primaveras",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/el-pais-de-las-escasas-primaveras-columna-de-sergio-ramirez-788018"
+        "title": "La se\u00f1ora bonita se deforma en redes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/la-senora-bonita-se-deforma-en-redes-columna-de-martha-ortiz-788310"
     },
     {
         "article-type": "column",
-        "author": "Alfonso Carvajal",
-        "date": "2023-07-20",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-07-21",
         "publication": "el-tiempo",
-        "title": "Una mirada a Am\u00e9lie Nothomb",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/una-mirada-a-amelie-nothomb-columna-de-alfonso-carvajal-788013"
+        "title": "Capear un hurac\u00e1n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/capear-un-huracan-columna-de-eduardo-posada-carbo-788298"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Laurens - Cine al Ojo",
-        "date": "2023-07-20",
+        "author": "Martha Senn",
+        "date": "2023-07-21",
         "publication": "el-tiempo",
-        "title": "Racismo, xenofobia e intolerancia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/racismo-xenofobia-e-intolerancia-columna-de-mauricio-laurens-788066"
+        "title": "La familia en la historia del mundo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/la-familia-en-la-historia-del-mundo-columna-de-martha-senn-788329"
     },
     {
         "article-type": "column",
-        "author": "Fabio Mart\u00ednez",
-        "date": "2023-07-20",
+        "author": "Alfredo Rangel",
+        "date": "2023-07-21",
         "publication": "el-tiempo",
-        "title": "La educaci\u00f3n superior es un derecho",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/la-educacion-superior-es-un-derecho-columna-de-fabio-martinez-788064"
+        "title": "Petro entregar\u00e1 el mar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/petro-entregara-el-mar-columna-de-alfredo-rangel-788335"
+    },
+    {
+        "article-type": "column",
+        "author": "Carlos Mario Zuluaga",
+        "date": "2023-07-21",
+        "publication": "el-tiempo",
+        "title": "Cien a\u00f1os no se cumplen todos los d\u00edas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/cien-anos-no-se-cumplen-todos-los-dias-columna-de-carlos-mario-zuluaga-788330"
+    },
+    {
+        "article-type": "column",
+        "author": "Salvo Basile",
+        "date": "2023-07-21",
+        "publication": "el-tiempo",
+        "title": "\u00a1Fuera malandrines!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/fuera-malandrines-columna-de-salvo-basile-788304"
     }
 ]
