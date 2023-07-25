@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-24",
+        "date": "2023-07-25",
         "publication": "el-colombiano",
-        "title": "Los dolores de las mujeres en Antioquia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/los-dolores-de-las-mujeres-en-antioquia-BC21982452"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/espana-quedo-en-el-limbo-ED21994312"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-24",
+        "date": "2023-07-25",
         "publication": "el-espectador",
-        "title": "Salvatore Mancuso puede apoyar la paz total",
-        "url": "https://www.elespectador.com/opinion/editorial/salvatore-mancuso-puede-apoyar-la-paz-total/"
+        "title": "Espa\u00f1a arrincona a los radicales ",
+        "url": "https://www.elespectador.com/opinion/editorial/espana-arrincona-a-los-radicales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-07-25",
+        "publication": "el-espectador",
+        "title": "Desayuno",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/desayuno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-07-25",
+        "publication": "el-espectador",
+        "title": "Darle un sentido a la vida",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/darle-un-sentido-a-la-vida/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-07-25",
+        "publication": "el-espectador",
+        "title": "La tragedia de Santa Ana",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-tragedia-de-santa-ana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Reyes Posada",
+        "date": "2023-07-25",
+        "publication": "el-espectador",
+        "title": "Pagar para construir futuro",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/pagar-para-construir-futuro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-07-25",
+        "publication": "el-espectador",
+        "title": "La educaci\u00f3n so\u00f1ada",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-educacion-sonada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Hern\u00e1ndez",
+        "date": "2023-07-25",
+        "publication": "el-espectador",
+        "title": "Resultados positivos en la balanza cambiaria",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/resultados-positivos-en-la-balanza-cambiaria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-07-25",
+        "publication": "el-espectador",
+        "title": "\u00bfAd\u00f3nde se fue la revoluci\u00f3n?",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/adonde-se-fue-la-revolucion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-07-25",
+        "publication": "el-espectador",
+        "title": "Cerrando heridas",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/cerrando-heridas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2023-07-25",
+        "publication": "el-espectador",
+        "title": "Se desploma el d\u00f3lar",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/se-desploma-el-dolar/"
     },
     {
         "article-type": "column",
@@ -30,14 +102,6 @@
         "publication": "el-espectador",
         "title": "El d\u00eda m\u00e1s caluroso",
         "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/el-dia-mas-caluroso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "\u201cJet lag\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/jet-lag/"
     },
     {
         "article-type": "column",
@@ -65,6 +129,14 @@
     },
     {
         "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2023-07-24",
+        "publication": "el-espectador",
+        "title": "\u201cJet lag\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/jet-lag/"
+    },
+    {
+        "article-type": "column",
         "author": "Daniel Mera Villamizar",
         "date": "2023-07-24",
         "publication": "el-espectador",
@@ -72,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/proyecto-de-ley-de-educacion-superior-anticonstitucional-y-populista/"
     },
     {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "La nueva era de la ganader\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/la-nueva-era-de-la-ganaderia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "Contra el complejo de Er\u00f3strato",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/contra-el-complejo-de-erostrato/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "\u00bfEs \u201cnatural\u201d un desastre de gesti\u00f3n?",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/es-natural-un-desastre-de-gestion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Foro Nacional por Colombia*",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "Las propuestas desde la sociedad civil para combatir la corrupci\u00f3n",
-        "url": "https://www.elespectador.com/colombia-20/analistas/gobierno-petro-estas-son-las-propuestas-desde-la-sociedad-civil-para-combatir-la-corrupcion/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cOjal\u00e1 se imponga el tono del inicio del congreso\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-ojala-se-imponga-el-tono-del-inicio-del-congreso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2023-07-23",
-        "publication": "el-espectador",
-        "title": "Educaci\u00f3n para el futuro",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/educacion-para-el-futuro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-07-23",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja comentan los discursos en el Congreso",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-comentan-los-discursos-en-el-congreso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-07-23",
-        "publication": "el-espectador",
-        "title": "La emergencia en La Guajira",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/la-emergencia-en-la-guajira/"
-    },
-    {
-        "article-type": "column",
-        "author": "Laura Ardila Arrieta",
-        "date": "2023-07-23",
-        "publication": "el-espectador",
-        "title": "El coro",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-ardila-arrieta/el-coro/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-24",
+        "date": "2023-07-25",
         "publication": "el-tiempo",
-        "title": "Ellas nos representan",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-24-de-julio-de-2023-ellas-nos-representan-789026"
+        "title": "Espa\u00f1a, en suspenso",
+        "url": "https://www.eltiempo.com/opinion/editorial/espana-en-suspenso-editorial-el-tiempo-789409"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-07-24",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-07-25",
         "publication": "el-tiempo",
-        "title": "Necesaria independencia de poderes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-necesaria-independencia-de-poderes-789042"
+        "title": "No dejemos solo al Meta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/no-dejemos-solo-al-meta-columna-de-jose-manuel-acevedo-789382"
     },
     {
         "article-type": "column",
-        "author": "Froil\u00e1n Casas",
-        "date": "2023-07-24",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2023-07-25",
         "publication": "el-tiempo",
-        "title": "Una est\u00fapida elecci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/froilan-casas/columna-de-froilan-casas-una-estupida-eleccion-789043"
+        "title": "M\u00e9dicos \u2018made in\u2019 Venezuela",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/medicos-made-in-venezuela-columna-de-fernando-sanchez-torres-789319"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-07-24",
+        "author": "Carlos Camargo Assis",
+        "date": "2023-07-25",
         "publication": "el-tiempo",
-        "title": "Blindaje de la Corte contra los \u2018micos\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-blindaje-de-la-corte-contra-los-micos-789031"
+        "title": "Derechos deben protegerse",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-camargo-assis/derechos-deben-protegerse-columna-de-carlos-camargo-assis-789376"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-07-24",
+        "author": "Otros columnistas",
+        "date": "2023-07-25",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 significa la entrada de Threads? \u00bfProvocar\u00e1 la muerte de Twitter?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-que-significa-la-entrada-de-threads-789047"
+        "title": "Apoyo al f\u00fatbol femenino: \u00bfuna tarea pendiente?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/apoyo-al-futbol-femenino-una-tarea-pendiente-adriana-cardenas-789428"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2023-07-24",
+        "author": "Eduardo Escobar",
+        "date": "2023-07-25",
         "publication": "el-tiempo",
-        "title": "La educaci\u00f3n inicial, en peligro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-la-educacion-inicial-en-peligro-789044"
+        "title": "Banalidad o tragedia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/banalidad-o-tragedia-columna-de-eduardo-escobar-789285"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-07-24",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-07-25",
         "publication": "el-tiempo",
-        "title": "Muri\u00f3 el \u2018hacker\u2019 m\u00e1s conocido",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-murio-el-hacker-mas-conocido-789032"
+        "title": "Un fuera de serie",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/un-fuera-de-serie-columna-de-oscar-dominguez-giraldo-789386"
     },
     {
         "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2023-07-24",
+        "author": "Dejusticia",
+        "date": "2023-07-25",
         "publication": "el-tiempo",
-        "title": "1982: Italia hace una cumbre futbol\u00edstica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-1982-italia-hace-una-cumbre-futbolistica-789052"
+        "title": "La digitalizaci\u00f3n de la justicia en clave de brecha digital",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/la-digitalizacion-de-la-justicia-en-clave-de-brecha-digital-dejusticia-789392"
     }
 ]
