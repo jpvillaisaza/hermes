@@ -5,15 +5,111 @@
         "date": "2023-07-25",
         "publication": "el-colombiano",
         "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/espana-quedo-en-el-limbo-ED21994312"
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-descolgada-del-dolar-LA22001921"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-25",
+        "date": "2023-07-26",
         "publication": "el-espectador",
-        "title": "Espa\u00f1a arrincona a los radicales ",
-        "url": "https://www.elespectador.com/opinion/editorial/espana-arrincona-a-los-radicales/"
+        "title": "La inseguridad ciudadana necesita una reacci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/editorial/la-inseguridad-ciudadana-necesita-una-reaccion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Israel, en la encrucijada",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/israel-en-la-encrucijada-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Escudos y murales",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/escudos-y-murales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Pablo Ruiz Soto",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Transici\u00f3n energ\u00e9tica: \u00bfequilibrada, sensata y justa?",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/transicion-energetica-equilibrada-sensata-y-justa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Segovia",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Formalidades inocuas",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/formalidades-inocuas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Duque, el desubicado",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/duque-el-desubicado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Pobre Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/pobre-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Rubio y Salazar, arribistas morales",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/rubio-y-salazar-arribistas-morales/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "\u00bfY qu\u00e9 si no le dieron el Nobel a Kundera?",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/y-que-si-no-le-dieron-el-nobel-a-kundera/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Petro, el Diomedes de la pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/petro-el-diomedes-de-la-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Democracia y libertad de expresi\u00f3n en \u201cretroceso\u201d en Am\u00e9rica Latina",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/democracia-y-libertad-de-expresion-en-retroceso-en-america-latina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Las Mil y Una Lectoras, un grupo para mujeres nacido en Cartagena",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/las-mil-y-una-lectoras-un-grupo-para-mujeres-nacido-en-cartagena/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio Borges",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Alerta Colombia: los m\u00e9dicos comunitarios venezolanos",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/alerta-colombia-los-medicos-comunitarios-venezolanos-noticias-hoy/"
     },
     {
         "article-type": "column",
@@ -41,22 +137,6 @@
     },
     {
         "article-type": "column",
-        "author": "Alejandro Reyes Posada",
-        "date": "2023-07-25",
-        "publication": "el-espectador",
-        "title": "Pagar para construir futuro",
-        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/pagar-para-construir-futuro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-07-25",
-        "publication": "el-espectador",
-        "title": "La educaci\u00f3n so\u00f1ada",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-educacion-sonada/"
-    },
-    {
-        "article-type": "column",
         "author": "Gonzalo Hern\u00e1ndez",
         "date": "2023-07-25",
         "publication": "el-espectador",
@@ -64,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/resultados-positivos-en-la-balanza-cambiaria/"
     },
     {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-07-25",
-        "publication": "el-espectador",
-        "title": "\u00bfAd\u00f3nde se fue la revoluci\u00f3n?",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/adonde-se-fue-la-revolucion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-07-25",
-        "publication": "el-espectador",
-        "title": "Cerrando heridas",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/cerrando-heridas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2023-07-25",
-        "publication": "el-espectador",
-        "title": "Se desploma el d\u00f3lar",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/se-desploma-el-dolar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "El discurso del odio",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/el-discurso-del-odio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Leyva",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "El d\u00eda m\u00e1s caluroso",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/el-dia-mas-caluroso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "\u00c9xitos y fracasos del Gobierno",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/exitos-y-fracasos-del-gobierno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "\u00bfSe dice \u00abbuen d\u00eda\u00bb o \u00abbuenos d\u00edas\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-dice-buen-dia-o-buenos-dias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "\u201cNuestra pel\u00edcula\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/nuestra-pelicula/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "\u201cJet lag\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/jet-lag/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-07-24",
-        "publication": "el-espectador",
-        "title": "Proyecto de ley de educaci\u00f3n superior: anticonstitucional y populista",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/proyecto-de-ley-de-educacion-superior-anticonstitucional-y-populista/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-25",
+        "date": "2023-07-26",
         "publication": "el-tiempo",
-        "title": "Espa\u00f1a, en suspenso",
-        "url": "https://www.eltiempo.com/opinion/editorial/espana-en-suspenso-editorial-el-tiempo-789409"
+        "title": "La pol\u00e9mica por Mancuso",
+        "url": "https://www.eltiempo.com/opinion/editorial/la-polemica-por-mancuso-editorial-el-tiempo-789788"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-07-25",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-07-26",
         "publication": "el-tiempo",
-        "title": "No dejemos solo al Meta",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/no-dejemos-solo-al-meta-columna-de-jose-manuel-acevedo-789382"
+        "title": "Centenario de la Contralor\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/centenario-de-la-contraloria-columna-de-alfonso-gomez-mendez-789766"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2023-07-25",
+        "author": "Florence Thomas",
+        "date": "2023-07-26",
         "publication": "el-tiempo",
-        "title": "M\u00e9dicos \u2018made in\u2019 Venezuela",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/medicos-made-in-venezuela-columna-de-fernando-sanchez-torres-789319"
+        "title": "\u00bfSabr\u00e1n las y los j\u00f3venes lo que les espera?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/sabran-las-y-los-jovenes-lo-que-les-espera-columna-de-florence-thomas-789746"
     },
     {
         "article-type": "column",
-        "author": "Carlos Camargo Assis",
-        "date": "2023-07-25",
+        "author": "Vladdo",
+        "date": "2023-07-26",
         "publication": "el-tiempo",
-        "title": "Derechos deben protegerse",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-camargo-assis/derechos-deben-protegerse-columna-de-carlos-camargo-assis-789376"
+        "title": "Espa\u00f1a, en ascuas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/espana-en-ascuas-columna-de-vladdo-789782"
     },
     {
         "article-type": "column",
-        "author": "Otros columnistas",
-        "date": "2023-07-25",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2023-07-26",
         "publication": "el-tiempo",
-        "title": "Apoyo al f\u00fatbol femenino: \u00bfuna tarea pendiente?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/apoyo-al-futbol-femenino-una-tarea-pendiente-adriana-cardenas-789428"
+        "title": "Lo que me toc\u00f3 vivir",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/lo-que-me-toco-vivir-columna-de-jotamario-arbelaez-789759"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2023-07-25",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-07-26",
         "publication": "el-tiempo",
-        "title": "Banalidad o tragedia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/banalidad-o-tragedia-columna-de-eduardo-escobar-789285"
+        "title": "Mancuso celebra su perd\u00f3n eterno",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/mancuso-celebra-su-perdon-eterno-columna-de-poncho-renteria-789769"
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2023-07-25",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-07-26",
         "publication": "el-tiempo",
-        "title": "Un fuera de serie",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/un-fuera-de-serie-columna-de-oscar-dominguez-giraldo-789386"
+        "title": "Ah\u00ed est\u00e1n pintados; y ni siquiera les da verg\u00fcenza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/ahi-estan-pintados-y-ni-siquiera-les-da-vergueenza-columna-de-jose-miguel-alzate-789776"
     },
     {
         "article-type": "column",
-        "author": "Dejusticia",
-        "date": "2023-07-25",
+        "author": "Gustavo Estrada",
+        "date": "2023-07-26",
         "publication": "el-tiempo",
-        "title": "La digitalizaci\u00f3n de la justicia en clave de brecha digital",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/la-digitalizacion-de-la-justicia-en-clave-de-brecha-digital-dejusticia-789392"
+        "title": "\u00bfQu\u00e9 es cultura?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-estrada/que-es-cultura-columna-de-gustavo-estrada-789777"
     }
 ]
