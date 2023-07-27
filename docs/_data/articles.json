@@ -5,15 +5,87 @@
         "date": "2023-07-25",
         "publication": "el-colombiano",
         "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-descolgada-del-dolar-LA22001921"
+        "url": "https://www.elcolombiano.com/opinion/editoriales/petro-y-la-cultura-en-macondo-PA22009116"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-26",
+        "date": "2023-07-27",
         "publication": "el-espectador",
-        "title": "La inseguridad ciudadana necesita una reacci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/editorial/la-inseguridad-ciudadana-necesita-una-reaccion/"
+        "title": "Hay que ir hasta el final con el robo de petr\u00f3leo",
+        "url": "https://www.elespectador.com/opinion/editorial/hay-que-ir-hasta-el-final-con-el-robo-de-petroleo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2023-07-27",
+        "publication": "el-espectador",
+        "title": "De la confrontaci\u00f3n a la concertaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/de-la-confrontacion-a-la-concertacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2023-07-27",
+        "publication": "el-espectador",
+        "title": "Para qu\u00e9 censurar cuando puedes litigar",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/para-que-censurar-cuando-puedes-litigar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-07-27",
+        "publication": "el-espectador",
+        "title": "Espa\u00f1a: cuando perder es ganar un poco",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/espana-cuando-perder-es-ganar-un-poco/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2023-07-27",
+        "publication": "el-espectador",
+        "title": "El presidente Petro debe una explicaci\u00f3n ",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/el-presidente-petro-debe-una-explicacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Fernando Isaza",
+        "date": "2023-07-27",
+        "publication": "el-espectador",
+        "title": "Precursor",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/precursor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-07-27",
+        "publication": "el-espectador",
+        "title": "\u201cLa vida es sue\u00f1o\u201d en \u00f3pera",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-vida-es-sueno-en-opera/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-07-27",
+        "publication": "el-espectador",
+        "title": "El alba\u00f1il anarquista que derrot\u00f3 al Citibank",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/el-albanil-anarquista-que-derroto-al-citibank/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2023-07-27",
+        "publication": "el-espectador",
+        "title": "Turismo, una pol\u00edtica de Estado",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/turismo-una-politica-de-estado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-07-27",
+        "publication": "el-espectador",
+        "title": "En lugar de una primicia mundial, lo que ten\u00edamos era un descache monumental",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/en-lugar-de-una-primicia-mundial-lo-que-teniamos-era-un-descache-monumental/"
     },
     {
         "article-type": "column",
@@ -22,14 +94,6 @@
         "publication": "el-espectador",
         "title": "Israel, en la encrucijada",
         "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/israel-en-la-encrucijada-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-07-26",
-        "publication": "el-espectador",
-        "title": "Escudos y murales",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/escudos-y-murales/"
     },
     {
         "article-type": "column",
@@ -46,6 +110,14 @@
         "publication": "el-espectador",
         "title": "Formalidades inocuas",
         "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/formalidades-inocuas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-07-26",
+        "publication": "el-espectador",
+        "title": "Escudos y murales",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/escudos-y-murales/"
     },
     {
         "article-type": "column",
@@ -72,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/rubio-y-salazar-arribistas-morales/"
     },
     {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2023-07-26",
-        "publication": "el-espectador",
-        "title": "\u00bfY qu\u00e9 si no le dieron el Nobel a Kundera?",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/y-que-si-no-le-dieron-el-nobel-a-kundera/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-07-26",
-        "publication": "el-espectador",
-        "title": "Petro, el Diomedes de la pol\u00edtica",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/petro-el-diomedes-de-la-politica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-07-26",
-        "publication": "el-espectador",
-        "title": "Democracia y libertad de expresi\u00f3n en \u201cretroceso\u201d en Am\u00e9rica Latina",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/democracia-y-libertad-de-expresion-en-retroceso-en-america-latina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-07-26",
-        "publication": "el-espectador",
-        "title": "Las Mil y Una Lectoras, un grupo para mujeres nacido en Cartagena",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/las-mil-y-una-lectoras-un-grupo-para-mujeres-nacido-en-cartagena/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2023-07-26",
-        "publication": "el-espectador",
-        "title": "Alerta Colombia: los m\u00e9dicos comunitarios venezolanos",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/alerta-colombia-los-medicos-comunitarios-venezolanos-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-07-25",
-        "publication": "el-espectador",
-        "title": "Desayuno",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/desayuno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-07-25",
-        "publication": "el-espectador",
-        "title": "Darle un sentido a la vida",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/darle-un-sentido-a-la-vida/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-07-25",
-        "publication": "el-espectador",
-        "title": "La tragedia de Santa Ana",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-tragedia-de-santa-ana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2023-07-25",
-        "publication": "el-espectador",
-        "title": "Resultados positivos en la balanza cambiaria",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/resultados-positivos-en-la-balanza-cambiaria/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-26",
+        "date": "2023-07-27",
         "publication": "el-tiempo",
-        "title": "La pol\u00e9mica por Mancuso",
-        "url": "https://www.eltiempo.com/opinion/editorial/la-polemica-por-mancuso-editorial-el-tiempo-789788"
+        "title": "Inseguridad en Bogot\u00e1",
+        "url": "https://www.eltiempo.com/opinion/editorial/inseguridad-en-bogota-editorial-el-tiempo-790194"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-07-26",
+        "author": "Pedro Medellin",
+        "date": "2023-07-27",
         "publication": "el-tiempo",
-        "title": "Centenario de la Contralor\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/centenario-de-la-contraloria-columna-de-alfonso-gomez-mendez-789766"
+        "title": "Entre la vileza y la amargura",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/entre-la-vileza-y-la-amargura-columna-de-pedro-medellin-790164"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2023-07-26",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-07-27",
         "publication": "el-tiempo",
-        "title": "\u00bfSabr\u00e1n las y los j\u00f3venes lo que les espera?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/sabran-las-y-los-jovenes-lo-que-les-espera-columna-de-florence-thomas-789746"
+        "title": "Las dos Espa\u00f1as",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/las-dos-espanas-columna-de-pedro-medellin-790176"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-07-26",
+        "author": "Jineth Bedoya Lima",
+        "date": "2023-07-27",
         "publication": "el-tiempo",
-        "title": "Espa\u00f1a, en ascuas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/espana-en-ascuas-columna-de-vladdo-789782"
+        "title": "La negra de los a\u00f1os 1600 y la de hoy",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/la-negra-de-los-anos-1600-y-la-de-hoy-columna-de-jineth-bedoya-790182"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2023-07-26",
+        "author": "Mauricio Lloreda",
+        "date": "2023-07-27",
         "publication": "el-tiempo",
-        "title": "Lo que me toc\u00f3 vivir",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/lo-que-me-toco-vivir-columna-de-jotamario-arbelaez-789759"
+        "title": "Bello puerto del mal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/bello-puerto-del-mal-columna-de-mauricio-lloreda-790150"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-07-26",
+        "author": "Diana Pardo",
+        "date": "2023-07-27",
         "publication": "el-tiempo",
-        "title": "Mancuso celebra su perd\u00f3n eterno",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/mancuso-celebra-su-perdon-eterno-columna-de-poncho-renteria-789769"
+        "title": "\u00bfQu\u00e9 puedo hacer por ti?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/que-puedo-hacer-por-ti-columna-de-diana-pardo-790077"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2023-07-26",
+        "author": "Andr\u00e9s Felipe Izquierdo",
+        "date": "2023-07-27",
         "publication": "el-tiempo",
-        "title": "Ah\u00ed est\u00e1n pintados; y ni siquiera les da verg\u00fcenza",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/ahi-estan-pintados-y-ni-siquiera-les-da-vergueenza-columna-de-jose-miguel-alzate-789776"
+        "title": "Futuro pensional en riesgo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/futuro-pensional-en-riesgo-columna-de-andres-izquierdo-790084"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Estrada",
-        "date": "2023-07-26",
+        "author": "Juliana Mej\u00eda",
+        "date": "2023-07-27",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 es cultura?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-estrada/que-es-cultura-columna-de-gustavo-estrada-789777"
+        "title": "Migraci\u00f3n: \u00bftragedia u oportunidad?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/migracion-tragedia-u-oportunidad-columna-de-juliana-mejia-790121"
     }
 ]
