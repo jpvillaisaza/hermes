@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-28",
+        "date": "2023-07-29",
         "publication": "el-colombiano",
-        "title": "\u00bfMancuso gestor?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/mancuso-gestor-JB22019167"
+        "title": "Altas temperaturas, baja productividad",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/altas-temperaturas-baja-productividad-NE22044108"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-28",
+        "date": "2023-07-29",
         "publication": "el-espectador",
-        "title": "No m\u00e1s palos en la rueda del metro de Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/editorial/no-mas-palos-en-la-rueda-del-metro-de-bogota/"
+        "title": "El matoneo, fuera de control",
+        "url": "https://www.elespectador.com/opinion/editorial/el-matoneo-fuera-de-control/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-07-29",
+        "publication": "el-espectador",
+        "title": "\u201cLa cartograf\u00eda del odio\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/la-cartografia-del-odio-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-07-29",
+        "publication": "el-espectador",
+        "title": "A fondo en la superficie ",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/a-fondo-en-la-superficie/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2023-07-29",
+        "publication": "el-espectador",
+        "title": "Garc\u00e9s",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/garces/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-07-29",
+        "publication": "el-espectador",
+        "title": "La fuerza del \u201cmodelo Bukele\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/la-fuerza-del-modelo-bukele/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2023-07-29",
+        "publication": "el-espectador",
+        "title": "\u201cSoldados de Salamina\u201d, la pel\u00edcula",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/soldados-de-salamina-la-pelicula/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2023-07-29",
+        "publication": "el-espectador",
+        "title": "La madre patria",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/la-madre-patria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-07-29",
+        "publication": "el-espectador",
+        "title": "Las cortes y la elecci\u00f3n del nuevo registrador",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/las-cortes-y-la-eleccion-del-nuevo-registrador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dolly Montoya Casta\u00f1o",
+        "date": "2023-07-29",
+        "publication": "el-espectador",
+        "title": "Retos para la reforma del Sistema Nacional de Educaci\u00f3n Superior",
+        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/retos-para-la-reforma-del-sistema-nacional-de-educacion-superior/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-07-29",
+        "publication": "el-espectador",
+        "title": "Opini\u00f3n sobre Barbie: \u00bfpor qu\u00e9 deber\u00edan existir m\u00e1s hombres como Allan?",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/opinion-sobre-barbie-por-que-deberian-existir-mas-hombres-como-allan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Ospina*",
+        "date": "2023-07-29",
+        "publication": "el-espectador",
+        "title": "Un cese al fuego robusto, basta leer",
+        "url": "https://www.elespectador.com/colombia-20/analistas/un-cese-al-fuego-robusto-basta-leer/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/declaracion/"
     },
     {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2023-07-28",
-        "publication": "el-espectador",
-        "title": "J. C. Londo\u00f1o: el trompo, el grillo y el dulce",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/j-c-londono-el-trompo-el-grillo-y-el-dulce/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-07-28",
-        "publication": "el-espectador",
-        "title": "Refritos",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/refritos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Esteban Linares \u2013 Elementa DDHH",
-        "date": "2023-07-28",
-        "publication": "el-espectador",
-        "title": "Set dos de cuatro: las drogas en el Congreso",
-        "url": "https://www.elespectador.com/colombia-20/analistas/proyecto-cannabis-de-uso-adulto-empieza-segundo-round-en-congreso-opinion-elementa-ddhh/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2023-07-27",
-        "publication": "el-espectador",
-        "title": "De la confrontaci\u00f3n a la concertaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/de-la-confrontacion-a-la-concertacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Santiago Villa",
-        "date": "2023-07-27",
-        "publication": "el-espectador",
-        "title": "Para qu\u00e9 censurar cuando puedes litigar",
-        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/para-que-censurar-cuando-puedes-litigar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-07-27",
-        "publication": "el-espectador",
-        "title": "Espa\u00f1a: cuando perder es ganar un poco",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/espana-cuando-perder-es-ganar-un-poco/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2023-07-27",
-        "publication": "el-espectador",
-        "title": "El presidente Petro debe una explicaci\u00f3n ",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/el-presidente-petro-debe-una-explicacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Fernando Isaza",
-        "date": "2023-07-27",
-        "publication": "el-espectador",
-        "title": "Precursor",
-        "url": "https://www.elespectador.com/opinion/columnistas/jose-fernando-isaza/precursor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-07-27",
-        "publication": "el-espectador",
-        "title": "\u201cLa vida es sue\u00f1o\u201d en \u00f3pera",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-vida-es-sueno-en-opera/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-07-27",
-        "publication": "el-espectador",
-        "title": "El alba\u00f1il anarquista que derrot\u00f3 al Citibank",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/el-albanil-anarquista-que-derroto-al-citibank/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-28",
+        "date": "2023-07-29",
         "publication": "el-tiempo",
-        "title": "Legado centenario",
-        "url": "https://www.eltiempo.com/opinion/editorial/legado-centenario-editorial-el-tiempo-790599"
+        "title": "Invima a\u00fan espera",
+        "url": "https://www.eltiempo.com/opinion/editorial/invima-aun-espera-editorial-el-tiempo-790974"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-07-28",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2023-07-29",
         "publication": "el-tiempo",
-        "title": "Decidir c\u00f3mo decidir",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/decidir-como-decidir-columna-de-moises-wasserman-790539"
+        "title": "Pasado y presente del Banco de la Rep\u00fablica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/pasado-y-presente-del-banco-de-la-republica-carlos-caballero-argaez-790865"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-07-28",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-07-29",
         "publication": "el-tiempo",
-        "title": "Guaro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/guaro-columna-de-ricardo-silva-romero-790558"
+        "title": "Un pa\u00eds de jajaj\u00e1",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/un-pais-de-jajaja-columna-de-luis-noe-ochoa-790936"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2023-07-28",
+        "author": "Sara Tufano",
+        "date": "2023-07-29",
         "publication": "el-tiempo",
-        "title": "Espa\u00f1a, ingobernable",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/espana-ingobernable-columna-de-antonio-albinana-790531"
+        "title": "La burla",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/la-burla-columna-de-sara-tufano-790886"
     },
     {
         "article-type": "column",
-        "author": "Sol Beatriz Arango M.",
-        "date": "2023-07-28",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2023-07-29",
         "publication": "el-tiempo",
-        "title": "Las brechas de g\u00e9nero tambi\u00e9n son pensionales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/las-brechas-de-genero-tambien-son-pensionales-columna-de-sol-beatris-arango-790567"
+        "title": "Ocho a\u00f1os tarde",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/ocho-anos-tarde-columna-de-adolfo-zableh-duran-790880"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-07-28",
+        "author": "Armando Silva",
+        "date": "2023-07-29",
         "publication": "el-tiempo",
-        "title": "El drama para Milan Kundera",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/el-drama-para-milan-kundera-columna-de-eduardo-posada-carbo-790532"
+        "title": "\u00bfPetro es Barbie?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/petro-es-barbie-columna-de-armando-silva-790888"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2023-07-28",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2023-07-29",
         "publication": "el-tiempo",
-        "title": "Ahora, el mar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/ahora-el-mar-columna-de-manuel-guzman-hennessey-790545"
+        "title": "\u00bfQui\u00e9nes son los traidores de la patria?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/quienes-son-los-traidores-de-la-patria-columna-de-alexander-cambero-790908"
     },
     {
         "article-type": "column",
-        "author": "Fernando Posada",
-        "date": "2023-07-28",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2023-07-29",
         "publication": "el-tiempo",
-        "title": "Petro y el Congreso",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/petro-y-el-congreso-columna-de-fernando-posada-790562"
+        "title": "Incumplimientos y desolaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/incumplimientos-y-desolacion-columna-de-victor-corcoba-790939"
     }
 ]
