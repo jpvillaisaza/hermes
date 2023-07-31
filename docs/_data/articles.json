@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-30",
+        "date": "2023-07-31",
         "publication": "el-colombiano",
-        "title": "Mi opini\u00f3n es ley",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/mi-opinion-es-ley-CF22053010"
+        "title": "El robo a Ecopetrol",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-robo-a-ecopetrol-FF22055044"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-30",
+        "date": "2023-07-31",
         "publication": "el-espectador",
-        "title": "Pelea  de Petro y Cabello: hay que acabar  la ambig\u00fcedad",
-        "url": "https://www.elespectador.com/opinion/editorial/pelea-de-petro-y-cabello-hay-que-acabar-la-ambiguedad/"
+        "title": "En el caso de Nicol\u00e1s Petro, hay que dejar actuar a la justicia",
+        "url": "https://www.elespectador.com/opinion/editorial/en-el-caso-de-nicolas-petro-hay-que-dejar-actuar-a-la-justicia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-07-31",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: Mentalidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/redaccion-deportes/columna-de-antonio-casale-mentalidad-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-07-31",
+        "publication": "el-espectador",
+        "title": "Crecimiento e inflaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/crecimiento-e-inflacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2023-07-31",
+        "publication": "el-espectador",
+        "title": "Un a\u00f1o de Petro: ni revoluci\u00f3n, ni cat\u00e1strofe",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/un-ano-de-petro-ni-revolucion-ni-catastrofe/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-07-31",
+        "publication": "el-espectador",
+        "title": "No hagan lo mismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/no-hagan-lo-mismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2023-07-31",
+        "publication": "el-espectador",
+        "title": "\u00bfSe dice \u00abradiactivo\u00bb o \u00abradioactivo\u00bb?",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-dice-radiactivo-o-radioactivo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Villamizar",
+        "date": "2023-07-31",
+        "publication": "el-espectador",
+        "title": "La sonrisa del embajador",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/la-sonrisa-del-embajador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-07-31",
+        "publication": "el-espectador",
+        "title": "Subsidios inteligentes",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/subsidios-inteligentes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2023-07-31",
+        "publication": "el-espectador",
+        "title": "Crecimiento, autonom\u00eda universitaria e incentivos",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/crecimiento-autonomia-universitaria-e-incentivos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2023-07-31",
+        "publication": "el-espectador",
+        "title": "\u00bfContinuar\u00e1 la incertidumbre?",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/continuara-la-incertidumbre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2023-07-31",
+        "publication": "el-espectador",
+        "title": "Retroceso de Colombia en la econom\u00eda mundial y latinoamericana",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/retroceso-de-colombia-en-la-economia-mundial-y-latinoamericana/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2023-07-31",
+        "publication": "el-espectador",
+        "title": "Editorial en Video: Pelea entre Petro y Cabello, hay que acabar la ambig\u00fcedad",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-la-pelea-entre-petro-y-cabello-hay-que-acabar-la-ambiguedad/"
     },
     {
         "article-type": "column",
@@ -56,163 +144,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/infancia-es-destino/"
     },
     {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "Petro y la Procuradur\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/petro-y-la-procuraduria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "Espa\u00f1a vibrante",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/espana-vibrante/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "En alerta los enfermos cr\u00f3nicos y de alto costo",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/en-alerta-los-enfermos-cronicos-y-de-alto-costo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "El gigante maniatado",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/el-gigante-maniatado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "Espa\u00f1a: \u00bfen manos de un pr\u00f3fugo de la justicia?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/espana-en-manos-de-un-profugo-de-la-justicia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "Las pandillas",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/las-pandillas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "El desamor",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/el-desamor/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-105/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "Carne de trampa y trampa",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/carne-de-trampa-y-trampa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "Hace 30 a\u00f1os, la misma barca ",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/hace-30-anos-la-misma-barca/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabiola Calvo",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "\u00bfQui\u00e9n investiga a la Personer\u00eda?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/quien-investiga-a-la-personeria/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-30",
+        "date": "2023-07-31",
         "publication": "el-tiempo",
-        "title": "La campa\u00f1a por Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/editorial/la-campana-por-bogota-editorial-el-tiempo-791131"
+        "title": "El caso de Nicol\u00e1s Petro",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-caso-de-nicolas-petro-editorial-el-tiempo-791313"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-07-30",
+        "author": "Juan Lozano",
+        "date": "2023-07-31",
         "publication": "el-tiempo",
-        "title": "Nada de nada",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-nada-de-nada-791133"
+        "title": "Que se haga justicia, caiga quien caiga",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-que-se-haga-justicia-caiga-quien-caiga-791298"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-07-30",
+        "author": "Paola Ochoa",
+        "date": "2023-07-31",
         "publication": "el-tiempo",
-        "title": "\u00bfY c\u00f3mo es \u00e9l?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-y-como-es-el-791135"
+        "title": "Me negar\u00e1s tres veces",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/me-negaras-tres-veces-columna-de-paola-ochoa-791295"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-07-30",
+        "author": "Luis Felipe Henao",
+        "date": "2023-07-31",
         "publication": "el-tiempo",
-        "title": "Abracitos para los delincuentes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-abracitos-para-los-delincuentes-791141"
+        "title": "Petro vs la Constituci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao-1/columna-de-luis-felipe-henao-petro-vs-la-constitucion-791287"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-07-30",
+        "author": "Diego Santos",
+        "date": "2023-07-31",
         "publication": "el-tiempo",
-        "title": "Los ministros no tienen la culpa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-los-ministros-no-tienen-la-culpa-791134"
+        "title": "Adi\u00f3s a Larry",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-adios-a-larry-791335"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-07-30",
+        "author": "Melba Escobar",
+        "date": "2023-07-31",
         "publication": "el-tiempo",
-        "title": "Una mejor transici\u00f3n energ\u00e9tica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-una-mejor-transicion-energetica-791139"
+        "title": "Partida en dos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-partida-en-dos-791300"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Antonio Ocampo",
-        "date": "2023-07-30",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-07-31",
         "publication": "el-tiempo",
-        "title": "La cooperaci\u00f3n tributaria internacional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo/columna-de-jose-antonio-ocampo-la-cooperacion-tributaria-internacional-791137"
+        "title": "La paz est\u00e1 en los adjetivos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/la-paz-esta-en-los-adjetivos-columna-de-oscar-dominguez-giraldo-791305"
     },
     {
         "article-type": "column",
-        "author": "Paula Moreno",
-        "date": "2023-07-30",
+        "author": "Fernando Cepeda Ulloa",
+        "date": "2023-07-31",
         "publication": "el-tiempo",
-        "title": "Romantizar la pobreza",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paula-moreno/columna-de-paula-moreno-romantizar-la-pobreza-791142"
+        "title": "Malcolm Deas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/malcolm-deas-columna-de-fernando-cepeda-ulloa-791309"
     },
     {
         "article-type": "column",
-        "author": "Santiago Vargas Acebedo",
-        "date": "2023-07-30",
+        "author": "Abd\u00f3n E. Espinosa Fenwarth",
+        "date": "2023-07-31",
         "publication": "el-tiempo",
-        "title": "Astr\u00f3logos, demagogos y profetas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/columna-de-santiago-vargas-acebedo-astrologos-demagogos-y-profetas-791127"
+        "title": "El corredor verde, un proyecto inconveniente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-corredor-verde-un-proyecto-inconveniente-columna-de-abdon-e-espinosa-fenwarth-791302"
     }
 ]
