@@ -2,18 +2,130 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-31",
+        "date": "2023-08-01",
         "publication": "el-colombiano",
-        "title": "El robo a Ecopetrol",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-robo-a-ecopetrol-FF22055044"
+        "title": "La rebeli\u00f3n ha sido aceptada hist\u00f3ricamente en Colombia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/la-rebelion-ha-sido-aceptada-historicamente-en-colombia-MF22057847"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-31",
+        "date": "2023-08-01",
         "publication": "el-espectador",
-        "title": "En el caso de Nicol\u00e1s Petro, hay que dejar actuar a la justicia",
-        "url": "https://www.elespectador.com/opinion/editorial/en-el-caso-de-nicolas-petro-hay-que-dejar-actuar-a-la-justicia/"
+        "title": "Ya vamos en \u201cebullici\u00f3n global\u201d y la acci\u00f3n se sigue aplazando ",
+        "url": "https://www.elespectador.com/opinion/editorial/ya-vamos-en-ebullicion-global-y-la-accion-se-sigue-aplazando/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "\u00bfEst\u00e1 bien capturar a alguien para imputarle un delito?",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/esta-bien-capturar-a-alguien-para-imputarle-un-delito/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "Se roban el pa\u00eds a carcajada batiente",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/se-roban-el-pais-a-carcajada-batiente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "Trasciende",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/trasciende/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "El veedor del tesoro",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-veedor-del-tesoro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "Conocer para amar y entender",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/conocer-para-amar-y-entender/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "Cartas de Cristo a Cristo",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/cartas-de-cristo-a-cristo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "Ladrones de petr\u00f3leo",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/ladrones-de-petroleo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "La reforma educativa en el gobierno Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/la-reforma-educativa-en-el-gobierno-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. William Pearl",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "Bukele",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/bukele/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "Columna de Andr\u00e9s Marocco: James, paulista ",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/columna-de-andres-marocco-james-rodriguez-paulista-james-al-sao-paulo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "Gobierno y poder",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/gobierno-y-poder/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "Tres d\u00edas de nostalgia, dolor presidencial y victoria",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/tres-dias-de-nostalgia-dolor-presidencial-y-victoria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Tovar",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "La madurez del f\u00fatbol femenino, la opini\u00f3n de Jorge Tovar",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/la-madurez-del-futbol-femenino-columna-de-jorge-tovar-seleccion-colombia-femenina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lucero Mart\u00ednez Kasab",
+        "date": "2023-08-01",
+        "publication": "el-espectador",
+        "title": "La pol\u00edtica como cultura",
+        "url": "https://www.elespectador.com/opinion/columnistas/lucero-martinez-kasab/la-politica-como-cultura/"
     },
     {
         "article-type": "column",
@@ -32,187 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/crecimiento-e-inflacion/"
     },
     {
-        "article-type": "column",
-        "author": "Mar\u00eda Teresa Ronderos",
-        "date": "2023-07-31",
-        "publication": "el-espectador",
-        "title": "Un a\u00f1o de Petro: ni revoluci\u00f3n, ni cat\u00e1strofe",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/un-ano-de-petro-ni-revolucion-ni-catastrofe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-07-31",
-        "publication": "el-espectador",
-        "title": "No hagan lo mismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/no-hagan-lo-mismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-07-31",
-        "publication": "el-espectador",
-        "title": "\u00bfSe dice \u00abradiactivo\u00bb o \u00abradioactivo\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-dice-radiactivo-o-radioactivo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Villamizar",
-        "date": "2023-07-31",
-        "publication": "el-espectador",
-        "title": "La sonrisa del embajador",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/la-sonrisa-del-embajador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-07-31",
-        "publication": "el-espectador",
-        "title": "Subsidios inteligentes",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/subsidios-inteligentes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-07-31",
-        "publication": "el-espectador",
-        "title": "Crecimiento, autonom\u00eda universitaria e incentivos",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/crecimiento-autonomia-universitaria-e-incentivos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2023-07-31",
-        "publication": "el-espectador",
-        "title": "\u00bfContinuar\u00e1 la incertidumbre?",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/continuara-la-incertidumbre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2023-07-31",
-        "publication": "el-espectador",
-        "title": "Retroceso de Colombia en la econom\u00eda mundial y latinoamericana",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/retroceso-de-colombia-en-la-economia-mundial-y-latinoamericana/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2023-07-31",
-        "publication": "el-espectador",
-        "title": "Editorial en Video: Pelea entre Petro y Cabello, hay que acabar la ambig\u00fcedad",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-la-pelea-entre-petro-y-cabello-hay-que-acabar-la-ambiguedad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "La esposa alcoh\u00f3lica",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/la-esposa-alcoholica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Irene Vallejo Moreu",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "La era de la ira",
-        "url": "https://www.elespectador.com/opinion/columnistas/ivallejo/la-era-de-la-ira/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "Lamentaci\u00f3n por Israel",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/lamentacion-por-israel/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "Juan Daniel Oviedo, el etn\u00f3grafo",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/juan-daniel-oviedo-el-etnografo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-07-30",
-        "publication": "el-espectador",
-        "title": "Infancia es destino",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/infancia-es-destino/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-07-31",
+        "date": "2023-08-01",
         "publication": "el-tiempo",
-        "title": "El caso de Nicol\u00e1s Petro",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-caso-de-nicolas-petro-editorial-el-tiempo-791313"
+        "title": "El robo a Ecopetrol",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-robo-a-ecopetrol-editorial-el-tiempo-791652"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-07-31",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-08-01",
         "publication": "el-tiempo",
-        "title": "Que se haga justicia, caiga quien caiga",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-que-se-haga-justicia-caiga-quien-caiga-791298"
+        "title": "\u00a1Arriba los malos!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/arriba-los-malos-columna-de-jose-manuel-acevedo-791571"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2023-07-31",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2023-08-01",
         "publication": "el-tiempo",
-        "title": "Me negar\u00e1s tres veces",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/me-negaras-tres-veces-columna-de-paola-ochoa-791295"
+        "title": "La falta de respeto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/la-falta-de-respeto-columna-de-marcela-melendez-791625"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-07-31",
+        "author": "Francisco Cajiao",
+        "date": "2023-08-01",
         "publication": "el-tiempo",
-        "title": "Petro vs la Constituci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao-1/columna-de-luis-felipe-henao-petro-vs-la-constitucion-791287"
+        "title": "Una gran oportunidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/una-gran-oportunidad-columna-de-francisco-cajiao-791565"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-07-31",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2023-08-01",
         "publication": "el-tiempo",
-        "title": "Adi\u00f3s a Larry",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-adios-a-larry-791335"
+        "title": "Barbarie en El Salvador",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/barbarie-en-el-salvador-columna-de-sergio-munoz-bata-791558"
     },
     {
         "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-07-31",
+        "author": "Fernando Quiroz",
+        "date": "2023-08-01",
         "publication": "el-tiempo",
-        "title": "Partida en dos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-partida-en-dos-791300"
+        "title": "Volver a la media",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/volver-a-la-media-columna-de-fernando-quiroz-791583"
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2023-07-31",
+        "author": "Juan Carlos Ruiz",
+        "date": "2023-08-01",
         "publication": "el-tiempo",
-        "title": "La paz est\u00e1 en los adjetivos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/la-paz-esta-en-los-adjetivos-columna-de-oscar-dominguez-giraldo-791305"
+        "title": "El \u2018mister\u2019 que no era doctor",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-mister-que-no-era-doctor-columna-de-juan-carlos-ruiz-791601"
     },
     {
         "article-type": "column",
-        "author": "Fernando Cepeda Ulloa",
-        "date": "2023-07-31",
+        "author": "Gregory Lobo",
+        "date": "2023-08-01",
         "publication": "el-tiempo",
-        "title": "Malcolm Deas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/malcolm-deas-columna-de-fernando-cepeda-ulloa-791309"
-    },
-    {
-        "article-type": "column",
-        "author": "Abd\u00f3n E. Espinosa Fenwarth",
-        "date": "2023-07-31",
-        "publication": "el-tiempo",
-        "title": "El corredor verde, un proyecto inconveniente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-corredor-verde-un-proyecto-inconveniente-columna-de-abdon-e-espinosa-fenwarth-791302"
+        "title": "Sobre la tolerancia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/sobre-la-tolerancia-columna-de-gregory-lobo-791587"
     }
 ]
