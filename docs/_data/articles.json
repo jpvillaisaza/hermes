@@ -2,26 +2,74 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-02",
+        "date": "2023-08-03",
         "publication": "el-colombiano",
-        "title": "Latinoam\u00e9rica y Europa buscan sincron\u00eda ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/latinoamerica-y-europa-buscan-sincronia-GG22064893"
+        "title": "Los avales cuestionados",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/los-avales-cuestionados-PH22072814"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-02",
+        "date": "2023-08-03",
         "publication": "el-espectador",
-        "title": "Benjamin Netanyahu y la separaci\u00f3n de poderes",
-        "url": "https://www.elespectador.com/opinion/editorial/benjamin-netanyahu-y-la-separacion-de-poderes/"
+        "title": "Matr\u00edcula gratuita s\u00ed, \u00bfpero y la calidad?",
+        "url": "https://www.elespectador.com/opinion/editorial/matricula-gratuita-si-pero-y-la-calidad/"
     },
     {
         "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-08-02",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-08-03",
         "publication": "el-espectador",
-        "title": "\u00bfInvestigado o humillado?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/investigado-o-humillado/"
+        "title": "Alegor\u00eda de Seki Sano",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/alegoria-de-seki-sano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-08-03",
+        "publication": "el-espectador",
+        "title": "El almirante Jos\u00e9 Padilla y las preguntas del presente",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/el-almirante-jose-padilla-y-las-preguntas-del-presente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-08-03",
+        "publication": "el-espectador",
+        "title": "Violencia policial, impunidad y sesgos de g\u00e9nero ",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/violencia-policial-impunidad-y-sesgos-de-genero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2023-08-03",
+        "publication": "el-espectador",
+        "title": "Los imperialismos buenos y los imperialismos malos",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/los-imperialismos-buenos-y-los-malos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2023-08-03",
+        "publication": "el-espectador",
+        "title": "El 20 de julio: de la arenga pol\u00edtica a la c\u00e1tedra del estadista",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/el-20-de-julio-de-la-arenga-politica-a-la-catedra-del-estadista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-08-03",
+        "publication": "el-espectador",
+        "title": "Har\u00e1 falta Malcolm",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/hara-falta-malcolm/"
+    },
+    {
+        "article-type": "column",
+        "author": "David Fl\u00f3rez",
+        "date": "2023-08-03",
+        "publication": "el-espectador",
+        "title": "Cese al fuego y participaci\u00f3n: menos guerra, m\u00e1s deliberaci\u00f3n p\u00fablica",
+        "url": "https://www.elespectador.com/colombia-20/analistas/cese-al-fuego-y-participacion-menos-guerra-mas-deliberacion-publica/"
     },
     {
         "article-type": "column",
@@ -30,6 +78,14 @@
         "publication": "el-espectador",
         "title": "Todo es ideol\u00f3gico",
         "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/todo-es-ideologico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-08-02",
+        "publication": "el-espectador",
+        "title": "\u00bfInvestigado o humillado?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/investigado-o-humillado/"
     },
     {
         "article-type": "column",
@@ -88,123 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/antes-de-las-elecciones-regionales-hablemos-de-violencia-politica/"
     },
     {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-08-02",
-        "publication": "el-espectador",
-        "title": "Tres veces le cambiamos el nombre al candidato Carlos Fernando Gal\u00e1n",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/tres-veces-le-cambiamos-el-nombre-al-candidato-carlos-fernando-galan/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2023-08-01",
-        "publication": "el-espectador",
-        "title": "\u00bfEst\u00e1 bien capturar a alguien para imputarle un delito?",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/esta-bien-capturar-a-alguien-para-imputarle-un-delito/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-08-01",
-        "publication": "el-espectador",
-        "title": "Se roban el pa\u00eds a carcajada batiente",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/se-roban-el-pais-a-carcajada-batiente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-08-01",
-        "publication": "el-espectador",
-        "title": "Trasciende",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/trasciende/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-08-01",
-        "publication": "el-espectador",
-        "title": "El veedor del tesoro",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-veedor-del-tesoro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-08-01",
-        "publication": "el-espectador",
-        "title": "Conocer para amar y entender",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/conocer-para-amar-y-entender/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-08-01",
-        "publication": "el-espectador",
-        "title": "Cartas de Cristo a Cristo",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/cartas-de-cristo-a-cristo/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-02",
+        "date": "2023-08-03",
         "publication": "el-tiempo",
-        "title": "Una tendencia positiva",
-        "url": "https://www.eltiempo.com/opinion/editorial/una-tendencia-positiva-editorial-el-tiempo-792091"
+        "title": "Obst\u00e1culos en las v\u00edas",
+        "url": "https://www.eltiempo.com/opinion/editorial/obstaculos-en-las-vias-editorial-792562"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-08-02",
+        "author": "Pedro Medellin",
+        "date": "2023-08-03",
         "publication": "el-tiempo",
-        "title": "Academia, justicia y paz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/academia-justicia-y-paz-columna-de-alfonso-gomez-mendez-791985"
+        "title": "Zapatero, a tus zapatos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/zapatero-a-tus-zapatos-columna-de-pedro-medellin-792556"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-08-02",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-08-03",
         "publication": "el-tiempo",
-        "title": "La explosi\u00f3n no controlada",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/la-explosion-no-controlada-columna-de-vladdo-792090"
+        "title": "Los hermanos Grimm",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/los-hermanos-grimm-columna-de-juan-esteban-constain-792479"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2023-08-02",
+        "author": "Claudia Palacios",
+        "date": "2023-08-03",
         "publication": "el-tiempo",
-        "title": "El tesoro de los p\u00e1ramos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/el-tesoro-de-los-paramos-columna-de-andres-hurtado-garcia-791945"
+        "title": "\u2018Barbie\u2019 y \u2018Oppenheimer\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/barbie-y-oppenheimer-columna-de-claudia-palacios-792433"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Eugenia Rinaudo",
-        "date": "2023-08-02",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-08-03",
         "publication": "el-tiempo",
-        "title": "Colapsolog\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/colapsologia-columna-de-maria-eugenia-rinaudo-791971"
+        "title": "Cr\u00f3nica de un marciano",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/cronica-de-un-marciano-columna-de-sergio-ramirez-792469"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-08-02",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2023-08-03",
         "publication": "el-tiempo",
-        "title": "S\u00edntomas permanentes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/sintomas-permanentes-columna-de-gustavo-duncan-791954"
+        "title": "Con todo respeto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/con-todo-respeto-columna-de-victor-manuel-ruiz-792489"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-08-02",
+        "author": "Adolfo Le\u00f3n Artehort\u00faa",
+        "date": "2023-08-03",
         "publication": "el-tiempo",
-        "title": "Nicol\u00e1s Petro y Day V\u00e1squez no se hablan",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/nicolas-petro-y-day-vasquez-no-se-hablan-columna-de-poncho-renteria-791997"
+        "title": "Escucha y horizonte para la educaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/escucha-y-horizonte-para-la-educacion-columna-de-adolfo-leon-atehortua-792539"
     },
     {
         "article-type": "column",
-        "author": "Dejusticia",
-        "date": "2023-08-02",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2023-08-03",
         "publication": "el-tiempo",
-        "title": "Acuerdo de Escaz\u00fa: diagn\u00f3stico sobre el acceso a la informaci\u00f3n ambiental",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/acuerdo-de-escazu-diagnostico-sobre-el-acceso-a-la-informacion-ambiental-791965"
+        "title": "De la complejidad a la frivolidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/de-la-complejidad-a-la-frivolidad-columna-de-mauricio-laurens-792574"
     }
 ]
