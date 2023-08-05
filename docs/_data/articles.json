@@ -2,18 +2,74 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-04",
+        "date": "2023-08-05",
         "publication": "el-colombiano",
-        "title": "arrow_right_alt",
-        "url": "https://www.elcolombiano.com/opinion/cita-textual/articulo-MH22077795"
+        "title": "Lecci\u00f3n de historia ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/leccion-de-historia-AI22084051"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-04",
+        "date": "2023-08-05",
         "publication": "el-espectador",
-        "title": "Que este cese al fuego se vuelva permanente",
-        "url": "https://www.elespectador.com/opinion/editorial/que-este-cese-al-fuego-se-vuelva-permanente/"
+        "title": "La tercera imputaci\u00f3n contra Donald Trump",
+        "url": "https://www.elespectador.com/opinion/editorial/la-tercera-imputacion-contra-donald-trump/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2023-08-05",
+        "publication": "el-espectador",
+        "title": "Si pudieran hablar",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/si-pudieran-hablar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-08-05",
+        "publication": "el-espectador",
+        "title": "\u201cSi el r\u00edo Cauca hablara\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/si-el-rio-cauca-hablara/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-08-05",
+        "publication": "el-espectador",
+        "title": "La Tercera Orilla",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/la-tercera-orilla/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2023-08-05",
+        "publication": "el-espectador",
+        "title": "Extravagante amor patrio",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/extravagante-amor-patrio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-08-05",
+        "publication": "el-espectador",
+        "title": "X (antes Twitter)",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/x-antes-twitter/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Leal Buitrago",
+        "date": "2023-08-05",
+        "publication": "el-espectador",
+        "title": "\u201cTragedia sin fin\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/tragedia-sin-fin/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-08-05",
+        "publication": "el-espectador",
+        "title": "Primer a\u00f1o de Petro: nos dej\u00f3 un NOVEL\u00d3N, \u00bfpero se raj\u00f3? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-primer-ano-de-petro-nos-dejo-un-novelon-pero-se-rajo/"
     },
     {
         "article-type": "column",
@@ -88,131 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/la-ultima-palabra/"
     },
     {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-08-04",
-        "publication": "el-espectador",
-        "title": "Columna de Luis Fernando Montoya: Junior, hay con qu\u00e9",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-junior-hay-con-que/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabella Portilla",
-        "date": "2023-08-04",
-        "publication": "el-espectador",
-        "title": "I love Milton Glaser, I love NY",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabella-portilla/i-love-milton-glaser-i-love-ny/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rub\u00e9n Mendoza",
-        "date": "2023-08-04",
-        "publication": "el-espectador",
-        "title": "Un manojo de heridas",
-        "url": "https://www.elespectador.com/opinion/columnistas/ruben-mendoza/un-manojo-de-heridas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-08-03",
-        "publication": "el-espectador",
-        "title": "Alegor\u00eda de Seki Sano",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/alegoria-de-seki-sano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2023-08-03",
-        "publication": "el-espectador",
-        "title": "El almirante Jos\u00e9 Padilla y las preguntas del presente",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/el-almirante-jose-padilla-y-las-preguntas-del-presente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-08-03",
-        "publication": "el-espectador",
-        "title": "Violencia policial, impunidad y sesgos de g\u00e9nero ",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/violencia-policial-impunidad-y-sesgos-de-genero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Santiago Villa",
-        "date": "2023-08-03",
-        "publication": "el-espectador",
-        "title": "Los imperialismos buenos y los imperialismos malos",
-        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/los-imperialismos-buenos-y-los-malos/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-04",
+        "date": "2023-08-05",
         "publication": "el-tiempo",
-        "title": "Fuerza del Valle",
-        "url": "https://www.eltiempo.com/opinion/editorial/fuerza-del-valle-editorial-el-tiempo-792981"
+        "title": "Eln, a cumplir con el cese",
+        "url": "https://www.eltiempo.com/opinion/editorial/eln-a-cumplir-con-el-cese-editorial-el-tiempo-793369"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-08-04",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2023-08-05",
         "publication": "el-tiempo",
-        "title": "Reformar sin fracasar en el intento",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/reformar-sin-fracasar-en-el-intento-columna-de-moises-wasserman-792901"
+        "title": "Petro en solitario",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/petro-en-solitario-columna-de-mauricio-cardenas-santamaria-793359"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-08-04",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-08-05",
         "publication": "el-tiempo",
-        "title": "Fondo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/fondo-columna-de-ricardo-silva-romero-792913"
+        "title": "Hora de la grandeza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/los-petristes-columna-de-luis-noe-ochoa-793312"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2023-08-04",
+        "author": "Otros columnistas",
+        "date": "2023-08-05",
         "publication": "el-tiempo",
-        "title": "Grafiti, entre el s\u00ed y el no",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/grafiti-entre-el-si-y-el-no-columna-de-martha-ortiz-792921"
+        "title": "J\u00f3venes en Paz",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/jovenes-en-paz-columna-de-maria-isabel-ulloa-793268"
     },
     {
         "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2023-08-04",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2023-08-05",
         "publication": "el-tiempo",
-        "title": "Espl\u00e9ndidas bodas, las de F\u00edgaro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/esplendidas-bodas-las-de-figaro-columna-de-martha-senn-792953"
+        "title": "Los bloqueos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/los-bloqueos-columna-de-jose-gregorio-hernandez-793259"
     },
     {
         "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2023-08-04",
+        "author": "Armando Silva",
+        "date": "2023-08-05",
         "publication": "el-tiempo",
-        "title": "Soberan\u00eda judicial",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/soberania-judicial-columna-de-alfredo-rangel-792935"
+        "title": "Lo que no callan los muros",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/lo-que-no-callan-los-muros-columna-de-armando-silvar-793299"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-08-04",
+        "author": "Women in Connection",
+        "date": "2023-08-05",
         "publication": "el-tiempo",
-        "title": "Malcolm Deas, profesor ejemplar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/malcolm-deas-profesor-ejemplar-columna-de-eduardo-posada-carbo-792905"
+        "title": "Venga que s\u00ed es pa\u2019 eso",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/venga-que-si-es-pa-eso-columna-de-women-in-connection-793334"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2023-08-04",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-08-05",
         "publication": "el-tiempo",
-        "title": "Complacencia y esperanza",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/complacencia-y-esperanza-columna-de-claudia-hakim-792903"
-    },
-    {
-        "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2023-08-04",
-        "publication": "el-tiempo",
-        "title": "La pol\u00edtica de la antipol\u00edtica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/la-politica-de-la-antipolitica-columna-de-salvo-basile-792945"
+        "title": "\u2018Buen viaje, general\u2019: La guerra de los Mil D\u00edas en Tolima",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/buen-viaje-general-la-guerra-de-los-mil-dias-en-tolima-jose-miguel-alzate-793330"
     }
 ]
