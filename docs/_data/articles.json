@@ -5,15 +5,111 @@
         "date": "2023-08-06",
         "publication": "el-colombiano",
         "title": "arrow_right_alt",
-        "url": "https://www.elcolombiano.com/opinion/cita-textual/articulo-KJ22091649"
+        "url": "https://www.elcolombiano.com/opinion/cita-textual/articulo-GJ22094057"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-06",
+        "date": "2023-08-07",
         "publication": "el-espectador",
-        "title": "Caso Nicol\u00e1s Petro: una vez m\u00e1s, confiamos en la fortaleza institucional",
-        "url": "https://www.elespectador.com/opinion/editorial/caso-nicolas-petro-una-vez-mas-confiamos-en-la-fortaleza-institucional/"
+        "title": "El presidente Petro todav\u00eda puede salvar su gobierno, pero...",
+        "url": "https://www.elespectador.com/opinion/editorial/el-presidente-todavia-puede-salvar-su-gobierno-pero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "F\u00e1bula submarina ",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/fabula-submarina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "El primer a\u00f1o de Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-primer-ano-de-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "Los togados",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/los-togados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "Cambio de modelo",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/cambio-de-modelo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "Pensar con el deseo",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/pensar-con-el-deseo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "\u00bfLas etiquetas o \u00abhashtags\u00bb se tildan?",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/las-etiquetas-o-hashtags-se-tildan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "A Rosa Elvira la jodi\u00f3 Nicol\u00e1s",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/a-rosa-elvira-la-jodio-nicolas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: IDRD y tenis",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/idrd-y-tenis/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cUna vez m\u00e1s, confiamos en la fortaleza institucional\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-una-vez-mas-confiamos-en-la-fortaleza-institucional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carlos C\u00f3rdoba Mart\u00ednez",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "\u00bfParticipaci\u00f3n para qu\u00e9? escenarios en la negociaci\u00f3n con el ELN",
+        "url": "https://www.elespectador.com/colombia-20/analistas/participacion-para-que-escenarios-en-la-negociacion-con-el-eln/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Ara\u00fajo V\u00e9lez",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "Volver",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/volver/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Candidata",
+        "date": "2023-08-07",
+        "publication": "el-espectador",
+        "title": "Cap\u00edtulo 40: El \u00abmercader del periodismo\u00bb",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-candidata/la-censura-al-libro-de-laura-ardila-y-el-nexo-de-mauricio-vargas-con-alex-char/"
     },
     {
         "article-type": "column",
@@ -22,14 +118,6 @@
         "publication": "el-espectador",
         "title": "Del embajador de Espa\u00f1a sobre una columna",
         "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/del-embajador-de-espana-sobre-una-columna/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "Los feos y los brutos",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/los-feos-y-los-brutos/"
     },
     {
         "article-type": "column",
@@ -56,94 +144,6 @@
         "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-comentan-la-chismografia-de-nicolas-petro-y-sus-enredos-de-pareja/"
     },
     {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "Aprender a morir",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/aprender-a-morir/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "Lo que vemos venir",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/lo-que-vemos-venir/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "Lo que \u201cOppenheimer\u201d no cuenta sobre la prueba de la bomba nuclear",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/lo-que-oppenheimer-no-cuenta-sobre-la-prueba-de-la-bomba-nuclear/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "Un lugar en el mapa",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/un-lugar-en-el-mapa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "Inequidades en la educaci\u00f3n superior estatal",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/inequidades-en-la-educacion-superior-estatal/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "Cumplea\u00f1os fatal",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/cumpleanos-fatal/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "El hijo negado: la narconovela",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/el-hijo-negado-la-narconovela/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "Turbulencia pol\u00edtica y Estado de derecho",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/turbulencia-politica-y-estado-de-derecho/"
-    },
-    {
-        "article-type": "column",
-        "author": "Laura Ardila Arrieta",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "Los pecados de la campa\u00f1a Petro en el Caribe",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-ardila-arrieta/los-pecados-de-la-campana-petro-en-el-caribe/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-106/"
-    },
-    {
-        "article-type": "column",
-        "author": "Kenneth Burbano Villamar\u00edn",
-        "date": "2023-08-06",
-        "publication": "el-espectador",
-        "title": "De la degradaci\u00f3n a la exaltaci\u00f3n en el conflicto armado colombiano",
-        "url": "https://www.elespectador.com/colombia-20/analistas/de-la-degradacion-a-la-exaltacion-en-el-conflicto-armado-colombiano/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2023-08-06",
@@ -153,66 +153,66 @@
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-08-06",
+        "author": "Juan Lozano",
+        "date": "2023-08-07",
         "publication": "el-tiempo",
-        "title": "Infierno",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-infierno-793566"
+        "title": "Paternidad responsable",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-paternidad-responsable-793737"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-08-06",
+        "author": "Luis Felipe Henao",
+        "date": "2023-08-07",
         "publication": "el-tiempo",
-        "title": "El \u2018golpe blando\u2019 de Nicol\u00e1s Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-el-golpe-blando-de-nicolas-petro-793579"
+        "title": "Un a\u00f1o de caos moral total",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-un-ano-de-caos-moral-total-793736"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-08-06",
+        "author": "Ilan Goldfajn",
+        "date": "2023-08-07",
         "publication": "el-tiempo",
-        "title": "Francia se hipoteca a Soros",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-francia-se-hipoteca-a-soros-793584"
+        "title": "Una ambici\u00f3n renovada para la regi\u00f3n amaz\u00f3nica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-ilan-goldfajn-una-ambicion-renovada-para-la-region-amazonica-793744"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Uma\u00f1a Mendoza",
-        "date": "2023-08-06",
+        "author": "Diego Santos",
+        "date": "2023-08-07",
         "publication": "el-tiempo",
-        "title": "Un mundo posible",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-umana-mendoza/columna-de-german-umana-un-mundo-posible-793585"
+        "title": "\u00bfQu\u00e9 aplicaciones de inteligencia artificial me ayudar\u00e1n a ser m\u00e1s eficaz?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-aplicaciones-de-inteligencia-artificial-para-ser-mas-eficaz-793742"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-08-06",
+        "author": "Yolanda Reyes",
+        "date": "2023-08-07",
         "publication": "el-tiempo",
-        "title": "\u00bfY si a Petro le da por renunciar?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-y-si-a-petro-le-da-por-renunciar-793565"
+        "title": "Celebraci\u00f3n de la cultura",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-celebracion-de-la-cultura-793743"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-08-06",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-08-07",
         "publication": "el-tiempo",
-        "title": "Tendencias noventeras",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-tendencias-noventeras-793580"
+        "title": "Colombia se merece otra Cartagena",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-colombia-se-merece-otra-cartagena-793725"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2023-08-06",
+        "author": "Lord William Hague",
+        "date": "2023-08-07",
         "publication": "el-tiempo",
-        "title": "Clase media y democracia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-clase-media-y-democracia-793581"
+        "title": "Unidos por luchar contra el tr\u00e1fico ilegal de vida silvestre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-lord-william-hague-luchar-contra-el-trafico-ilegal-de-vida-silvestre-793738"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2023-08-06",
+        "author": "Jorge Barraza",
+        "date": "2023-08-07",
         "publication": "el-tiempo",
-        "title": "Donald Trump, arrollador",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/columna-de-antonio-albinana-donald-trump-arrollador-793587"
+        "title": "Fue Maradona \u201886",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-fue-maradona-86-793745"
     }
 ]
