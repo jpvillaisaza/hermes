@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-09",
+        "date": "2023-08-10",
         "publication": "el-colombiano",
-        "title": "\u00bfY nuestros estudiantes?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/y-nuestros-estudiantes-GB22103533"
+        "title": "arrow_right_alt",
+        "url": "https://www.elcolombiano.com/opinion/cita-textual/articulo-OB22109546"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-09",
+        "date": "2023-08-10",
         "publication": "el-espectador",
-        "title": "Un enfoque diferente en la batalla contra las drogas es bienvenido",
-        "url": "https://www.elespectador.com/opinion/editorial/un-enfoque-diferente-en-la-batalla-contra-las-drogas-es-bienvenido/"
+        "title": "Feminicidios: las leyes avanzan, el Estado y la sociedad no",
+        "url": "https://www.elespectador.com/opinion/editorial/feminicidios-las-leyes-avanzan-el-estado-y-la-sociedad-no/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2023-08-10",
+        "publication": "el-espectador",
+        "title": "M\u00e1s que aplausos para las futbolistas",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/mas-que-aplausos-para-las-futbolistas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-08-10",
+        "publication": "el-espectador",
+        "title": "\u201cLos hechos casuales\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/los-hechos-casuales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2023-08-10",
+        "publication": "el-espectador",
+        "title": "Elecciones y corrupci\u00f3n, una relaci\u00f3n t\u00f3xica",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/elecciones-y-corrupcion-una-relacion-toxica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-08-10",
+        "publication": "el-espectador",
+        "title": "Si yo fuera alcalde",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/si-yo-fuera-alcalde/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2023-08-10",
+        "publication": "el-espectador",
+        "title": "Universidades transparentes y diversas",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/universidades-transparentes-y-diversas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-08-10",
+        "publication": "el-espectador",
+        "title": "El feminicidio de Luz Mery Trist\u00e1n",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/el-feminicidio-de-luz-mery-tristan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-08-10",
+        "publication": "el-espectador",
+        "title": "El peculiar armario de futbolistas",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/el-peculiar-armario-de-futbolistas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-08-10",
+        "publication": "el-espectador",
+        "title": "Una semana agitada en materia noticiosa y no tanto en embarradas",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/una-semana-agitada-en-materia-noticiosa-y-no-tanto-en-embarradas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Fagua",
+        "date": "2023-08-10",
+        "publication": "el-espectador",
+        "title": "La responsabilidad de la JEP en la construcci\u00f3n de paz",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-responsabilidad-de-la-jep-en-la-construccion-de-paz/"
     },
     {
         "article-type": "column",
@@ -72,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/la-reformitis-de-la-educacion/"
     },
     {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-08-09",
-        "publication": "el-espectador",
-        "title": "Desbalance ",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/desbalance/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-08-09",
-        "publication": "el-espectador",
-        "title": "El dulce a mordiscos",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/el-dulce-a-mordiscos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-08-09",
-        "publication": "el-espectador",
-        "title": "Un a\u00f1o de terror",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/un-ano-de-terror/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-08-09",
-        "publication": "el-espectador",
-        "title": "La oposici\u00f3n se solaza",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/la-oposicion-se-solaza/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2023-08-09",
-        "publication": "el-espectador",
-        "title": "Viaje a la semilla",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/viaje-a-la-semilla/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabrina Acosta Contreras",
-        "date": "2023-08-09",
-        "publication": "el-espectador",
-        "title": "TEDxCa\u00f1aguate: Ideas que inspiran de Valledupar para el mundo",
-        "url": "https://www.elespectador.com/colombia-20/analistas/tedxcanaguate-ideas-que-inspiran-de-valledupar-para-el-mundo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-08-09",
-        "publication": "el-espectador",
-        "title": "Recuerdos de las censuras",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/recuerdos-de-las-censuras/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-08-08",
-        "publication": "el-espectador",
-        "title": "Malcolm Deas, el profesor \u201cdistra\u00eddo\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/malcolm-deas-el-profesor-distraido/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-08-08",
-        "publication": "el-espectador",
-        "title": "ELN: \u00bfpol\u00edtica en armas?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/eln-politica-en-armas/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-09",
+        "date": "2023-08-10",
         "publication": "el-tiempo",
-        "title": "El caso Trump",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-caso-trump-editorial-el-tiempo-794271"
+        "title": "Hacer m\u00e1s en seguridad",
+        "url": "https://www.eltiempo.com/opinion/editorial/hacer-mas-en-seguridad-editorial-el-tiempo-794676"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-08-09",
+        "author": "Pedro Medellin",
+        "date": "2023-08-10",
         "publication": "el-tiempo",
-        "title": "\u00bfEn peligro las \u2018instituciones\u2019?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/en-peligro-las-instituciones-columna-de-alfonso-gomez-mendez-794220"
+        "title": "La herida abierta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/la-herida-abierta-columna-de-pedro-medellin-794671"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-08-09",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-08-10",
         "publication": "el-tiempo",
-        "title": "El dec\u00e1logo de Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/el-decalogo-de-petro-columna-de-vladdo-794243"
+        "title": "No importa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/no-importa-columna-de-juan-esteban-constain-794601"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2023-08-09",
+        "author": "Jineth Bedoya Lima",
+        "date": "2023-08-10",
         "publication": "el-tiempo",
-        "title": "Juan David Correa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/juan-david-correa-columna-de-florence-thomas-794208"
+        "title": "Luz Mery y la violencia naturalizada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/luz-mery-y-la-violencia-naturalizada-columna-de-jineth-bedoya-794591"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2023-08-09",
+        "author": "Gonzalo Ort\u00edz Crespo",
+        "date": "2023-08-10",
         "publication": "el-tiempo",
-        "title": "Pongo en venta \u2018Mi reino\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/pongo-en-venta-mi-reino-columna-de-jotamario-arbelaez-794231"
+        "title": "Ecuador y Colombia: s\u00f3lida alianza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/ecuador-y-colombia-solida-alianza-columna-de-gonzalo-ortiz-794586"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-08-09",
+        "author": "Diana Pardo",
+        "date": "2023-08-10",
         "publication": "el-tiempo",
-        "title": "Petro resiste el aguacero critic\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-resiste-el-aguacero-criticon-columna-de-poncho-renteria-794217"
+        "title": "La tierra hierve",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/la-tierra-hierve-columna-de-diana-pardo-794582"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Riveros Gonz\u00e1lez",
-        "date": "2023-08-09",
+        "author": "Dar\u00edo Hidalgo",
+        "date": "2023-08-10",
         "publication": "el-tiempo",
-        "title": "El silencio en el vac\u00edo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/el-silencio-en-el-vacio-columna-de-alejandro-riveros-794248"
+        "title": "El cable de Ciudad Bol\u00edvar, en \u2018The Lancet\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/dario-hidalgo/el-cable-de-ciudad-bolivar-en-the-lancet-columna-de-dario-hidalgo-794621"
     },
     {
         "article-type": "column",
-        "author": "Pedro Javier Rojas Guevara",
-        "date": "2023-08-09",
+        "author": "Fernando Montes Negret",
+        "date": "2023-08-10",
         "publication": "el-tiempo",
-        "title": "7 de agosto: \u00a1d\u00eda de nuestro ej\u00e9rcito, orgullo nacional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-javier-rojas-guevara/7-de-agosto-dia-de-nuestro-ejercito-orgullo-nacional-pedro-javier-rojas-794246"
+        "title": "2023, un a\u00f1o de sorpresas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/2023-un-ano-de-sorpresas-columna-de-fernando-montes-negret-794641"
     }
 ]
