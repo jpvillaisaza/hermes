@@ -2,18 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-15",
+        "date": "2023-08-16",
         "publication": "el-colombiano",
-        "title": "El hurac\u00e1n Milei",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-huracan-milei-DC22139912"
+        "title": "Odebrecht hasta el fondo",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/odebrecht-hasta-el-fondo-CE22155124"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-15",
+        "date": "2023-08-16",
         "publication": "el-espectador",
-        "title": "Pendientes y m\u00e1s pendientes sobre Odebrecht",
-        "url": "https://www.elespectador.com/opinion/editorial/pendientes-y-mas-pendientes-sobre-odebrecht/"
+        "title": "Defenderse es leg\u00edtimo, tergiversar y estigmatizar no  ",
+        "url": "https://www.elespectador.com/opinion/editorial/defenderse-es-legitimo-tergiversar-y-estigmatizar-no/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-08-16",
+        "publication": "el-espectador",
+        "title": "Siete hombres y ning\u00fan destino",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/siete-hombres-y-ningun-destino/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcelo Caruso A.",
+        "date": "2023-08-16",
+        "publication": "el-espectador",
+        "title": "\u201cEl Estado somos todos\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/el-estado-somos-todos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-08-16",
+        "publication": "el-espectador",
+        "title": "La sonrisa de Jorge Enrique Pizano",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/la-sonrisa-de-jorge-enrique-pizano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-08-16",
+        "publication": "el-espectador",
+        "title": "El le\u00f3n dormido",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-leon-dormido/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-08-16",
+        "publication": "el-espectador",
+        "title": "El fiscal y el ELN",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/el-fiscal-y-el-eln/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-08-16",
+        "publication": "el-espectador",
+        "title": "Una campa\u00f1a pendiente",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/una-campana-pendiente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-08-16",
+        "publication": "el-espectador",
+        "title": "La torre inclinada de Pisa ya no se cae",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-torre-inclinada-de-pisa-ya-no-se-cae-italia-opinion-patrimonio-de-la-humanidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando Roa Su\u00e1rez",
+        "date": "2023-08-16",
+        "publication": "el-espectador",
+        "title": "Gobernabilidad democr\u00e1tica y paz para Colombia. Reflexiones.",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/gobernabilidad-democratica-y-paz-para-colombia-reflexiones/"
     },
     {
         "article-type": "column",
@@ -80,131 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/proyecto-para-la-ebullicion-planetaria/"
     },
     {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-08-15",
-        "publication": "el-espectador",
-        "title": "La bomba de Oppenheimer",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/la-bomba-de-oppenheimer/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2023-08-15",
-        "publication": "el-espectador",
-        "title": "\u00bfEst\u00e1 aumentando el \u201cbullying\u201d en los colegios?",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/esta-aumentando-el-bullying-en-los-colegios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pedro Viveros",
-        "date": "2023-08-15",
-        "publication": "el-espectador",
-        "title": "Segundo a\u00f1o, de tres que le quedan a Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/segundo-ano-de-tres-que-le-quedan-a-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2023-08-14",
-        "publication": "el-espectador",
-        "title": "\u00bfSe salvar\u00e1 Wikipedia?",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/se-salvara-wikipedia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2023-08-14",
-        "publication": "el-espectador",
-        "title": "Columna de Jorge Tovar: Mujeres vs. hombres",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/mujeres-vs-hombres/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-08-14",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Lo que viene",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/lo-que-viene/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-08-14",
-        "publication": "el-espectador",
-        "title": "\u00bfSe dice \u00abveinti\u00fan p\u00e1ginas\u00bb o \u00abveintiuna p\u00e1ginas\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-dice-veintiun-paginas-o-veintiuna-paginas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-08-14",
-        "publication": "el-espectador",
-        "title": "La macroeconom\u00eda de Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-macroeconomia-de-petro/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-15",
+        "date": "2023-08-16",
         "publication": "el-tiempo",
-        "title": "Que no se frene",
-        "url": "https://www.eltiempo.com/opinion/editorial/que-no-se-frene-editorial-el-tiempo-796182"
+        "title": "PIB, tarea de todos",
+        "url": "https://www.eltiempo.com/opinion/editorial/pib-tarea-de-todos-editorial-el-tiempo-796617"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-08-15",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-08-16",
         "publication": "el-tiempo",
-        "title": "Ser contrarios, no enemigos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/ser-contrarios-no-enemigos-columna-de-jose-manuel-acevedo-796130"
+        "title": "Barco impidi\u00f3 el narco-Estado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/barco-impidio-el-narco-estado-columna-de-alfonso-gomez-mendez-796539"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2023-08-15",
+        "author": "Vladdo",
+        "date": "2023-08-16",
         "publication": "el-tiempo",
-        "title": "Otra rabieta machista de Trump",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/otra-rabieta-machista-de-trump-columna-de-sergio-munoz-bata-796106"
+        "title": "La polic\u00eda de Claudia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/la-policia-de-claudia-columna-de-vladdo-796551"
     },
     {
         "article-type": "column",
-        "author": "Marcela Mel\u00e9ndez",
-        "date": "2023-08-15",
+        "author": "Mar\u00eda Eugenia Rinaudo",
+        "date": "2023-08-16",
         "publication": "el-tiempo",
-        "title": "El activismo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/el-activismo-columna-de-marcela-melendez-796115"
+        "title": "La receta del desarrollo sostenible",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/la-receta-del-desarrollo-sostenible-columna-de-maria-eugenia-rinaudo-796625"
     },
     {
         "article-type": "column",
-        "author": "Manuel Otero",
-        "date": "2023-08-15",
+        "author": "Andr\u00e9s Hurtado Garc\u00eda",
+        "date": "2023-08-16",
         "publication": "el-tiempo",
-        "title": "En la Amazonia, la agricultura sostenible tambi\u00e9n es parte de la soluci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/en-la-amazonia-la-agricultura-sostenible-tambien-es-parte-de-la-solucion-796195"
+        "title": "Cada volc\u00e1n con su p\u00e1ramo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/cada-volcan-con-su-paramo-columna-de-andres-hurtado-garcia-796512"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2023-08-15",
+        "author": "Gustavo Duncan",
+        "date": "2023-08-16",
         "publication": "el-tiempo",
-        "title": "Asistir y aprender",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/asistir-y-aprender-columna-de-francisco-cajiao-796123"
+        "title": "Reconstruir la coalici\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/reconstruir-la-coalicion-columna-de-gustavo-duncan-796519"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2023-08-15",
+        "author": "Harold Gracia",
+        "date": "2023-08-16",
         "publication": "el-tiempo",
-        "title": "Cien de Mutis",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/cien-de-mutis-columna-de-fernando-quiroz-796134"
+        "title": "Mujer y salud, de la resiliencia hacia la equidad de g\u00e9nero",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/mujer-y-salud-de-la-resiliencia-hacia-la-equidad-de-genero-harold-gracia-796629"
     },
     {
         "article-type": "column",
-        "author": "Bj\u00f8rn Lomborg",
-        "date": "2023-08-15",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-08-16",
         "publication": "el-tiempo",
-        "title": "Una alianza para propiciar el debate y detener el alarmismo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/una-alianza-para-propiciar-el-debate-y-detener-el-alarmismo-bjorn-lomborg-796141"
+        "title": "Petro y la alcaldesa ahora ni se miran",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-y-la-alcaldesa-ahora-ni-se-miran-columna-de-poncho-renteria-796516"
     }
 ]
