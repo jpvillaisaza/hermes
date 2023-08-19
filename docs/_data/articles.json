@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-18",
+        "date": "2023-08-19",
         "publication": "el-colombiano",
-        "title": "\u00a1A cuidar la econom\u00eda!",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/a-cuidar-la-economia-BG22171330"
+        "title": "Argentina en su laberinto",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/argentina-en-su-laberinto-BG22177969"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-18",
+        "date": "2023-08-19",
         "publication": "el-espectador",
-        "title": "No m\u00e1s burocracias crueles",
-        "url": "https://www.elespectador.com/opinion/editorial/no-mas-burocracias-crueles/"
+        "title": "La fuerza p\u00fablica est\u00e1 bajo ataque",
+        "url": "https://www.elespectador.com/opinion/editorial/la-fuerza-publica-esta-bajo-ataque/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-08-19",
+        "publication": "el-espectador",
+        "title": "Las palabras y los d\u00edas",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/las-palabras-y-los-dias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2023-08-19",
+        "publication": "el-espectador",
+        "title": "Imposible mundo",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/imposible-mundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-08-19",
+        "publication": "el-espectador",
+        "title": "Trump televisado",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/trump-televisado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-08-19",
+        "publication": "el-espectador",
+        "title": "De D\u00e1vila a Calder\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/de-davila-a-calderon/"
+    },
+    {
+        "article-type": "column",
+        "author": "Weildler Guerra",
+        "date": "2023-08-19",
+        "publication": "el-espectador",
+        "title": "Los esclavos negros en las haciendas de perlas ",
+        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/los-esclavos-negros-en-las-haciendas-de-perlas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro \u00c1lvarez",
+        "date": "2023-08-19",
+        "publication": "el-espectador",
+        "title": "Gobernabilidad y Paz",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-alvarez/gobernabilidad-y-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-08-19",
+        "publication": "el-espectador",
+        "title": "En Bogot\u00e1 las c\u00e1maras corporales no ser\u00e1n ojos contra el abuso",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/en-bogota-las-camaras-corporales-no-seran-ojos-contra-el-abuso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2023-08-19",
+        "publication": "el-espectador",
+        "title": "El desplome de la econom\u00eda en el segundo trimestre ",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/el-desplome-de-la-economia-en-el-segundo-trimestre/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2023-08-19",
+        "publication": "el-espectador",
+        "title": "Poes\u00eda \u00e1cida y expandida",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/poesia-acida-y-expandida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fabrina Acosta",
+        "date": "2023-08-19",
+        "publication": "el-espectador",
+        "title": "Descorruptizar a Colombia, para tejer la paz",
+        "url": "https://www.elespectador.com/colombia-20/analistas/descorruptizar-a-colombia-para-tejer-la-paz-opinion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Lyda Melo",
+        "date": "2023-08-19",
+        "publication": "el-espectador",
+        "title": "\u00a1Honores a la bandera de la vida!",
+        "url": "https://www.elespectador.com/colombia-20/analistas/honores-a-la-bandera-de-la-vida/"
     },
     {
         "article-type": "column",
@@ -56,171 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/el-camino-y-el-lugar-equivocados/"
     },
     {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2023-08-18",
-        "publication": "el-espectador",
-        "title": "El Petronio, evento mundial",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-petronio-evento-mundial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alfredo Molano Jimeno",
-        "date": "2023-08-18",
-        "publication": "el-espectador",
-        "title": "La deuda ambiental de la Drummond",
-        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/la-deuda-ambiental-de-la-drummond/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2023-08-18",
-        "publication": "el-espectador",
-        "title": "Porrazos desde el potro del poder",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/porrazos-desde-el-potro-del-poder/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-08-18",
-        "publication": "el-espectador",
-        "title": "Buenos modales",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/buenos-modales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Bada",
-        "date": "2023-08-18",
-        "publication": "el-espectador",
-        "title": "Direcciones famosas",
-        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/direcciones-famosas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-08-18",
-        "publication": "el-espectador",
-        "title": "Esperanzador",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/esperanzador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-08-17",
-        "publication": "el-espectador",
-        "title": "El dilema Haussmann",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-dilema-haussmann/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2023-08-17",
-        "publication": "el-espectador",
-        "title": "La nueva Colombia del acuerdo nacional",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/la-nueva-colombia-del-acuerdo-nacional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-08-17",
-        "publication": "el-espectador",
-        "title": "Las fiscalas ineficientes",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/las-fiscalas-ineficientes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2023-08-17",
-        "publication": "el-espectador",
-        "title": "Justicia \u201cmade in USA\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/justicia-made-in-usa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2023-08-17",
-        "publication": "el-espectador",
-        "title": "Los trozos de verdad que le faltan a la paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/los-trozos-de-verdad-que-le-faltan-a-la-paz/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-18",
+        "date": "2023-08-19",
         "publication": "el-tiempo",
-        "title": "Gobierno y gobernanza",
-        "url": "https://www.eltiempo.com/opinion/editorial/gobierno-y-gobernanza-editorial-el-tiempo-797388"
+        "title": "Animales de laboratorio",
+        "url": "https://www.eltiempo.com/opinion/editorial/animales-de-laboratorio-editorial-el-tiempo-797719"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-08-18",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2023-08-19",
         "publication": "el-tiempo",
-        "title": "El \u2018pueblo\u2019 y la \u2018opini\u00f3n p\u00fablica\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/el-pueblo-y-la-opinion-publica-columna-de-moises-wasserman-797300"
+        "title": "Una nueva Federaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/una-nueva-federacion-columna-de-mauricio-cardenas-797655"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-08-18",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-08-19",
         "publication": "el-tiempo",
-        "title": "C\u00e9sar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/cesar-columna-de-ricardo-silva-romero-797319"
+        "title": "\u2018Non tembles, terra\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/non-tembles-terra-columna-de-luis-noe-ochoa-797675"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2023-08-18",
+        "author": "Enrique Pe\u00f1alosa",
+        "date": "2023-08-19",
         "publication": "el-tiempo",
-        "title": "J\u00f3venes viajeros",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/jovenes-viajeros-columna-de-martha-ortiz-797341"
+        "title": "Mentiras de campa\u00f1a y TransMilenio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/enrique-penalosa/mentiras-de-campana-y-transmilenio-columna-de-enrique-penalosa-797662"
     },
     {
         "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2023-08-18",
+        "author": "Juliana Uribe Villegas",
+        "date": "2023-08-19",
         "publication": "el-tiempo",
-        "title": "Armar a los buenos 2",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/armar-a-los-buenos-2-columna-de-alfredo-rangel-797374"
+        "title": "lo bonito y lo feo del primer a\u00f1o de Petro en participaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/petro-en-participacion-columna-de-juliana-villegas-797715"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-08-18",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2023-08-19",
         "publication": "el-tiempo",
-        "title": "El pa\u00eds para principiantes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/el-pais-para-principiantes-columna-de-eduardo-posada-carbo-797315"
+        "title": "Autoridad, seguridad y derechos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/autoridad-seguridad-y-derechos-columna-de-jose-gregorio-hernandez-797657"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2023-08-18",
+        "author": "Alfonso Carvajal",
+        "date": "2023-08-19",
         "publication": "el-tiempo",
-        "title": "En juego nuestra memoria",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/en-juego-nuestra-memoria-columna-de-claudia-hakim-797309"
+        "title": "La dignidad del f\u00fatbol femenino",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/la-dignidad-del-futbol-femenino-columna-de-alfonso-carvajal-797679"
     },
     {
         "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2023-08-18",
+        "author": "Javier Borda Diaz",
+        "date": "2023-08-19",
         "publication": "el-tiempo",
-        "title": "Un sue\u00f1o hecho realidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/un-sueno-hecho-realidad-columna-de-marha-senn-797327"
-    },
-    {
-        "article-type": "column",
-        "author": "Diego Arias Torres",
-        "date": "2023-08-18",
-        "publication": "el-tiempo",
-        "title": "Se busca facilitador(a)",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-arias-torres/se-busca-facilitador-a-columna-de-diego-arias-797329"
-    },
-    {
-        "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2023-08-18",
-        "publication": "el-tiempo",
-        "title": "Salvar y proteger vidas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/salvar-y-proteger-vidas-columna-de-victor-corcoba-797333"
+        "title": "Oda al 'community manager'",
+        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/oda-al-community-manager-columna-de-javier-borda-797714"
     }
 ]
