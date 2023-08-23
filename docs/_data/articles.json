@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-22",
+        "date": "2023-08-23",
         "publication": "el-colombiano",
-        "title": "arrow_right_alt",
-        "url": "https://www.elcolombiano.com/opinion/cita-textual/articulo-BJ22183057"
+        "title": "El Arv\u00ed y el Juan Pablo",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-arvi-y-el-juan-pablo-AI22198282"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-22",
+        "date": "2023-08-23",
         "publication": "el-espectador",
-        "title": "Guatemala se sacude a la clase pol\u00edtica de siempre",
-        "url": "https://www.elespectador.com/opinion/editorial/guatemala-se-sacude-a-la-clase-politica-de-siempre/"
+        "title": "La crisis de las EPS requiere di\u00e1logo con el Gobierno",
+        "url": "https://www.elespectador.com/opinion/editorial/la-crisis-de-las-eps-requiere-dialogo-con-el-gobierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-08-23",
+        "publication": "el-espectador",
+        "title": "\u00bfElecciones o patentes de corso? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/elecciones-o-patentes-de-corso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-08-23",
+        "publication": "el-espectador",
+        "title": "\u00bfEl plan Ecuador?",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-plan-ecuador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Pablo Ruiz Soto",
+        "date": "2023-08-23",
+        "publication": "el-espectador",
+        "title": "Barreras comerciales y compensaciones ambientales",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/barreras-comerciales-y-compensaciones-ambientales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Segovia",
+        "date": "2023-08-23",
+        "publication": "el-espectador",
+        "title": "\u00a1Que viva la salsa!",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/que-viva-la-salsa/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2023-08-23",
+        "publication": "el-espectador",
+        "title": "Juan Rulfo no cabe en M\u00e9xico",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/juan-rulfo-no-cabe-en-mexico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-08-23",
+        "publication": "el-espectador",
+        "title": "Con el aval del Grupo Aval",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/con-el-aval-del-grupo-aval/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-08-23",
+        "publication": "el-espectador",
+        "title": "La grieta \u00e9tica",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/la-grieta-etica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-08-23",
+        "publication": "el-espectador",
+        "title": "Doscientos a\u00f1os",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/doscientos-anos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Joan C. L\u00f3pez / Columbia University, Nueva York",
+        "date": "2023-08-23",
+        "publication": "el-espectador",
+        "title": "Maestros y aprendices de la paz",
+        "url": "https://www.elespectador.com/colombia-20/analistas/columna-de-opinion-joan-lopez-maestros-y-aprendices-de-la-paz/"
     },
     {
         "article-type": "column",
@@ -72,131 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/carta-abierta-al-presidente/"
     },
     {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-08-22",
-        "publication": "el-espectador",
-        "title": "El bazar de los politiqueros",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-bazar-de-los-politiqueros/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Felipe Carrillo G\u00e1faro",
-        "date": "2023-08-22",
-        "publication": "el-espectador",
-        "title": "La utop\u00eda meritocr\u00e1tica",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/la-utopia-meritocratica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-08-22",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Vuelve la selecci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-vuelve-la-seleccion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2023-08-21",
-        "publication": "el-espectador",
-        "title": "Par\u00e1lisis",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/paralisis/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-08-21",
-        "publication": "el-espectador",
-        "title": "El plural de \u00abp\u00f3dcast\u00bb",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/el-plural-de-podcast/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-08-21",
-        "publication": "el-espectador",
-        "title": "La perspectiva de 2023",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-perspectiva-de-2023/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2023-08-21",
-        "publication": "el-espectador",
-        "title": "\u00a1Ay, \u201cSemana\u201d! ",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/ay-semana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-08-21",
-        "publication": "el-espectador",
-        "title": "Frases",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/frases/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-08-21",
-        "publication": "el-espectador",
-        "title": "Presidente Petro, d\u00e9jese ayudar",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/presidente-petro-dejese-ayudar/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-22",
+        "date": "2023-08-23",
         "publication": "el-tiempo",
-        "title": "Ecuador, d\u00edas cruciales",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-22-de-agosto-de-2023-ecuador-dias-cruciales-798205"
+        "title": "A tomarse un tinto",
+        "url": "https://www.eltiempo.com/opinion/editorial/a-tomarse-un-tinto-editorial-798566"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-08-22",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-08-23",
         "publication": "el-tiempo",
-        "title": "Dif\u00edcil pero necesario",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-dificil-pero-necesario-798214"
+        "title": "\u00bfDebate farisaico?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/debate-farisaico-columna-de-alfonso-gomez-mendez-798513"
     },
     {
         "article-type": "column",
-        "author": "Jaime Castro",
-        "date": "2023-08-22",
+        "author": "Vladdo",
+        "date": "2023-08-23",
         "publication": "el-tiempo",
-        "title": "Elecciones territoriales definen la presidencial",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jaime-castro/columna-de-jaime-castro-elecciones-territoriales-definen-la-presidencial-798215"
+        "title": "Petro vs. Lula",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/petro-vs-lula-columna-de-vladdo-798535"
     },
     {
         "article-type": "column",
-        "author": "Cristina Esguerra Miranda",
-        "date": "2023-08-22",
+        "author": "Florence Thomas",
+        "date": "2023-08-23",
         "publication": "el-tiempo",
-        "title": "Mente, ciencia e inteligencia artificial",
-        "url": "https://www.eltiempo.com/opinion/columnistas/cristina-esguerra-miranda/columna-de-cristina-esguerra-mente-ciencia-e-inteligencia-artificial-798223"
+        "title": "\u00bfCu\u00e1l paridad pol\u00edtica?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/cual-paridad-politica-columna-de-florence-thomas-798505"
     },
     {
         "article-type": "column",
-        "author": "Javier D\u00edaz Fajardo",
-        "date": "2023-08-22",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2023-08-23",
         "publication": "el-tiempo",
-        "title": "Finanzas para un futuro sostenible",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-javier-diaz-fajardo-finanzas-para-un-futuro-sostenible-798217"
+        "title": "La Maga Atlanta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/la-maga-atlanta-columna-de-jotamario-arbelaez-798509"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2023-08-22",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-08-23",
         "publication": "el-tiempo",
-        "title": "Celular + bici = asalto",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-celular-bici-asalto-798207"
+        "title": "Petro se ganar\u00eda un premio Nobel",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-se-ganaria-un-premio-nobel-columna-de-poncho-renteria-798524"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2023-08-22",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2023-08-23",
         "publication": "el-tiempo",
-        "title": "Memoria de Santiago Garc\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-escobar-memoria-de-santiago-garcia-798222"
+        "title": "Fiesta de la poes\u00eda en Cali",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/fiesta-de-la-poesia-en-cali-columna-de-fabio-martinez-798598"
+    },
+    {
+        "article-type": "column",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2023-08-23",
+        "publication": "el-tiempo",
+        "title": "El vino del r\u00e9gimen",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/el-vino-del-regimen-columna-de-alexander-cambero-798601"
     }
 ]
