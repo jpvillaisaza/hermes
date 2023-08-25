@@ -2,18 +2,122 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-24",
+        "date": "2023-08-25",
         "publication": "el-colombiano",
-        "title": "Una recarga de esperanza",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/una-recarga-de-esperanza-HD22210236"
+        "title": "La crisis de la infraestructura",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-crisis-de-la-infraestructura-DG22243246"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-24",
+        "date": "2023-08-25",
         "publication": "el-espectador",
-        "title": "El debate pintoresco para reducir el sueldo de los congresistas",
-        "url": "https://www.elespectador.com/opinion/editorial/el-debate-pintoresco-para-reducir-el-sueldo-de-los-congresistas/"
+        "title": "Cae el golpista ruso, celebra el r\u00e9gimen",
+        "url": "https://www.elespectador.com/opinion/editorial/cae-el-golpista-ruso-celebra-el-regimen/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "Matones S. A.",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/matones-s-a/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "El Sinv\u00edas ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-sinvias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "No acabe lo bueno, presidente, por favor",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/no-acabe-lo-bueno-presidente-por-favor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "Ampliar la mirada",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/ampliar-la-mirada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "Matoneo en el Helvetia",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/matoneo-en-el-helvetia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "Una mesa distinta",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/una-mesa-distinta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "Era famoso, pero no lo sab\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/era-famoso-pero-no-lo-sabia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "El \u201cbullying\u201d pol\u00edtico, el verdadero cambio",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/el-bullying-politico-el-verdadero-cambio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "Jefe de Estado y jefe de gobierno",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/jefe-de-estado-y-jefe-de-gobierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "El poder de lo local",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/el-poder-de-lo-local/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juliana Mu\u00f1oz Toro",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "Carta al hijo",
+        "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/carta-al-hijo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Foro Nacional por Colombia*",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "Conflicto urbano: entre el incremento de la guerra y una paz total que no arranca",
+        "url": "https://www.elespectador.com/colombia-20/analistas/paz-total-incremento-del-conflicto-armado-en-lo-urbano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-08-25",
+        "publication": "el-espectador",
+        "title": "Luis Rubiales, el \u201cmacho\u201d que opac\u00f3 la final del Mundial Femenino",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/luis-rubiales-el-macho-que-opaco-la-final-del-mundial-femenino/"
     },
     {
         "article-type": "column",
@@ -40,171 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/frente-al-populismo-estoicismo/"
     },
     {
-        "article-type": "column",
-        "author": "Eduardo Lora",
-        "date": "2023-08-24",
-        "publication": "el-espectador",
-        "title": "Las tres \u00edes de la pol\u00edtica o el fiasco Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-lora-/las-tres-ies-de-la-politica-o-el-fiasco-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2023-08-24",
-        "publication": "el-espectador",
-        "title": "SOS por la democracia en Am\u00e9rica Latina ",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/sos-por-la-democracia-en-america-latina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2023-08-24",
-        "publication": "el-espectador",
-        "title": "La prensa en la mira",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/la-prensa-en-la-mira/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Camargo",
-        "date": "2023-08-24",
-        "publication": "el-espectador",
-        "title": "La gran desconexi\u00f3n: c\u00f3mo reconectar a los estudiantes con la escuela",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/la-gran-desconexion-como-reconectar-a-los-estudiantes-con-la-escuela-y-el-aprendizaje/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-08-24",
-        "publication": "el-espectador",
-        "title": "Genes y m\u00fasica",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/genes-y-musica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Guillermo Gonz\u00e1lez Uribe",
-        "date": "2023-08-24",
-        "publication": "el-espectador",
-        "title": "Los medios y el gobierno Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/guillermo-gonzalez-uribe/los-medios-y-el-gobierno-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-08-23",
-        "publication": "el-espectador",
-        "title": "\u00bfElecciones o patentes de corso? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/elecciones-o-patentes-de-corso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-08-23",
-        "publication": "el-espectador",
-        "title": "\u00bfEl plan Ecuador?",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-plan-ecuador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Pablo Ruiz Soto",
-        "date": "2023-08-23",
-        "publication": "el-espectador",
-        "title": "Barreras comerciales y compensaciones ambientales",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-pablo-ruiz-soto/barreras-comerciales-y-compensaciones-ambientales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-08-23",
-        "publication": "el-espectador",
-        "title": "\u00a1Que viva la salsa!",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/que-viva-la-salsa/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2023-08-23",
-        "publication": "el-espectador",
-        "title": "Juan Rulfo no cabe en M\u00e9xico",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/juan-rulfo-no-cabe-en-mexico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-08-23",
-        "publication": "el-espectador",
-        "title": "Con el aval del Grupo Aval",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/con-el-aval-del-grupo-aval/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-08-23",
-        "publication": "el-espectador",
-        "title": "La grieta \u00e9tica",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/la-grieta-etica/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-24",
+        "date": "2023-08-25",
         "publication": "el-tiempo",
-        "title": "Mataderos higi\u00e9nicos",
-        "url": "https://www.eltiempo.com/opinion/editorial/mataderos-higienicos-editorial-el-tiempo-798970"
+        "title": "Los pacientes primero",
+        "url": "https://www.eltiempo.com/opinion/editorial/los-pacientes-primero-editorial-el-tiempo-799371"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-08-24",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-08-25",
         "publication": "el-tiempo",
-        "title": "El principio del fin",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-principio-del-fin-columna-de-pedro-medellin-798961"
+        "title": "Encuesta de opini\u00f3n en educaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/encuesta-de-opinion-en-educacion-columna-de-moises-wasserman-799296"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-08-24",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-08-25",
         "publication": "el-tiempo",
-        "title": "La tregua de los a\u00f1os",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/la-tregua-de-los-anos-columna-de-juan-esteban-constain-798948"
+        "title": "Terna",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/terna-columna-de-ricardo-silva-romero-799301"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2023-08-24",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2023-08-25",
         "publication": "el-tiempo",
-        "title": "El fantasma ha reencarnado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/el-fantasma-ha-reencarnado-columna-de-jineth-bedoya-798933"
+        "title": "Argentina, elecciones al borde del abismo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/argentina-elecciones-al-borde-del-abismo-columna-de-antonio-albinana-799287"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Lloreda",
-        "date": "2023-08-24",
+        "author": "Mariajos\u00e9 Quiceno",
+        "date": "2023-08-25",
         "publication": "el-tiempo",
-        "title": "Esquivar el iceberg",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/esquivar-el-iceberg-columna-de-mauricio-lloreda-798910"
+        "title": "C\u00f3mo defenderse de las mentiras para volver a confiar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/como-defenderse-de-las-mentiras-para-volver-a-confiar-mariajose-quiceno-799384"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2023-08-24",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-08-25",
         "publication": "el-tiempo",
-        "title": "Recuperar la esperanza a trav\u00e9s de proyectos de vida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/recuperar-la-esperanza-a-traves-de-proyectos-de-vida-juliana-mejia-798871"
+        "title": "\u00bfDemocracia sin diversidad?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/democracia-sin-diversidad-columna-de-eduardo-posada-carbo-799275"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2023-08-24",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2023-08-25",
         "publication": "el-tiempo",
-        "title": "Mon\u00f3logos sordos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/monologos-sordos-columna-de-diana-pardo-798863"
+        "title": "Tienen rabia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/tienen-rabia-columna-de-manuel-guzman-hennessey-799306"
     },
     {
         "article-type": "column",
-        "author": "\u00c1lvaro Benedetti",
-        "date": "2023-08-24",
+        "author": "Dejusticia",
+        "date": "2023-08-25",
         "publication": "el-tiempo",
-        "title": "\u00bfC\u00f3mo revertir la imagen del pol\u00edtico mediocre?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/como-revertir-la-imagen-del-politico-mediocre-alvaro-benedetti-798917"
+        "title": "Derechos del campesinado y conservaci\u00f3n ambiental, un equilibrio urgente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/derechos-del-campesinado-y-conservacion-ambiental-un-equilibrio-urgente-799315"
     }
 ]
