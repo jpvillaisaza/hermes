@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-30",
+        "date": "2023-08-31",
         "publication": "el-colombiano",
-        "title": "Para d\u00f3nde va la Paz Total",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/para-donde-va-la-paz-total-HE22265763"
+        "title": "Lula vs. Petro",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/lula-vs-petro-JF22277952"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-30",
+        "date": "2023-08-31",
         "publication": "el-espectador",
-        "title": "Salud mental: crisis silenciosa y dolorosa en Colombia",
-        "url": "https://www.elespectador.com/opinion/editorial/salud-mental-crisis-silenciosa-y-dolorosa-en-colombia/"
+        "title": "El horror que le imputan al general Mario Montoya",
+        "url": "https://www.elespectador.com/opinion/editorial/el-horror-que-le-imputan-al-general-mario-montoya/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "Barbie: la gran sorpresa de la industria del cine en materia de feminismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/barbie-la-gran-sorpresa-de-la-industria-del-cine-en-materia-de-feminismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "Luis Rubiales y la piedra que empujamos cuesta arriba",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/luis-rubiales-y-la-piedra-que-empujamos-cuesta-arriba/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "La ruindad que seremos",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/la-ruindad-que-seremos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "M\u00e1s que unas fechas que coinciden ",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/mas-que-unas-fechas-que-coinciden/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "\u00bfDejar\u00e1n a Petro legar una historia con futuro?",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/dejaran-a-petro-legar-una-historia-con-futuro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "Sentirse aludido",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/sentirse-aludido/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Villa",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "La vida cultural crece en Sucre",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/la-vida-cultural-crece-en-sucre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "El cerebro femenino",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/el-cerebro-femenino/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fabrina Acosta Contreras",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "\u201cPazCiencia\u201d",
+        "url": "https://www.elespectador.com/colombia-20/analistas/pazcencia-la-columna-de-fabrina-acosta-sobre-temas-del-caribe-colombiano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "Blancanieves y por qu\u00e9 las princesas s\u00ed pueden so\u00f1ar con el amor",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/blancanieves-y-porque-las-princesas-si-pueden-sonar-con-el-amor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Oscar Guardiola-Rivera",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "Un llamado urgente por el cambio clim\u00e1tico",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/un-llamado-urgente-por-el-cambio-climatico-oscar-guardiola-rivera-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-08-31",
+        "publication": "el-espectador",
+        "title": "Censura a los rusos ",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/censura-a-los-rusos/"
     },
     {
         "article-type": "column",
@@ -22,30 +118,6 @@
         "publication": "el-espectador",
         "title": "Del cuero de la corrupci\u00f3n salen las correas",
         "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/del-cuero-de-la-corrupcion-salen-las-correas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-08-30",
-        "publication": "el-espectador",
-        "title": "Hora de otra narrativa",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/hora-de-otra-narrativa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-08-30",
-        "publication": "el-espectador",
-        "title": "Temblando",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/temblando/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-08-30",
-        "publication": "el-espectador",
-        "title": "\u00bfPor qu\u00e9 le \u201chierve la sangre\u201d a la hija de Pizano?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/por-que-le-hierve-la-sangre-a-la-hija-de-pizano/"
     },
     {
         "article-type": "column",
@@ -65,146 +137,74 @@
     },
     {
         "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
         "date": "2023-08-30",
         "publication": "el-espectador",
-        "title": "El pa\u00eds de las maravillas",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/el-pais-de-las-maravillas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Bernard Unkles, Embajador de Australia en Colombia",
-        "date": "2023-08-30",
-        "publication": "el-espectador",
-        "title": "El gran ganador del mundial: el deporte femenino",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado/el-gran-ganador-del-mundial-el-deporte-femenino/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-08-29",
-        "publication": "el-espectador",
-        "title": "Revoluci\u00f3n digital",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/revolucion-digital/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-08-29",
-        "publication": "el-espectador",
-        "title": "Notas de paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/notas-de-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2023-08-29",
-        "publication": "el-espectador",
-        "title": "\u00bfSer\u00e1 una buena idea eliminar los ministerios de ciencia y educaci\u00f3n?",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/sera-una-buena-idea-eliminar-los-ministerios-de-ciencia-y-educacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-08-29",
-        "publication": "el-espectador",
-        "title": "\u00bfBald\u00edos o tierras de Fedeg\u00e1n?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/baldios-o-tierras-de-fedegan/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-08-29",
-        "publication": "el-espectador",
-        "title": "El Monito Jardinero",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/el-monito-jardinero/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-08-29",
-        "publication": "el-espectador",
-        "title": "Temblores y terremotos",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/temblores-y-terremotos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2023-08-29",
-        "publication": "el-espectador",
-        "title": "\u00bfAcabar con el delito pol\u00edtico?",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/acabar-con-el-delito-politico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-08-29",
-        "publication": "el-espectador",
-        "title": "El beso en Espa\u00f1a",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-beso-en-espana/"
+        "title": "Temblando",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/temblando/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-30",
+        "date": "2023-08-31",
         "publication": "el-tiempo",
-        "title": "Laboral 2.0",
-        "url": "https://www.eltiempo.com/opinion/editorial/laboral-2-0-editorial-el-tiempo-800878"
+        "title": "Una compleja iniciativa",
+        "url": "https://www.eltiempo.com/opinion/editorial/una-compleja-iniciativa-editorial-801246"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-08-30",
+        "author": "Pedro Medellin",
+        "date": "2023-08-31",
         "publication": "el-tiempo",
-        "title": "\u2018Acuerdo nacional\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/acuerdo-nacional-columna-de-alfonso-gomez-mendez-800817"
+        "title": "El r\u00e9gimen de la ceguera",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-regimen-de-la-ceguera-columna-de-pedro-medellin-801226"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-08-30",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-08-31",
         "publication": "el-tiempo",
-        "title": "De transiciones y complicaciones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/de-transiciones-y-complicaciones-columna-de-vladdo-800798"
+        "title": "La sombra rom\u00e1ntica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/la-sombra-romantica-columna-de-juan-esteban-constain-801200"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-08-30",
+        "author": "Claudia Palacios",
+        "date": "2023-08-31",
         "publication": "el-tiempo",
-        "title": "Sobrerrepresentados",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/sobrerrepresentados-columna-de-gustavo-petro-800810"
+        "title": "S\u00ed, s\u00ed es tan grave",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/si-si-es-tan-grave-columna-de-claudia-palacios-801173"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Eugenia Rinaudo",
-        "date": "2023-08-30",
+        "author": "Luz Janeth Forero",
+        "date": "2023-08-31",
         "publication": "el-tiempo",
-        "title": "\u2018Eremoceno\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/eremoceno-columna-de-maria-eugenia-rinaudo-800841"
+        "title": "El poder de la b\u00fasqueda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-poder-de-la-busqueda-columna-de-luz-janeth-forero-martinez-801190"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2023-08-30",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2023-08-31",
         "publication": "el-tiempo",
-        "title": "Colombia, el pa\u00eds de la belleza",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/colombia-el-pais-de-la-belleza-columna-de-andres-hurtado-garcia-800795"
+        "title": "Palabras vs. hechos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/palabras-vs-hechos-columna-de-victor-manuel-ruiz-801181"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-08-30",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-08-31",
         "publication": "el-tiempo",
-        "title": "Robledo, un regio alcalde para Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/robledo-un-regio-alcalde-para-bogota-columna-de-poncho-renteria-800852"
+        "title": "Otra puerta cerrada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/otra-puerta-cerrada-columna-de-sergio-ramirez-801215"
     },
     {
         "article-type": "column",
-        "author": "Alpher Rojas C.",
-        "date": "2023-08-30",
+        "author": "Lamine Sow",
+        "date": "2023-08-31",
         "publication": "el-tiempo",
-        "title": "Las falacias de la oposici\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/las-falacias-de-la-oposicion-columna-de-alpher-rojas-800862"
+        "title": "La cultura afrocolombiana y su poder transformador en nuestra sociedad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/la-cultura-afrocolombiana-y-su-poder-transformador-en-nuestra-sociedad-801252"
     }
 ]
