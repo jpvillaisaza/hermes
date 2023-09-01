@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-31",
+        "date": "2023-09-01",
         "publication": "el-colombiano",
-        "title": "Lula vs. Petro",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/lula-vs-petro-JF22277952"
+        "title": "Reforma laboral recargada ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/reforma-laboral-recargada-BK22282120"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-31",
+        "date": "2023-09-01",
         "publication": "el-espectador",
-        "title": "El horror que le imputan al general Mario Montoya",
-        "url": "https://www.elespectador.com/opinion/editorial/el-horror-que-le-imputan-al-general-mario-montoya/"
+        "title": "La salud del presidente es un asunto de inter\u00e9s nacional",
+        "url": "https://www.elespectador.com/opinion/editorial/la-salud-del-presidente-es-un-asunto-de-interes-nacional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-09-01",
+        "publication": "el-espectador",
+        "title": "La eterna impuntualidad del presidente Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/la-eterna-impuntualidad-del-presidente-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-09-01",
+        "publication": "el-espectador",
+        "title": "Una persecuci\u00f3n bellaca",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/una-persecucion-bellaca/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-09-01",
+        "publication": "el-espectador",
+        "title": "Trabajo de campo",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/trabajo-de-campo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tom\u00e1s Molina",
+        "date": "2023-09-01",
+        "publication": "el-espectador",
+        "title": "El lujo de los congresistas es incompatible con la democracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/el-lujo-de-los-congresistas-es-incompatible-con-la-democracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Leyva",
+        "date": "2023-09-01",
+        "publication": "el-espectador",
+        "title": "\u201cReset\u201d Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/reset-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2023-09-01",
+        "publication": "el-espectador",
+        "title": "V\u00eda al ya-no",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/via-al-ya-no/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2023-09-01",
+        "publication": "el-espectador",
+        "title": "El simplista",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/el-simplista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-09-01",
+        "publication": "el-espectador",
+        "title": "Las fatalidades de las guerras",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/las-fatalidades-de-las-guerras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-09-01",
+        "publication": "el-espectador",
+        "title": "Parar para\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/parar-para/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-09-01",
+        "publication": "el-espectador",
+        "title": "Medell\u00edn volver\u00e1 al pasado con Fico Guti\u00e9rrez (GRACIAS, QUINTERO) | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-medellin-volvera-al-pasado-con-fico-gutierrez-gracias-quintero/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/sentirse-aludido/"
     },
     {
-        "article-type": "column",
-        "author": "Santiago Villa",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "La vida cultural crece en Sucre",
-        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/la-vida-cultural-crece-en-sucre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "El cerebro femenino",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/el-cerebro-femenino/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabrina Acosta Contreras",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "\u201cPazCiencia\u201d",
-        "url": "https://www.elespectador.com/colombia-20/analistas/pazcencia-la-columna-de-fabrina-acosta-sobre-temas-del-caribe-colombiano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "Blancanieves y por qu\u00e9 las princesas s\u00ed pueden so\u00f1ar con el amor",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/blancanieves-y-porque-las-princesas-si-pueden-sonar-con-el-amor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Oscar Guardiola-Rivera",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "Un llamado urgente por el cambio clim\u00e1tico",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/un-llamado-urgente-por-el-cambio-climatico-oscar-guardiola-rivera-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "Censura a los rusos ",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/censura-a-los-rusos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-08-30",
-        "publication": "el-espectador",
-        "title": "Del cuero de la corrupci\u00f3n salen las correas",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/del-cuero-de-la-corrupcion-salen-las-correas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-08-30",
-        "publication": "el-espectador",
-        "title": "Revelar la receta",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/revelar-la-receta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-08-30",
-        "publication": "el-espectador",
-        "title": "Turbulencia m\u00e1s adelante",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/turbulencia-mas-adelante/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-08-30",
-        "publication": "el-espectador",
-        "title": "Temblando",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/temblando/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-08-31",
+        "date": "2023-09-01",
         "publication": "el-tiempo",
-        "title": "Una compleja iniciativa",
-        "url": "https://www.eltiempo.com/opinion/editorial/una-compleja-iniciativa-editorial-801246"
+        "title": "J\u00f3venes en Paz",
+        "url": "https://www.eltiempo.com/opinion/columnistas/editorial/jovenes-en-paz-editorial-el-tiempo-801617"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-08-31",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-09-01",
         "publication": "el-tiempo",
-        "title": "El r\u00e9gimen de la ceguera",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-regimen-de-la-ceguera-columna-de-pedro-medellin-801226"
+        "title": "Los l\u00edderes y sus fotos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/los-lideres-y-sus-fotos-columna-de-moises-wasserman-801523"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-08-31",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-09-01",
         "publication": "el-tiempo",
-        "title": "La sombra rom\u00e1ntica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/la-sombra-romantica-columna-de-juan-esteban-constain-801200"
+        "title": "Mercurio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/mercurio-columna-de-ricardo-silva-romero-801602"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2023-08-31",
+        "author": "Martha Ortiz",
+        "date": "2023-09-01",
         "publication": "el-tiempo",
-        "title": "S\u00ed, s\u00ed es tan grave",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/si-si-es-tan-grave-columna-de-claudia-palacios-801173"
+        "title": "A la rueda rueda con la infraestructura",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/a-la-rueda-rueda-con-la-infraestructura-columna-de-martha-ortiz-801563"
     },
     {
         "article-type": "column",
-        "author": "Luz Janeth Forero",
-        "date": "2023-08-31",
+        "author": "Alfredo Rangel",
+        "date": "2023-09-01",
         "publication": "el-tiempo",
-        "title": "El poder de la b\u00fasqueda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-poder-de-la-busqueda-columna-de-luz-janeth-forero-martinez-801190"
+        "title": "Salud de ricos, recursos escasos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/salud-de-ricos-recursos-escasos-columna-de-alfredo-rangel-801580"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Manuel Ruiz",
-        "date": "2023-08-31",
+        "author": "Martha Senn",
+        "date": "2023-09-01",
         "publication": "el-tiempo",
-        "title": "Palabras vs. hechos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/palabras-vs-hechos-columna-de-victor-manuel-ruiz-801181"
+        "title": "El derecho a una escuela feliz",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/el-derecho-a-una-escuela-feliz-columna-de-martha-senn-801559"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2023-08-31",
+        "author": "Claudia Hakim",
+        "date": "2023-09-01",
         "publication": "el-tiempo",
-        "title": "Otra puerta cerrada",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/otra-puerta-cerrada-columna-de-sergio-ramirez-801215"
+        "title": "\u00a1Que el buen ejemplo nos contagie!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/que-el-buen-ejemplo-nos-contagie-columna-de-claudia-hakim-801539"
     },
     {
         "article-type": "column",
-        "author": "Lamine Sow",
-        "date": "2023-08-31",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-09-01",
         "publication": "el-tiempo",
-        "title": "La cultura afrocolombiana y su poder transformador en nuestra sociedad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/la-cultura-afrocolombiana-y-su-poder-transformador-en-nuestra-sociedad-801252"
+        "title": "El historiador y sus libros",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/el-historiador-y-sus-libros-columna-de-eduardo-posada-carbo-801547"
+    },
+    {
+        "article-type": "column",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2023-09-01",
+        "publication": "el-tiempo",
+        "title": "Existimos para cohabitar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/existimos-para-cohabitar-columna-de-victor-corcoba-801584"
     }
 ]
