@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-01",
+        "date": "2023-09-02",
         "publication": "el-colombiano",
-        "title": "Reforma laboral recargada ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/reforma-laboral-recargada-BK22282120"
+        "title": "Preocupaciones el\u00e9ctricas",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/preocupaciones-electricas-JL22293974"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-01",
+        "date": "2023-09-02",
         "publication": "el-espectador",
-        "title": "La salud del presidente es un asunto de inter\u00e9s nacional",
-        "url": "https://www.elespectador.com/opinion/editorial/la-salud-del-presidente-es-un-asunto-de-interes-nacional/"
+        "title": "Los hipop\u00f3tamos son una bomba de tiempo que ya estall\u00f3",
+        "url": "https://www.elespectador.com/opinion/editorial/los-hipopotamos-son-una-bomba-de-tiempo-que-ya-estallo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "Pol\u00edtica de la reconciliaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/politica-de-la-reconciliacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "Cuadernos azules",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/cuadernos-azules/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "La invenci\u00f3n de la muerte",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/la-invencion-de-la-muerte/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mart\u00edn Jaramillo",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "La dieta de agrandar la rosca",
+        "url": "https://www.elespectador.com/opinion/columnistas/martin-jaramillo/la-dieta-de-agrandar-la-rosca/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "El capitalismo rosa y la Alcald\u00eda de Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/el-capitalismo-rosa-y-la-alcaldia-de-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "\u201cLas cartas del Boom\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/las-cartas-del-boom/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro \u00c1lvarez",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "Aportes a la ley estatutaria de la educaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-alvarez/aportes-a-la-ley-estatutaria-de-la-educacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "Securitizaci\u00f3n de la campa\u00f1a ",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/securitizacion-de-la-campana/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "Falsos positivos de Duque, Molano y Zapateiro",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/falsos-positivos-de-duque-molano-y-zapateiro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "Columna de Andr\u00e9s Marocco: Un nuevo reto",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/un-nuevo-reto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "Cuando la inteligencia artificial se vuelve una amenaza para las mujeres",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/cuando-la-inteligencia-artificial-se-vuelve-una-amenaza-para-las-mujeres/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2023-09-02",
+        "publication": "el-espectador",
+        "title": "Estelas en la mar",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/estelas-en-la-mar/"
     },
     {
         "article-type": "column",
@@ -41,30 +137,6 @@
     },
     {
         "article-type": "column",
-        "author": "Tom\u00e1s Molina",
-        "date": "2023-09-01",
-        "publication": "el-espectador",
-        "title": "El lujo de los congresistas es incompatible con la democracia",
-        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/el-lujo-de-los-congresistas-es-incompatible-con-la-democracia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Leyva",
-        "date": "2023-09-01",
-        "publication": "el-espectador",
-        "title": "\u201cReset\u201d Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/reset-bogota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alfredo Molano Jimeno",
-        "date": "2023-09-01",
-        "publication": "el-espectador",
-        "title": "V\u00eda al ya-no",
-        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/via-al-ya-no/"
-    },
-    {
-        "article-type": "column",
         "author": "Juan Carlos Botero",
         "date": "2023-09-01",
         "publication": "el-espectador",
@@ -72,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/el-simplista/"
     },
     {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2023-09-01",
-        "publication": "el-espectador",
-        "title": "Las fatalidades de las guerras",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/las-fatalidades-de-las-guerras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-09-01",
-        "publication": "el-espectador",
-        "title": "Parar para\u2026",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/parar-para/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2023-09-01",
-        "publication": "el-espectador",
-        "title": "Medell\u00edn volver\u00e1 al pasado con Fico Guti\u00e9rrez (GRACIAS, QUINTERO) | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-medellin-volvera-al-pasado-con-fico-gutierrez-gracias-quintero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "Barbie: la gran sorpresa de la industria del cine en materia de feminismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/barbie-la-gran-sorpresa-de-la-industria-del-cine-en-materia-de-feminismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "Luis Rubiales y la piedra que empujamos cuesta arriba",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/luis-rubiales-y-la-piedra-que-empujamos-cuesta-arriba/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "La ruindad que seremos",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/la-ruindad-que-seremos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "M\u00e1s que unas fechas que coinciden ",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/mas-que-unas-fechas-que-coinciden/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "\u00bfDejar\u00e1n a Petro legar una historia con futuro?",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/dejaran-a-petro-legar-una-historia-con-futuro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-08-31",
-        "publication": "el-espectador",
-        "title": "Sentirse aludido",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/sentirse-aludido/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-01",
+        "date": "2023-09-02",
         "publication": "el-tiempo",
-        "title": "J\u00f3venes en Paz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/editorial/jovenes-en-paz-editorial-el-tiempo-801617"
+        "title": "Resistencia peligrosa",
+        "url": "https://www.eltiempo.com/opinion/editorial/resistencia-peligrosa-editorial-el-tiempo-801991"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-09-01",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2023-09-02",
         "publication": "el-tiempo",
-        "title": "Los l\u00edderes y sus fotos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/los-lideres-y-sus-fotos-columna-de-moises-wasserman-801523"
+        "title": "Pol\u00edticos al rescate",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/politicos-al-rescate-columna-de-mauricio-cardenas-santamaria-801952"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-09-01",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2023-09-02",
         "publication": "el-tiempo",
-        "title": "Mercurio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/mercurio-columna-de-ricardo-silva-romero-801602"
+        "title": "Redes, medios y justicia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/redes-medios-y-justicia-columna-de-jose-gregorio-hernandez-801938"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2023-09-01",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-09-02",
         "publication": "el-tiempo",
-        "title": "A la rueda rueda con la infraestructura",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/a-la-rueda-rueda-con-la-infraestructura-columna-de-martha-ortiz-801563"
+        "title": "Un pa\u00eds de ojos rojos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/un-pais-de-ojos-rojos-columna-de-luis-noe-ochoa-801971"
     },
     {
         "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2023-09-01",
+        "author": "Sara Tufano",
+        "date": "2023-09-02",
         "publication": "el-tiempo",
-        "title": "Salud de ricos, recursos escasos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/salud-de-ricos-recursos-escasos-columna-de-alfredo-rangel-801580"
+        "title": "Una jornada particular en Cali",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/una-jornada-particular-en-cali-columna-de-sara-tufano-801928"
     },
     {
         "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2023-09-01",
+        "author": "\u00c1ngela Anzola",
+        "date": "2023-09-02",
         "publication": "el-tiempo",
-        "title": "El derecho a una escuela feliz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/el-derecho-a-una-escuela-feliz-columna-de-martha-senn-801559"
+        "title": "La tragedia de los embarazos infantiles forzados en Colombia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/la-tragedia-de-los-embarazos-infantiles-forzados-en-colombia-angela-anzola-801976"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2023-09-01",
+        "author": "Armando Silva",
+        "date": "2023-09-02",
         "publication": "el-tiempo",
-        "title": "\u00a1Que el buen ejemplo nos contagie!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/que-el-buen-ejemplo-nos-contagie-columna-de-claudia-hakim-801539"
+        "title": "Parece una fantas\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/parece-una-fantasia-columna-de-armando-silva-801955"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-09-01",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2023-09-02",
         "publication": "el-tiempo",
-        "title": "El historiador y sus libros",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/el-historiador-y-sus-libros-columna-de-eduardo-posada-carbo-801547"
-    },
-    {
-        "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2023-09-01",
-        "publication": "el-tiempo",
-        "title": "Existimos para cohabitar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/existimos-para-cohabitar-columna-de-victor-corcoba-801584"
+        "title": "Dos perfiles: de Niro, 80 a\u00f1os y Polanski, 90",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/dos-perfiles-de-niro-80-anos-y-polanski-90-columna-de-mauricio-laurens-801974"
     }
 ]
