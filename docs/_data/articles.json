@@ -2,18 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-06",
+        "date": "2023-09-07",
         "publication": "el-colombiano",
-        "title": "El Pacto de la Picota",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-pacto-de-la-picota-PC22318412"
+        "title": "Dizque una \u2018jugadita\u2019",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/dizque-una-jugadita-FB22324771"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-06",
+        "date": "2023-09-07",
         "publication": "el-espectador",
-        "title": "El regreso de Laura Sarabia al Gobierno",
-        "url": "https://www.elespectador.com/opinion/editorial/el-regreso-de-laura-sarabia-al-gobierno/"
+        "title": "Exceso de torpezas en la contrataci\u00f3n de pasaportes",
+        "url": "https://www.elespectador.com/opinion/editorial/exceso-de-torpezas-en-la-contratacion-de-pasaportes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-09-07",
+        "publication": "el-espectador",
+        "title": "Trece meses despu\u00e9s",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/trece-meses-despues/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-09-07",
+        "publication": "el-espectador",
+        "title": "Petro no tiene autismo, tiene soledad",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/petro-no-tiene-autismo-tiene-soledad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-09-07",
+        "publication": "el-espectador",
+        "title": "Los sonidos del mundo",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/los-sonidos-del-mundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2023-09-07",
+        "publication": "el-espectador",
+        "title": "\u201cS\u00edndrome de Asperger\u201d, capacitismo y neurodiversidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/sindrome-de-asperger-capacitismo-y-neurodiversidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-09-07",
+        "publication": "el-espectador",
+        "title": "Telemercadeo inoportuno",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/telemercadeo-inoportuno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Barbosa",
+        "date": "2023-09-07",
+        "publication": "el-espectador",
+        "title": "\u00bfCu\u00e1l crisis?",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/cual-crisis/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-09-07",
+        "publication": "el-espectador",
+        "title": "Las mentiras sobre \u201ctener asperger\u201d o \u201cser autista\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/las-mentiras-sobre-tener-asperger-o-ser-autista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-09-07",
+        "publication": "el-espectador",
+        "title": "\u201cNuestra nueva apuesta , ZonaZ, me recibi\u00f3 con un baldado de agua\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nuestra-nueva-apuesta-zonaz-me-recibio-con-un-baldado-de-agua/"
     },
     {
         "article-type": "column",
@@ -21,7 +85,15 @@
         "date": "2023-09-06",
         "publication": "el-espectador",
         "title": "Domin\u00f3",
-        "url": "https://www.elespectador.com/opinion/columnistas/domino-en-africa-noticias-hoy-marcos-peckel/"
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/domino-en-africa-noticias-hoy-marcos-peckel/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-09-06",
+        "publication": "el-espectador",
+        "title": "Katherine Miranda y gato por liebre en C\u00e1mara",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/katherine-miranda-y-gato-por-liebre-en-camara-de-representantes/"
     },
     {
         "article-type": "column",
@@ -33,11 +105,19 @@
     },
     {
         "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
+        "author": "Pascual Gaviria",
         "date": "2023-09-06",
         "publication": "el-espectador",
-        "title": "Katherine Miranda y gato por liebre en C\u00e1mara",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/katherine-miranda-y-gato-por-liebre-en-camara-de-representantes/"
+        "title": "La cajita feliz",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/la-cajita-feliz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-09-06",
+        "publication": "el-espectador",
+        "title": "T\u00e9cnicos",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/tecnicos/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/pais-de-bullies/"
     },
     {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-09-06",
-        "publication": "el-espectador",
-        "title": "La cajita feliz",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/la-cajita-feliz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-09-06",
-        "publication": "el-espectador",
-        "title": "T\u00e9cnicos",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/tecnicos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-09-06",
-        "publication": "el-espectador",
-        "title": "Transporte p\u00fablico gratuito",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/transporte-publico-gratuito/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Rinc\u00f3n Escalante",
-        "date": "2023-09-06",
-        "publication": "el-espectador",
-        "title": "Todo lo que est\u00e1 mal con \u201cel Asperger del presidente Petro\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-rincon-escalante/todo-lo-que-esta-mal-con-el-asperger-del-presidente-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-09-06",
-        "publication": "el-espectador",
-        "title": "Presidente Petro, escuche a los enfermos de c\u00e1ncer",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/presidente-petro-escuche-a-los-enfermos-de-cancer/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado",
-        "date": "2023-09-06",
-        "publication": "el-espectador",
-        "title": "La necesaria admisi\u00f3n de la Rep\u00fablica de China-Taiw\u00e1n en la ONU: opini\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado/la-necesaria-admision-de-la-republica-de-china-taiwan-en-la-onu/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2023-09-05",
-        "publication": "el-espectador",
-        "title": "Imaginaci\u00f3n, paz y equidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/imaginacion-paz-y-equidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2023-09-05",
-        "publication": "el-espectador",
-        "title": "La insensibilidad ante las crisis emocionales",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/la-insensibilidad-ante-las-crisis-emocionales/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-09-05",
-        "publication": "el-espectador",
-        "title": "\u201cLas cartas del Boom\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/las-cartas-del-boom/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-09-05",
-        "publication": "el-espectador",
-        "title": "Petro: verdades sin m\u00e1scara",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/petro-verdades-sin-mascara/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-06",
+        "date": "2023-09-07",
         "publication": "el-tiempo",
-        "title": "Respetuosa solicitud",
-        "url": "https://www.eltiempo.com/opinion/editorial/respetuosa-solicitud-editorial-el-tiempo-803014"
+        "title": "Bienvenido el debate",
+        "url": "https://www.eltiempo.com/opinion/editorial/bienvenido-el-debate-editorial-el-tiempo-803421"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-09-06",
+        "author": "Pedro Medellin",
+        "date": "2023-09-07",
         "publication": "el-tiempo",
-        "title": "Presidencialismo y elecciones regionales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/presidencialismo-y-elecciones-regionales-columna-de-alfonso-gomez-mendez-802948"
+        "title": "El peligroso camino de la radicalizaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-peligroso-camino-de-la-radicalizacion-columna-de-pedro-medellin-803414"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-09-06",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-09-07",
         "publication": "el-tiempo",
-        "title": "Justicia tard\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/justicia-tardia-columna-de-vladdo-802945"
+        "title": "Ser mamertos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/ser-mamertos-columna-de-juan-esteban-constain-803309"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2023-09-06",
+        "author": "Jineth Bedoya Lima",
+        "date": "2023-09-07",
         "publication": "el-tiempo",
-        "title": "Un estatuto de igualdad para las mujeres",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/un-estatuto-de-igualdad-para-las-mujeres-columna-de-florence-thomas-802916"
+        "title": "Traficar con las historias de las v\u00edctimas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/traficar-con-las-historias-de-las-victimas-columna-de-jineth-bedoya-803327"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2023-09-06",
+        "author": "Juliana Mej\u00eda",
+        "date": "2023-09-07",
         "publication": "el-tiempo",
-        "title": "La magia de la poes\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/la-magia-de-la-poesia-columna-de-jotamario-arbelaez-802940"
+        "title": "De la guerra por el poder a la guerra por la codicia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/de-la-guerra-por-el-poder-a-la-guerra-por-la-codicia-juliana-mejia-803287"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-09-06",
+        "author": "Diana Pardo",
+        "date": "2023-09-07",
         "publication": "el-tiempo",
-        "title": "Petro afortunado, la suerte lo persigue",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-afortunado-la-suerte-lo-persigue-columna-de-poncho-renteria-802951"
+        "title": "Homenaje a un padre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/homenaje-a-un-padre-columna-de-diana-pardo-803305"
     },
     {
         "article-type": "column",
-        "author": "Reinaldo Venegas",
-        "date": "2023-09-06",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-09-07",
         "publication": "el-tiempo",
-        "title": "Un aporte a la soluci\u00f3n de la v\u00eda Bogot\u00e1-Villavicencio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/un-aporte-a-la-solucion-de-la-via-bogota-villavicencio-reinaldo-venegas-802933"
+        "title": "Alexander von Humboldt visto por William Ospina",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/alexander-von-humboldt-visto-por-william-ospina-jose-miguel-alzate-803375"
     },
     {
         "article-type": "column",
-        "author": "Javier Borda Diaz",
-        "date": "2023-09-06",
+        "author": "Dejusticia",
+        "date": "2023-09-07",
         "publication": "el-tiempo",
-        "title": "Nosotros, los de la segunda l\u00ednea",
-        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/nosotros-los-de-la-segunda-linea-columna-de-javier-borda-802931"
+        "title": "Explotaci\u00f3n de recursos naturales sin beneficios tributarios",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/explotacion-de-recursos-naturales-sin-beneficios-tributarios-dejusticia-803381"
     }
 ]
