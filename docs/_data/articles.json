@@ -5,23 +5,87 @@
         "date": "2023-09-08",
         "publication": "el-colombiano",
         "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/ucrania-bien-merece-el-apoyo-NB22329433"
+        "url": "https://www.elcolombiano.com/opinion/editoriales/los-desconocidos-en-la-democracia-GA22338358"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-08",
+        "date": "2023-09-09",
         "publication": "el-espectador",
-        "title": "Muy importante que el caso Char llegue hasta el final",
-        "url": "https://www.elespectador.com/opinion/editorial/muy-importante-que-el-caso-char-llegue-hasta-el-final/"
+        "title": "Proteger a \u201cLa Opini\u00f3n\u201d y proteger a C\u00facuta",
+        "url": "https://www.elespectador.com/opinion/editorial/proteger-a-la-opinion-y-proteger-a-cucuta/"
     },
     {
         "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2023-09-08",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-09-09",
         "publication": "el-espectador",
-        "title": "\u00a1Abajo los godos!",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/abajo-los-godos/"
+        "title": "Yale y los \u00fateros hist\u00e9ricos",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/yale-y-los-uteros-histericos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2023-09-09",
+        "publication": "el-espectador",
+        "title": "Ciencia del mercado y ciencia del Estado",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/ciencia-del-mercado-y-ciencia-del-estado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-09-09",
+        "publication": "el-espectador",
+        "title": "Pataleta al aire",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/pataleta-al-aire/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2023-09-09",
+        "publication": "el-espectador",
+        "title": "Mauricio Garc\u00eda, \u00ednclito* escritor",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/mauricio-garcia-inclito-escritor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2023-09-09",
+        "publication": "el-espectador",
+        "title": "Montaigne y los historiadores",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/montaigne-y-los-historiadores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dolly Montoya Casta\u00f1o",
+        "date": "2023-09-09",
+        "publication": "el-espectador",
+        "title": "Formaci\u00f3n integral y la inteligencia artificial",
+        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/formacion-integral-y-la-inteligencia-artificial/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-09-09",
+        "publication": "el-espectador",
+        "title": "Vuelve la discusi\u00f3n sobre el pr\u00e9stamo en bibliotecas",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/vuelve-la-discusion-sobre-el-prestamo-en-bibliotecas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-09-09",
+        "publication": "el-espectador",
+        "title": "Despu\u00e9s de La Tercera Orilla",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/despues-de-la-tercera-orilla/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2023-09-09",
+        "publication": "el-espectador",
+        "title": "Columna de Andr\u00e9s Marocco; Buen inicio",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/buen-inicio/"
     },
     {
         "article-type": "column",
@@ -38,6 +102,14 @@
         "publication": "el-espectador",
         "title": "A la cacer\u00eda de una enfermedad mental",
         "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/a-la-caceria-de-una-enfermedad-mental/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-09-08",
+        "publication": "el-espectador",
+        "title": "\u00a1Abajo los godos!",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/abajo-los-godos/"
     },
     {
         "article-type": "column",
@@ -72,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/adagios-populares/"
     },
     {
-        "article-type": "column",
-        "author": "Pedro Viveros",
-        "date": "2023-09-08",
-        "publication": "el-espectador",
-        "title": "Respetar los resultados",
-        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/respetar-los-resultados/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2023-09-08",
-        "publication": "el-espectador",
-        "title": "Los PECADOS de Dilian Francisca Toro en el Valle | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-los-pecados-de-dilian-francisca-toro-en-el-valle/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-09-08",
-        "publication": "el-espectador",
-        "title": "\u00bfA qu\u00e9 edad se deja de ser \u201cfangirl\u201d de Taylor Swift?",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/a-que-edad-se-deja-de-ser-fangirl-de-taylor-swift/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-09-08",
-        "publication": "el-espectador",
-        "title": "Colombia, hacer las cosas bien: opini\u00f3n del profe Montoya, el campe\u00f3n de la vida",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/colombia-hacer-la-cosas-bien-opinion-del-profe-montoya-el-campeon-de-la-vida-partido-colombia-venezuela/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-09-07",
-        "publication": "el-espectador",
-        "title": "Trece meses despu\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/trece-meses-despues/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-09-07",
-        "publication": "el-espectador",
-        "title": "Petro no tiene autismo, tiene soledad",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/petro-no-tiene-autismo-tiene-soledad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-09-07",
-        "publication": "el-espectador",
-        "title": "Los sonidos del mundo",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/los-sonidos-del-mundo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2023-09-07",
-        "publication": "el-espectador",
-        "title": "\u201cS\u00edndrome de Asperger\u201d, capacitismo y neurodiversidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/sindrome-de-asperger-capacitismo-y-neurodiversidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-09-07",
-        "publication": "el-espectador",
-        "title": "Telemercadeo inoportuno",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/telemercadeo-inoportuno/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-08",
+        "date": "2023-09-09",
         "publication": "el-tiempo",
-        "title": "Mensajes de una cumbre",
-        "url": "https://www.eltiempo.com/opinion/editorial/mensajes-de-una-cumbre-editorial-el-tiempo-803797"
+        "title": "\u2018Casa Grande\u2019 en el Caribe",
+        "url": "https://www.eltiempo.com/opinion/editorial/casa-grande-en-el-caribe-editorial-el-tiempo-804204"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-09-08",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2023-09-09",
         "publication": "el-tiempo",
-        "title": "Renuncia a convencer",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/renuncia-a-convencer-columna-de-moises-wasserman-803712"
+        "title": "La energ\u00eda a la deriva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/la-energia-a-la-deriva-columna-de-carlos-caballero-argaez-804146"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-09-08",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-09-09",
         "publication": "el-tiempo",
-        "title": "Lobo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/lobo-columna-de-ricardo-silva-romero-803729"
+        "title": "Dejen quieto al campesino",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/dejen-quieto-al-campesino-columna-de-luis-noe-ochoa-804181"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-09-08",
+        "author": "Alicia B\u00e1rcena",
+        "date": "2023-09-09",
         "publication": "el-tiempo",
-        "title": "Rememorar en futuro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/rememorar-en-futuro-columna-de-eduardo-posada-carbo-803722"
+        "title": "Una gira en homenaje a la vida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/una-gira-en-homenaje-a-la-vida-columna-de-alicia-barcena-ibarra-804184"
     },
     {
         "article-type": "column",
-        "author": "Women in Connection",
-        "date": "2023-09-08",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2023-09-09",
         "publication": "el-tiempo",
-        "title": "'\u00bfQu\u00e9 tal si me prestas tus lentes?'",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/que-tal-si-me-prestas-tus-lentes-columna-de-women-in-connection-803760"
+        "title": "Sue\u00f1o cumplido",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/sueno-cumplido-columna-de-adolfo-zableh-804132"
     },
     {
         "article-type": "column",
-        "author": "Antonio Albi\u00f1ana",
-        "date": "2023-09-08",
+        "author": "Armando Silva",
+        "date": "2023-09-09",
         "publication": "el-tiempo",
-        "title": "Chile: a los 50 a\u00f1os de Salvador Allende",
-        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/chile-a-los-50-anos-de-salvador-allende-columna-de-antonio-albinana-803772"
+        "title": "Grafitis de mujeres",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/grafitis-de-mujeres-columna-de-armando-silva-804120"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2023-09-08",
+        "author": "Fernando Posada",
+        "date": "2023-09-09",
         "publication": "el-tiempo",
-        "title": "Se est\u00e1n suicidando",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/se-estan-suicidando-columna-de-manuel-guzman-hennessey-803733"
+        "title": "\u00bfPor qu\u00e9 triunfa la demagogia en Am\u00e9rica Latina?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/por-que-triunfa-la-demagogia-en-america-latina-fernando-posada-804162"
     },
     {
         "article-type": "column",
-        "author": "Fabio Mart\u00ednez",
-        "date": "2023-09-08",
+        "author": "Mar\u00eda Eugenia Rinaudo",
+        "date": "2023-09-09",
         "publication": "el-tiempo",
-        "title": "Un doctorado para la paz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/un-doctorado-para-la-paz-columna-de-fabio-martinez-803768"
+        "title": "Biodiversidad: presente y futuro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/biodiversidad-presente-y-futuro-columna-de-maria-eugenia-rinaudo-804158"
     }
 ]
