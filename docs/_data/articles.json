@@ -2,18 +2,122 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-10",
+        "date": "2023-09-11",
         "publication": "el-colombiano",
-        "title": "\u00bfDe qu\u00e9 sirve casar tantas peleas?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/de-que-sirve-casar-tantas-peleas-GH22341160"
+        "title": "Corrientazos el\u00e9ctricos",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/corrientazos-electricos-NH22343097"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-10",
+        "date": "2023-09-11",
         "publication": "el-espectador",
-        "title": "La cautela sigue siendo necesaria con las tasas de inter\u00e9s ",
-        "url": "https://www.elespectador.com/opinion/editorial/la-cautela-sigue-siendo-necesaria-con-las-tasas-de-interes/"
+        "title": "Los 50 a\u00f1os del golpe contra Salvador Allende",
+        "url": "https://www.elespectador.com/opinion/editorial/los-50-anos-del-golpe-contra-salvador-allende/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "Audiencias tontas, medios perversos",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/audiencias-tontas-medios-perversos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "La preocupante inflaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-preocupante-inflacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "Detectores in\u00fatiles y desconfianza",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/detectores-inutiles-y-desconfianza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "\u00bfCu\u00e1l es la diferencia entre \u00abdebe ser\u00bb y \u00abdebe de ser\u00bb?",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/cual-es-la-diferencia-entre-debe-ser-y-debe-de-ser/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "Salud del presidente",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/salud-del-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Villamizar",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "\u201cRamiro\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/ramiro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "1923: gran a\u00f1o para el cine",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/1923-gran-ano-para-el-cine/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "\u00bfUniversidades negras, afrocolombianas, raizales y palenqueras?",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/universidades-negras-afrocolombianas-raizales-y-palenqueras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "Nuestros colectivos chavistas",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/nuestros-colectivos-chavistas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Tovar",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "Messi como revulsivo de la MLS: columna de opini\u00f3n de Jorge Tovar",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/messi-como-revulsivo-de-la-mls-columna-de-opinion-de-jorge-tovar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "China en el centro de la crisis de la deuda",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/china-en-el-centro-de-la-crisis-de-la-deuda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "Sin dolientes",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/sin-dolientes/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2023-09-11",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cLa cautela es necesaria con las tasas de inter\u00e9s\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-la-cautela-es-necesaria-con-las-tasas-de-interes/"
     },
     {
         "article-type": "column",
@@ -40,179 +144,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/jbayly/la-isla/"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "Milei, el candidato de los j\u00f3venes argentinos",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/milei-el-candidato-de-los-jovenes-argentinos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "Ideas para la libertad",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/ideas-para-la-libertad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "Por qu\u00e9 no cambia el gobierno del cambio",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/por-que-no-cambia-el-gobierno-del-cambio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "Saludablemente constitucional",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/saludablemente-constitucional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Irene Vallejo Moreu",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "Rebelde sin casa",
-        "url": "https://www.elespectador.com/opinion/columnistas/ivallejo/rebelde-sin-casa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "Politizar las dolencias",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/politizar-las-dolencias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "La deuda de Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/la-deuda-de-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "Nada importante puede venir del sur",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/nada-importante-puede-venir-del-sur/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "50 a\u00f1os del golpe",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/50-anos-del-golpe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "Al o\u00eddo del honorable Consejo de Estado",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/al-oido-del-honorable-consejo-de-estado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "Juan Fernando, Tola y Maruja echan (m\u00e1s) chisme sobre Gustavo Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/juan-fernando-tola-y-maruja-echan-mas-chisme-sobre-gustavo-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Maureen Dowd",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "Ansiedad en la \u00e9poca de Barbie",
-        "url": "https://www.elespectador.com/opinion/columnistas/maureen-dowd/ansiedad-en-la-epoca-de-barbie/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "Microlingotes",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-111/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-10",
+        "date": "2023-09-11",
         "publication": "el-tiempo",
-        "title": "Evitar los atajos",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-10-de-septiembre-de-2023-evitar-los-atajos-804366"
+        "title": "Ciberseguridad y 5G",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-11-de-septiembre-de-2023-ciberseguridad-y-5g-804539"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-09-10",
+        "author": "Juan Lozano",
+        "date": "2023-09-11",
         "publication": "el-tiempo",
-        "title": "Una ventana de oportunidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-una-ventana-de-oportunidad-804368"
+        "title": "La dignidad del Presidente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-la-dignidad-del-presidente-804559"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-09-10",
+        "author": "Luis Felipe Henao",
+        "date": "2023-09-11",
         "publication": "el-tiempo",
-        "title": "Los medios, los enemigos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-los-medios-los-enemigos-804377"
+        "title": "El imperio del fentanilo, la nueva pandemia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-el-imperio-del-fentanilo-la-nueva-pandemia-804561"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-09-10",
+        "author": "Paola Ochoa",
+        "date": "2023-09-11",
         "publication": "el-tiempo",
-        "title": "L\u00e1nguida cumbre antidrogas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-languida-cumbre-antidrogas-804385"
+        "title": "Pedagog\u00eda mercantil",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-pedagogia-mercantil-804565"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Antonio Ocampo",
-        "date": "2023-09-10",
+        "author": "Diego Santos",
+        "date": "2023-09-11",
         "publication": "el-tiempo",
-        "title": "Los desaf\u00edos del sector cafetero",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo/columna-de-jose-antonio-ocampo-los-desafios-del-sector-cafetero-804380"
+        "title": "\u00bfY d\u00f3nde est\u00e1 la oposici\u00f3n seria en este pa\u00eds?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-y-donde-esta-la-oposicion-seria-en-este-pais-804537"
     },
     {
         "article-type": "column",
-        "author": "Sa\u00fal Kattan",
-        "date": "2023-09-10",
+        "author": "Melba Escobar",
+        "date": "2023-09-11",
         "publication": "el-tiempo",
-        "title": "Un actor clave para el futuro de Colombia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-saul-kattan-un-actor-clave-para-el-futuro-de-colombia-804386"
+        "title": "En ninguna parte",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-en-ninguna-parte-804562"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-09-10",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-09-11",
         "publication": "el-tiempo",
-        "title": "El extremo centro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-el-extremo-centro-804367"
+        "title": "Por favor, c\u00e1maras inteligentes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-por-favor-camaras-inteligentes-804547"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-09-10",
+        "author": "Alejandro Higuera Sotomayor",
+        "date": "2023-09-11",
         "publication": "el-tiempo",
-        "title": "Movilizaci\u00f3n por decreto",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-movilizacion-por-decreto-804378"
+        "title": "Desconexi\u00f3n universitaria",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-desconexion-universitaria-804546"
     },
     {
         "article-type": "column",
-        "author": "Bj\u00f8rn Lomborg",
-        "date": "2023-09-10",
+        "author": "Juan Mart\u00edn Caicedo Ferrer",
+        "date": "2023-09-11",
         "publication": "el-tiempo",
-        "title": "Evitar la narrativa enga\u00f1osa para mejorar en materia clim\u00e1tica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/columna-de-bjorn-lomborg-evitar-la-narrativa-enganosa-804388"
+        "title": "Muro de contenci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-martin-caicedo-ferrer/columna-de-juan-martin-caicedo-muro-de-contencion-804560"
     }
 ]
