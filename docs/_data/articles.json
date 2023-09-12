@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-11",
+        "date": "2023-09-12",
         "publication": "el-colombiano",
-        "title": "Corrientazos el\u00e9ctricos",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/corrientazos-electricos-NH22343097"
+        "title": "La India y su plan maestro ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-india-y-su-plan-maestro-HG22353015"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-11",
+        "date": "2023-09-12",
         "publication": "el-espectador",
-        "title": "Los 50 a\u00f1os del golpe contra Salvador Allende",
-        "url": "https://www.elespectador.com/opinion/editorial/los-50-anos-del-golpe-contra-salvador-allende/"
+        "title": "La violencia no se combate con m\u00e1s violencia",
+        "url": "https://www.elespectador.com/opinion/editorial/la-violencia-no-se-combate-con-mas-violencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-09-12",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: los chilenos",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/los-chilenos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-09-12",
+        "publication": "el-espectador",
+        "title": "Al Mono lo mataron por negarse a matar",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/al-mono-lo-mataron-por-negarse-a-matar/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-09-12",
+        "publication": "el-espectador",
+        "title": "El general Mascachochas",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-general-mascachochas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-09-12",
+        "publication": "el-espectador",
+        "title": "Shifone",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/shifone/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-09-12",
+        "publication": "el-espectador",
+        "title": "\u201cLa Costa Nostra\u201d es Colombia toda",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-costa-nostra-es-colombia-toda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2023-09-12",
+        "publication": "el-espectador",
+        "title": "Los colados de Transmilenio: \u00bfprevenir o castigar?",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/los-colados-de-transmilenio-prevenir-o-castigar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-09-12",
+        "publication": "el-espectador",
+        "title": "Su \u00faltimo libro",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/su-ultimo-libro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2023-09-12",
+        "publication": "el-espectador",
+        "title": "Zanganer\u00eda chocoana",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/zanganeria-chocoana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-09-12",
+        "publication": "el-espectador",
+        "title": "Cuentos y otras mentiras",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/cuentos-y-otras-mentiras/"
     },
     {
         "article-type": "column",
@@ -72,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/1923-gran-ano-para-el-cine/"
     },
     {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "\u00bfUniversidades negras, afrocolombianas, raizales y palenqueras?",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/universidades-negras-afrocolombianas-raizales-y-palenqueras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "Nuestros colectivos chavistas",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/nuestros-colectivos-chavistas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "Messi como revulsivo de la MLS: columna de opini\u00f3n de Jorge Tovar",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/messi-como-revulsivo-de-la-mls-columna-de-opinion-de-jorge-tovar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "China en el centro de la crisis de la deuda",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/china-en-el-centro-de-la-crisis-de-la-deuda/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "Sin dolientes",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/sin-dolientes/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cLa cautela es necesaria con las tasas de inter\u00e9s\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-la-cautela-es-necesaria-con-las-tasas-de-interes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "La tragedia de no poder morir",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/la-tragedia-de-no-poder-morir/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "La magnitud del da\u00f1o",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/la-magnitud-del-dano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-09-10",
-        "publication": "el-espectador",
-        "title": "La isla",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/la-isla/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-11",
+        "date": "2023-09-12",
         "publication": "el-tiempo",
-        "title": "Ciberseguridad y 5G",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-11-de-septiembre-de-2023-ciberseguridad-y-5g-804539"
+        "title": "El nuevo enfoque",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-nuevo-enfoque-editorial-el-tiempo-804911"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-09-11",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-09-12",
         "publication": "el-tiempo",
-        "title": "La dignidad del Presidente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-la-dignidad-del-presidente-804559"
+        "title": "Segunda vuelta en Bogot\u00e1",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/segunda-vuelta-en-bogota-columna-de-jose-manuel-acevedo-804833"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-09-11",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2023-09-12",
         "publication": "el-tiempo",
-        "title": "El imperio del fentanilo, la nueva pandemia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-el-imperio-del-fentanilo-la-nueva-pandemia-804561"
+        "title": "La competencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/la-competencia-columna-de-marcela-melendez-804870"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2023-09-11",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2023-09-12",
         "publication": "el-tiempo",
-        "title": "Pedagog\u00eda mercantil",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-pedagogia-mercantil-804565"
+        "title": "Heridas que no sanan",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/heridas-que-no-sanan-columna-de-sergio-munoz-bata-804818"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-09-11",
+        "author": "Francisco Cajiao",
+        "date": "2023-09-12",
         "publication": "el-tiempo",
-        "title": "\u00bfY d\u00f3nde est\u00e1 la oposici\u00f3n seria en este pa\u00eds?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-y-donde-esta-la-oposicion-seria-en-este-pais-804537"
+        "title": "Educar para la democracia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/educar-para-la-democracia-columna-de-francisco-cajiao-804826"
     },
     {
         "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-09-11",
+        "author": "Fernando Quiroz",
+        "date": "2023-09-12",
         "publication": "el-tiempo",
-        "title": "En ninguna parte",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-en-ninguna-parte-804562"
+        "title": "Como un turista",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/como-un-turista-columna-de-fernando-quiroz-804839"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-09-11",
+        "author": "Mariana Mazzucato",
+        "date": "2023-09-12",
         "publication": "el-tiempo",
-        "title": "Por favor, c\u00e1maras inteligentes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-por-favor-camaras-inteligentes-804547"
+        "title": "La necesidad de reformular el crecimiento y el Estado empresarial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mariana-mazzucato/todos-contra-maria-corina-machado-columna-de-mariana-mazzucato-804861"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2023-09-11",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2023-09-12",
         "publication": "el-tiempo",
-        "title": "Desconexi\u00f3n universitaria",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-desconexion-universitaria-804546"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Mart\u00edn Caicedo Ferrer",
-        "date": "2023-09-11",
-        "publication": "el-tiempo",
-        "title": "Muro de contenci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-martin-caicedo-ferrer/columna-de-juan-martin-caicedo-muro-de-contencion-804560"
+        "title": "Todos contra Mar\u00eda Corina Machado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/todos-contra-maria-corina-machado-columna-de-alexander-cambero-804845"
     }
 ]
