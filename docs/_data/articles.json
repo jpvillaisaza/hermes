@@ -2,18 +2,74 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-12",
+        "date": "2023-09-13",
         "publication": "el-colombiano",
-        "title": "La India y su plan maestro ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-india-y-su-plan-maestro-HG22353015"
+        "title": "\u00bfQu\u00e9 est\u00e1 pasando ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/que-esta-pasando-en-mindefensa-BF22360364"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-12",
+        "date": "2023-09-13",
         "publication": "el-espectador",
-        "title": "La violencia no se combate con m\u00e1s violencia",
-        "url": "https://www.elespectador.com/opinion/editorial/la-violencia-no-se-combate-con-mas-violencia/"
+        "title": "Que el viraje en la pol\u00edtica antidrogas se ejecute",
+        "url": "https://www.elespectador.com/opinion/editorial/que-el-viraje-en-la-politica-antidrogas-se-ejecute/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-09-13",
+        "publication": "el-espectador",
+        "title": "\u00bfPor las propuestas o por los errores?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/por-las-propuestas-o-por-los-errores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-09-13",
+        "publication": "el-espectador",
+        "title": "Los canallas que ya conocemos",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/los-canallas-que-ya-conocemos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-09-13",
+        "publication": "el-espectador",
+        "title": "El des\u00e1nimo colombiano",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-desanimo-colombiano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-09-13",
+        "publication": "el-espectador",
+        "title": "El consejo de los duros",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-consejo-de-los-duros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-09-13",
+        "publication": "el-espectador",
+        "title": "Movilizaciones campesinas",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/movilizaciones-campesinas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-09-13",
+        "publication": "el-espectador",
+        "title": "La rifa del tigre",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/la-rifa-del-tigre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-09-13",
+        "publication": "el-espectador",
+        "title": "Una reuni\u00f3n hist\u00f3rica en Santiago de Compostela",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/una-reunion-historica-en-santiago-de-compostela/"
     },
     {
         "article-type": "column",
@@ -22,6 +78,14 @@
         "publication": "el-espectador",
         "title": "Columna de Antonio Casale: los chilenos",
         "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/los-chilenos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-09-12",
+        "publication": "el-espectador",
+        "title": "Shifone",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/shifone/"
     },
     {
         "article-type": "column",
@@ -41,22 +105,6 @@
     },
     {
         "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-09-12",
-        "publication": "el-espectador",
-        "title": "Shifone",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/shifone/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-09-12",
-        "publication": "el-espectador",
-        "title": "\u201cLa Costa Nostra\u201d es Colombia toda",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-costa-nostra-es-colombia-toda/"
-    },
-    {
-        "article-type": "column",
         "author": "Yesid Reyes Alvarado",
         "date": "2023-09-12",
         "publication": "el-espectador",
@@ -73,11 +121,11 @@
     },
     {
         "article-type": "column",
-        "author": "Jaime Arocha",
+        "author": "Cristina de la Torre",
         "date": "2023-09-12",
         "publication": "el-espectador",
-        "title": "Zanganer\u00eda chocoana",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/zanganeria-chocoana/"
+        "title": "\u201cLa Costa Nostra\u201d es Colombia toda",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-costa-nostra-es-colombia-toda/"
     },
     {
         "article-type": "column",
@@ -89,122 +137,74 @@
     },
     {
         "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2023-09-11",
+        "author": "Jaime Arocha",
+        "date": "2023-09-12",
         "publication": "el-espectador",
-        "title": "Audiencias tontas, medios perversos",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/audiencias-tontas-medios-perversos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "La preocupante inflaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-preocupante-inflacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Teresa Ronderos",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "Detectores in\u00fatiles y desconfianza",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/detectores-inutiles-y-desconfianza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "\u00bfCu\u00e1l es la diferencia entre \u00abdebe ser\u00bb y \u00abdebe de ser\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/cual-es-la-diferencia-entre-debe-ser-y-debe-de-ser/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "Salud del presidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/salud-del-presidente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Villamizar",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "\u201cRamiro\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/ramiro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-09-11",
-        "publication": "el-espectador",
-        "title": "1923: gran a\u00f1o para el cine",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/1923-gran-ano-para-el-cine/"
+        "title": "Zanganer\u00eda chocoana",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/zanganeria-chocoana/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-12",
+        "date": "2023-09-13",
         "publication": "el-tiempo",
-        "title": "El nuevo enfoque",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-nuevo-enfoque-editorial-el-tiempo-804911"
+        "title": "Vulnerables",
+        "url": "https://www.eltiempo.com/opinion/editorial/vulnerables-editorial-el-tiempo-805342"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-09-12",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-09-13",
         "publication": "el-tiempo",
-        "title": "Segunda vuelta en Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/segunda-vuelta-en-bogota-columna-de-jose-manuel-acevedo-804833"
+        "title": "Chile y el golpe militar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/chile-y-el-golpe-militar-columna-de-alfonso-gomez-mendez-805292"
     },
     {
         "article-type": "column",
-        "author": "Marcela Mel\u00e9ndez",
-        "date": "2023-09-12",
+        "author": "Vladdo",
+        "date": "2023-09-13",
         "publication": "el-tiempo",
-        "title": "La competencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/la-competencia-columna-de-marcela-melendez-804870"
+        "title": "Una emprendedora de 73 a\u00f1os",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/una-emprendedora-de-73-anos-columna-de-vladdo-805207"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2023-09-12",
+        "author": "Andr\u00e9s Hurtado Garc\u00eda",
+        "date": "2023-09-13",
         "publication": "el-tiempo",
-        "title": "Heridas que no sanan",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/heridas-que-no-sanan-columna-de-sergio-munoz-bata-804818"
+        "title": "HablamAmo a Marruecos, simplemente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/amo-a-marruecos-simplemente-columna-de-andres-hurtado-garcia-805214"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2023-09-12",
+        "author": "Juliana Vel\u00e1squez",
+        "date": "2023-09-13",
         "publication": "el-tiempo",
-        "title": "Educar para la democracia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/educar-para-la-democracia-columna-de-francisco-cajiao-804826"
+        "title": "El honor de cerquita",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/el-honor-de-cerquita-columna-de-women-in-connection-805240"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2023-09-12",
+        "author": "Gustavo Duncan",
+        "date": "2023-09-13",
         "publication": "el-tiempo",
-        "title": "Como un turista",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/como-un-turista-columna-de-fernando-quiroz-804839"
+        "title": "M\u00e1s libros as\u00ed",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/mas-libros-asi-columna-de-gustavo-duncan-805196"
     },
     {
         "article-type": "column",
-        "author": "Mariana Mazzucato",
-        "date": "2023-09-12",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-09-13",
         "publication": "el-tiempo",
-        "title": "La necesidad de reformular el crecimiento y el Estado empresarial",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mariana-mazzucato/todos-contra-maria-corina-machado-columna-de-mariana-mazzucato-804861"
+        "title": "Petro, aclamado en Chile; sigue a Cuba",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-aclamado-en-chile-sigue-a-cuba-columna-de-poncho-renteria-805301"
     },
     {
         "article-type": "column",
-        "author": "Alex\u00e1nder Cambero",
-        "date": "2023-09-12",
+        "author": "Alpher Rojas C.",
+        "date": "2023-09-13",
         "publication": "el-tiempo",
-        "title": "Todos contra Mar\u00eda Corina Machado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/todos-contra-maria-corina-machado-columna-de-alexander-cambero-804845"
+        "title": "C\u00e9sar Hoyos, estadista en la provincia cafetera",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/cesar-hoyos-estadista-en-la-provincia-cafetera-columna-de-alpher-rojas-805249"
     }
 ]
