@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-13",
+        "date": "2023-09-14",
         "publication": "el-colombiano",
-        "title": "\u00bfQu\u00e9 est\u00e1 pasando ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/que-esta-pasando-en-mindefensa-BF22360364"
+        "title": "\u00bfProhibir Airbnb ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/prohibir-airbnb-en-medellin-GF22365605"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-13",
+        "date": "2023-09-14",
         "publication": "el-espectador",
-        "title": "Que el viraje en la pol\u00edtica antidrogas se ejecute",
-        "url": "https://www.elespectador.com/opinion/editorial/que-el-viraje-en-la-politica-antidrogas-se-ejecute/"
+        "title": "Una traici\u00f3n de militares a la confianza ciudadana",
+        "url": "https://www.elespectador.com/opinion/editorial/una-traicion-de-militares-a-la-confianza-ciudadana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcelo Caruso A.",
+        "date": "2023-09-14",
+        "publication": "el-espectador",
+        "title": "Cincuenta a\u00f1os despu\u00e9s",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/cincuenta-anos-despues/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2023-09-14",
+        "publication": "el-espectador",
+        "title": "Ignorantismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/ignorantismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2023-09-14",
+        "publication": "el-espectador",
+        "title": "Grandes y chicos",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/grandes-y-chicos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-09-14",
+        "publication": "el-espectador",
+        "title": "Dos exposiciones sobre Frida Kahlo",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/dos-exposiciones-sobre-frida-kahlo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-09-14",
+        "publication": "el-espectador",
+        "title": "La opini\u00f3n del bal\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/la-opinion-del-balon/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-09-14",
+        "publication": "el-espectador",
+        "title": "M\u00e9xico tendr\u00e1 presidenta",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/mexico-tendra-presidenta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Camargo",
+        "date": "2023-09-14",
+        "publication": "el-espectador",
+        "title": "\u00bfProhibir o no prohibir? El debate sobre los celulares en los colegios",
+        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/prohibir-o-no-prohibir-el-debate-sobre-los-celulares-en-los-colegios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2023-09-14",
+        "publication": "el-espectador",
+        "title": "Columna del profe Luis F. Montoya: Colombia, a mejorar",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-del-profe-luis-f-montoya-colombia-a-mejorar-eliminatorias-conmebol-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-09-14",
+        "publication": "el-espectador",
+        "title": "#SeAcab\u00f3: la protesta del f\u00fatbol femenino contra \u201cmachitos\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/seacabo-la-protesta-del-futbol-femenino-contra-machitos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-09-14",
+        "publication": "el-espectador",
+        "title": "\u201cLe pusimos competencia al Sol como la \u00fanica estrella de nuestro sistema solar\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/le-pusimos-competencia-al-sol-como-la-unica-estrella-nuestro-sistema-solar/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/la-rifa-del-tigre/"
     },
     {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-09-13",
-        "publication": "el-espectador",
-        "title": "Una reuni\u00f3n hist\u00f3rica en Santiago de Compostela",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/una-reunion-historica-en-santiago-de-compostela/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-09-12",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: los chilenos",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/los-chilenos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-09-12",
-        "publication": "el-espectador",
-        "title": "Shifone",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/shifone/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-09-12",
-        "publication": "el-espectador",
-        "title": "Al Mono lo mataron por negarse a matar",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/al-mono-lo-mataron-por-negarse-a-matar/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-09-12",
-        "publication": "el-espectador",
-        "title": "El general Mascachochas",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-general-mascachochas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2023-09-12",
-        "publication": "el-espectador",
-        "title": "Los colados de Transmilenio: \u00bfprevenir o castigar?",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/los-colados-de-transmilenio-prevenir-o-castigar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-09-12",
-        "publication": "el-espectador",
-        "title": "Su \u00faltimo libro",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/su-ultimo-libro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-09-12",
-        "publication": "el-espectador",
-        "title": "\u201cLa Costa Nostra\u201d es Colombia toda",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-costa-nostra-es-colombia-toda/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-09-12",
-        "publication": "el-espectador",
-        "title": "Cuentos y otras mentiras",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/cuentos-y-otras-mentiras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2023-09-12",
-        "publication": "el-espectador",
-        "title": "Zanganer\u00eda chocoana",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/zanganeria-chocoana/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-13",
+        "date": "2023-09-14",
         "publication": "el-tiempo",
-        "title": "Vulnerables",
-        "url": "https://www.eltiempo.com/opinion/editorial/vulnerables-editorial-el-tiempo-805342"
+        "title": "Trabajar con Bogot\u00e1",
+        "url": "https://www.eltiempo.com/opinion/editorial/trabajar-con-bogota-editorial-el-tiempo-805752"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-09-13",
+        "author": "Pedro Medellin",
+        "date": "2023-09-14",
         "publication": "el-tiempo",
-        "title": "Chile y el golpe militar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/chile-y-el-golpe-militar-columna-de-alfonso-gomez-mendez-805292"
+        "title": "El riesgo de la \u2018acci\u00f3n con da\u00f1o\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-riesgo-de-la-accion-con-dano-columna-de-pedro-medellin-805735"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-09-13",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-09-14",
         "publication": "el-tiempo",
-        "title": "Una emprendedora de 73 a\u00f1os",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/una-emprendedora-de-73-anos-columna-de-vladdo-805207"
+        "title": "Todos candidatos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/todos-candidatos-columna-de-juan-esteban-constain-805632"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2023-09-13",
+        "author": "Claudia Palacios",
+        "date": "2023-09-14",
         "publication": "el-tiempo",
-        "title": "HablamAmo a Marruecos, simplemente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/amo-a-marruecos-simplemente-columna-de-andres-hurtado-garcia-805214"
+        "title": "Cifras de mi\u00e9r\u2026coles",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/cifras-de-mier-coles-columna-de-claudia-palacios-805641"
     },
     {
         "article-type": "column",
-        "author": "Juliana Vel\u00e1squez",
-        "date": "2023-09-13",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-09-14",
         "publication": "el-tiempo",
-        "title": "El honor de cerquita",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/el-honor-de-cerquita-columna-de-women-in-connection-805240"
+        "title": "Para leer Allende y el museo del suicidio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/para-leer-allende-y-el-museo-del-suicidio-columna-de-sergio-ramirez-805621"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-09-13",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2023-09-14",
         "publication": "el-tiempo",
-        "title": "M\u00e1s libros as\u00ed",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/mas-libros-asi-columna-de-gustavo-duncan-805196"
+        "title": "Al\u00f3, \u00bfes el Congreso?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/alo-es-el-congreso-columna-de-victor-manuel-ruiz-805677"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-09-13",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-09-14",
         "publication": "el-tiempo",
-        "title": "Petro, aclamado en Chile; sigue a Cuba",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-aclamado-en-chile-sigue-a-cuba-columna-de-poncho-renteria-805301"
+        "title": "El amor en la poes\u00eda de Basilio Rodr\u00edguez Ca\u00f1ada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/el-amor-en-la-poesia-de-basilio-rodriguez-canada-jose-miguel-alzate-805656"
     },
     {
         "article-type": "column",
-        "author": "Alpher Rojas C.",
-        "date": "2023-09-13",
+        "author": "Dejusticia",
+        "date": "2023-09-14",
         "publication": "el-tiempo",
-        "title": "C\u00e9sar Hoyos, estadista en la provincia cafetera",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/cesar-hoyos-estadista-en-la-provincia-cafetera-columna-de-alpher-rojas-805249"
+        "title": "Otra deuda de la prohibici\u00f3n: desclasificar la hoja de coca",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/otra-deuda-de-la-prohibicion-desclasificar-la-hoja-de-coca-dejusticia-805649"
     }
 ]
