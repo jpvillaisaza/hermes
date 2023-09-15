@@ -2,26 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-14",
+        "date": "2023-09-15",
         "publication": "el-colombiano",
-        "title": "\u00bfProhibir Airbnb ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/prohibir-airbnb-en-medellin-GF22365605"
+        "title": "Ojo, otra vez, con Hidroituango",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/ojo-otra-vez-con-hidroituango-FE22373512"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-14",
+        "date": "2023-09-15",
         "publication": "el-espectador",
-        "title": "Una traici\u00f3n de militares a la confianza ciudadana",
-        "url": "https://www.elespectador.com/opinion/editorial/una-traicion-de-militares-a-la-confianza-ciudadana/"
+        "title": "La muerte, el caos y la divisi\u00f3n azotan a Libia",
+        "url": "https://www.elespectador.com/opinion/editorial/la-muerte-el-caos-y-la-division-azotan-a-libia/"
     },
     {
         "article-type": "column",
-        "author": "Marcelo Caruso A.",
-        "date": "2023-09-14",
+        "author": "Juan Carlos Botero",
+        "date": "2023-09-15",
         "publication": "el-espectador",
-        "title": "Cincuenta a\u00f1os despu\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/cincuenta-anos-despues/"
+        "title": "Cuando los medios mienten",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/cuando-los-medios-mienten/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tom\u00e1s Molina",
+        "date": "2023-09-15",
+        "publication": "el-espectador",
+        "title": "La educaci\u00f3n es siempre pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/la-educacion-es-siempre-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-09-15",
+        "publication": "el-espectador",
+        "title": "\u201cCocalandia\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/cocalandia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2023-09-15",
+        "publication": "el-espectador",
+        "title": "Oca\u00f1a y la guerra del posconflicto",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/ocana-y-la-guerra-del-posconflicto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2023-09-15",
+        "publication": "el-espectador",
+        "title": "La dimensi\u00f3n institucional del cambio",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/la-dimension-institucional-del-cambio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-09-15",
+        "publication": "el-espectador",
+        "title": "\u00bfCl\u00e1sico, detestable o todas las anteriores?",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/clasico-detestable-o-todas-las-anteriores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-09-15",
+        "publication": "el-espectador",
+        "title": "La Ni\u00f1a Mencha se aferra a su horizonte",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/la-nina-mencha-se-aferra-a-su-horizonte/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-09-15",
+        "publication": "el-espectador",
+        "title": "Ra\u00edces",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/raices/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2023-09-15",
+        "publication": "el-espectador",
+        "title": "Hablemos de candidatos",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/hablemos-de-candidatos/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-09-15",
+        "publication": "el-espectador",
+        "title": "DENUNCIA: profesores hacen bullying en Colombia | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-denuncia-profesores-hacen-bullying-en-colombia/"
     },
     {
         "article-type": "column",
@@ -38,6 +110,14 @@
         "publication": "el-espectador",
         "title": "Grandes y chicos",
         "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/grandes-y-chicos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcelo Caruso A.",
+        "date": "2023-09-14",
+        "publication": "el-espectador",
+        "title": "Cincuenta a\u00f1os despu\u00e9s",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/cincuenta-anos-despues/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,83 @@
         "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/mexico-tendra-presidenta/"
     },
     {
-        "article-type": "column",
-        "author": "Camilo Camargo",
-        "date": "2023-09-14",
-        "publication": "el-espectador",
-        "title": "\u00bfProhibir o no prohibir? El debate sobre los celulares en los colegios",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/prohibir-o-no-prohibir-el-debate-sobre-los-celulares-en-los-colegios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-09-14",
-        "publication": "el-espectador",
-        "title": "Columna del profe Luis F. Montoya: Colombia, a mejorar",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-del-profe-luis-f-montoya-colombia-a-mejorar-eliminatorias-conmebol-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-09-14",
-        "publication": "el-espectador",
-        "title": "#SeAcab\u00f3: la protesta del f\u00fatbol femenino contra \u201cmachitos\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/seacabo-la-protesta-del-futbol-femenino-contra-machitos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-09-14",
-        "publication": "el-espectador",
-        "title": "\u201cLe pusimos competencia al Sol como la \u00fanica estrella de nuestro sistema solar\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/le-pusimos-competencia-al-sol-como-la-unica-estrella-nuestro-sistema-solar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-09-13",
-        "publication": "el-espectador",
-        "title": "\u00bfPor las propuestas o por los errores?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/por-las-propuestas-o-por-los-errores/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-09-13",
-        "publication": "el-espectador",
-        "title": "Los canallas que ya conocemos",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/los-canallas-que-ya-conocemos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-09-13",
-        "publication": "el-espectador",
-        "title": "El des\u00e1nimo colombiano",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-desanimo-colombiano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-09-13",
-        "publication": "el-espectador",
-        "title": "El consejo de los duros",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-consejo-de-los-duros/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-09-13",
-        "publication": "el-espectador",
-        "title": "Movilizaciones campesinas",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/movilizaciones-campesinas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-09-13",
-        "publication": "el-espectador",
-        "title": "La rifa del tigre",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/la-rifa-del-tigre/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-14",
+        "date": "2023-09-15",
         "publication": "el-tiempo",
-        "title": "Trabajar con Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/editorial/trabajar-con-bogota-editorial-el-tiempo-805752"
+        "title": "Muchas preguntas",
+        "url": "https://www.eltiempo.com/opinion/editorial/muchas-preguntas-editorial-el-tiempo-806215"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-09-14",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-09-15",
         "publication": "el-tiempo",
-        "title": "El riesgo de la \u2018acci\u00f3n con da\u00f1o\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-riesgo-de-la-accion-con-dano-columna-de-pedro-medellin-805735"
+        "title": "Enrique Forero",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/enrique-forero-columna-de-moises-wasserman-806125"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-09-14",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-09-15",
         "publication": "el-tiempo",
-        "title": "Todos candidatos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/todos-candidatos-columna-de-juan-esteban-constain-805632"
+        "title": "Crucial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/crucial-columna-de-ricardo-silva-romero-806082"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2023-09-14",
+        "author": "Martha Senn",
+        "date": "2023-09-15",
         "publication": "el-tiempo",
-        "title": "Cifras de mi\u00e9r\u2026coles",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/cifras-de-mier-coles-columna-de-claudia-palacios-805641"
+        "title": "Arte esc\u00e9nico en Bogot\u00e1",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/arte-escenico-en-bogota-columna-de-martha-senn-806163"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2023-09-14",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2023-09-15",
         "publication": "el-tiempo",
-        "title": "Para leer Allende y el museo del suicidio",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/para-leer-allende-y-el-museo-del-suicidio-columna-de-sergio-ramirez-805621"
+        "title": "La salud de los altos funcionarios p\u00fablicos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/la-salud-de-los-altos-funcionarios-publicos-columna-de-fernando-sanchez-806154"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Manuel Ruiz",
-        "date": "2023-09-14",
+        "author": "Claudia Hakim",
+        "date": "2023-09-15",
         "publication": "el-tiempo",
-        "title": "Al\u00f3, \u00bfes el Congreso?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/alo-es-el-congreso-columna-de-victor-manuel-ruiz-805677"
+        "title": "Mucho arte en Bogot\u00e1",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/mucho-arte-en-bogota-columna-de-claudia-hakim-806141"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2023-09-14",
+        "author": "Jaime Castro",
+        "date": "2023-09-15",
         "publication": "el-tiempo",
-        "title": "El amor en la poes\u00eda de Basilio Rodr\u00edguez Ca\u00f1ada",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/el-amor-en-la-poesia-de-basilio-rodriguez-canada-jose-miguel-alzate-805656"
+        "title": "Monarqu\u00eda republicana",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jaime-castro/monarquia-republicana-columna-de-jaime-castro-806132"
     },
     {
         "article-type": "column",
-        "author": "Dejusticia",
-        "date": "2023-09-14",
+        "author": "Alfredo Rangel",
+        "date": "2023-09-15",
         "publication": "el-tiempo",
-        "title": "Otra deuda de la prohibici\u00f3n: desclasificar la hoja de coca",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/otra-deuda-de-la-prohibicion-desclasificar-la-hoja-de-coca-dejusticia-805649"
+        "title": "Coca\u00edna y delirio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/cocaina-y-delirio-columna-de-alfredo-rangel-806170"
+    },
+    {
+        "article-type": "column",
+        "author": "Froil\u00e1n Casas",
+        "date": "2023-09-15",
+        "publication": "el-tiempo",
+        "title": "Su majestad el perro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/froilan-casas/su-majestad-el-perro-columna-de-froilan-casas-806167"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-09-15",
+        "publication": "el-tiempo",
+        "title": "El nobel que ahorraba zapatos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/el-nobel-que-ahorraba-zapatos-columna-de-oscar-dominguez-806111"
     }
 ]
