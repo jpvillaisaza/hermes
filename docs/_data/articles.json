@@ -2,18 +2,130 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-18",
+        "date": "2023-09-19",
         "publication": "el-colombiano",
-        "title": "Carlos Alberto Montaner",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/carlos-alberto-montaner-FE22401949"
+        "title": "La Bolsa de ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-bolsa-de-valores-en-uci-AG22421375"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-18",
+        "date": "2023-09-19",
         "publication": "el-espectador",
-        "title": "S. O. S. por Tulu\u00e1 y las elecciones",
-        "url": "https://www.elespectador.com/opinion/editorial/s-o-s-por-tulua-y-las-elecciones/"
+        "title": "El peligro de legitimar la dictadura cubana",
+        "url": "https://www.elespectador.com/opinion/editorial/el-peligro-de-legitimar-la-dictadura-cubana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "Corto circuito presupuestal",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado/corto-circuito-presupuestal-presupuesto-general-de-la-nacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "Nereo, inmortal",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/nereo-inmortal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "La transformaci\u00f3n educativa en Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/la-transformacion-educativa-en-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Hern\u00e1ndez",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "Cautela s\u00ed, quietud no",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/cautela-si-quietud-no/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Reyes Posada",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "Organizaci\u00f3n y movilizaci\u00f3n campesinas, \u00bfpara qu\u00e9?",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/organizacion-y-movilizacion-campesinas-para-que/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "K-pop",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/k-pop/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "El maestro Botero",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-maestro-botero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "Secuestro: de rebeldes a criminales de guerra",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/secuestro-de-rebeldes-a-criminales-de-guerra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "La eternidad gorda de Botero",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/la-eternidad-gorda-de-botero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "Petro internacional",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/petro-internacional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "Los derroteros cambian",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/los-derroteros-cambian/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fabrina Acosta",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "\u00bfUn Consejo de Estado masculinizado?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/un-consejo-de-estado-masculinizado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Amaya*",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "Bukele y el retorno de las dictaduras a El Salvador (Opini\u00f3n) ",
+        "url": "https://www.elespectador.com/mundo/america/opinion-bukele-y-el-retorno-de-las-dictaduras-a-el-salvador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mireille Girard*",
+        "date": "2023-09-19",
+        "publication": "el-espectador",
+        "title": "El exilio persiste y requiere soluciones",
+        "url": "https://www.elespectador.com/colombia-20/analistas/el-exilio-persiste-y-requiere-soluciones/"
     },
     {
         "article-type": "column",
@@ -32,179 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/el-amen-del-futbol-a-miguel-angel/"
     },
     {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "Sobre \u00abhackeos\u00bb y \u00abciberataques\u00bb",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/sobre-hackeos-y-ciberataques/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "Lecci\u00f3n de pragmatismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/leccion-de-pragmatismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "La ley estatutaria no ser\u00eda una reforma educativa",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/la-ley-estatutaria-no-seria-una-reforma-educativa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "Y c\u00f3mo Estados Unidos s\u00ed ha podido mantener buenas relaciones con Petro ",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/y-como-estados-unidos-si-ha-podido-mantener-buenas-relaciones-con-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 pasa en Venezuela?",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/que-pasa-en-venezuela/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "Extorsi\u00f3n y desorden",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/extorsion-y-desorden/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "Bistec en la cuna",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/bistec-en-la-cuna/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "El Borgen criollo",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/el-borgen-criollo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "Una reforma imprescindible",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/una-reforma-imprescindible/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Gracias Cabal, Farah y compa\u00f1\u00eda",
-        "url": "https://www.elespectador.com/deportes/analistas/columna-de-antonio-casale-gracias-cabal-farah-y-compania/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "Editorial en video: En duelo por Fernando Botero",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-en-duelo-por-la-muerte-de-fernando-botero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Antequera Guzm\u00e1n",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "La memoria del 11 de septiembre de 1973",
-        "url": "https://www.elespectador.com/colombia-20/analistas/columna-jose-antequera-la-memoria-del-11-de-septiembre-de-1973-chile-salvador-allende/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2023-09-17",
-        "publication": "el-espectador",
-        "title": "Sonrisa borrada",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/sonrisa-borrada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-09-17",
-        "publication": "el-espectador",
-        "title": "Por el f\u00fatbol",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/por-el-futbol/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-18",
+        "date": "2023-09-19",
         "publication": "el-tiempo",
-        "title": "El Ni\u00f1o y el kilovatio",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-18-de-septiembre-de-2023-el-nino-y-el-kilovatio-806885"
+        "title": "Hablemos de educaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/editorial/hablemos-de-educacion-editorial-el-tiempo-807291"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-09-18",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-09-19",
         "publication": "el-tiempo",
-        "title": "Botero inmortal",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-botero-inmortal-806907"
+        "title": "Colombianidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/colombianidad-columna-de-jose-manuel-acevedo-807195"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-09-18",
+        "author": "Eduardo Escobar",
+        "date": "2023-09-19",
         "publication": "el-tiempo",
-        "title": "La \u2018bacrimpol\u00edtica\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-la-bacrimpolitica-806887"
+        "title": "Culebreros mayores",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/culebreros-mayores-columna-de-eduardo-escobar-807216"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2023-09-18",
+        "author": "Alberto Parra",
+        "date": "2023-09-19",
         "publication": "el-tiempo",
-        "title": "La educaci\u00f3n inicial en un par\u00e1grafo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-la-educacion-inicial-en-un-paragrafo-806909"
+        "title": "La paz es fruto de la justicia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alberto-parra/la-paz-es-fruto-de-la-justicia-807204"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-09-18",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2023-09-19",
         "publication": "el-tiempo",
-        "title": "El di\u00e1logo no es posible con el Petro de X",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-el-dialogo-no-es-posible-con-el-petro-de-x-806893"
+        "title": "Comentario al duod\u00e9cimo grado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/comentario-al-duodecimo-grado-columna-de-fernando-sanchez-torres-807275"
     },
     {
         "article-type": "column",
-        "author": "Hugo Acero Vel\u00e1squez",
-        "date": "2023-09-18",
+        "author": "Sara Valentina Quevedo",
+        "date": "2023-09-19",
         "publication": "el-tiempo",
-        "title": "La seguridad, sin recursos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/columna-de-hugo-acero-la-seguridad-sin-recursos-806908"
+        "title": "Quitarse el velo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-valentina-quevedo-delgado/quitarse-el-velo-columna-de-sara-valentina-quevedo-807281"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-09-18",
+        "author": "Alpher Rojas C.",
+        "date": "2023-09-19",
         "publication": "el-tiempo",
-        "title": "Por favor, conciencia de seguridad digital",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-por-favor-conciencia-de-seguridad-digital-806894"
+        "title": "Qu\u00e9 vaina, se nos fue Fernando Botero",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/que-vaina-se-nos-fue-fernando-botero-columna-de-alpher-rojas-c-807181"
     },
     {
         "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2023-09-18",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2023-09-19",
         "publication": "el-tiempo",
-        "title": "Patriotas de eliminatorias",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-patriotas-de-eliminatorias-806918"
+        "title": "La eterna novedad del combate",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/la-eterna-novedad-del-combate-columna-de-victor-corcoba-807277"
     }
 ]
