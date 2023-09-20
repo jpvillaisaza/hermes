@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-19",
+        "date": "2023-09-20",
         "publication": "el-colombiano",
-        "title": "La Bolsa de ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-bolsa-de-valores-en-uci-AG22421375"
+        "title": "La ONU \u00bfcon ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-onu-con-el-pulso-debil-KH22431856"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-19",
+        "date": "2023-09-20",
         "publication": "el-espectador",
-        "title": "El peligro de legitimar la dictadura cubana",
-        "url": "https://www.elespectador.com/opinion/editorial/el-peligro-de-legitimar-la-dictadura-cubana/"
+        "title": "Bienvenidos y necesarios avances en el caso Tierralta",
+        "url": "https://www.elespectador.com/opinion/editorial/bienvenidos-y-necesarios-avances-en-el-caso-tierralta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "Canad\u00e1 vs. India",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/canada-vs-india/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "El imperialismo moribundo",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/el-imperialismo-moribundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "Traici\u00f3n en carretera",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/traicion-en-carretera/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Segovia",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "Cartagena: de todos y de nadie",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/cartagena-de-todos-y-de-nadie/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "Sobre el nacer y el morir",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/sobre-el-nacer-y-el-morir/"
+    },
+    {
+        "article-type": "column",
+        "author": "Edna Liliana Valencia Murillo ",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "El problema no es ser negra... \u00a1es ser racista!",
+        "url": "https://www.elespectador.com/opinion/columnistas/edna-liliana-valencia-murillo/el-problema-no-es-ser-negra-es-ser-racista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "\u00bfGobernar o ejecutar?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/gobernar-o-ejecutar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "Militares de las capuchas, \u00bfa qui\u00e9n obedecen?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/militares-de-las-capuchas-a-quien-obedecen/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "Sarmiento en vacaciones judiciales",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/sarmiento-en-vacaciones-judiciales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "Gabo y Botero: universales",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/gabo-y-botero-universales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando Roa Su\u00e1rez",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "Sobre el maestro universitario. Reflexiones",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/sobre-el-maestro-universitario-reflexiones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio Borges",
+        "date": "2023-09-20",
+        "publication": "el-espectador",
+        "title": "\u00bfPor qu\u00e9 a Colombia le deber\u00eda importar la visita de Maduro a China?",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/por-que-a-colombia-le-deberia-importar-la-visita-de-maduro-a-china-noticias-hoy/"
     },
     {
         "article-type": "column",
@@ -33,30 +129,6 @@
     },
     {
         "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "La transformaci\u00f3n educativa en Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/la-transformacion-educativa-en-bogota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "Cautela s\u00ed, quietud no",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/cautela-si-quietud-no/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejandro Reyes Posada",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "Organizaci\u00f3n y movilizaci\u00f3n campesinas, \u00bfpara qu\u00e9?",
-        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/organizacion-y-movilizacion-campesinas-para-que/"
-    },
-    {
-        "article-type": "column",
         "author": "Aldo Civico",
         "date": "2023-09-19",
         "publication": "el-espectador",
@@ -72,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-maestro-botero/"
     },
     {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "Secuestro: de rebeldes a criminales de guerra",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/secuestro-de-rebeldes-a-criminales-de-guerra/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "La eternidad gorda de Botero",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/la-eternidad-gorda-de-botero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Garc\u00eda-Pe\u00f1a",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "Petro internacional",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/petro-internacional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "Los derroteros cambian",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/los-derroteros-cambian/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabrina Acosta",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "\u00bfUn Consejo de Estado masculinizado?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/un-consejo-de-estado-masculinizado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carolina Amaya*",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "Bukele y el retorno de las dictaduras a El Salvador (Opini\u00f3n) ",
-        "url": "https://www.elespectador.com/mundo/america/opinion-bukele-y-el-retorno-de-las-dictaduras-a-el-salvador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mireille Girard*",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "El exilio persiste y requiere soluciones",
-        "url": "https://www.elespectador.com/colombia-20/analistas/el-exilio-persiste-y-requiere-soluciones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "\u00bfEn cu\u00e1l bloque estamos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/en-cual-bloque-estamos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2023-09-18",
-        "publication": "el-espectador",
-        "title": "El am\u00e9n del f\u00fatbol a Miguel \u00c1ngel",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/el-amen-del-futbol-a-miguel-angel/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-19",
+        "date": "2023-09-20",
         "publication": "el-tiempo",
-        "title": "Hablemos de educaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/editorial/hablemos-de-educacion-editorial-el-tiempo-807291"
+        "title": "Bloqueos",
+        "url": "https://www.eltiempo.com/opinion/editorial/bloqueos-editorial-el-tiempo-807693"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-09-19",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-09-20",
         "publication": "el-tiempo",
-        "title": "Colombianidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/colombianidad-columna-de-jose-manuel-acevedo-807195"
+        "title": "De La Rochela a Tierralta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/de-la-rochela-a-tierralta-columna-de-alfonso-gomez-mendez-807640"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2023-09-19",
+        "author": "Vladdo",
+        "date": "2023-09-20",
         "publication": "el-tiempo",
-        "title": "Culebreros mayores",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/culebreros-mayores-columna-de-eduardo-escobar-807216"
+        "title": "Botero, el caricaturista",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/botero-el-caricaturista-columna-de-vladdo-807647"
     },
     {
         "article-type": "column",
-        "author": "Alberto Parra",
-        "date": "2023-09-19",
+        "author": "Florence Thomas",
+        "date": "2023-09-20",
         "publication": "el-tiempo",
-        "title": "La paz es fruto de la justicia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alberto-parra/la-paz-es-fruto-de-la-justicia-807204"
+        "title": "Mar\u00eda Isabel Plata, una abogada contra la corriente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/maria-isabel-plata-una-abogada-contra-la-corriente-florence-thomas-807591"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2023-09-19",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2023-09-20",
         "publication": "el-tiempo",
-        "title": "Comentario al duod\u00e9cimo grado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/comentario-al-duodecimo-grado-columna-de-fernando-sanchez-torres-807275"
+        "title": "Gonzalo Arango maquina en Otraparte",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/gonzalo-arango-maquina-en-otraparte-columna-de-jotamario-arbelaez-807650"
     },
     {
         "article-type": "column",
-        "author": "Sara Valentina Quevedo",
-        "date": "2023-09-19",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-09-20",
         "publication": "el-tiempo",
-        "title": "Quitarse el velo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sara-valentina-quevedo-delgado/quitarse-el-velo-columna-de-sara-valentina-quevedo-807281"
+        "title": "Petro superstar en Nueva York",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-superstar-en-nueva-york-columna-de-poncho-renteria-807598"
     },
     {
         "article-type": "column",
-        "author": "Alpher Rojas C.",
-        "date": "2023-09-19",
+        "author": "Juan Fernando Espinal",
+        "date": "2023-09-20",
         "publication": "el-tiempo",
-        "title": "Qu\u00e9 vaina, se nos fue Fernando Botero",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-c/que-vaina-se-nos-fue-fernando-botero-columna-de-alpher-rojas-c-807181"
+        "title": "'Colombia sin Fracking'",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/colombia-sin-fracking-columna-de-juan-espinal-807601"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2023-09-19",
+        "author": "Gregory Lobo",
+        "date": "2023-09-20",
         "publication": "el-tiempo",
-        "title": "La eterna novedad del combate",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/la-eterna-novedad-del-combate-columna-de-victor-corcoba-807277"
+        "title": "Sobre el libre albedr\u00edo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/sobre-el-libre-albedrio-columna-de-gregory-lobo-807156"
     }
 ]
