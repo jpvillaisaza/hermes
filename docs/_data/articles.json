@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-20",
+        "date": "2023-09-21",
         "publication": "el-colombiano",
-        "title": "La ONU \u00bfcon ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-onu-con-el-pulso-debil-KH22431856"
+        "title": "\u201cPrimera l\u00ednea\u201d: ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/primera-linea-no-al-olvido-NH22438630"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-20",
+        "date": "2023-09-21",
         "publication": "el-espectador",
-        "title": "Bienvenidos y necesarios avances en el caso Tierralta",
-        "url": "https://www.elespectador.com/opinion/editorial/bienvenidos-y-necesarios-avances-en-el-caso-tierralta/"
+        "title": "Expedici\u00f3n de pasaportes: la improvisaci\u00f3n cuesta",
+        "url": "https://www.elespectador.com/opinion/editorial/expedicion-de-pasaportes-la-improvisacion-cuesta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "Feminicidios",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/feminicidios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "Hace falta crear coros",
+        "url": "https://www.elespectador.com/opinion/columnistas/hace-falta-crear-coros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "Inteligencia artificial, bodegas y elecciones",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/inteligencia-artificial-bodegas-y-elecciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "Lo t\u00e9cnico, lo pol\u00edtico, lo ideol\u00f3gico",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/lo-tecnico-lo-politico-lo-ideologico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "Justicia para Ana Mar\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/justicia-para-ana-maria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "Subcomisi\u00f3n y otras dilaciones contra la  reforma a la salud",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/subcomision-y-otras-dilaciones-contra-la-reforma-a-la-salud/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "Activismo forestal y maderero",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/activismo-forestal-y-maderero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "Los gordos de Fernando Botero: un accidente y un malentendido",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/los-gordos-de-fernando-botero-un-accidente-y-un-malentendido/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas de los lectores",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "R\u00e9plica a una columna: por el derecho al buen nombre y al equilibrio de libertades",
+        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/replica-a-una-columna-por-el-derecho-al-buen-nombre-y-al-equilibrio-de-libertades/"
+    },
+    {
+        "article-type": "column",
+        "author": "H\u00e9ctor Garc\u00eda",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "El largo camino de las Notar\u00edas tradicionales en un mundo digital",
+        "url": "https://www.elespectador.com/opinion/columnistas/hectorgarcia/el-largo-camino-de-las-notarias-tradicionales-en-un-mundo-digital/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "Quedamos en medio de una pelea interna de la Colombia Humana y salimos chamuscados",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/quedamos-en-medio-de-una-pelea-interna-de-la-colombia-humana-y-salimos-chamuscados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Centro de Estudios sobre Seguridad y Drogas (Cesed)",
+        "date": "2023-09-21",
+        "publication": "el-espectador",
+        "title": "Las mujeres de Buenaventura",
+        "url": "https://www.elespectador.com/colombia-20/analistas/las-mujeres-de-buenaventura-violencias-basadas-en-genero/"
     },
     {
         "article-type": "column",
@@ -41,14 +137,6 @@
     },
     {
         "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-09-20",
-        "publication": "el-espectador",
-        "title": "Cartagena: de todos y de nadie",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/cartagena-de-todos-y-de-nadie/"
-    },
-    {
-        "article-type": "column",
         "author": "J. D. Torres Duarte",
         "date": "2023-09-20",
         "publication": "el-espectador",
@@ -56,155 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/sobre-el-nacer-y-el-morir/"
     },
     {
-        "article-type": "column",
-        "author": "Edna Liliana Valencia Murillo ",
-        "date": "2023-09-20",
-        "publication": "el-espectador",
-        "title": "El problema no es ser negra... \u00a1es ser racista!",
-        "url": "https://www.elespectador.com/opinion/columnistas/edna-liliana-valencia-murillo/el-problema-no-es-ser-negra-es-ser-racista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-09-20",
-        "publication": "el-espectador",
-        "title": "\u00bfGobernar o ejecutar?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/gobernar-o-ejecutar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-09-20",
-        "publication": "el-espectador",
-        "title": "Militares de las capuchas, \u00bfa qui\u00e9n obedecen?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/militares-de-las-capuchas-a-quien-obedecen/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-09-20",
-        "publication": "el-espectador",
-        "title": "Sarmiento en vacaciones judiciales",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/sarmiento-en-vacaciones-judiciales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-09-20",
-        "publication": "el-espectador",
-        "title": "Gabo y Botero: universales",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/gabo-y-botero-universales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2023-09-20",
-        "publication": "el-espectador",
-        "title": "Sobre el maestro universitario. Reflexiones",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/sobre-el-maestro-universitario-reflexiones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2023-09-20",
-        "publication": "el-espectador",
-        "title": "\u00bfPor qu\u00e9 a Colombia le deber\u00eda importar la visita de Maduro a China?",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/por-que-a-colombia-le-deberia-importar-la-visita-de-maduro-a-china-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "Corto circuito presupuestal",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado/corto-circuito-presupuestal-presupuesto-general-de-la-nacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "Nereo, inmortal",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/nereo-inmortal/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "K-pop",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/k-pop/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-09-19",
-        "publication": "el-espectador",
-        "title": "El maestro Botero",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-maestro-botero/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-20",
+        "date": "2023-09-21",
         "publication": "el-tiempo",
-        "title": "Bloqueos",
-        "url": "https://www.eltiempo.com/opinion/editorial/bloqueos-editorial-el-tiempo-807693"
+        "title": "R\u00edos de migrantes",
+        "url": "https://www.eltiempo.com/opinion/editorial/rios-de-migrantes-editorial-el-tiempo-808104"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-09-20",
+        "author": "Pedro Medellin",
+        "date": "2023-09-21",
         "publication": "el-tiempo",
-        "title": "De La Rochela a Tierralta",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/de-la-rochela-a-tierralta-columna-de-alfonso-gomez-mendez-807640"
+        "title": "Los empresarios y el r\u00e9gimen",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/los-empresarios-y-el-regimen-columna-de-pedro-medellin-808057"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-09-20",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-09-21",
         "publication": "el-tiempo",
-        "title": "Botero, el caricaturista",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/botero-el-caricaturista-columna-de-vladdo-807647"
+        "title": "Los libros y la vida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/los-libros-y-la-vida-columna-de-juan-esteban-constain-808019"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2023-09-20",
+        "author": "Jineth Bedoya Lima",
+        "date": "2023-09-21",
         "publication": "el-tiempo",
-        "title": "Mar\u00eda Isabel Plata, una abogada contra la corriente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/maria-isabel-plata-una-abogada-contra-la-corriente-florence-thomas-807591"
+        "title": "\u00bfLas v\u00edctimas en verdad son el centro?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/las-victimas-en-verdad-son-el-centro-columna-de-jineth-bedoya-807986"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2023-09-20",
+        "author": "Mauricio Lloreda",
+        "date": "2023-09-21",
         "publication": "el-tiempo",
-        "title": "Gonzalo Arango maquina en Otraparte",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/gonzalo-arango-maquina-en-otraparte-columna-de-jotamario-arbelaez-807650"
+        "title": "Realidad alucinada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/realidad-alucinada-columna-de-mauricio-lloreda-808033"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-09-20",
+        "author": "Juliana Mej\u00eda",
+        "date": "2023-09-21",
         "publication": "el-tiempo",
-        "title": "Petro superstar en Nueva York",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-superstar-en-nueva-york-columna-de-poncho-renteria-807598"
+        "title": "Desaf\u00edos de la democracia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/desafios-de-la-democracia-columna-de-juliana-mejia-808043"
     },
     {
         "article-type": "column",
-        "author": "Juan Fernando Espinal",
-        "date": "2023-09-20",
+        "author": "Diana Pardo",
+        "date": "2023-09-21",
         "publication": "el-tiempo",
-        "title": "'Colombia sin Fracking'",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/colombia-sin-fracking-columna-de-juan-espinal-807601"
+        "title": "Metaversos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/metaversos-columna-de-diana-pardo-808022"
     },
     {
         "article-type": "column",
-        "author": "Gregory Lobo",
-        "date": "2023-09-20",
+        "author": "Bj\u00f8rn Lomborg",
+        "date": "2023-09-21",
         "publication": "el-tiempo",
-        "title": "Sobre el libre albedr\u00edo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/sobre-el-libre-albedrio-columna-de-gregory-lobo-807156"
+        "title": "Urge un nuevo enfoque para rescatar a los ODS de su previsible fracaso",
+        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/urge-un-nuevo-enfoque-para-rescatar-a-los-ods-de-su-previsible-fracaso-808037"
     }
 ]
