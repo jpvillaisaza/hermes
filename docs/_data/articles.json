@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-26",
+        "date": "2023-09-27",
         "publication": "el-colombiano",
-        "title": "\u00bfUna marcha fletada?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/una-marcha-fletada-HC22465165"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/petro-y-el-problema-del-cauca-MD22476318"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-26",
+        "date": "2023-09-27",
         "publication": "el-espectador",
-        "title": "La esperanza de paz no admite tantas ambivalencias",
-        "url": "https://www.elespectador.com/opinion/editorial/la-esperanza-de-paz-no-admite-tantas-ambivalencias/"
+        "title": "El discurso de Uribe contra Uprimny es reprochable y peligroso",
+        "url": "https://www.elespectador.com/opinion/editorial/el-discurso-de-uribe-contra-uprimny-es-reprochable-y-peligroso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-09-27",
+        "publication": "el-espectador",
+        "title": "Como hace dos d\u00e9cadas",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/como-hace-dos-decadas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-09-27",
+        "publication": "el-espectador",
+        "title": "Moderaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/moderacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-09-27",
+        "publication": "el-espectador",
+        "title": "Los uribistas y los falsos positivos",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/los-uribistas-y-los-falsos-positivos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-09-27",
+        "publication": "el-espectador",
+        "title": "Diatriba p\u00fablica",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/diatriba-publica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-09-27",
+        "publication": "el-espectador",
+        "title": "Barbosa y Cabello, sin dios ni ley",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/barbosa-y-cabello-sin-dios-ni-ley/"
+    },
+    {
+        "article-type": "column",
+        "author": "Teresita Goyeneche",
+        "date": "2023-09-27",
+        "publication": "el-espectador",
+        "title": "La Alcald\u00eda de Cartagena",
+        "url": "https://www.elespectador.com/opinion/columnistas/teresita-goyeneche/la-alcaldia-de-cartagena/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitada",
+        "date": "2023-09-27",
+        "publication": "el-espectador",
+        "title": "El carnicero de Teher\u00e1n",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/el-carnicero-de-teheran/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2023-09-27",
+        "publication": "el-espectador",
+        "title": "La controversia sindical",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/la-controversia-sindical-en-la-aeronautica-civil/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-09-27",
+        "publication": "el-espectador",
+        "title": "El campeonato de orquestas",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-campeonato-de-orquestas/"
     },
     {
         "article-type": "column",
@@ -22,30 +94,6 @@
         "publication": "el-espectador",
         "title": "Salud: la nuez del debate",
         "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/salud-la-nuez-del-debate/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-09-26",
-        "publication": "el-espectador",
-        "title": "\u00bfPor qui\u00e9n votar?",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/por-quien-votar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-09-26",
-        "publication": "el-espectador",
-        "title": "Cuando Cali era Cali",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/cuando-cali-era-cali/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-09-26",
-        "publication": "el-espectador",
-        "title": "L\u00f3pez Pumarejo y Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/lopez-pumarejo-y-petro/"
     },
     {
         "article-type": "column",
@@ -65,11 +113,27 @@
     },
     {
         "article-type": "column",
-        "author": "Jaime Arocha",
+        "author": "\u00d3scar Alarc\u00f3n",
         "date": "2023-09-26",
         "publication": "el-espectador",
-        "title": "Capacitaci\u00f3n forestal",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/capacitacion-forestal/"
+        "title": "L\u00f3pez Pumarejo y Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/lopez-pumarejo-y-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-09-26",
+        "publication": "el-espectador",
+        "title": "Cuando Cali era Cali",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/cuando-cali-era-cali/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-09-26",
+        "publication": "el-espectador",
+        "title": "\u00bfPor qui\u00e9n votar?",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/por-quien-votar/"
     },
     {
         "article-type": "column",
@@ -80,131 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/maldita-violencia/"
     },
     {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2023-09-26",
-        "publication": "el-espectador",
-        "title": "El video que los Char no quieren que veas FEAT. LAURA ARDILA | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/el-video-que-los-char-no-quieren-que-veas-feat-laura-ardila-la-pulla/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-09-25",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Mujeres, a buscar otros horizontes",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-mujeres-a-buscar-otros-horizontes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2023-09-25",
-        "publication": "el-espectador",
-        "title": "Columna de Jorge Tovar: Competencia, f\u00fatbol y la Super",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-competencia-futbol-y-la-super/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-09-25",
-        "publication": "el-espectador",
-        "title": "La diferencia entre \u00abEstado\u00bb y \u00abestado\u00bb",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/la-diferencia-entre-estado-y-estado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Villamizar",
-        "date": "2023-09-25",
-        "publication": "el-espectador",
-        "title": "Se cambia la terna",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/se-cambia-la-terna/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-09-25",
-        "publication": "el-espectador",
-        "title": "Golpeando un caballo muerto",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/golpeando-un-caballo-muerto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-09-25",
-        "publication": "el-espectador",
-        "title": "Buen humor de un malhumorado",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/buen-humor-de-un-malhumorado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-09-25",
-        "publication": "el-espectador",
-        "title": "Por un gran acuerdo nacional",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/por-un-gran-acuerdo-nacional/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-26",
+        "date": "2023-09-27",
         "publication": "el-tiempo",
-        "title": "Rendici\u00f3n de cuentas",
-        "url": "https://www.eltiempo.com/opinion/editorial/rendicion-de-cuentas-editorial-el-tiempo-809573"
+        "title": "La convocatoria de hoy",
+        "url": "https://www.eltiempo.com/opinion/editorial/la-convocatoria-de-hoy-editorial-810015"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-09-26",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-09-27",
         "publication": "el-tiempo",
-        "title": "SOS por el Cauca",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/sos-por-el-cauca-columna-de-jose-manuel-acevedo-809512"
+        "title": "Hernando Yepes Arcila",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/hernando-yepes-arcila-columna-de-alfonso-gomez-mendez-809917"
     },
     {
         "article-type": "column",
-        "author": "Marcela Mel\u00e9ndez",
-        "date": "2023-09-26",
+        "author": "Vladdo",
+        "date": "2023-09-27",
         "publication": "el-tiempo",
-        "title": "\u00bfC\u00f3mo se reduce la desigualdad?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/como-se-reduce-la-desigualdad-columna-de-marcela-melendez-809565"
+        "title": "Ante la incertidumbre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/ante-la-incertidumbre-columna-de-vladdo-809995"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2023-09-26",
+        "author": "Andr\u00e9s Hurtado Garc\u00eda",
+        "date": "2023-09-27",
         "publication": "el-tiempo",
-        "title": "Metamorfosis letal",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/metamorfosis-letal-columna-de-sergio-munoz-bata-809522"
+        "title": "Hablamos, a veces, demasiado mal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/hablamos-a-veces-demasiado-mal-columna-de-andres-hurtado-809925"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2023-09-26",
+        "author": "Mar\u00eda Saldarriaga",
+        "date": "2023-09-27",
         "publication": "el-tiempo",
-        "title": "\u2018Y la nave va...\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/y-la-nave-va-columna-de-francisco-cajiao-809525"
+        "title": "Todos podemos ser luz",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/todos-podemos-ser-luz-columna-de-women-in-connection-809933"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2023-09-26",
+        "author": "Gustavo Duncan",
+        "date": "2023-09-27",
         "publication": "el-tiempo",
-        "title": "M\u00e1s \u2018d\u00edas sin\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/mas-dias-sin-columna-de-fernando-quiroz-809517"
+        "title": "Estancado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/estancado-columna-de-gustavo-duncan-809922"
     },
     {
         "article-type": "column",
-        "author": "Fabio Mart\u00ednez",
-        "date": "2023-09-26",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-09-27",
         "publication": "el-tiempo",
-        "title": "Migrantes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/migrantes-columna-de-fabio-martinez-809528"
+        "title": "A marchar para ganar en Bogot\u00e1",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/a-marchar-para-ganar-en-bogota-columna-de-poncho-renteria-809930"
     },
     {
         "article-type": "column",
-        "author": "Dejusticia",
-        "date": "2023-09-26",
+        "author": "Otros columnistas",
+        "date": "2023-09-27",
         "publication": "el-tiempo",
-        "title": "El campesinado, bajo la amenaza de una visi\u00f3n reducida de conservaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-campesinado-bajo-la-amenaza-de-una-vision-reducida-de-conservacion-809534"
+        "title": "La ciberseguridad al borde del abismo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/la-ciberseguridad-al-borde-del-abismo-columna-de-jose-arnold-cruz-809947"
     }
 ]
