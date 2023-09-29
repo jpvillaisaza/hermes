@@ -5,15 +5,87 @@
         "date": "2023-09-27",
         "publication": "el-colombiano",
         "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/a-falta-de-las-ias-buena-es-la-veeduria-GM22481205"
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-migracion-segun-francisco-ON22493872"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-28",
+        "date": "2023-09-29",
         "publication": "el-espectador",
-        "title": "Importante que Nicol\u00e1s Petro vaya a juicio",
-        "url": "https://www.elespectador.com/opinion/editorial/importante-que-nicolas-petro-vaya-a-juicio/"
+        "title": "Bienvenido el necesario macrocaso 11",
+        "url": "https://www.elespectador.com/opinion/editorial/bienvenido-el-necesario-macrocaso-11/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-09-29",
+        "publication": "el-espectador",
+        "title": "A prop\u00f3sito de un m\u00e9todo",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/a-proposito-de-un-metodo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2023-09-29",
+        "publication": "el-espectador",
+        "title": "Un grito desesperado que recorre el Choc\u00f3",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/un-grito-desesperado-que-recorre-el-choco/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tom\u00e1s Molina",
+        "date": "2023-09-29",
+        "publication": "el-espectador",
+        "title": "Queriendo salvarlo, Milei destruir\u00e1 el mercado argentino",
+        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/queriendo-salvarlo-milei-destruira-el-mercado-argentino/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-09-29",
+        "publication": "el-espectador",
+        "title": "\u00bfPor qu\u00e9 tanto misterio, presidente y cacaos?",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/por-que-tanto-misterio-presidente-y-cacaos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-09-29",
+        "publication": "el-espectador",
+        "title": "Ya est\u00e1n aqu\u00ed",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/ya-estan-aqui/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-09-29",
+        "publication": "el-espectador",
+        "title": "Los festivos de Emiliani y sus 40 a\u00f1os de inmortalidad ",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/los-festivos-de-emiliani-y-sus-40-anos-de-inmortalidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-09-29",
+        "publication": "el-espectador",
+        "title": "Tiempos",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/tiempos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2023-09-29",
+        "publication": "el-espectador",
+        "title": "Una revoluci\u00f3n continua",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/una-revolucion-continua/"
+    },
+    {
+        "article-type": "column",
+        "author": "Edna Liliana Valencia Murillo ",
+        "date": "2023-09-29",
+        "publication": "el-espectador",
+        "title": "La crisis de apatridia en Rep\u00fablica Dominicana y la historia no contada de Hait\u00ed",
+        "url": "https://www.elespectador.com/opinion/columnistas/edna-liliana-valencia-murillo/la-crisis-de-apatridia-en-republica-dominicana-y-la-historia-no-contada-de-haiti-opinion/"
     },
     {
         "article-type": "column",
@@ -65,14 +137,6 @@
     },
     {
         "article-type": "column",
-        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
-        "date": "2023-09-28",
-        "publication": "el-espectador",
-        "title": "El viche, \u00bfotra oportunidad perdida?",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/el-viche-otra-oportunidad-perdida/"
-    },
-    {
-        "article-type": "column",
         "author": "Mauricio Rubio",
         "date": "2023-09-28",
         "publication": "el-espectador",
@@ -80,131 +144,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/erotismo-femenino-y-masculino/"
     },
     {
-        "article-type": "column",
-        "author": "Foro Nacional por Colombia*",
-        "date": "2023-09-28",
-        "publication": "el-espectador",
-        "title": "Negociaciones con el ELN: En el camino de la consolidaci\u00f3n",
-        "url": "https://www.elespectador.com/colombia-20/analistas/negociaciones-con-el-eln-en-el-camino-de-la-consolidacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-09-28",
-        "publication": "el-espectador",
-        "title": "\u201cEl editorial del domingo sali\u00f3 con un error ortogr\u00e1fico\u201d: Fidel Cano ",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/el-editorial-del-domingo-salio-con-un-error-ortografico-fidel-cano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Ospina",
-        "date": "2023-09-28",
-        "publication": "el-espectador",
-        "title": "Los falsos positivos y la irresponsabilidad de mando",
-        "url": "https://www.elespectador.com/colombia-20/analistas/falsos-positivos-y-la-irresponsabilidad-de-mando-alvaro-uribe-y-rodrigo-uprimny/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-09-27",
-        "publication": "el-espectador",
-        "title": "Los uribistas y los falsos positivos",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/los-uribistas-y-los-falsos-positivos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-09-27",
-        "publication": "el-espectador",
-        "title": "Moderaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/moderacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-09-27",
-        "publication": "el-espectador",
-        "title": "Como hace dos d\u00e9cadas",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/como-hace-dos-decadas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-09-27",
-        "publication": "el-espectador",
-        "title": "Barbosa y Cabello, sin dios ni ley",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/barbosa-y-cabello-sin-dios-ni-ley/"
-    },
-    {
-        "article-type": "column",
-        "author": "Teresita Goyeneche",
-        "date": "2023-09-27",
-        "publication": "el-espectador",
-        "title": "La Alcald\u00eda de Cartagena",
-        "url": "https://www.elespectador.com/opinion/columnistas/teresita-goyeneche/la-alcaldia-de-cartagena/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-09-28",
+        "date": "2023-09-29",
         "publication": "el-tiempo",
-        "title": "Corte de cuentas",
-        "url": "https://www.eltiempo.com/opinion/editorial/corte-de-cuentas-editorial-el-tiempo-810385"
+        "title": "Espacios para la miner\u00eda",
+        "url": "https://www.eltiempo.com/opinion/editorial/espacios-para-la-mineria-editorial-el-tiempo-810827"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-09-28",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-09-29",
         "publication": "el-tiempo",
-        "title": "Menos marchas, m\u00e1s gobierno",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/menos-marchas-mas-gobierno-columna-de-pedro-medellin-810377"
+        "title": "Energ\u00eda es vida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/energia-es-vida-columna-moises-wasserman-810719"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-09-28",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-09-29",
         "publication": "el-tiempo",
-        "title": "\u00bfEstado fallido?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/estado-fallido-columna-de-juan-esteban-constain-810368"
+        "title": "Bogoteida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/bogoteida-columna-de-ricardo-silva-romero-810774"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2023-09-28",
+        "author": "Claudia Hakim",
+        "date": "2023-09-29",
         "publication": "el-tiempo",
-        "title": "\u00bfD\u00f3nde jugar\u00e1n los\u2026?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/donde-jugaran-los-columna-de-claudia-palacios-810380"
+        "title": "\u2018Sesenta a\u00f1os\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/sesenta-anos-columna-de-claudia-hakim-810761"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2023-09-28",
+        "author": "Martha Ortiz",
+        "date": "2023-09-29",
         "publication": "el-tiempo",
-        "title": "Delincuencia artificial",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/delincuencia-artificial-columna-de-sergio-ramirez-810300"
+        "title": "Maestro Botero y la obra que no termina",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/maestro-botero-y-la-obra-que-no-termina-columna-de-martha-ortiz-810728"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Manuel Ruiz",
-        "date": "2023-09-28",
+        "author": "Gali Dagan",
+        "date": "2023-09-29",
         "publication": "el-tiempo",
-        "title": "En la misma onda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/en-la-misma-onda-columna-de-victor-manuel-ruiz-810319"
+        "title": "Celebrando 3 a\u00f1os de cooperaci\u00f3n regional",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/celebrando-3-anos-de-cooperacion-regional-columna-de-gali-dagan-810767"
     },
     {
         "article-type": "column",
-        "author": "Women in Connection",
-        "date": "2023-09-28",
+        "author": "Martha Senn",
+        "date": "2023-09-29",
         "publication": "el-tiempo",
-        "title": "M\u00e1s all\u00e1 de la justicia y la equidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/mas-alla-de-la-justicia-y-la-equidad-columna-de-women-in-connection-810324"
+        "title": "Atractivos conciertos en Bogot\u00e1",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/atractivos-conciertos-en-bogota-columna-de-martha-senn-810736"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Laurens - Cine al Ojo",
-        "date": "2023-09-28",
+        "author": "Alfredo Rangel",
+        "date": "2023-09-29",
         "publication": "el-tiempo",
-        "title": "Tercera directora con una palma de oro en Cannes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/tercera-directora-con-una-palma-de-oro-en-cannes-mauricio-laurens-810329"
+        "title": "Movilizaciones fletadas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/movilizaciones-fletadas-columna-de-alfredo-rangel-810743"
+    },
+    {
+        "article-type": "column",
+        "author": "Armando Silva",
+        "date": "2023-09-29",
+        "publication": "el-tiempo",
+        "title": "\u00bfPor qu\u00e9 gusta tanto Botero?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/por-que-gusta-tanto-botero-columna-de-armando-silva-810754"
     }
 ]
