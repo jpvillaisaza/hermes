@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-01",
+        "date": "2023-10-02",
         "publication": "el-colombiano",
-        "title": "Quintero dej\u00f3 ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/quintero-dejo-botada-a-la-ciudad-FF22502531"
+        "title": "El cari\u00f1o verdadero",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-carino-verdadero-GG22531799"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-01",
+        "date": "2023-10-02",
         "publication": "el-espectador",
-        "title": "Instrumentalizar la protesta va contra la ciudadan\u00eda ",
-        "url": "https://www.elespectador.com/opinion/editorial/instrumentalizar-la-protesta-va-contra-la-ciudadania/"
+        "title": "El Gobierno no debe dar clases de prensa libre",
+        "url": "https://www.elespectador.com/opinion/editorial/el-gobierno-no-debe-dar-clases-de-prensa-libre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-10-02",
+        "publication": "el-espectador",
+        "title": "Y lleg\u00f3 octubre con sus sorpresas",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/y-llego-octubre-con-sus-sorpresas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2023-10-02",
+        "publication": "el-espectador",
+        "title": "\u00a1Por fin, televisi\u00f3n p\u00fablica!",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/por-fin-television-publica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2023-10-02",
+        "publication": "el-espectador",
+        "title": "No solo se \u00abaterriza\u00bb sobre la Tierra",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/no-solo-se-aterriza-sobre-la-tierra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-10-02",
+        "publication": "el-espectador",
+        "title": "La regla fiscal",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-regla-fiscal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Lora",
+        "date": "2023-10-02",
+        "publication": "el-espectador",
+        "title": "\u00bfHasta cu\u00e1ndo toleraremos tanta desigualdad?",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-lora-/hasta-cuando-toleraremos-tanta-desigualdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2023-10-02",
+        "publication": "el-espectador",
+        "title": "La \u201cjugadita\u201d de Petro en Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/la-jugadita-de-petro-en-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2023-10-02",
+        "publication": "el-espectador",
+        "title": "La inteligencia de Altman",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-inteligencia-de-altman/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2023-10-02",
+        "publication": "el-espectador",
+        "title": "Pretensi\u00f3n de facultades extraordinarias al presidente en educaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/pretension-de-facultades-extraordinarias-al-presidente-en-educacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-10-02",
+        "publication": "el-espectador",
+        "title": "Tropiezos al comercio exterior",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/tropiezos-al-comercio-exterior/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2023-10-02",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cInstrumentalizar la protesta va contra la ciudadan\u00eda\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-instrumentalizar-la-protesta-va-contra-la-ciudadania/"
     },
     {
         "article-type": "column",
@@ -49,27 +129,11 @@
     },
     {
         "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-10-01",
-        "publication": "el-espectador",
-        "title": "Estigmatizaci\u00f3n y silenciamiento",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/estigmatizacion-y-silenciamiento/"
-    },
-    {
-        "article-type": "column",
         "author": "Mauricio Botero Caicedo",
         "date": "2023-10-01",
         "publication": "el-espectador",
         "title": "\u00bfSon los subsidios una forma de habituarse a la penuria?",
         "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/subsidios-una-forma-de-habituarse-a-la-penuria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2023-10-01",
-        "publication": "el-espectador",
-        "title": "Fecode, partido pol\u00edtico",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/fecode-partido-politico/"
     },
     {
         "article-type": "column",
@@ -80,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/la-caida-del-precio-de-la-coca/"
     },
     {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-10-01",
-        "publication": "el-espectador",
-        "title": "Las \u201cpetromarchas\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/las-petromarchas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-10-01",
-        "publication": "el-espectador",
-        "title": "La promesa de anarqu\u00eda de Trump",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/la-promesa-de-anarquia-de-trump/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-10-01",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja le hacen sesi\u00f3n de aplausoterapia a Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-le-hacen-sesion-de-aplausoterapia-a-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-10-01",
-        "publication": "el-espectador",
-        "title": "C\u00f3janle la ca\u00f1a",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/cojanle-la-cana/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-10-01",
-        "publication": "el-espectador",
-        "title": "El derecho a mentir",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/el-derecho-a-mentir/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-10-01",
-        "publication": "el-espectador",
-        "title": "Una historia m\u00ednima",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/una-historia-minima/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-10-01",
-        "publication": "el-espectador",
-        "title": "Minga",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/minga/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-10-01",
-        "publication": "el-espectador",
-        "title": "El interrogatorio",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/el-interrogatorio/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-01",
+        "date": "2023-10-02",
         "publication": "el-tiempo",
-        "title": "Aterrizar el acuerdo",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-1-de-octubre-de-2023-aterrizar-el-acuerdo-811390"
+        "title": "Cuidar la regla fiscal",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-2-de-octubre-de-2023-cuidar-la-regla-fiscal-811540"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-10-01",
+        "author": "Juan Lozano",
+        "date": "2023-10-02",
         "publication": "el-tiempo",
-        "title": "Cada semana, m\u00e1s abusos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-cada-semana-mas-abusos-811391"
+        "title": "Censura modelo 2023",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-censura-modelo-2023-811544"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-10-01",
+        "author": "Luis Felipe Henao",
+        "date": "2023-10-02",
         "publication": "el-tiempo",
-        "title": "El autohomenaje",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-el-autohomenaje-811401"
+        "title": "Licitando por Twitter",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-licitando-por-twitter-811543"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-10-01",
+        "author": "Yolanda Reyes",
+        "date": "2023-10-02",
         "publication": "el-tiempo",
-        "title": "No ganaremos en las elecciones regionales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-no-ganaremos-en-las-elecciones-regionales-811404"
+        "title": "La guerra que no ha sido contada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-la-guerra-que-no-ha-sido-contada-811547"
     },
     {
         "article-type": "column",
-        "author": "Humberto de la Calle",
-        "date": "2023-10-01",
+        "author": "Diego Santos",
+        "date": "2023-10-02",
         "publication": "el-tiempo",
-        "title": "Petro vs. Procuradur\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/humberto-de-la-calle/columna-de-humberto-de-la-calle-petro-vs-procuraduria-811400"
+        "title": "Me divorci\u00e9. \u00bfDebo contarlo en LinkedIn?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-me-divorcie-debo-contarlo-en-linkedin-811548"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-10-01",
+        "author": "Sergio Clavijo",
+        "date": "2023-10-02",
         "publication": "el-tiempo",
-        "title": "\u00bfSe le puede creer a Petro?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-se-le-puede-creer-a-petro-811398"
+        "title": "Diversificaci\u00f3n exportadora fracasada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-diversificacion-exportadora-fracasada-811545"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-10-01",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-10-02",
         "publication": "el-tiempo",
-        "title": "Una marcha Potemkin",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-una-marcha-potemkin-811397"
+        "title": "Acceso ilegal a bases de datos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-acceso-ilegal-a-bases-de-datos-811542"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Pava Lugo",
-        "date": "2023-10-01",
+        "author": "Jorge Barraza",
+        "date": "2023-10-02",
         "publication": "el-tiempo",
-        "title": "Fiscal sin clientela",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-mauricio-pava-lugo-fiscal-sin-clientela-811406"
-    },
-    {
-        "article-type": "column",
-        "author": "Mois\u00e9s Na\u00edm",
-        "date": "2023-10-01",
-        "publication": "el-tiempo",
-        "title": "Modi: de primer ministro a rey de Bhara",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-naim/columna-de-moises-naim-modi-de-primer-ministro-a-rey-de-bhara-811407"
+        "title": "\u00bfEl City de Pep o el Bar\u00e7a de Pep?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-el-city-de-pep-o-el-barca-de-pep-811549"
     }
 ]
