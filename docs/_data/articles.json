@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-04",
+        "date": "2023-10-05",
         "publication": "el-colombiano",
-        "title": "La toma de las cajas",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-toma-de-las-cajas-AA22559988"
+        "title": "La confesi\u00f3n de Nicol\u00e1s Petro",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-confesion-de-nicolas-petro-JD22564951"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-04",
+        "date": "2023-10-05",
         "publication": "el-espectador",
-        "title": "\u201cBienestar\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/bienestar/"
+        "title": "Un Estado que reconoce el horror va camino de sanarlo",
+        "url": "https://www.elespectador.com/opinion/editorial/un-estado-que-reconoce-el-horror-va-camino-de-sanarlo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "El problema de la inseguridad",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-problema-de-la-inseguridad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "La programaci\u00f3n del Santo Domingo",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-programacion-del-santo-domingo-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "El tr\u00e1nsito de ser oposici\u00f3n a ser gobierno",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/el-transito-de-ser-oposicion-a-ser-gobierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "Rusinque, aliada de presuntos agresores, ternada a la Corte Constitucional ",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/rusinque-aliada-de-presuntos-agresores-ternada-a-la-corte-constitucional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "El hero\u00edsmo es no matar",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/el-heroismo-es-no-matar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Carrizosa Calle",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "Establecimiento populista",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/establecimiento-populista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "Las lecciones de hacer cola",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/las-lecciones-de-hacer-cola/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juliana Mu\u00f1oz Toro",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "Conversando con Dickinson",
+        "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/conversando-con-dickinson/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "Si hubiera ganado el S\u00ed",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/si-hubiera-ganado-el-si/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Lora",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "\u00bfPor qu\u00e9 crece el empleo si la econom\u00eda est\u00e1 estancada?",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-lora-/por-que-crece-el-empleo-si-la-economia-esta-estancada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "\u00bfC\u00f3mo sonar\u00eda en Colombia Gustavo Jinping y en China Xi Petro?",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/como-sonaria-en-colombia-gustavo-jinping-y-en-china-xi-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2023-10-05",
+        "publication": "el-espectador",
+        "title": "Reimaginar la desigualdad, desde el territorio",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/reimaginar-la-desigualdad-desde-el-territorio/"
     },
     {
         "article-type": "column",
@@ -48,163 +144,51 @@
         "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/cuando-renunciar-es-huir/"
     },
     {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-10-04",
-        "publication": "el-espectador",
-        "title": "O todos en la cama o todos en el suelo",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/o-todos-en-la-cama-o-todos-en-el-suelo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-10-04",
-        "publication": "el-espectador",
-        "title": "\u201cBienestar\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/bienestar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-10-04",
-        "publication": "el-espectador",
-        "title": "Unas elecciones piloto ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/unas-elecciones-piloto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-10-04",
-        "publication": "el-espectador",
-        "title": "V\u00e1yase \u201cpa\u2019l carajo\u201d, presidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/vayase-pal-carajo-presidente/"
-    },
-    {
-        "article-type": "column",
-        "author": "David Castrill\u00f3n-Kerrigan",
-        "date": "2023-10-03",
-        "publication": "el-espectador",
-        "title": "La alcaldesa-canciller",
-        "url": "https://www.elespectador.com/opinion/columnistas/david-castrillon-kerrigan/la-alcaldesa-canciller/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-10-03",
-        "publication": "el-espectador",
-        "title": "Muertes ilustres",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/muertes-ilustres/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-10-03",
-        "publication": "el-espectador",
-        "title": "Concesiones",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/concesiones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-10-03",
-        "publication": "el-espectador",
-        "title": "\u00bfQui\u00e9n est\u00e1 detr\u00e1s? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/quien-esta-detras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2023-10-03",
-        "publication": "el-espectador",
-        "title": "\u00bfLa ley estatutaria de educaci\u00f3n ser\u00e1 un hito en la historia del pa\u00eds?",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/la-ley-estatutaria-de-educacion-sera-un-hito-en-la-historia-del-pais/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-10-03",
-        "publication": "el-espectador",
-        "title": "\u00bfCisma en la Iglesia cat\u00f3lica?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/cisma-en-la-iglesia-catolica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2023-10-03",
-        "publication": "el-espectador",
-        "title": "Sobre la importancia de cumplir la regla fiscal",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/sobre-la-importancia-de-cumplir-la-regla-fiscal/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-10-03",
-        "publication": "el-espectador",
-        "title": "\u00bfY la sociedad civil qu\u00e9? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/y-la-sociedad-civil-que/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-04",
+        "date": "2023-10-05",
         "publication": "el-tiempo",
-        "title": "La Guajira",
-        "url": "https://www.eltiempo.com/opinion/editorial/la-guajira-editorial-el-tiempo-812374"
+        "title": "Lecciones de un cierre",
+        "url": "https://www.eltiempo.com/opinion/editorial/lecciones-de-un-cierre-editorial-el-tiempo-812843"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-10-04",
+        "author": "Diana Pardo",
+        "date": "2023-10-05",
         "publication": "el-tiempo",
-        "title": "Estado de derecho: realidad y ficci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/estado-de-derecho-realidad-y-ficcion-columna-de-alfonso-gomez-mendez-812274"
+        "title": "Destrezas bogotanas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/destrezas-bogotanas-diana-pardo-812795"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-10-04",
+        "author": "Juliana Mej\u00eda",
+        "date": "2023-10-05",
         "publication": "el-tiempo",
-        "title": "Con \u2018Semana\u2019 (a pesar de \u2018Semana\u2019)",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/con-semana-a-pesar-de-semana-columna-de-vladdo-812340"
+        "title": "Humanizar la democracia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/el-arte-de-escuchar-juliana-mejia-pelaez-812796"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2023-10-04",
+        "author": "Jineth Bedoya Lima",
+        "date": "2023-10-05",
         "publication": "el-tiempo",
-        "title": "Riesgoso como cruzar un r\u00edo en la noche",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/riesgoso-como-cruzar-un-rio-en-la-noche-columna-de-florence-thomas-812282"
+        "title": "Un macrocaso, gracias a las v\u00edctimas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/un-macrocaso-gracias-a-las-victimas-columna-jineth-bedoya-812831"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2023-10-04",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-10-05",
         "publication": "el-tiempo",
-        "title": "El disco rayado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/el-disco-rayado-columna-de-jotamario-arbelaez-812262"
+        "title": "Molinos de viento",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/molinos-de-viento-editorial-el-tiempo-812850"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-10-04",
+        "author": "Pedro Medellin",
+        "date": "2023-10-05",
         "publication": "el-tiempo",
-        "title": "Bogot\u00e1 reclama un gran alcalde",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/bogota-reclama-un-gran-alcalde-columna-de-poncho-renteria-812291"
-    },
-    {
-        "article-type": "column",
-        "author": "Marta Royo",
-        "date": "2023-10-04",
-        "publication": "el-tiempo",
-        "title": "M\u00e1s mujeres en pol\u00edtica y una agenda de derechos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/mas-mujeres-en-politica-y-una-agenda-de-derechos-columna-de-marta-royo-812305"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00c1lvaro Puerto Valencia",
-        "date": "2023-10-04",
-        "publication": "el-tiempo",
-        "title": "La reforma tiene cordales",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/la-reforma-tiene-cordales-columna-de-alvaro-puerto-valencia-812298"
+        "title": "\u00bfBuen l\u00edder, mal pol\u00edtico?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/buen-lider-mal-politico-pedro-medellin-torres-812852"
     }
 ]
