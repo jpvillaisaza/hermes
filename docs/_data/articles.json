@@ -2,18 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-05",
+        "date": "2023-10-06",
         "publication": "el-colombiano",
-        "title": "La confesi\u00f3n de Nicol\u00e1s Petro",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-confesion-de-nicolas-petro-JD22564951"
+        "title": "Las huelgas del futuro",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/las-huelgas-del-futuro-JM22592597"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-05",
+        "date": "2023-10-06",
         "publication": "el-espectador",
-        "title": "Un Estado que reconoce el horror va camino de sanarlo",
-        "url": "https://www.elespectador.com/opinion/editorial/un-estado-que-reconoce-el-horror-va-camino-de-sanarlo/"
+        "title": "Aunque no era el camino adecuado, La Guajira necesita acci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/editorial/aunque-no-era-el-camino-adecuado-la-guajira-necesita-accion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-10-06",
+        "publication": "el-espectador",
+        "title": "Est\u00e1n pasando cosas importantes\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/estan-pasando-cosas-importantes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2023-10-06",
+        "publication": "el-espectador",
+        "title": "\u00bfMedell\u00edn y su soledad?",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/medellin-y-su-soledad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2023-10-06",
+        "publication": "el-espectador",
+        "title": "El carcaj de Robin Hood",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/el-carcaj-de-robin-hood/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-10-06",
+        "publication": "el-espectador",
+        "title": "\u00bfSe parar\u00e1 la doble calzada? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/se-parara-la-doble-calzada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-10-06",
+        "publication": "el-espectador",
+        "title": "Un concierto entre miedosos y obstinados",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/un-concierto-entre-miedosos-y-obstinados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-10-06",
+        "publication": "el-espectador",
+        "title": "\u00bfAislamiento?",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/aislamiento/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-10-06",
+        "publication": "el-espectador",
+        "title": "Revoluci\u00f3n silenciosa",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/revolucion-silenciosa/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-10-06",
+        "publication": "el-espectador",
+        "title": "\u00bfLa familia M\u00c1S POLITIQUERA del pa\u00eds est\u00e1 en Tolima? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-la-familia-mas-politiquera-del-pais-esta-en-tolima/"
     },
     {
         "article-type": "column",
@@ -80,115 +144,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/conversando-con-dickinson/"
     },
     {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-10-05",
-        "publication": "el-espectador",
-        "title": "Si hubiera ganado el S\u00ed",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/si-hubiera-ganado-el-si/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Lora",
-        "date": "2023-10-05",
-        "publication": "el-espectador",
-        "title": "\u00bfPor qu\u00e9 crece el empleo si la econom\u00eda est\u00e1 estancada?",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-lora-/por-que-crece-el-empleo-si-la-economia-esta-estancada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-10-05",
-        "publication": "el-espectador",
-        "title": "\u00bfC\u00f3mo sonar\u00eda en Colombia Gustavo Jinping y en China Xi Petro?",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/como-sonaria-en-colombia-gustavo-jinping-y-en-china-xi-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2023-10-05",
-        "publication": "el-espectador",
-        "title": "Reimaginar la desigualdad, desde el territorio",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/reimaginar-la-desigualdad-desde-el-territorio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Oscar Guardiola-Rivera",
-        "date": "2023-10-04",
-        "publication": "el-espectador",
-        "title": "50 a\u00f1os despu\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/50-anos-despues/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2023-10-04",
-        "publication": "el-espectador",
-        "title": "Los abusos de la imprenta (o c\u00f3mo arruinar un libro)",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/los-abusos-de-la-imprenta-o-como-arruinar-un-libro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-10-04",
-        "publication": "el-espectador",
-        "title": "Obsolescencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/obsolescencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-10-04",
-        "publication": "el-espectador",
-        "title": "Cuando renunciar es huir",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/cuando-renunciar-es-huir/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-05",
+        "date": "2023-10-06",
         "publication": "el-tiempo",
-        "title": "Lecciones de un cierre",
-        "url": "https://www.eltiempo.com/opinion/editorial/lecciones-de-un-cierre-editorial-el-tiempo-812843"
+        "title": "S\u00ednodo en la tormenta",
+        "url": "https://www.eltiempo.com/opinion/editorial/sinodo-en-la-tormenta-editorial-el-tiempo-813290"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2023-10-05",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-10-06",
         "publication": "el-tiempo",
-        "title": "Destrezas bogotanas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/destrezas-bogotanas-diana-pardo-812795"
+        "title": "\u2018Lo dice la ciencia\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/lo-dice-la-ciencia-columna-de-moises-wasserman-813145"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2023-10-05",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-10-06",
         "publication": "el-tiempo",
-        "title": "Humanizar la democracia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/el-arte-de-escuchar-juliana-mejia-pelaez-812796"
+        "title": "Noviolencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/noviolencia-columna-de-ricardo-silva-romero-813174"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2023-10-05",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-10-06",
         "publication": "el-tiempo",
-        "title": "Un macrocaso, gracias a las v\u00edctimas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/un-macrocaso-gracias-a-las-victimas-columna-jineth-bedoya-812831"
+        "title": "\u2018La vida\u2019 de Marc Chagall",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/la-vida-de-marc-chagall-columna-de-eduardo-posada-carbo-813152"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-10-05",
+        "author": "Marcela Prieto",
+        "date": "2023-10-06",
         "publication": "el-tiempo",
-        "title": "Molinos de viento",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/molinos-de-viento-editorial-el-tiempo-812850"
+        "title": "El populismo, la manzana envenenada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/el-populismo-la-manzana-envenenada-columna-de-women-in-connection-813264"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-10-05",
+        "author": "Antonio Albi\u00f1ana",
+        "date": "2023-10-06",
         "publication": "el-tiempo",
-        "title": "\u00bfBuen l\u00edder, mal pol\u00edtico?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/buen-lider-mal-politico-pedro-medellin-torres-812852"
+        "title": "\u00bfPara qu\u00e9 sirve la ONU?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/antonio-albinana/para-que-sirve-la-onu-columna-de-antonio-albinana-813163"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2023-10-06",
+        "publication": "el-tiempo",
+        "title": "Peces de ciudad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/peces-de-ciudad-columna-de-manuel-guzman-hennessey-813168"
     }
 ]
