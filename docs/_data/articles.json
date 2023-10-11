@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-10",
+        "date": "2023-10-11",
         "publication": "el-colombiano",
-        "title": "Cualquier ataque ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/cualquier-ataque-es-inaceptable-AE22628293"
+        "title": "\u00bfY c\u00f3mo va la paz por ac\u00e1?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/y-como-va-la-paz-por-aca-IF22634268"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-10",
+        "date": "2023-10-11",
         "publication": "el-espectador",
-        "title": "Asesinatos que silencian en Ecuador",
-        "url": "https://www.elespectador.com/opinion/editorial/asesinatos-que-silencian-en-ecuador/"
+        "title": "Las ni\u00f1as y adolescentes sufren en Colombia",
+        "url": "https://www.elespectador.com/opinion/editorial/las-ninas-y-adolescentes-sufren-en-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-10-11",
+        "publication": "el-espectador",
+        "title": "Ni democracia ni transparencia ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/ni-democracia-ni-transparencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-10-11",
+        "publication": "el-espectador",
+        "title": "Adagio",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/adagio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-10-11",
+        "publication": "el-espectador",
+        "title": "Me jodieron bien jodido",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/me-jodieron-bien-jodido/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-10-11",
+        "publication": "el-espectador",
+        "title": "Los suicidas de Gaza",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/los-suicidas-de-gaza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-10-11",
+        "publication": "el-espectador",
+        "title": "\u00bf\u201cV\u00ednculos que imposibilitan investigar\u201d?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/vinculos-que-imposibilitan-investigar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-10-11",
+        "publication": "el-espectador",
+        "title": "Diplomacia activista ",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/diplomacia-activista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-10-11",
+        "publication": "el-espectador",
+        "title": "Podemos empeorar",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/podemos-empeorar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-10-11",
+        "publication": "el-espectador",
+        "title": "\u00bfY las subastas de energ\u00eda renovable?",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/y-las-subastas-de-energia-renovable/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-10-11",
+        "publication": "el-espectador",
+        "title": "Uribe no ir\u00e1 a la c\u00e1rcel, gracias a la Fiscal\u00eda | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-uribe-no-ira-a-la-carcel-gracias-a-la-fiscalia/"
     },
     {
         "article-type": "column",
@@ -49,19 +121,19 @@
     },
     {
         "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2023-10-10",
-        "publication": "el-espectador",
-        "title": "La denuncia contra un exministro de Salud",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/la-denuncia-contra-un-exministro-de-salud/"
-    },
-    {
-        "article-type": "column",
         "author": "Cristina de la Torre",
         "date": "2023-10-10",
         "publication": "el-espectador",
         "title": "\u00bfOtro pacto de silencio o la verdad?",
         "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/otro-pacto-de-silencio-o-la-verdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2023-10-10",
+        "publication": "el-espectador",
+        "title": "La denuncia contra un exministro de Salud",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/la-denuncia-contra-un-exministro-de-salud/"
     },
     {
         "article-type": "column",
@@ -72,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-el-nuevo-estadio-de-bogota-noticias-hoy/"
     },
     {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-10-10",
-        "publication": "el-espectador",
-        "title": "Recordando un cuento de Andr\u00e9s Caicedo",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/recordando-un-cuento-de-andres-caicedo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2023-10-10",
-        "publication": "el-espectador",
-        "title": "Al oro no le gusta la ley, no",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/al-oro-no-le-gusta-la-ley-no/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2023-10-10",
-        "publication": "el-espectador",
-        "title": "La nueva ley de seguridad online en Reino Unido ",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-nueva-ley-de-seguridad-online-en-reino-unido/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-10-09",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: D\u00e1vinson S\u00e1nchez",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-davinson-sanchez-seleccion-colombia-deportes-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-10-09",
-        "publication": "el-espectador",
-        "title": "Falta dirigencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/falta-dirigencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-10-09",
-        "publication": "el-espectador",
-        "title": "P\u00e9simo predicador de paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/pesimo-predicador-de-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Leyva",
-        "date": "2023-10-09",
-        "publication": "el-espectador",
-        "title": "Coyuntura europea",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/coyuntura-europea/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-10-09",
-        "publication": "el-espectador",
-        "title": " \u00bf\u00abLas chinches\u00bb o \u00ablos chinches\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/chinches-es-femenino-o-masculino-premio-nobel-en-minuscula/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Villamizar",
-        "date": "2023-10-09",
-        "publication": "el-espectador",
-        "title": "Investigar a un presidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/investigar-a-un-presidente/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-10",
+        "date": "2023-10-11",
         "publication": "el-tiempo",
-        "title": "Desaf\u00edos de la CCB",
-        "url": "https://www.eltiempo.com/opinion/editorial/desafios-de-la-ccb-editorial-el-tiempo-814415"
+        "title": "No es con trinos",
+        "url": "https://www.eltiempo.com/opinion/editorial/no-es-con-trinos-editorial-el-tiempo-814854"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-10-10",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-10-11",
         "publication": "el-tiempo",
-        "title": "Por lo bajo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/por-lo-bajo-columna-de-jose-manuel-acevedo-814318"
+        "title": "\u2018Encuestitis\u2019 aguda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/encuestitis-aguda-columna-de-alfonso-gomez-mendez-814788"
     },
     {
         "article-type": "column",
-        "author": "Cristina Esguerra Miranda",
-        "date": "2023-10-10",
+        "author": "Vladdo",
+        "date": "2023-10-11",
         "publication": "el-tiempo",
-        "title": "Ante la adversidad, el estoicismo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/cristina-esguerra-miranda/ante-la-adversidad-el-estoicismo-columna-de-cristina-esguerra-814420"
+        "title": "Voto blanco, pero no en blanco",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/voto-blanco-pero-no-en-blanco-columna-de-vladdo-814791"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2023-10-10",
+        "author": "Gustavo Duncan",
+        "date": "2023-10-11",
         "publication": "el-tiempo",
-        "title": "Contra la tentaci\u00f3n intolerante",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/contra-la-tentacion-intolerante-columna-de-sergio-munoz-bata-814348"
+        "title": "Identidades b\u00e1sicas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/identidades-basicas-columna-de-gustavo-duncan-814790"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2023-10-10",
+        "author": "Claudia Pinilla",
+        "date": "2023-10-11",
         "publication": "el-tiempo",
-        "title": "La caja de Pandora",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/la-caja-de-pandora-columna-de-francisco-cajiao-814355"
+        "title": "Todos podemos participar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/todos-podemos-participar-columna-de-women-in-connection-814798"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2023-10-10",
+        "author": "Andr\u00e9s Hurtado Garc\u00eda",
+        "date": "2023-10-11",
         "publication": "el-tiempo",
-        "title": "a. p. / d. p.",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/d-p-columna-de-fernando-quiroz-814362"
+        "title": "\u00bfPor qu\u00e9 la India?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/por-que-la-india-columna-de-andres-hurtado-garcia-814794"
     },
     {
         "article-type": "column",
-        "author": "Nelson R. Amaya",
-        "date": "2023-10-10",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-10-11",
         "publication": "el-tiempo",
-        "title": "Sigue la crisis en La Guajira",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/sigue-la-crisis-en-la-guajira-columna-de-nelson-amaya-814399"
+        "title": "Gal\u00e1n pinta ganador, y el segundo, Oviedo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/galan-pinta-ganador-y-el-segundo-oviedo-columna-de-poncho-renteria-814796"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Eugenia Rinaudo",
-        "date": "2023-10-10",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-10-11",
         "publication": "el-tiempo",
-        "title": "Transici\u00f3n energ\u00e9tica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/transicion-energetica-columna-de-maria-eugenia-rinaudo-814395"
+        "title": "\u2018Una burra de ojos verdes\u2019: una novela divertida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/una-burra-de-ojos-verdes-una-novela-divertida-jose-miguel-alzate-814802"
     }
 ]
