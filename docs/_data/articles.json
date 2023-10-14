@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-13",
+        "date": "2023-10-14",
         "publication": "el-colombiano",
-        "title": "La derrota de los \u2018tibios\u2019",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-derrota-de-los-tibios-DD22658847"
+        "title": "La tortura de los guardianes de las redes",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-tortura-de-los-guardianes-de-las-redes-HA22668069"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-13",
+        "date": "2023-10-14",
         "publication": "el-espectador",
-        "title": "Los debates de la terna para fiscal",
-        "url": "https://www.elespectador.com/opinion/editorial/los-debates-de-la-terna-para-fiscal/"
+        "title": "Siguen las traiciones",
+        "url": "https://www.elespectador.com/opinion/editorial/siguen-las-traiciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "Cuba: el rat\u00f3n cuidando el queso",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado/cuba-el-raton-cuidando-el-queso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "Dos ruedas y un tri\u00e1ngulo",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/dos-ruedas-y-un-triangulo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "El tiempo de la ira",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/el-tiempo-de-la-ira/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "Extremistas de ambos lados",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/extremistas-de-ambos-lados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "La estrategia exculpatoria de Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/la-estrategia-exculpatoria-de-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "Aqu\u00ed no hay civiles",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/aqui-no-hay-civiles/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "Pan para ma\u00f1ana",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/pan-para-manana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adolfo Le\u00f3n Atehort\u00faa Cruz",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "Educar en la c\u00e1rceles",
+        "url": "https://www.elespectador.com/opinion/columnistas/adolfo-leon-atehortua-cruz/educar-en-la-carceles/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "Muerte profanada",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/muerte-profanada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "Acoso, soledad y desprestigio: la violencia que enfrentan mujeres candidatas ",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/acoso-soledad-y-desprestigio-la-violencia-que-enfrentan-mujeres-candidatas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Luc\u00eda M\u00e9ndez y Miguel Su\u00e1rez",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "Cambiar balas por votos es m\u00e1s dif\u00edcil de lo que parece",
+        "url": "https://www.elespectador.com/colombia-20/cambiar-balas-por-votos-es-mas-dificil-de-lo-que-parece/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2023-10-14",
+        "publication": "el-espectador",
+        "title": "Columna de Andr\u00e9s Marocco: Nuestra eterna falta de jerarqu\u00eda ",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/columna-de-andres-marocco-nuestra-eterna-falta-de-jerarquia/"
     },
     {
         "article-type": "column",
@@ -48,179 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/argos-y-la-tierra-prometida/"
     },
     {
-        "article-type": "column",
-        "author": "Juan Carlos Botero",
-        "date": "2023-10-13",
-        "publication": "el-espectador",
-        "title": "C\u00f3mo escrib\u00ed \u201cLa sentencia\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/como-escribi-la-sentencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2023-10-13",
-        "publication": "el-espectador",
-        "title": "\u00a1Qu\u00e9 mamera la testosterona!",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/que-mamera-la-testosterona/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Bada",
-        "date": "2023-10-13",
-        "publication": "el-espectador",
-        "title": "Borges, supersticioso",
-        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/borges-supersticioso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Iv\u00e1n Cuervo R.",
-        "date": "2023-10-13",
-        "publication": "el-espectador",
-        "title": "La encrucijada en Oriente Medio",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/la-encrucijada-en-oriente-medio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-10-13",
-        "publication": "el-espectador",
-        "title": "Comida para el alma",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/comida-para-el-alma/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2023-10-13",
-        "publication": "el-espectador",
-        "title": "El alud de las noticias que se van",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/el-alud-de-las-noticias-que-se-van/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marta Juanita Villaveces Ni\u00f1o*",
-        "date": "2023-10-13",
-        "publication": "el-espectador",
-        "title": "Goldin: la evoluci\u00f3n del mercado laboral y la revoluci\u00f3n incompleta",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/goldin-la-evolucion-del-mercado-laboral-y-la-revolucion-incompleta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda \u00c1ngela Holgu\u00edn",
-        "date": "2023-10-12",
-        "publication": "el-espectador",
-        "title": "Otra guerra m\u00e1s",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-angela-holguin/otra-guerra-mas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-10-12",
-        "publication": "el-espectador",
-        "title": "Desigualdad explicada con manzanas ",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/desigualdad-explicada-con-manzanas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2023-10-12",
-        "publication": "el-espectador",
-        "title": "Uribe perdi\u00f3 el relato",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/uribe-perdio-el-relato/"
-    },
-    {
-        "article-type": "column",
-        "author": "Santiago Villa",
-        "date": "2023-10-12",
-        "publication": "el-espectador",
-        "title": "\u00bfPetro neg\u00f3 el Holocausto?",
-        "url": "https://www.elespectador.com/opinion/columnistas/santiago-villa/petro-nego-el-holocausto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2023-10-12",
-        "publication": "el-espectador",
-        "title": "Las ratas y las masas",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/las-ratas-y-las-masas/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-13",
+        "date": "2023-10-14",
         "publication": "el-tiempo",
-        "title": "Los Regiotram",
-        "url": "https://www.eltiempo.com/opinion/editorial/los-regiotram-editorial-el-tiempo-815701"
+        "title": "El Soat debe reformarse",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-soat-debe-reformarse-editorial-el-tiempo-816064"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-10-13",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2023-10-14",
         "publication": "el-tiempo",
-        "title": "La Carta Fundacional de Ham\u00e1s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/la-carta-fundacional-de-hamas-columna-de-moises-wasserman-815595"
+        "title": "Un Estado sobreexigido",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/un-estado-sobreexigido-columna-de-mauricio-cardenas-816079"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-10-13",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-10-14",
         "publication": "el-tiempo",
-        "title": "Presidencialismo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/presidencialismo-columna-de-ricardo-silva-romero-815617"
+        "title": "Eclipse total de paz",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/eclipse-total-de-paz-columna-de-luis-noe-ochoa-816042"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2023-10-13",
+        "author": "Sara Tufano",
+        "date": "2023-10-14",
         "publication": "el-tiempo",
-        "title": "Daniel Quintero falla a un juramento a Medell\u00edn",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/daniel-quintero-falla-a-un-juramento-a-medellin-columna-de-martha-ortiz-815637"
+        "title": "Redes de afectos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/redes-de-afectos-columna-de-sara-tufano-816020"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2023-10-13",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2023-10-14",
         "publication": "el-tiempo",
-        "title": "Una vieja preocupaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/una-vieja-preocupacion-columna-de-fernando-sanchez-torres-815642"
+        "title": "No reformar por reformar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/no-reformar-por-reformar-columna-de-jose-gregorio-hernandez-816008"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2023-10-13",
+        "author": "Armando Silva",
+        "date": "2023-10-14",
         "publication": "el-tiempo",
-        "title": "El mes del artista pasa de agache",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/el-mes-del-artista-pasa-de-agache-columna-de-claudia-hakim-815606"
+        "title": "Zombis en la ciudad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/zombis-en-la-ciudad-columna-de-armando-silva-816023"
     },
     {
         "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2023-10-13",
+        "author": "Diego Cardona Cardona",
+        "date": "2023-10-14",
         "publication": "el-tiempo",
-        "title": "Cuatro crisis juntas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/cuatro-crisis-juntas-columna-de-alfredo-rangel-815647"
+        "title": "Llamados a convivir en un peque\u00f1o territorio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/llamados-a-convivir-en-un-pequeno-territorio-columna-de-diego-cardona-816026"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-10-13",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2023-10-14",
         "publication": "el-tiempo",
-        "title": "Carlos Vives, \u2018honoris causa\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/carlos-vives-honoris-causa-columna-de-eduardo-posada-carbo-815602"
-    },
-    {
-        "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2023-10-13",
-        "publication": "el-tiempo",
-        "title": "La gran Marina Tafur",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/la-gran-marina-tafur-columna-de-martha-senn-815639"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2023-10-13",
-        "publication": "el-tiempo",
-        "title": "Gracias por la m\u00fasica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/gracias-por-la-musica-columna-de-oscar-dominguez-giraldo-815626"
+        "title": "De tierras gallegas a Buenos Aires y Helsinki",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/de-tierras-gallegas-a-buenos-aires-y-helsinki-columna-de-mauricio-cardenas-816036"
     }
 ]
