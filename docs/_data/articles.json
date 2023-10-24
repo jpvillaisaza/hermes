@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-23",
+        "date": "2023-10-24",
         "publication": "el-colombiano",
-        "title": "Elegir aqu\u00ed y ahora",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/elegir-aqui-y-ahora-LF22720290"
+        "title": "De c\u00f3mo se desaprovecha un pa\u00eds",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/de-como-se-desaprovecha-un-pais-MC22757759"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-23",
+        "date": "2023-10-24",
         "publication": "el-espectador",
-        "title": "La diplomacia es el camino",
-        "url": "https://www.elespectador.com/opinion/editorial/la-diplomacia-es-el-camino/"
+        "title": "Un peronista y un ultra, a segunda vuelta en Argentina",
+        "url": "https://www.elespectador.com/opinion/editorial/un-peronista-y-un-ultra-a-segunda-vuelta-en-argentina/"
+    },
+    {
+        "article-type": "column",
+        "author": "David Castrill\u00f3n-Kerrigan",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "Petro en China, m\u00e1s que una visita protocolaria",
+        "url": "https://www.elespectador.com/opinion/columnistas/david-castrillon-kerrigan/petro-en-china-mas-que-una-visita-protocolaria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "Haciendo patria con sangre",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/haciendo-patria-con-sangre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "Viajar solos",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/viajar-solos/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "Las renuncias anticipadas",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/las-renuncias-anticipadas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "L\u00f3pez, Petro y Palestina",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/lopez-petro-y-palestina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "Nacido en Gaza",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/nacido-en-gaza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "Se lleg\u00f3 el momento",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/se-llego-el-momento/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "La indignaci\u00f3n de la JEP",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/la-indignacion-de-la-jep/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "De los discursos de odio a los cr\u00edmenes de odio",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/de-los-discursos-de-odio-a-los-crimenes-de-odio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitada",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "Boric y el espejismo de su cr\u00edtica a China",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/boric-y-el-espejismo-de-su-critica-a-china/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "Valorar la democracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/valorar-la-democracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Felipe Carrillo G\u00e1faro",
+        "date": "2023-10-24",
+        "publication": "el-espectador",
+        "title": "El regreso del fara\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/el-regreso-del-faraon/"
     },
     {
         "article-type": "column",
@@ -48,171 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/petro-light/"
     },
     {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-10-23",
-        "publication": "el-espectador",
-        "title": "Estanflaci\u00f3n y geopol\u00edtica",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/estanflacion-y-geopolitica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Villamizar",
-        "date": "2023-10-23",
-        "publication": "el-espectador",
-        "title": "En la recta final ",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/en-la-recta-final/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-10-23",
-        "publication": "el-espectador",
-        "title": "Liberen al Cesar",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/liberen-al-cesar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-10-23",
-        "publication": "el-espectador",
-        "title": "\u201cCabezas de rat\u00f3n\u201d pol\u00edticos y cultura",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/cabezas-de-raton-politicos-y-cultura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-10-23",
-        "publication": "el-espectador",
-        "title": "Cuotas para el cine nacional",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/cuotas-para-el-cine-nacional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-10-23",
-        "publication": "el-espectador",
-        "title": "Cooptar",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/cooptar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-10-23",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Procesos, verdades y preguntas",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-procesos-verdades-y-preguntas-deportes-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2023-10-23",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cLa reputaci\u00f3n de la Corte Suprema de Justicia est\u00e1 en juego\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-la-reputacion-de-la-corte-suprema-de-justicia-esta-en-juego/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2023-10-22",
-        "publication": "el-espectador",
-        "title": "El modelo de ahorro, eficiencia y equidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/el-modelo-de-ahorro-eficiencia-y-equidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-10-22",
-        "publication": "el-espectador",
-        "title": "En borrador",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/en-borrador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Irene Vallejo Moreu",
-        "date": "2023-10-22",
-        "publication": "el-espectador",
-        "title": "Lenguas de fuego",
-        "url": "https://www.elespectador.com/opinion/columnistas/ivallejo/lenguas-de-fuego/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-10-22",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja analizan las elecciones argentinas",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-analizan-las-elecciones-argentinas/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-23",
+        "date": "2023-10-24",
         "publication": "el-tiempo",
-        "title": "Interinidad in\u00e9dita",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-23-de-octubre-de-2023-interinidad-inedita-818579"
+        "title": "Inaceptable",
+        "url": "https://www.eltiempo.com/opinion/editorial/inaceptable-editorial-el-tiempo-818977"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-10-23",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-10-24",
         "publication": "el-tiempo",
-        "title": "La cuota inicial del 2026",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-la-cuota-inicial-del-2026-818586"
+        "title": "Un consejo para el Concejo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/un-consejo-para-el-concejo-columna-de-jose-manuel-acevedo-818887"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-10-23",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2023-10-24",
         "publication": "el-tiempo",
-        "title": "Elecciones regionales entre el populismo y la eficiencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-elecciones-regionales-entre-el-populismo-y-la-eficiencia-818575"
+        "title": "Conectados",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/conectados-columna-de-marcela-melendez-818917"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2023-10-23",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2023-10-24",
         "publication": "el-tiempo",
-        "title": "Te amar\u00e9 siempre, Claudia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-te-amare-siempre-claudia-818576"
+        "title": "Petro, reprobado en historia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/petro-reprobado-en-historia-columna-de-sergio-munoz-bata-818881"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-10-23",
+        "author": "Francisco Cajiao",
+        "date": "2023-10-24",
         "publication": "el-tiempo",
-        "title": "Podemos, y debemos, usar la tecnolog\u00eda a nuestro favor. No al rev\u00e9s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-usar-la-tecnologia-a-nuestro-favor-818574"
+        "title": "Elecciones y poder local",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/elecciones-y-poder-local-columna-de-francisco-cajiao-818905"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2023-10-23",
+        "author": "Fernando Quiroz",
+        "date": "2023-10-24",
         "publication": "el-tiempo",
-        "title": "El antih\u00e9roe de papel",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/columna-de-armando-silva-el-antiheroe-de-papel-818582"
+        "title": "\u00bfUna especie fallida?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/una-especie-fallida-columna-de-fernando-quiroz-818899"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2023-10-23",
+        "author": "Enrique Krauze",
+        "date": "2023-10-24",
         "publication": "el-tiempo",
-        "title": "Reflexi\u00f3n para antes de votar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-reflexion-para-antes-de-votar-818583"
+        "title": "7 de octubre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/enrique-krauze/7-de-octubre-columna-de-enrique-krauze-818914"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2023-10-23",
+        "author": "Dejusticia",
+        "date": "2023-10-24",
         "publication": "el-tiempo",
-        "title": "Botero, fil\u00e1ntropo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/columna-de-fernando-sanchez-torres-botero-filantropo-818587"
-    },
-    {
-        "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-10-23",
-        "publication": "el-tiempo",
-        "title": "La intoxicaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-la-intoxicacion-818588"
+        "title": "\u00bfPodr\u00e1 pagarse la deuda con las sobrevivientes de violencia sexual?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/podra-pagarse-la-deuda-con-las-sobrevivientes-de-violencia-sexual-818911"
     }
 ]
