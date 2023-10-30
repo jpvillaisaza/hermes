@@ -2,18 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-29",
+        "date": "2023-10-30",
         "publication": "el-colombiano",
-        "title": "Est\u00e1 en nuestras manos",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/esta-en-nuestras-manos-GK22934222"
+        "title": "De qu\u00e9 est\u00e1 hecha ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/de-que-esta-hecha-la-victoria-CA23012550"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-29",
+        "date": "2023-10-30",
         "publication": "el-espectador",
-        "title": "A pesar de los nubarrones, a defender la democracia ",
-        "url": "https://www.elespectador.com/opinion/editorial/a-pesar-de-los-nubarrones-a-defender-la-democracia/"
+        "title": "Mensajes claros para reconfigurar el camino",
+        "url": "https://www.elespectador.com/opinion/editorial/mensajes-claros-para-reconfigurar-el-camino/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Tovar",
+        "date": "2023-10-30",
+        "publication": "el-espectador",
+        "title": "Columna de Jorge Tovar: Colombia 2038",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-colombia-2038-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2023-10-30",
+        "publication": "el-espectador",
+        "title": "Cuatro efem\u00e9rides de octubre",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/cuatro-efemerides-de-octubre/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2023-10-30",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cA pesar de los nubarrones, a defender la democracia\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-a-pesar-de-los-nubarrones-a-defender-la-democracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabella Portilla",
+        "date": "2023-10-30",
+        "publication": "el-espectador",
+        "title": "Soltar",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabella-portilla/soltar/"
     },
     {
         "article-type": "column",
@@ -49,6 +81,14 @@
     },
     {
         "article-type": "column",
+        "author": "Laura Ardila Arrieta",
+        "date": "2023-10-29",
+        "publication": "el-espectador",
+        "title": "Los compradores de votos y el cambio",
+        "url": "https://www.elespectador.com/opinion/columnistas/laura-ardila-arrieta/los-compradores-de-votos-y-el-cambio/"
+    },
+    {
+        "article-type": "column",
         "author": "Ramiro Bejarano Guzm\u00e1n",
         "date": "2023-10-29",
         "publication": "el-espectador",
@@ -73,11 +113,11 @@
     },
     {
         "article-type": "column",
-        "author": "Laura Ardila Arrieta",
+        "author": "Mauricio Botero Caicedo",
         "date": "2023-10-29",
         "publication": "el-espectador",
-        "title": "Los compradores de votos y el cambio",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-ardila-arrieta/los-compradores-de-votos-y-el-cambio/"
+        "title": "Idolatrando al Estado",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/idolatrando-al-estado/"
     },
     {
         "article-type": "column",
@@ -86,14 +126,6 @@
         "publication": "el-espectador",
         "title": "Tola y Maruja sue\u00f1an con Robledo alcalde de Medell\u00edn",
         "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-suenan-con-robledo-alcalde-de-medellin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-10-29",
-        "publication": "el-espectador",
-        "title": "Idolatrando al Estado",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/idolatrando-al-estado/"
     },
     {
         "article-type": "column",
@@ -112,107 +144,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/la-amistad-y-las-cosas/"
     },
     {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2023-10-29",
-        "publication": "el-espectador",
-        "title": "El estancamiento de Am\u00e9rica Latina",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/el-estancamiento-de-america-latina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2023-10-29",
-        "publication": "el-espectador",
-        "title": "El sabotaje de Daniel Quintero a Hidroituango ",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/el-sabotaje-de-daniel-quintero-a-hidroituango/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-10-29",
-        "publication": "el-espectador",
-        "title": "Petro, el obseso",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/petro-el-obseso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-10-29",
-        "publication": "el-espectador",
-        "title": "Qu\u00e9 se necesita para elegir la vida antes que la venganza",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/que-se-necesita-para-elegir-la-vida-antes-que-la-venganza/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-29",
+        "date": "2023-10-30",
         "publication": "el-tiempo",
-        "title": "Robustecer la democracia",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-29-de-octubre-de-2023-robustecer-la-democracia-820847"
+        "title": "El mensaje de las urnas",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-30-de-octubre-de-2023-el-mensaje-de-las-urnas-821134"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-10-29",
+        "author": "Luis Felipe Henao",
+        "date": "2023-10-30",
         "publication": "el-tiempo",
-        "title": "Hoy, todos a las urnas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-hoy-todos-a-las-urnas-820849"
+        "title": "La viga en el ego de Petro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-la-viga-en-el-ego-de-petro-821139"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-10-29",
+        "author": "Jaime Castro",
+        "date": "2023-10-30",
         "publication": "el-tiempo",
-        "title": "Lo que se define hoy",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-lo-que-se-define-hoy-820861"
+        "title": "\u00bfGobierno de izquierda o fascismo rojo?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jaime-castro/columna-de-jaime-castro-gobierno-de-izquierda-o-fascismo-rojo-821127"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-10-29",
+        "author": "Yolanda Reyes",
+        "date": "2023-10-30",
         "publication": "el-tiempo",
-        "title": "Votos contra balas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-votos-contra-balas-820848"
+        "title": "\u2018El cerco de silencio\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-el-cerco-de-silencio-821132"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-10-29",
+        "author": "Diego Santos",
+        "date": "2023-10-30",
         "publication": "el-tiempo",
-        "title": "La pol\u00edtica: una melcocha",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-la-politica-una-melcocha-820889"
+        "title": "El inexistente mundo digital de Germ\u00e1n Vargas Lleras",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-el-inexistente-mundo-digital-de-german-vergas-lleras-821106"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2023-10-29",
+        "author": "Otros columnistas",
+        "date": "2023-10-30",
         "publication": "el-tiempo",
-        "title": "P\u00e9ndulo pol\u00edtico y percepciones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-pendulo-politico-y-percepciones-820863"
+        "title": "La visita a China en perspectiva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-guillermo-puyana-la-visita-a-china-en-perspectiva-821100"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-10-29",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-10-30",
         "publication": "el-tiempo",
-        "title": "Ultrachambonada",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-ultrachambonada-820891"
+        "title": "Ojo con la transformaci\u00f3n digital",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-ojo-con-la-transformacion-digital-821138"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Na\u00edm",
-        "date": "2023-10-29",
+        "author": "Alberto Parra",
+        "date": "2023-10-30",
         "publication": "el-tiempo",
-        "title": "La recesi\u00f3n encubierta",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-naim/columna-de-moises-naim-la-recesion-encubierta-820890"
+        "title": "Ecolog\u00eda: imperativo religioso",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alberto-parra/columna-de-alberto-parra-ecologia-imperativo-religioso-821130"
     },
     {
         "article-type": "column",
-        "author": "Bj\u00f8rn Lomborg",
-        "date": "2023-10-29",
+        "author": "Jorge Barraza",
+        "date": "2023-10-30",
         "publication": "el-tiempo",
-        "title": "Contrataci\u00f3n electr\u00f3nica: la clave para un gasto p\u00fablico m\u00e1s eficaz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/columna-de-bjorn-lomborg-contratacion-electronica-820862"
+        "title": "\u00bfQu\u00e9 le pas\u00f3 a Brasil?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-que-le-paso-a-brasil-821096"
     }
 ]
