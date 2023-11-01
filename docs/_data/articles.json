@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-31",
+        "date": "2023-11-01",
         "publication": "el-colombiano",
-        "title": "Las cuentas de ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/las-cuentas-de-la-democracia-GD23026541"
+        "title": "\u00bfServir\u00e1 el impuesto saludable?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/servira-el-impuesto-saludable-GC23036752"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-31",
+        "date": "2023-11-01",
         "publication": "el-espectador",
-        "title": "El Acuerdo de Paz no entreg\u00f3 al pa\u00eds",
-        "url": "https://www.elespectador.com/opinion/editorial/el-acuerdo-de-paz-no-entrego-al-pais/"
+        "title": "La deuda del sistema de salud necesita consensos ",
+        "url": "https://www.elespectador.com/opinion/editorial/la-deuda-del-sistema-de-salud-necesita-consensos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2023-11-01",
+        "publication": "el-espectador",
+        "title": "Desenmascarados",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/desenmascarados/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2023-11-01",
+        "publication": "el-espectador",
+        "title": "El fascinante mundo de los tontos",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/el-fascinante-mundo-de-los-tontos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-11-01",
+        "publication": "el-espectador",
+        "title": "Ya estuvo bueno",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/ya-estuvo-bueno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Segovia",
+        "date": "2023-11-01",
+        "publication": "el-espectador",
+        "title": "La tragedia argentina",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/la-tragedia-argentina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-11-01",
+        "publication": "el-espectador",
+        "title": "El cambio tranquilo",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/el-cambio-tranquilo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-11-01",
+        "publication": "el-espectador",
+        "title": "El papelito",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/el-papelito/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-11-01",
+        "publication": "el-espectador",
+        "title": "Perder fervor",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/perder-fervor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-11-01",
+        "publication": "el-espectador",
+        "title": "El tsunami electoral que arras\u00f3 con Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-tsunami-electoral-que-arraso-con-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2023-11-01",
+        "publication": "el-espectador",
+        "title": "Con las elecciones, \u00bfColombia avanza o retrocede?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/con-las-elecciones-colombia-avanza-o-retrocede/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2023-11-01",
+        "publication": "el-espectador",
+        "title": "Desigualdad y pobreza en Nari\u00f1o: \u00bfPor d\u00f3nde empezamos?",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/desigualdad-y-pobreza-en-narino-por-donde-empezamos/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/tasas-de-interes-mas-bajas/"
     },
     {
-        "article-type": "column",
-        "author": "Alejandro Reyes Posada",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "La aniquilaci\u00f3n del pueblo palestino",
-        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/la-aniquilacion-del-pueblo-palestino/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "Velas y catrinas",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/velas-y-catrinas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "Coraz\u00f3n Verde",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/corazon-verde/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "\u201c\u00a1Es un plebiscito!\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/es-un-plebiscito/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "Las tutelas y los votos",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/las-tutelas-y-los-votos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "Bal\u00f3n de Oro 2023: Linda Caicedo sigue haciendo historia",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/balon-de-oro-2023-linda-caicedo-sigue-haciendo-historia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "Las cuentas externas de Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/las-cuentas-externas-de-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "Ajuste macroecon\u00f3mico y reformas sociales",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/ajuste-macroeconomico-y-reformas-sociales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "Los alcaldes se van",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/los-alcaldes-se-van/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "La ficci\u00f3n a la Alcald\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/la-ficcion-a-la-alcaldia/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-10-31",
+        "date": "2023-11-01",
         "publication": "el-tiempo",
-        "title": "Hora de articular",
-        "url": "https://www.eltiempo.com/opinion/editorial/hora-de-articular-editorial-el-tiempo-821510"
+        "title": "Los pacientes primero",
+        "url": "https://www.eltiempo.com/opinion/editorial/los-pacientes-primero-editorial-821913"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-10-31",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-11-01",
         "publication": "el-tiempo",
-        "title": "\u00bfJ\u00f3venes a la derecha?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/jovenes-a-la-derecha-columna-de-jose-manuel-acevedo-821457"
+        "title": "Elecciones y reforma pol\u00edtica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/elecciones-y-reforma-politica-columna-de-alfonso-gomez-mendez-821869"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-10-31",
+        "author": "Vladdo",
+        "date": "2023-11-01",
         "publication": "el-tiempo",
-        "title": "Renacen las esperanzas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/renacen-las-esperanzas-columna-de-juan-lozano-821469"
+        "title": "\u2018A recoger los pedazos\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/a-recoger-los-pedazos-columna-de-vladdo-821904"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2023-10-31",
+        "author": "Florence Thomas",
+        "date": "2023-11-01",
         "publication": "el-tiempo",
-        "title": "Pensar la confusi\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/pensar-la-confusion-columna-de-eduardo-escobar-821467"
+        "title": "El peri\u00f3dico con sabor a desayuno",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/el-periodico-con-sabor-a-desayuno-columna-de-florence-thomas-821841"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Eugenia Rinaudo",
-        "date": "2023-10-31",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2023-11-01",
         "publication": "el-tiempo",
-        "title": "Preg\u00fantale al ChatGPT",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/preguntale-al-chatgpt-columna-de-maria-eugenia-rinaudo-821474"
+        "title": "Vivo muerto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/vivo-muerto-columna-de-jotamario-arbelaez-821875"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2023-10-31",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-11-01",
         "publication": "el-tiempo",
-        "title": "El nosoral",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/el-nosoral-columna-de-fernando-sanchez-torres-821464"
+        "title": "Por antip\u00e1ticos los derrotaron",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/por-antipaticos-los-derrotaron-columna-de-poncho-renteria-821835"
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2023-10-31",
+        "author": "Candice Welsch",
+        "date": "2023-11-01",
         "publication": "el-tiempo",
-        "title": "En busca del sue\u00f1o perdido",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/en-busca-del-sueno-perdido-columna-de-oscar-dominguez-821461"
+        "title": "Prevenci\u00f3n del lavado de activos en la contrataci\u00f3n p\u00fablica colombiana",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/prevencion-del-lavado-de-activos-en-la-contratacion-publica-colombiana-821878"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Riveros Gonz\u00e1lez",
-        "date": "2023-10-31",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2023-11-01",
         "publication": "el-tiempo",
-        "title": "La energ\u00eda es el camino; no, el enemigo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/la-energia-es-el-camino-no-el-enemigo-columna-de-alejandro-riveros-821481"
+        "title": "\u00bfPor qu\u00e9 el Gobierno perdi\u00f3 las primarias?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/por-que-el-gobierno-perdio-las-primarias-alexander-cambero-821884"
     }
 ]
