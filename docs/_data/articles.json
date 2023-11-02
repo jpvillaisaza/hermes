@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-01",
+        "date": "2023-11-02",
         "publication": "el-colombiano",
-        "title": "\u00bfServir\u00e1 el impuesto saludable?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/servira-el-impuesto-saludable-GC23036752"
+        "title": "La nueva derecha santandereana",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-nueva-derecha-santandereana-GE23050125"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-01",
+        "date": "2023-11-02",
         "publication": "el-espectador",
-        "title": "La deuda del sistema de salud necesita consensos ",
-        "url": "https://www.elespectador.com/opinion/editorial/la-deuda-del-sistema-de-salud-necesita-consensos/"
+        "title": "Urge el cese al fuego inmediato en Gaza",
+        "url": "https://www.elespectador.com/opinion/editorial/urge-el-cese-al-fuego-inmediato-en-gaza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": "Columna de Luis Fernando Montoya: El octavo Bal\u00f3n de Oro de Messi",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-el-octavo-balon-de-oro-de-messi/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": "La muerte de Maruja Vieira",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-muerte-de-maruja-vieira/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": "\u00bfGiro a la derecha?",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/giro-a-la-derecha/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": "Las elecciones en Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/las-elecciones-en-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": "El pa\u00eds volvi\u00f3 a perder",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/el-pais-volvio-a-perder/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": "Grietas en la democracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/grietas-en-la-democracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": "\u201cLos muertos de la Ley 100\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/los-muertos-de-la-ley-100/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": "El descalabro de un mit\u00f3mano sectario",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/el-descalabro-de-un-mitomano-sectario/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 David Escobar Franco",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": "Penes en el asfalto, baldosas fucsias y un candidato quemado",
+        "url": "https://www.elespectador.com/opinion/columnistas/jose-david-escobar-franco/penes-en-el-asfalto-baldosas-fucsias-y-un-candidato-quemado/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": " \u00bfPETRO PERDI\u00d3? Las CINCO cosas que nos dejaron estas elecciones | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-petro-perdio-las-cinco-cosas-que-nos-dejaron-estas-elecciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lucas Mar\u00edn Llanes",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": "CONPES de pol\u00edtica de drogas: una oportunidad para Petro",
+        "url": "https://www.elespectador.com/colombia-20/analistas/conpes-de-politica-de-drogas-una-oportunidad-para-petro-columna-cesed/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-11-02",
+        "publication": "el-espectador",
+        "title": "\u201cSeguimos empe\u00f1ados en aplicar matem\u00e1ticas de periodista\u201d: Fidel Cano",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/seguimos-empenados-en-aplicar-matematicas-de-periodista-fidel-cano/"
     },
     {
         "article-type": "column",
@@ -48,163 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/la-tragedia-argentina/"
     },
     {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-11-01",
-        "publication": "el-espectador",
-        "title": "El cambio tranquilo",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/el-cambio-tranquilo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-11-01",
-        "publication": "el-espectador",
-        "title": "El papelito",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/el-papelito/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-11-01",
-        "publication": "el-espectador",
-        "title": "Perder fervor",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/perder-fervor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-11-01",
-        "publication": "el-espectador",
-        "title": "El tsunami electoral que arras\u00f3 con Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-tsunami-electoral-que-arraso-con-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-11-01",
-        "publication": "el-espectador",
-        "title": "Con las elecciones, \u00bfColombia avanza o retrocede?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/con-las-elecciones-colombia-avanza-o-retrocede/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2023-11-01",
-        "publication": "el-espectador",
-        "title": "Desigualdad y pobreza en Nari\u00f1o: \u00bfPor d\u00f3nde empezamos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/desigualdad-y-pobreza-en-narino-por-donde-empezamos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: ganar o competir",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-ganar-o-competir/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "El Medio Oriente: \u00bfhacia d\u00f3nde?",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado/el-medio-oriente-hacia-donde/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "Ta Malo",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/ta-malo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "P\u00e9ndulo a la derecha: \u00bfy el cambio?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/pendulo-a-la-derecha-y-el-cambio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "El llanto de un palestino",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-llanto-de-un-palestino/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2023-10-31",
-        "publication": "el-espectador",
-        "title": "Tasas de inter\u00e9s m\u00e1s bajas",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/tasas-de-interes-mas-bajas/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-01",
+        "date": "2023-11-02",
         "publication": "el-tiempo",
-        "title": "Los pacientes primero",
-        "url": "https://www.eltiempo.com/opinion/editorial/los-pacientes-primero-editorial-821913"
+        "title": "Los retos 5G",
+        "url": "https://www.eltiempo.com/opinion/editorial/los-retos-5g-editorial-el-tiempo-822293"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-11-01",
+        "author": "Pedro Medellin",
+        "date": "2023-11-02",
         "publication": "el-tiempo",
-        "title": "Elecciones y reforma pol\u00edtica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/elecciones-y-reforma-politica-columna-de-alfonso-gomez-mendez-821869"
+        "title": "Vamos a ver la hechura del Presidente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/vamos-a-ver-la-hechura-del-presidente-columna-de-pedro-medellin-822279"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-11-01",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-11-02",
         "publication": "el-tiempo",
-        "title": "\u2018A recoger los pedazos\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/a-recoger-los-pedazos-columna-de-vladdo-821904"
+        "title": "Mejor prohibir",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/mejor-prohibir-columna-de-juan-esteban-constain-822221"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2023-11-01",
+        "author": "Jineth Bedoya Lima",
+        "date": "2023-11-02",
         "publication": "el-tiempo",
-        "title": "El peri\u00f3dico con sabor a desayuno",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/el-periodico-con-sabor-a-desayuno-columna-de-florence-thomas-821841"
+        "title": "Silenciar al mensajero",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/silenciar-al-mensajero-columna-de-jineth-bedoya-lima-822216"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2023-11-01",
+        "author": "Juliana Mej\u00eda",
+        "date": "2023-11-02",
         "publication": "el-tiempo",
-        "title": "Vivo muerto",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/vivo-muerto-columna-de-jotamario-arbelaez-821875"
+        "title": "Valiente es Dialogar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/valiente-es-dialogar-columna-de-juliana-mejia-822206"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-11-01",
+        "author": "Diana Pardo",
+        "date": "2023-11-02",
         "publication": "el-tiempo",
-        "title": "Por antip\u00e1ticos los derrotaron",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/por-antipaticos-los-derrotaron-columna-de-poncho-renteria-821835"
+        "title": "Rituales y rutinas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/rituales-y-rutinas-columna-de-diana-pardo-822198"
     },
     {
         "article-type": "column",
-        "author": "Candice Welsch",
-        "date": "2023-11-01",
+        "author": "Nelson Vives",
+        "date": "2023-11-02",
         "publication": "el-tiempo",
-        "title": "Prevenci\u00f3n del lavado de activos en la contrataci\u00f3n p\u00fablica colombiana",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/prevencion-del-lavado-de-activos-en-la-contratacion-publica-colombiana-821878"
+        "title": "El verdadero valor de la historia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-verdadero-valor-de-la-historia-columna-de-nelson-felipe-vives-822256"
     },
     {
         "article-type": "column",
-        "author": "Alex\u00e1nder Cambero",
-        "date": "2023-11-01",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-11-02",
         "publication": "el-tiempo",
-        "title": "\u00bfPor qu\u00e9 el Gobierno perdi\u00f3 las primarias?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/por-que-el-gobierno-perdio-las-primarias-alexander-cambero-821884"
+        "title": "Mi admiraci\u00f3n por la poes\u00eda de Mar\u00eda del Socorro M\u00e1rmol",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/mi-admiracion-por-la-poesia-de-maria-del-socorro-marmol-jose-miguel-alzate-822262"
     }
 ]
