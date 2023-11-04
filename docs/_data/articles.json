@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-03",
+        "date": "2023-11-04",
         "publication": "el-colombiano",
-        "title": "Los tent\u00e1culos ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/los-tentaculos-ocultos-de-iran-IH23060495"
+        "title": "La bomba demogr\u00e1fica",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-bomba-demografica-HH23064883"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-03",
+        "date": "2023-11-04",
         "publication": "el-espectador",
-        "title": "Una salida dif\u00edcil y costosa para los hipop\u00f3tamos",
-        "url": "https://www.elespectador.com/opinion/editorial/una-salida-dificil-y-costosa-para-los-hipopotamos/"
+        "title": "Hostigamiento de la Fiscal\u00eda a la prensa ",
+        "url": "https://www.elespectador.com/opinion/editorial/hostigamiento-de-la-fiscalia-a-la-prensa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2023-11-04",
+        "publication": "el-espectador",
+        "title": "Lejos del mundanal ruido",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/lejos-del-mundanal-ruido/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mart\u00edn Jaramillo",
+        "date": "2023-11-04",
+        "publication": "el-espectador",
+        "title": "La \u00faltima oportunidad para una buena subasta de telecomunicaciones",
+        "url": "https://www.elespectador.com/opinion/columnistas/martin-jaramillo/la-ultima-oportunidad-para-una-buena-subasta-de-telecomunicaciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-11-04",
+        "publication": "el-espectador",
+        "title": "Nuevo centro",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/nuevo-centro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-11-04",
+        "publication": "el-espectador",
+        "title": "El cosmos y la cosm\u00e9tica ",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/el-cosmos-y-la-cosmetica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2023-11-04",
+        "publication": "el-espectador",
+        "title": "\u00a1Palestina s\u00ed, Ham\u00e1s no! \u00a1Israel s\u00ed, Netanyahu no!",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/palestina-si-hamas-no-israel-si-netanyahu-no/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-11-04",
+        "publication": "el-espectador",
+        "title": "Matthew Perry y la soledad de la adicci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/matthew-perry-y-la-soledad-de-la-adiccion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-11-04",
+        "publication": "el-espectador",
+        "title": "Felicidades por los 25 a\u00f1os de la Relator\u00eda de Libertad de Expresi\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/felicidades-por-los-25-anos-de-la-relatoria-de-libertad-de-expresion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dolly Montoya Casta\u00f1o",
+        "date": "2023-11-04",
+        "publication": "el-espectador",
+        "title": "Un nuevo Sistema de Educaci\u00f3n Superior para la naci\u00f3n colombiana",
+        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/un-nuevo-sistema-de-educacion-superior-para-la-nacion-colombiana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-11-04",
+        "publication": "el-espectador",
+        "title": "Las novelas policiales",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/las-novelas-policiales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elementa DD.HH.",
+        "date": "2023-11-04",
+        "publication": "el-espectador",
+        "title": "Sobre recorrer la b\u00fasqueda en la Casa del Florero de Bogot\u00e1",
+        "url": "https://www.elespectador.com/colombia-20/analistas/sobre-recorrer-la-busqueda-en-la-casa-del-florero-de-bogota/"
     },
     {
         "article-type": "column",
@@ -33,22 +113,6 @@
     },
     {
         "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2023-11-03",
-        "publication": "el-espectador",
-        "title": "Resultados",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/resultados/"
-    },
-    {
-        "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2023-11-03",
-        "publication": "el-espectador",
-        "title": "Bienvenido, Gal\u00e1n",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/bienvenido-galan/"
-    },
-    {
-        "article-type": "column",
         "author": "Arturo Guerrero",
         "date": "2023-11-03",
         "publication": "el-espectador",
@@ -65,146 +129,82 @@
     },
     {
         "article-type": "column",
-        "author": "Juliana Mu\u00f1oz Toro",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
         "date": "2023-11-03",
         "publication": "el-espectador",
-        "title": "De la inevitabilidad del yo",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/de-la-inevitabilidad-del-yo/"
+        "title": "Resultados",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/resultados/"
     },
     {
         "article-type": "column",
-        "author": "Madame Papita",
+        "author": "Patricia Lara Salive",
         "date": "2023-11-03",
         "publication": "el-espectador",
-        "title": "La mesa con pies",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/la-mesa-con-pies/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitada",
-        "date": "2023-11-03",
-        "publication": "el-espectador",
-        "title": "Cuesti\u00f3n de amistad",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/cuestion-de-amistad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-11-02",
-        "publication": "el-espectador",
-        "title": "Columna de Luis Fernando Montoya: El octavo Bal\u00f3n de Oro de Messi",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-el-octavo-balon-de-oro-de-messi/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-11-02",
-        "publication": "el-espectador",
-        "title": "La muerte de Maruja Vieira",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-muerte-de-maruja-vieira/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-11-02",
-        "publication": "el-espectador",
-        "title": "\u00bfGiro a la derecha?",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/giro-a-la-derecha/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2023-11-02",
-        "publication": "el-espectador",
-        "title": "\u201cLos muertos de la Ley 100\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/los-muertos-de-la-ley-100/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-11-02",
-        "publication": "el-espectador",
-        "title": "Las elecciones en Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/las-elecciones-en-bogota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Claudia Morales",
-        "date": "2023-11-02",
-        "publication": "el-espectador",
-        "title": "El pa\u00eds volvi\u00f3 a perder",
-        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/el-pais-volvio-a-perder/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2023-11-02",
-        "publication": "el-espectador",
-        "title": "Grietas en la democracia",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/grietas-en-la-democracia/"
+        "title": "Bienvenido, Gal\u00e1n",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/bienvenido-galan/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-03",
+        "date": "2023-11-04",
         "publication": "el-tiempo",
-        "title": "Elecciones y reformas",
-        "url": "https://www.eltiempo.com/opinion/editorial/elecciones-y-reformas-editorial-el-tiempo-822681"
+        "title": "Metro, el mandato",
+        "url": "https://www.eltiempo.com/opinion/editorial/metro-el-mandato-editorial-el-tiempo-823049"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-11-03",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2023-11-04",
         "publication": "el-tiempo",
-        "title": "Proporcionalidad y paz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/proporcionalidad-y-paz-columna-de-moises-wasserman-822622"
+        "title": "No a la ideolog\u00eda, s\u00ed al buen gobierno",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/no-a-la-ideologia-si-al-buen-gobierno-columna-de-carlos-caballero-argaez-823002"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-11-03",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-11-04",
         "publication": "el-tiempo",
-        "title": "Noticiero",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/noticiero-columna-de-ricardo-silva-romero-822653"
+        "title": "El disfraz de la muerte",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/el-disfraz-de-la-muerte-columna-de-luis-noe-ochoa-823016"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda A. Garc\u00eda de la Torre",
-        "date": "2023-11-03",
+        "author": "Sara Tufano",
+        "date": "2023-11-04",
         "publication": "el-tiempo",
-        "title": "No eran brujas, eran mujeres libres",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-a-garcia-de-la-torre/no-eran-brujas-eran-mujeres-libres-columna-de-maria-antonia-garcia-822625"
+        "title": "Formar cuadros para una nueva izquierda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/formar-cuadros-para-una-nueva-izquierda-columna-de-sara-tufano-823022"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-11-03",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2023-11-04",
         "publication": "el-tiempo",
-        "title": "\u2018Los peligros del presidencialismo\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/los-peligros-del-presidencialismo-columna-de-eduardo-posada-carbo-822647"
+        "title": "Dios es colombiano",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/dios-es-colombiano-columna-de-adolfo-zableh-duran-823012"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2023-11-03",
+        "author": "Armando Silva",
+        "date": "2023-11-04",
         "publication": "el-tiempo",
-        "title": "Tragedia junto al mar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/tragedia-junto-al-mar-columna-de-manuel-guzman-hennessey-822658"
+        "title": "Se creen m\u00e1s grandes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/se-creen-mas-grandes-columna-de-armando-silva-823019"
     },
     {
         "article-type": "column",
-        "author": "Gladys Vega",
-        "date": "2023-11-03",
+        "author": "Santiago Vargas Acebedo",
+        "date": "2023-11-04",
         "publication": "el-tiempo",
-        "title": "\u00bfDe qui\u00e9n depende la salud? Este, un asunto de todos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/de-quien-depende-la-salud-este-un-asunto-de-todos-gladys-vega-822672"
+        "title": "La guerra de las im\u00e1genes y las im\u00e1genes de la guerra",
+        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/la-guerra-de-las-imagenes-y-las-imagenes-de-la-guerra-columna-de-santiago-vargas-823026"
     },
     {
         "article-type": "column",
-        "author": "Fabio Mart\u00ednez",
-        "date": "2023-11-03",
+        "author": "Dejusticia",
+        "date": "2023-11-04",
         "publication": "el-tiempo",
-        "title": "La violencia y el mal",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/la-violencia-y-el-mal-columna-de-fabio-martinez-822675"
+        "title": "Alcaldes electos, vidas y seguridad en las v\u00edas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/alcaldes-electos-vidas-y-seguridad-en-las-vias-cristina-annear-823031"
     }
 ]
