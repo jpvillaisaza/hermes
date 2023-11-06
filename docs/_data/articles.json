@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-05",
+        "date": "2023-11-06",
         "publication": "el-colombiano",
-        "title": "\u00a1No seamos pendejos!",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/no-seamos-pendejos-BH23068584"
+        "title": "\u00bfHabr\u00e1 cambio de rumbo?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/habra-cambio-de-rumbo-GG23072026"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-05",
+        "date": "2023-11-06",
         "publication": "el-espectador",
-        "title": "La mezquindad del ELN aniquila cualquier sue\u00f1o de paz ",
-        "url": "https://www.elespectador.com/opinion/editorial/la-mezquindad-del-eln-aniquila-cualquier-sueno-de-paz/"
+        "title": "\u00bfDe qu\u00e9 sirve tanta hostilidad con el metro?",
+        "url": "https://www.elespectador.com/opinion/editorial/de-que-sirve-tanta-hostilidad-con-el-metro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-11-06",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: Demasiada camiseta ",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-demasiada-camiseta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2023-11-06",
+        "publication": "el-espectador",
+        "title": "Votantes 2023: pragmatismo, antipopulismo y una vieja virtud",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/votantes-2023-pragmatismo-antipopulismo-y-una-vieja-virtud/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2023-11-06",
+        "publication": "el-espectador",
+        "title": "\u00bf\u00abRebas\u00f3 el vaso\u00bb o \u00abrebos\u00f3 el vaso\u00bb? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/rebaso-el-vaso-o-reboso-el-vaso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-11-06",
+        "publication": "el-espectador",
+        "title": "Petro y Ham\u00e1s",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/petro-y-hamas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2023-11-06",
+        "publication": "el-espectador",
+        "title": "Convertir al pueblo en sociedad civil",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/convertir-al-pueblo-en-sociedad-civil/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-11-06",
+        "publication": "el-espectador",
+        "title": "Desglosando",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/desglosando/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-11-06",
+        "publication": "el-espectador",
+        "title": "El revolc\u00f3n de los cafeteros",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/el-revolcon-de-los-cafeteros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2023-11-06",
+        "publication": "el-espectador",
+        "title": "La apabullante lecci\u00f3n bogotana",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/la-apabullante-leccion-bogotana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2023-11-06",
+        "publication": "el-espectador",
+        "title": "\u00bfAhora s\u00ed un acuerdo?",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/ahora-si-un-acuerdo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Paola Molano Ayala*",
+        "date": "2023-11-06",
+        "publication": "el-espectador",
+        "title": "La plata que falta para cumplirle a las v\u00edctimas",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-plata-que-falta-para-cumplirle-a-las-victimas-columna-dejusticia/"
     },
     {
         "article-type": "column",
@@ -25,11 +105,11 @@
     },
     {
         "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-11-05",
+        "author": "Juan Felipe Carrillo G\u00e1faro",
+        "date": "2023-11-06",
         "publication": "el-espectador",
         "title": "Mafalda ten\u00eda raz\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/mafalda-tenia-razon/"
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-felipe-carrillo-gafaro/mafalda-tenia-razon/"
     },
     {
         "article-type": "column",
@@ -64,155 +144,83 @@
         "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/judio-muisca-palestino-blanco/"
     },
     {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-11-05",
-        "publication": "el-espectador",
-        "title": "La actualidad de Hans Kelsen",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/la-actualidad-de-hans-kelsen/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2023-11-05",
-        "publication": "el-espectador",
-        "title": "La ira como pol\u00edtica",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/la-ira-como-politica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-11-05",
-        "publication": "el-espectador",
-        "title": "El golpe",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/el-golpe/"
-    },
-    {
-        "article-type": "column",
-        "author": "William Ospina",
-        "date": "2023-11-05",
-        "publication": "el-espectador",
-        "title": "Un desaf\u00edo a Gustavo Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/un-desafio-a-gustavo-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-11-05",
-        "publication": "el-espectador",
-        "title": "Elogio de la desobediencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/elogio-de-la-desobediencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-11-05",
-        "publication": "el-espectador",
-        "title": "Pinturita no logr\u00f3 elegir a Tribil\u00edn",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/pinturita-no-logro-elegir-a-tribilin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2023-11-05",
-        "publication": "el-espectador",
-        "title": "La rebeli\u00f3n de los clanes",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/la-rebelion-de-los-clanes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-11-05",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 cambi\u00f3?",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/que-cambio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-11-05",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja analizan las elecciones",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-analizan-las-elecciones/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-11-05",
-        "publication": "el-espectador",
-        "title": "Microlingotes",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-119/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-05",
+        "date": "2023-11-06",
         "publication": "el-tiempo",
-        "title": "Ni un solo secuestro m\u00e1s",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-5-de-noviembre-de-2023-ni-un-solo-secuestro-mas-823186"
+        "title": "Materia pendiente",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-6-de-noviembre-de-2023-materia-pendiente-823321"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-11-05",
+        "author": "Juan Lozano",
+        "date": "2023-11-06",
         "publication": "el-tiempo",
-        "title": "La pela fue total",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-la-pela-fue-total-823191"
+        "title": "2026",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-2026-823338"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-11-05",
+        "author": "Luis Felipe Henao",
+        "date": "2023-11-06",
         "publication": "el-tiempo",
-        "title": "Hora de arrodillarnos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-hora-de-arrodillarnos-823192"
+        "title": "Las oscuras victorias del Pacto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-las-oscuras-victorias-del-pacto-823347"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-11-05",
+        "author": "Marta Luc\u00eda Ram\u00edrez",
+        "date": "2023-11-06",
         "publication": "el-tiempo",
-        "title": "El buscapleitos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-el-buscapleitos-823185"
+        "title": "Elecciones y geopol\u00edtica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marta-lucia-ramirez/columna-de-marta-lucia-ramirez-elecciones-y-geopolitica-823346"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Antonio Ocampo",
-        "date": "2023-11-05",
+        "author": "Diego Santos",
+        "date": "2023-11-06",
         "publication": "el-tiempo",
-        "title": "Cooperaci\u00f3n tributaria internacional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo/columna-de-jose-antonio-ocampo-cooperacion-tributaria-internacional-823199"
+        "title": "Nadie gana una campa\u00f1a con solo tres videos en TikTok",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-nadie-gana-campana-con-tres-videos-en-tiktok-823339"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-11-05",
+        "author": "Raouf Almalki",
+        "date": "2023-11-06",
         "publication": "el-tiempo",
-        "title": "Regionales: un \u2018plebiscito\u2019 acotado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-regionales-un-plebiscito-acotado-823198"
+        "title": "Sobre la proporcionalidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/raouf-almalki/columna-de-raouf-almalki-sobre-la-proporcionalidad-823333"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-11-05",
+        "author": "Melba Escobar",
+        "date": "2023-11-06",
         "publication": "el-tiempo",
-        "title": "El Pacto Hist\u00f3rico perdi\u00f3 sus feudos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-el-pacto-historico-perdio-sus-feudos-823201"
+        "title": "El sufrimiento es uno solo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-el-sufrimiento-es-uno-solo-823349"
     },
     {
         "article-type": "column",
-        "author": "Froil\u00e1n Casas",
-        "date": "2023-11-05",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-11-06",
         "publication": "el-tiempo",
-        "title": "El secreto de la prosperidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/froilan-casas/columna-de-froilan-casas-el-secreto-de-la-prosperidad-823205"
+        "title": "Nuestra injusta justicia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-nuestra-injusta-justicia-823322"
     },
     {
         "article-type": "column",
-        "author": "Fernando Posada",
-        "date": "2023-11-05",
+        "author": "Paola Ochoa",
+        "date": "2023-11-06",
         "publication": "el-tiempo",
-        "title": "Aterrizar de la victoria",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/columna-de-fernando-posada-aterrizar-de-la-victoria-823204"
+        "title": "La ley del tali\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-la-ley-del-talion-823345"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Higuera Sotomayor",
+        "date": "2023-11-06",
+        "publication": "el-tiempo",
+        "title": "Dar de alta la soledad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-dar-de-alta-la-soledad-823334"
     }
 ]
