@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-13",
+        "date": "2023-11-14",
         "publication": "el-colombiano",
-        "title": "Madrid en su versi\u00f3n Miami",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/madrid-en-su-version-miami-BA23107464"
+        "title": "Reformas explosivas",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/reformas-explosivas-JB23110485"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-13",
+        "date": "2023-11-14",
         "publication": "el-espectador",
-        "title": "La migraci\u00f3n venezolana necesita atenci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/editorial/la-migracion-venezolana-necesita-atencion/"
+        "title": "Tragedias sin respuesta en el ICBF",
+        "url": "https://www.elespectador.com/opinion/editorial/tragedias-sin-respuesta-en-el-icbf/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "Paz: volver a barajar",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/paz-volver-a-barajar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "En contrav\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/en-contravia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Hern\u00e1ndez",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "Econom\u00eda global en aterrizaje",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/economia-global-en-aterrizaje/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Reyes Posada",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "El retorno a La Bonga",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/el-retorno-a-la-bonga/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "95 a\u00f1os de las bananeras",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/95-anos-de-las-bananeras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "Narcisistas y t\u00f3xicos ",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/narcisistas-y-toxicos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "El conocimiento de calidad como un bien com\u00fan o como un elemento de desigualdad",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-conocimiento-de-calidad-como-un-bien-comun-o-como-un-elemento-de-desigualdad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "Buitrago, jilguero y juglar",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/buitrago-jilguero-y-juglar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "El fin de la huelga",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-fin-de-la-huelga/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "Cuerpos-territorios en resistencia desde el Valle del Cauca",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/todas-las-mujeres-y-todas-las-desigualdades-cuerpos-territorios-en-resistencia-desde-el-valle-del-cauca/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "Los int\u00e9rpretes del VAR: columna de Antonio Casale",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/los-interpretes-del-var-columna-de-antonio-casale/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-11-14",
+        "publication": "el-espectador",
+        "title": "Una dirigencia miedosa y tramposa: la paz para nunca",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/una-dirigencia-miedosa-y-tramposa-la-paz-para-nunca/"
     },
     {
         "article-type": "column",
@@ -25,27 +121,19 @@
     },
     {
         "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "Pol\u00edtica monetaria y crecimiento",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/politica-monetaria-y-crecimiento/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "No hay presidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/no-hay-presidente/"
-    },
-    {
-        "article-type": "column",
         "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
         "date": "2023-11-13",
         "publication": "el-espectador",
         "title": "Se escribe \u00absuperbi\u00e9n\u00bb, no \u00abs\u00faper bien\u00bb",
         "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-escribe-superbien-no-super-bien/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-11-13",
+        "publication": "el-espectador",
+        "title": "Pol\u00edtica monetaria y crecimiento",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/politica-monetaria-y-crecimiento/"
     },
     {
         "article-type": "column",
@@ -56,155 +144,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/y-si-fracasa-petro/"
     },
     {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "Retro",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/retro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "Las coberturas de riesgos",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/las-coberturas-de-riesgos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "Se requiere un modelo propio para enfrentar el deterioro de la econom\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/se-requiere-un-modelo-propio-para-enfrentar-el-deterioro-de-la-economia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "Violencia en el campus: \u00bfhasta cu\u00e1ndo?",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/violencia-en-el-campus-hasta-cuando/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "Potencia de improvisaci\u00f3n y caos",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/potencia-de-improvisacion-y-caos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sara Alejandra Mar\u00edn Valencia",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "No, no es el tono ",
-        "url": "https://www.elespectador.com/opinion/lectores/columnas-del-lector/no-no-es-el-tono/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u00bfQu\u00e9 hacer con el uso de la inteligencia artificial?",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-llegamos-tarde-y-sin-claridad-a-ver-que-hacer-con-la-inteligencia-artificial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2023-11-12",
-        "publication": "el-espectador",
-        "title": "Guiones de la improvisaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/guiones-de-la-improvisacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-11-12",
-        "publication": "el-espectador",
-        "title": "Lo f\u00e1cil y el tumbao",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/lo-facil-y-el-tumbao-el-caminante/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-11-12",
-        "publication": "el-espectador",
-        "title": "\u00bfCu\u00e1l paz total? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/cual-paz-total/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-11-12",
-        "publication": "el-espectador",
-        "title": "Biden no puede detener la inmigraci\u00f3n. Es hora de aceptarla",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/biden-no-puede-detener-la-inmigracion-es-hora-de-aceptarla/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-13",
+        "date": "2023-11-14",
         "publication": "el-tiempo",
-        "title": "La encrucijada de Biden",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-13-de-noviembre-de-2023-la-encrucijada-de-biden-825306"
+        "title": "M\u00ednimo con prudencia",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-14-de-noviembre-de-2023-minimo-con-prudencia-825478"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-11-13",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-11-14",
         "publication": "el-tiempo",
-        "title": "De primera y de segunda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-de-primera-y-de-segunda-825314"
+        "title": "\u00a1No sean tan tercos!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-no-sean-tan-tercos-825480"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-11-13",
+        "author": "Alfonso Carvajal",
+        "date": "2023-11-14",
         "publication": "el-tiempo",
-        "title": "Defender la Justicia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-defender-la-justicia-825315"
+        "title": "Pasajeros de sue\u00f1os",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/columna-de-alfonso-carvajal-pasajeros-de-suenos-825494"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2023-11-13",
+        "author": "Claudia Calero",
+        "date": "2023-11-14",
         "publication": "el-tiempo",
-        "title": "Jugar en un planeta roto",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-jugar-en-un-planeta-roto-825323"
+        "title": "Este Ni\u00f1o es de todos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-claudia-calero-este-nino-es-de-todos-825498"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-11-13",
+        "author": "Hugo Acero Vel\u00e1squez",
+        "date": "2023-11-14",
         "publication": "el-tiempo",
-        "title": "\u00bfC\u00f3mo articular mejor los mensajes de la oposici\u00f3n en redes sociales?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-articular-mensajes-de-la-oposicion-en-redes-sociales-825320"
+        "title": "Se incrementan las muertes violentas en Colombia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/columna-de-hugo-acero-se-incrementan-las-muertes-violentas-en-colombia-825495"
     },
     {
         "article-type": "column",
-        "author": "Luis Enrique Duss\u00e1n",
-        "date": "2023-11-13",
+        "author": "Eduardo Escobar",
+        "date": "2023-11-14",
         "publication": "el-tiempo",
-        "title": "El Huila, un departamento que crece",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-luis-enrique-dussan-el-huila-un-departamento-que-crece-825321"
+        "title": "En defensa propia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-escobar-en-defensa-propia-825499"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-11-13",
+        "author": "Dar\u00edo Hidalgo",
+        "date": "2023-11-14",
         "publication": "el-tiempo",
-        "title": "Alcaldes, a usar la tecnolog\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-alcaldes-a-usar-la-tecnologia-825308"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2023-11-13",
-        "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 hacer con la Libertadores?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-que-hacer-con-la-libertadores-825325"
+        "title": "Cumplir normas sale gratis y salva vidas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/dario-hidalgo/columna-de-dario-hidalgo-cumplir-normas-sale-gratis-y-salva-vidas-825500"
     }
 ]
