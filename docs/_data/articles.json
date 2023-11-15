@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-14",
+        "date": "2023-11-15",
         "publication": "el-colombiano",
-        "title": "Reformas explosivas",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/reformas-explosivas-JB23110485"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/republicanos-sin-vocacion-global-HB23116203"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-14",
+        "date": "2023-11-15",
         "publication": "el-espectador",
-        "title": "Tragedias sin respuesta en el ICBF",
-        "url": "https://www.elespectador.com/opinion/editorial/tragedias-sin-respuesta-en-el-icbf/"
+        "title": "Actualizar el catastro es necesario, los alivios tambi\u00e9n",
+        "url": "https://www.elespectador.com/opinion/editorial/actualizar-el-catastro-es-necesario-los-alivios-tambien/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "El d\u00eda despu\u00e9s",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/el-dia-despues-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dar\u00edo I Restrepo",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "Autonom\u00eda Solidaria",
+        "url": "https://www.elespectador.com/economia/macroeconomia/autonomia-solidaria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "Malas ventas en octubre",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/malas-ventas-en-octubre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Isabel Segovia",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "Desgobierno",
+        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/desgobierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "Columna para un adi\u00f3s",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/columna-para-un-adios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "El orgullo de la violencia ",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-orgullo-de-la-violencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/elecciones-2026/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "Luces y sombras en el periodismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/luces-y-sombras-en-el-periodismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "Carta abierta a delegaciones de Gobierno y ELN",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/carta-abierta-a-delegaciones-de-gobierno-y-eln/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "A treinta a\u00f1os de un libro que oscila entre la tierra y el cielo",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/a-treinta-anos-de-un-libro-que-oscila-entre-la-tierra-y-el-cielo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "El adicto a las mentiras",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-adicto-a-las-mentiras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Obdulio Espejo Mu\u00f1oz",
+        "date": "2023-11-15",
+        "publication": "el-espectador",
+        "title": "Las desventuras de la Paz Total",
+        "url": "https://www.elespectador.com/colombia-20/analistas/paz-total-no-tocara-puerto-en-el-periodo-de-gustavo-petro-opinion-cese-al-fuego-eln-emc/"
     },
     {
         "article-type": "column",
@@ -48,155 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/el-retorno-a-la-bonga/"
     },
     {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-11-14",
-        "publication": "el-espectador",
-        "title": "95 a\u00f1os de las bananeras",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/95-anos-de-las-bananeras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-11-14",
-        "publication": "el-espectador",
-        "title": "Narcisistas y t\u00f3xicos ",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/narcisistas-y-toxicos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-11-14",
-        "publication": "el-espectador",
-        "title": "El conocimiento de calidad como un bien com\u00fan o como un elemento de desigualdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-conocimiento-de-calidad-como-un-bien-comun-o-como-un-elemento-de-desigualdad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-11-14",
-        "publication": "el-espectador",
-        "title": "Buitrago, jilguero y juglar",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/buitrago-jilguero-y-juglar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-11-14",
-        "publication": "el-espectador",
-        "title": "El fin de la huelga",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-fin-de-la-huelga/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2023-11-14",
-        "publication": "el-espectador",
-        "title": "Cuerpos-territorios en resistencia desde el Valle del Cauca",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/todas-las-mujeres-y-todas-las-desigualdades-cuerpos-territorios-en-resistencia-desde-el-valle-del-cauca/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2023-11-14",
-        "publication": "el-espectador",
-        "title": "Los int\u00e9rpretes del VAR: columna de Antonio Casale",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/los-interpretes-del-var-columna-de-antonio-casale/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-11-14",
-        "publication": "el-espectador",
-        "title": "Una dirigencia miedosa y tramposa: la paz para nunca",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/una-dirigencia-miedosa-y-tramposa-la-paz-para-nunca/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "El 10 es eterno, la columna de Jorge Tovar",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/el-10-es-eterno-la-columna-de-jorge-tovar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "Se escribe \u00absuperbi\u00e9n\u00bb, no \u00abs\u00faper bien\u00bb",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-escribe-superbien-no-super-bien/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "Pol\u00edtica monetaria y crecimiento",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/politica-monetaria-y-crecimiento/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2023-11-13",
-        "publication": "el-espectador",
-        "title": "\u00bfY si fracasa Petro?",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/y-si-fracasa-petro/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-14",
+        "date": "2023-11-15",
         "publication": "el-tiempo",
-        "title": "M\u00ednimo con prudencia",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-14-de-noviembre-de-2023-minimo-con-prudencia-825478"
+        "title": "La tormenta espa\u00f1ola",
+        "url": "https://www.eltiempo.com/opinion/editorial/la-tormenta-espanola-editorial-el-tiempo-825859"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2023-11-14",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2023-11-15",
         "publication": "el-tiempo",
-        "title": "\u00a1No sean tan tercos!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-no-sean-tan-tercos-825480"
+        "title": "\u00bfPor qu\u00e9 no en el Palacio de Justicia?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/por-que-no-en-el-palacio-de-justicia-columna-de-alfonso-gomez-mendez-825818"
     },
     {
         "article-type": "column",
-        "author": "Alfonso Carvajal",
-        "date": "2023-11-14",
+        "author": "Vladdo",
+        "date": "2023-11-15",
         "publication": "el-tiempo",
-        "title": "Pasajeros de sue\u00f1os",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-carvajal/columna-de-alfonso-carvajal-pasajeros-de-suenos-825494"
+        "title": "De la correcci\u00f3n la coerci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/de-la-correccion-la-coercion-columna-de-vladdo-825852"
     },
     {
         "article-type": "column",
-        "author": "Claudia Calero",
-        "date": "2023-11-14",
+        "author": "Florence Thomas",
+        "date": "2023-11-15",
         "publication": "el-tiempo",
-        "title": "Este Ni\u00f1o es de todos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-claudia-calero-este-nino-es-de-todos-825498"
+        "title": "La Mesa por la Salud y la Vida de las Mujeres",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/la-mesa-por-la-salud-y-la-vida-de-las-mujeres-florence-thomas-825782"
     },
     {
         "article-type": "column",
-        "author": "Hugo Acero Vel\u00e1squez",
-        "date": "2023-11-14",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2023-11-15",
         "publication": "el-tiempo",
-        "title": "Se incrementan las muertes violentas en Colombia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/columna-de-hugo-acero-se-incrementan-las-muertes-violentas-en-colombia-825495"
+        "title": "Venezuela en el coraz\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/venezuela-en-el-corazon-columna-de-jotamario-arbelaez-825825"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2023-11-14",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-11-15",
         "publication": "el-tiempo",
-        "title": "En defensa propia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-escobar-en-defensa-propia-825499"
+        "title": "Petro visitando USA es dichoso",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-visitando-usa-es-dichoso-columna-de-poncho-renteria-825788"
     },
     {
         "article-type": "column",
-        "author": "Dar\u00edo Hidalgo",
-        "date": "2023-11-14",
+        "author": "Bj\u00f8rn Lomborg",
+        "date": "2023-11-15",
         "publication": "el-tiempo",
-        "title": "Cumplir normas sale gratis y salva vidas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/dario-hidalgo/columna-de-dario-hidalgo-cumplir-normas-sale-gratis-y-salva-vidas-825500"
+        "title": "Una perspectiva positiva y necesaria para analizar nuestro mundo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/una-perspectiva-positiva-y-necesaria-para-analizar-nuestro-mundo-825827"
+    },
+    {
+        "article-type": "column",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2023-11-15",
+        "publication": "el-tiempo",
+        "title": "El Esequibo: del vulgar despojo a la manipulaci\u00f3n interesada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/el-esequibo-del-vulgar-despojo-a-la-manipulacion-interesada-825828"
     }
 ]
