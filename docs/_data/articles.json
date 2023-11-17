@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-16",
+        "date": "2023-11-17",
         "publication": "el-colombiano",
-        "title": "El enredo del predial",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-enredo-del-predial-AC23126161"
+        "title": "Paz siete a\u00f1os despu\u00e9s ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/paz-siete-anos-despues-KD23131209"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-16",
+        "date": "2023-11-17",
         "publication": "el-espectador",
-        "title": "Con amenazas, el EMC torpedea cualquier di\u00e1logo de paz  ",
-        "url": "https://www.elespectador.com/opinion/editorial/con-amenazas-el-emc-torpedea-cualquier-dialogo-de-paz/"
+        "title": "La regla fiscal no es un capricho",
+        "url": "https://www.elespectador.com/opinion/editorial/la-regla-fiscal-no-es-un-capricho/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-11-17",
+        "publication": "el-espectador",
+        "title": "Buenos aires para el Valle",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/buenos-aires-para-el-valle/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-11-17",
+        "publication": "el-espectador",
+        "title": "Un elefante borracho y otros temas",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/un-elefante-borracho-y-otros-temas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2023-11-17",
+        "publication": "el-espectador",
+        "title": "Soledad bancaria",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/soledad-bancaria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2023-11-17",
+        "publication": "el-espectador",
+        "title": "680 ni\u00f1os (que no deber\u00edan estar) muertos",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/680-ninos-que-no-deberian-estar-muertos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-11-17",
+        "publication": "el-espectador",
+        "title": "\u201cLa otredad\u201d, un grito contra el racismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/la-otredad-un-grito-contra-el-racismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-11-17",
+        "publication": "el-espectador",
+        "title": "De la mesa y otros placeres",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/de-la-mesa-y-otros-placeres/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-11-17",
+        "publication": "el-espectador",
+        "title": "Para la guerra, todo",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/para-la-guerra-todo/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-11-17",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 tan grave es Javier Milei para Argentina? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-que-tan-grave-es-javier-milei-para-argentina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elementa DD.HH.",
+        "date": "2023-11-17",
+        "publication": "el-espectador",
+        "title": "Democratizaci\u00f3n a siete a\u00f1os del Acuerdo de Paz: m\u00e1s dulce que amargo",
+        "url": "https://www.elespectador.com/colombia-20/analistas/acuerdo-de-paz-con-farc-como-va-la-democratizacion-tras-siete-anos-participacion-politica/"
     },
     {
         "article-type": "column",
@@ -72,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/el-insondable-vinculo-entre-madre-e-hija/"
     },
     {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-11-16",
-        "publication": "el-espectador",
-        "title": "Columna del profe Montoya: s\u00ed es posible",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/si-es-posible/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-11-16",
-        "publication": "el-espectador",
-        "title": "Crimen pasional, mentira nacional",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/crimen-pasional-mentira-nacional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Foro Nacional por Colombia",
-        "date": "2023-11-16",
-        "publication": "el-espectador",
-        "title": "Nuevos \u201cgobernantes\u201d, viejas formas de gobernar y la desaz\u00f3n de futuro",
-        "url": "https://www.elespectador.com/colombia-20/analistas/nuevos-gobernantes-viejas-formas-de-gobernar-y-la-desazon-de-futuro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-11-16",
-        "publication": "el-espectador",
-        "title": "Un t\u00edtulo sesgado sobre el proyecto del impuesto predial",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/un-titulo-sesgado-sobre-el-proyecto-del-impuesto-predial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2023-11-15",
-        "publication": "el-espectador",
-        "title": "El d\u00eda despu\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/el-dia-despues-2/"
-    },
-    {
-        "article-type": "column",
-        "author": "Dar\u00edo I Restrepo",
-        "date": "2023-11-15",
-        "publication": "el-espectador",
-        "title": "Autonom\u00eda Solidaria",
-        "url": "https://www.elespectador.com/economia/macroeconomia/autonomia-solidaria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-11-15",
-        "publication": "el-espectador",
-        "title": "Desgobierno",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/desgobierno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-11-15",
-        "publication": "el-espectador",
-        "title": "Malas ventas en octubre",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/malas-ventas-en-octubre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-11-15",
-        "publication": "el-espectador",
-        "title": "Columna para un adi\u00f3s",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/columna-para-un-adios/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-16",
+        "date": "2023-11-17",
         "publication": "el-tiempo",
-        "title": "Otra elecci\u00f3n crucial",
-        "url": "https://www.eltiempo.com/opinion/editorial/otra-eleccion-crucial-editorial-el-tiempo-826245"
+        "title": "Confianza para crecer",
+        "url": "https://www.eltiempo.com/opinion/editorial/confianza-para-crecer-editorial-el-tiempo-826658"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-11-16",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-11-17",
         "publication": "el-tiempo",
-        "title": "\u00bfGobierno sin leyes ni jueces?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/gobierno-sin-leyes-ni-jueces-columna-de-pedro-medellin-826233"
+        "title": "Opiniones fuertes, razonamientos d\u00e9biles",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/opiniones-fuertes-razonamientos-debiles-columna-de-moises-wasserman-826553"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-11-16",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-11-17",
         "publication": "el-tiempo",
-        "title": "Circo m\u00e1ximo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/circo-maximo-columna-de-juan-esteban-constain-826187"
+        "title": "Halloween",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/halloween-columna-de-ricardo-silva-romero-826581"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2023-11-16",
+        "author": "Mar\u00eda Eugenia Rinaudo",
+        "date": "2023-11-17",
         "publication": "el-tiempo",
-        "title": "La hora de las mujeres en la Polic\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/la-hora-de-las-mujeres-en-la-policia-columna-de-jineth-bedoya-826174"
+        "title": "No hay vuelta atr\u00e1s",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/no-hay-vuelta-atras-columna-de-maria-eugenia-rinaudo-826656"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2023-11-16",
+        "author": "C\u00e9sar Ferrari",
+        "date": "2023-11-17",
         "publication": "el-tiempo",
-        "title": "La negociaci\u00f3n con el \u2018Estado Mayor Central\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/la-negociacion-con-el-estado-mayor-central-columna-de-juliana-mejia-826207"
+        "title": "\u00bfPor qu\u00e9 Colombia crece poco?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/por-que-colombia-crece-poco-columna-de-cesar-ferrari-826562"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Lloreda",
-        "date": "2023-11-16",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-11-17",
         "publication": "el-tiempo",
-        "title": "Desde su propia orilla",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/desde-su-propia-orilla-columna-de-mauricio-lloreda-826198"
+        "title": "Democracia sin rumbo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/democracia-sin-rumbo-columna-de-eduardo-ppsada-carbo-826570"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2023-11-16",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2023-11-17",
         "publication": "el-tiempo",
-        "title": "Primeras veces",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/primeras-veces-columna-de-diana-pardo-826194"
+        "title": "Un sult\u00e1n impecable",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/un-sultan-impecable-columna-de-manuel-guzman-hennessey-826583"
     },
     {
         "article-type": "column",
-        "author": "Luis Antonio Paulino",
-        "date": "2023-11-16",
+        "author": "Camilo Uma\u00f1a",
+        "date": "2023-11-17",
         "publication": "el-tiempo",
-        "title": "Colaboraci\u00f3n entre China y EE. UU., clave para los retos del mundo actual",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/colaboracion-entre-china-y-ee-uu-clave-para-los-retos-del-mundo-actual-826205"
+        "title": "La silenciosa violencia contra funcionarios de la justicia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/la-silenciosa-violencia-contra-funcionarios-de-la-justicia-camilo-umanan-826654"
     }
 ]
