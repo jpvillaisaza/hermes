@@ -2,26 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-17",
+        "date": "2023-11-18",
         "publication": "el-colombiano",
-        "title": "Paz siete a\u00f1os despu\u00e9s ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/paz-siete-anos-despues-KD23131209"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/como-logro-ganar-pedro-sanchez-CD23135601"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-17",
+        "date": "2023-11-18",
         "publication": "el-espectador",
-        "title": "La regla fiscal no es un capricho",
-        "url": "https://www.elespectador.com/opinion/editorial/la-regla-fiscal-no-es-un-capricho/"
+        "title": "La transparencia no se debe obviar en la negociaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/editorial/la-transparencia-no-se-debe-obviar-en-la-negociacion/"
     },
     {
         "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2023-11-17",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-11-18",
         "publication": "el-espectador",
-        "title": "Buenos aires para el Valle",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/buenos-aires-para-el-valle/"
+        "title": "Gaza, el periodismo y los puntos de vista",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/gaza-el-periodismo-y-los-puntos-de-vista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-11-18",
+        "publication": "el-espectador",
+        "title": "La lecci\u00f3n de Juli\u00e1n Boh\u00f3rquez",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/la-leccion-de-julian-bohorquez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-11-18",
+        "publication": "el-espectador",
+        "title": "El elefante en el cuarto",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/el-elefante-en-el-cuarto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2023-11-18",
+        "publication": "el-espectador",
+        "title": "Conversaciones con los difuntos",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/conversaciones-con-los-difuntos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-11-18",
+        "publication": "el-espectador",
+        "title": "La Flora del cacao",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/la-flora-del-cacao/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2023-11-18",
+        "publication": "el-espectador",
+        "title": "\u201cCassiani\u201d, distop\u00eda* feliz",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/cassiani-distopia-feliz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2023-11-18",
+        "publication": "el-espectador",
+        "title": "Columna de Andr\u00e9s Marocco: las mieles del gran triunfo",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/las-mieles-del-gran-triunfo/"
+    },
+    {
+        "article-type": "column",
+        "author": "William Ospina",
+        "date": "2023-11-18",
+        "publication": "el-espectador",
+        "title": "William Ospina: \u201cEl triunfo de Massa desanima, pero el de Milei asusta\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/william-ospina-el-triunfo-de-massa-desanima-pero-el-de-milei-asusta/"
     },
     {
         "article-type": "column",
@@ -30,6 +86,14 @@
         "publication": "el-espectador",
         "title": "Un elefante borracho y otros temas",
         "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/un-elefante-borracho-y-otros-temas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-11-17",
+        "publication": "el-espectador",
+        "title": "Buenos aires para el Valle",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/buenos-aires-para-el-valle/"
     },
     {
         "article-type": "column",
@@ -80,131 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-que-tan-grave-es-javier-milei-para-argentina/"
     },
     {
-        "article-type": "column",
-        "author": "Elementa DD.HH.",
-        "date": "2023-11-17",
-        "publication": "el-espectador",
-        "title": "Democratizaci\u00f3n a siete a\u00f1os del Acuerdo de Paz: m\u00e1s dulce que amargo",
-        "url": "https://www.elespectador.com/colombia-20/analistas/acuerdo-de-paz-con-farc-como-va-la-democratizacion-tras-siete-anos-participacion-politica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2023-11-16",
-        "publication": "el-espectador",
-        "title": "Golpes blandos",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/golpes-blandos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Claudia Morales",
-        "date": "2023-11-16",
-        "publication": "el-espectador",
-        "title": "Libros, seducci\u00f3n y adolescencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/libros-seduccion-y-adolescencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2023-11-16",
-        "publication": "el-espectador",
-        "title": "El alcalde Carlos Fernando Gal\u00e1n y la salud de los bogotanos",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/el-alcalde-carlos-fernando-galan-y-la-salud-de-los-bogotanos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-11-16",
-        "publication": "el-espectador",
-        "title": "Manzanillos y pol\u00edticos",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/manzanillos-y-politicos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-11-16",
-        "publication": "el-espectador",
-        "title": "Cultura al Parque",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/cultura-al-parque/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2023-11-16",
-        "publication": "el-espectador",
-        "title": "\u00bfD\u00f3nde est\u00e1n los dioses?",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/donde-estan-los-dioses/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-11-16",
-        "publication": "el-espectador",
-        "title": "El insondable v\u00ednculo entre madre e hija",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/el-insondable-vinculo-entre-madre-e-hija/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-17",
+        "date": "2023-11-18",
         "publication": "el-tiempo",
-        "title": "Confianza para crecer",
-        "url": "https://www.eltiempo.com/opinion/editorial/confianza-para-crecer-editorial-el-tiempo-826658"
+        "title": "Vapeo en escolares",
+        "url": "https://www.eltiempo.com/opinion/editorial/vapeo-en-escolares-editorial-el-tiempo-827034"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-11-17",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2023-11-18",
         "publication": "el-tiempo",
-        "title": "Opiniones fuertes, razonamientos d\u00e9biles",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/opiniones-fuertes-razonamientos-debiles-columna-de-moises-wasserman-826553"
+        "title": "Salvar a Ecopetrol",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/salvar-a-ecopetrol-columna-de-carlos-caballero-argaez-826974"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-11-17",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-11-18",
         "publication": "el-tiempo",
-        "title": "Halloween",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/halloween-columna-de-ricardo-silva-romero-826581"
+        "title": "El grito de toda Colombia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/el-grito-de-toda-colombia-columna-de-luis-noe-ochoa-826987"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Eugenia Rinaudo",
-        "date": "2023-11-17",
+        "author": "Sara Tufano",
+        "date": "2023-11-18",
         "publication": "el-tiempo",
-        "title": "No hay vuelta atr\u00e1s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/no-hay-vuelta-atras-columna-de-maria-eugenia-rinaudo-826656"
+        "title": "No en nuestro nombre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/no-en-nuestro-nombre-columna-de-sara-tufano-826979"
     },
     {
         "article-type": "column",
-        "author": "C\u00e9sar Ferrari",
-        "date": "2023-11-17",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2023-11-18",
         "publication": "el-tiempo",
-        "title": "\u00bfPor qu\u00e9 Colombia crece poco?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/por-que-colombia-crece-poco-columna-de-cesar-ferrari-826562"
+        "title": "Todo est\u00e1 jodido",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/todo-esta-jodido-columna-de-adolfo-zableh-826977"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-11-17",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-11-18",
         "publication": "el-tiempo",
-        "title": "Democracia sin rumbo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/democracia-sin-rumbo-columna-de-eduardo-ppsada-carbo-826570"
+        "title": "Stradivarius del plomo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/stradivarius-del-plomo-columna-de-oscar-dominguez-giraldo-826980"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2023-11-17",
+        "author": "Fernando Posada",
+        "date": "2023-11-18",
         "publication": "el-tiempo",
-        "title": "Un sult\u00e1n impecable",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/un-sultan-impecable-columna-de-manuel-guzman-hennessey-826583"
+        "title": "El laberinto de la \u2018paz total\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/el-laberinto-de-la-paz-total-columna-de-fernando-posada-827015"
     },
     {
         "article-type": "column",
-        "author": "Camilo Uma\u00f1a",
-        "date": "2023-11-17",
+        "author": "Pedro Javier Rojas Guevara",
+        "date": "2023-11-18",
         "publication": "el-tiempo",
-        "title": "La silenciosa violencia contra funcionarios de la justicia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/la-silenciosa-violencia-contra-funcionarios-de-la-justicia-camilo-umanan-826654"
+        "title": "\u00a1La Universidad Militar es de todos!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-javier-rojas-guevara/la-universidad-militar-es-de-todos-columna-de-pedro-javier-rojas-827011"
     }
 ]
