@@ -2,18 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-20",
+        "date": "2023-11-21",
         "publication": "el-colombiano",
-        "title": "Indigno de su cargo ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/indigno-de-su-cargo-BE23142663"
+        "title": "Pensar a Antioquia como un pa\u00eds",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/pensar-a-antioquia-como-un-pais-OE23147977"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-20",
+        "date": "2023-11-21",
         "publication": "el-espectador",
-        "title": "El reto de la JEP con Salvatore Mancuso",
-        "url": "https://www.elespectador.com/opinion/editorial/el-reto-de-la-jep-con-salvatore-mancuso/"
+        "title": "M\u00e1s inc\u00f3gnitas que esperanzas en Argentina",
+        "url": "https://www.elespectador.com/opinion/editorial/mas-incognitas-que-esperanzas-en-argentina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2023-11-21",
+        "publication": "el-espectador",
+        "title": "Desigualdad, empleo, seguridad y salud mental, las preocupaciones de los j\u00f3venes",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/desigualdad-empleo-seguridad-y-salud-mental-las-preocupaciones-de-los-jovenes-colombianos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2023-11-21",
+        "publication": "el-espectador",
+        "title": "La admisi\u00f3n de Mancuso en la JEP",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/la-admision-de-mancuso-en-la-jep/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-11-21",
+        "publication": "el-espectador",
+        "title": "Desde el Cotopaxi",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/desde-el-cotopaxi/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-11-21",
+        "publication": "el-espectador",
+        "title": "Jaur\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/jauria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-11-21",
+        "publication": "el-espectador",
+        "title": "Petro y Uribe: cu\u00e1nto puede un tinto",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/petro-y-uribe-cuanto-puede-un-tinto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-11-21",
+        "publication": "el-espectador",
+        "title": "\u00a1Salvemos a Gorgona!",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/salvemos-a-gorgona/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2023-11-21",
+        "publication": "el-espectador",
+        "title": "Los 30 a\u00f1os del PCN",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/los-30-anos-del-pcn/"
+    },
+    {
+        "article-type": "column",
+        "author": "Kenneth Burbano Villamar\u00edn",
+        "date": "2023-11-21",
+        "publication": "el-espectador",
+        "title": "Justificar el secuestro es cruel y degradante",
+        "url": "https://www.elespectador.com/colombia-20/analistas/columna-de-kenneth-burbano-justificar-el-secuestro-es-cruel-y-degradante/"
     },
     {
         "article-type": "column",
@@ -30,14 +94,6 @@
         "publication": "el-espectador",
         "title": "Obstruir la paz",
         "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/obstruir-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Teresa Ronderos",
-        "date": "2023-11-20",
-        "publication": "el-espectador",
-        "title": "Otra negociaci\u00f3n de paz sobre terreno quebrado",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/otra-negociacion-de-paz-sobre-terreno-quebrado/"
     },
     {
         "article-type": "column",
@@ -65,43 +121,19 @@
     },
     {
         "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2023-11-20",
+        "publication": "el-espectador",
+        "title": "Otra negociaci\u00f3n de paz sobre terreno quebrado",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/otra-negociacion-de-paz-sobre-terreno-quebrado/"
+    },
+    {
+        "article-type": "column",
         "author": "Luis Carvajal Basto",
         "date": "2023-11-20",
         "publication": "el-espectador",
         "title": "Decrecemos",
         "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/decrecemos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-11-20",
-        "publication": "el-espectador",
-        "title": "El viaje al pasado para cazar esclavistas como remedo de futuro",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/el-viaje-al-pasado-para-cazar-esclavistas-como-remedo-de-futuro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2023-11-20",
-        "publication": "el-espectador",
-        "title": "\u00bfTienen sentido los canales regionales?",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/tienen-sentido-los-canales-regionales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Dolly Montoya Casta\u00f1o",
-        "date": "2023-11-20",
-        "publication": "el-espectador",
-        "title": "Las artes vuelven a vibrar en la Universidad Nacional de Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/las-artes-vuelven-a-vibrar-en-la-universidad-nacional-de-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carolina Botero Cabrera",
-        "date": "2023-11-20",
-        "publication": "el-espectador",
-        "title": "La Corte se inhibe, buena noticia para el derecho a reparar aparatos",
-        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/la-corte-se-inhibe-buena-noticia-para-el-derecho-a-reparar-aparatos/"
     },
     {
         "article-type": "column",
@@ -112,107 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/el-peor-de-los-mundos/"
     },
     {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2023-11-20",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cLas buenas ideas hay que saber tramitarlas en democracia\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-las-buenas-ideas-hay-que-saber-tramitarlas-en-democracia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2023-11-19",
-        "publication": "el-espectador",
-        "title": "La econom\u00eda entra en recesi\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/la-economia-entra-en-recesion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-11-19",
-        "publication": "el-espectador",
-        "title": " Un breve manual de urgencias",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/un-breve-manual-de-urgencias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Barbosa",
-        "date": "2023-11-19",
-        "publication": "el-espectador",
-        "title": "China: miradas a un viaje",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/china-miradas-a-un-viaje/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-20",
+        "date": "2023-11-21",
         "publication": "el-tiempo",
-        "title": "Motos y siniestros",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-20-de-noviembre-de-2023-motos-y-siniestros-827322"
+        "title": "Javier Milei",
+        "url": "https://www.eltiempo.com/opinion/editorial/javier-milei-editorial-el-tiempo-827659"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-11-20",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-11-21",
         "publication": "el-tiempo",
-        "title": "Ideas para salir del hueco",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-ideas-para-salir-del-hueco-827329"
+        "title": "\u00bfY el pa\u00eds joven qu\u00e9?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/y-el-pais-joven-que-columna-de-jose-manuel-acevedo-827612"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-11-20",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2023-11-21",
         "publication": "el-tiempo",
-        "title": "Atrincherado en Venezuela",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-atrincherado-en-venezuela-827310"
+        "title": "Los datos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/los-datos-columna-de-marcela-melendez-827598"
     },
     {
         "article-type": "column",
-        "author": "Tanya Chapuisat",
-        "date": "2023-11-20",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2023-11-21",
         "publication": "el-tiempo",
-        "title": "Nos queda a\u00fan mucho por hacer",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-tanya-chapuisat-nos-queda-aun-mucho-por-hacer-827334"
+        "title": "Los latinos y la desmemoria",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/los-latinos-y-la-desmemoria-columna-de-sergio-munoz-bata-827588"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-11-20",
+        "author": "Luis Carlos Reyes Hern\u00e1ndez",
+        "date": "2023-11-21",
         "publication": "el-tiempo",
-        "title": "\u00bfQuiere Germ\u00e1n Vargas Lleras aspirar a ser el pr\u00f3ximo presidente?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-quiere-german-vargas-lleras-ser-presidente-827309"
+        "title": "Las regal\u00edas y la justicia social",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/las-regalias-y-la-justicia-social-columna-de-luis-carlos-reyes-827628"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2023-11-20",
+        "author": "Francisco Cajiao",
+        "date": "2023-11-21",
         "publication": "el-tiempo",
-        "title": "Abismo dom\u00e9stico",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-abismo-domestico-827328"
+        "title": "El estilo no es secundario",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/el-estilo-no-es-secundario-columna-de-francisco-cajiao-827590"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-11-20",
+        "author": "Fernando Quiroz",
+        "date": "2023-11-21",
         "publication": "el-tiempo",
-        "title": "IA puede ser muy \u00fatil",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-ia-puede-ser-muy-util-827325"
+        "title": "La vida que uno recuerda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/la-vida-que-uno-recuerda-columna-de-fernando-quiroz-827616"
     },
     {
         "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-11-20",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2023-11-21",
         "publication": "el-tiempo",
-        "title": "Eso que llamamos narrativas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-eso-que-llamamos-narrativas-827333"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2023-11-20",
-        "publication": "el-tiempo",
-        "title": "Resistencia desde la dificultad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-resistencia-desde-la-dificultad-827324"
+        "title": "Mujeres en la literatura",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/mujeres-en-la-literatura-columna-de-fabio-martinez-827634"
     }
 ]
