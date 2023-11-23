@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-22",
+        "date": "2023-11-23",
         "publication": "el-colombiano",
-        "title": "En las penumbras del cerebro",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/en-las-penumbras-del-cerebro-AF23154712"
+        "title": "Sacud\u00f3n a la ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/sacudon-a-la-paz-total-GG23162224"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-22",
+        "date": "2023-11-23",
         "publication": "el-espectador",
-        "title": "Sin chantajes, se requiere una conversaci\u00f3n efectiva con los taxistas",
-        "url": "https://www.elespectador.com/opinion/editorial/sin-chantajes-se-requiere-una-conversacion-efectiva-con-los-taxistas/"
+        "title": "Bienvenido el di\u00e1logo nacional con empresarios",
+        "url": "https://www.elespectador.com/opinion/editorial/bienvenido-el-necesario-macrocaso-11-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Carrizosa Calle",
+        "date": "2023-11-23",
+        "publication": "el-espectador",
+        "title": "Negocio maduro",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/negocio-maduro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2023-11-23",
+        "publication": "el-espectador",
+        "title": "TERF (Feminismo transexcluyente radical)",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/terf-feminismo-transexcluyente-radical/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-11-23",
+        "publication": "el-espectador",
+        "title": "D\u00e9j\u00e0 vu y ultraderecha",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/deja-vu-y-ultraderecha-milei-en-argentina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-11-23",
+        "publication": "el-espectador",
+        "title": "Colombia y Hait\u00ed: las deudas hist\u00f3ricas",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/colombia-y-haiti-las-deudas-historicas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda \u00c1ngela Holgu\u00edn",
+        "date": "2023-11-23",
+        "publication": "el-espectador",
+        "title": "Salvemos la Alianza del Pac\u00edfico",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-angela-holguin/salvemos-la-alianza-del-pacifico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
+        "date": "2023-11-23",
+        "publication": "el-espectador",
+        "title": "El empedrado hacia el infierno",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/el-empedrado-hacia-el-infierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas de los lectores",
+        "date": "2023-11-23",
+        "publication": "el-espectador",
+        "title": "Sobre una columna",
+        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/sobre-una-columna-4/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-11-23",
+        "publication": "el-espectador",
+        "title": "Secuelas de la infidelidad sobre las hijas",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/secuelas-de-la-infidelidad-sobre-las-hijas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-11-23",
+        "publication": "el-espectador",
+        "title": "\u00bfDejamos que un columnista invitara a un golpe de Estado?",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/dejamos-que-un-columnista-invitara-a-un-golpe-de-estado/"
     },
     {
         "article-type": "column",
@@ -25,14 +97,6 @@
     },
     {
         "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-11-22",
-        "publication": "el-espectador",
-        "title": "Un le\u00f3n en cuarentena",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/un-leon-en-cuarentena/"
-    },
-    {
-        "article-type": "column",
         "author": "Cecilia Orozco Tasc\u00f3n",
         "date": "2023-11-22",
         "publication": "el-espectador",
@@ -41,11 +105,11 @@
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
+        "author": "Pascual Gaviria",
         "date": "2023-11-22",
         "publication": "el-espectador",
-        "title": "Unidos por el espanto",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/unidos-por-el-espanto/"
+        "title": "Un le\u00f3n en cuarentena",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/un-leon-en-cuarentena/"
     },
     {
         "article-type": "column",
@@ -54,6 +118,14 @@
         "publication": "el-espectador",
         "title": "Visi\u00f3n de Gustavo Petro",
         "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/vision-de-gustavo-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2023-11-22",
+        "publication": "el-espectador",
+        "title": "Unidos por el espanto",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/unidos-por-el-espanto/"
     },
     {
         "article-type": "column",
@@ -72,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/la-tan-anhelada-confianza/"
     },
     {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-11-22",
-        "publication": "el-espectador",
-        "title": "El Jerusalem Post sugiri\u00f3 que la guerra es una oportunidad para \u201cperder peso\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/el-jerusalem-post-sugirio-que-la-guerra-con-hamas-es-una-oportunidad-para-perder-peso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2023-11-21",
-        "publication": "el-espectador",
-        "title": "Desigualdad, empleo, seguridad y salud mental, las preocupaciones de los j\u00f3venes",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/desigualdad-empleo-seguridad-y-salud-mental-las-preocupaciones-de-los-jovenes-colombianos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-11-21",
-        "publication": "el-espectador",
-        "title": "Desde el Cotopaxi",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/desde-el-cotopaxi/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2023-11-21",
-        "publication": "el-espectador",
-        "title": "La admisi\u00f3n de Mancuso en la JEP",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/la-admision-de-mancuso-en-la-jep/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-11-21",
-        "publication": "el-espectador",
-        "title": "Petro y Uribe: cu\u00e1nto puede un tinto",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/petro-y-uribe-cuanto-puede-un-tinto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-11-21",
-        "publication": "el-espectador",
-        "title": "Jaur\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/jauria/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-11-22",
-        "publication": "el-espectador",
-        "title": "El abuelo de Gabo y las bananeras",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-abuelo-de-gabo-y-las-bananeras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-11-21",
-        "publication": "el-espectador",
-        "title": "\u00a1Salvemos a Gorgona!",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/salvemos-a-gorgona/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2023-11-21",
-        "publication": "el-espectador",
-        "title": "Los 30 a\u00f1os del PCN",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/los-30-anos-del-pcn/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-22",
+        "date": "2023-11-23",
         "publication": "el-tiempo",
-        "title": "Evaluar cada paso",
-        "url": "https://www.eltiempo.com/opinion/editorial/evaluar-cada-paso-editorial-el-tiempo-828114"
+        "title": "La tregua en Gaza",
+        "url": "https://www.eltiempo.com/opinion/editorial/la-tregua-en-gaza-editorial-el-tiempo-828515"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-11-22",
+        "author": "Pedro Medellin",
+        "date": "2023-11-23",
         "publication": "el-tiempo",
-        "title": "La paz total y el c\u00f3digo penal",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/la-paz-total-y-el-codigo-penal-columna-de-alfonso-gomez-mendez-828029"
+        "title": "Para apagar el incendio",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/para-apagar-el-incendio-columna-de-pedro-medellin-828492"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-11-22",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-11-23",
         "publication": "el-tiempo",
-        "title": "Sesenta a\u00f1os despu\u00e9s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/sesenta-anos-despues-columna-de-vladdo-828086"
+        "title": "Napole\u00f3n en harapos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/napoleon-en-harapos-columna-de-juan-esteban-constain-828442"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2023-11-22",
+        "author": "Claudia Palacios",
+        "date": "2023-11-23",
+        "publication": "el-tiempo",
+        "title": "El \u2018bueno\u2019 por conocer",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/el-bueno-por-conocer-claudia-palacios-828480"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-11-23",
+        "publication": "el-tiempo",
+        "title": "Los pliegues ocultos de la dulce cintura de Am\u00e9rica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/los-pliegues-ocultos-de-la-dulce-cintura-de-america-sergio-ramirez-828437"
+    },
+    {
+        "article-type": "column",
+        "author": "Armando Silva",
+        "date": "2023-11-23",
         "publication": "el-tiempo",
         "title": "Tenemos miedo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/tenemos-miedo-columna-de-andres-hurtado-garcia-828013"
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/tenemos-miedo-columna-de-armando-silva-828449"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Eugenia Rinaudo",
-        "date": "2023-11-22",
+        "author": "Dar\u00edo I. Restrepo",
+        "date": "2023-11-23",
         "publication": "el-tiempo",
-        "title": "Emprendimiento clim\u00e1tico",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/emprendimiento-climatico-columna-de-maria-eugenia-rinaudo-828072"
+        "title": "Fondo para la convergencia regional",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/fondo-para-la-convergencia-regional-dario-restrepo-828465"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-11-22",
+        "author": "Alpher Rojas Carvajal",
+        "date": "2023-11-23",
         "publication": "el-tiempo",
-        "title": "Con eso no se juega",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/con-eso-no-se-juega-columna-de-gustavo-duncan-828045"
-    },
-    {
-        "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-11-22",
-        "publication": "el-tiempo",
-        "title": "A Claudia L\u00f3pez le quedan 37 d\u00edas y...",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/a-claudia-lopez-le-quedan-37-dias-y-columna-de-poncho-renteria-828037"
-    },
-    {
-        "article-type": "column",
-        "author": "Dejusticia",
-        "date": "2023-11-22",
-        "publication": "el-tiempo",
-        "title": "Sobre la ley de alternatividad penal: que no sea crimen ser mujer",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/sobre-la-ley-de-alternatividad-penal-que-no-sea-crimen-ser-mujer-828068"
+        "title": "\u00bfComprendieron los elenos el mensaje?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-carvajal/comprendieron-los-elenos-el-mensaje-columna-de-alpher-rojas-828468"
     }
 ]
