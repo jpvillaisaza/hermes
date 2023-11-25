@@ -2,26 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-24",
+        "date": "2023-11-25",
         "publication": "el-colombiano",
-        "title": "Argentina: el gran experimento",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/argentina-el-gran-experimento-HH23177321"
+        "title": "\u00bfPor qu\u00e9 queremos depender del tirano?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/por-que-queremos-depender-del-tirano-EJ23190242"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-24",
+        "date": "2023-11-25",
         "publication": "el-espectador",
-        "title": "Una oportunidad para corregir el rumbo de la paz",
-        "url": "https://www.elespectador.com/opinion/editorial/una-oportunidad-para-corregir-el-rumbo-de-la-paz/"
+        "title": "Bienvenido el apoyo a un proyecto musical esencial ",
+        "url": "https://www.elespectador.com/opinion/editorial/bienvenido-el-apoyo-a-un-proyecto-musical-esencial/"
     },
     {
         "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-11-24",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2023-11-25",
         "publication": "el-espectador",
-        "title": "Heredando el planeta",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/heredando-el-planeta/"
+        "title": "Cosas que se quiebran f\u00e1cilmente ",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/cosas-que-se-quiebran-facilmente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-11-25",
+        "publication": "el-espectador",
+        "title": "Vientos extremos del norte ",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/vientos-extremos-del-norte/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marc Hofstetter",
+        "date": "2023-11-25",
+        "publication": "el-espectador",
+        "title": "As\u00ed no, ministro",
+        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/asi-no-ministro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2023-11-25",
+        "publication": "el-espectador",
+        "title": "Despotismo democr\u00e1tico",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/despotismo-democratico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-11-25",
+        "publication": "el-espectador",
+        "title": "Los migrantes fantasma",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/los-migrantes-fantasma/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2023-11-25",
+        "publication": "el-espectador",
+        "title": "Jaque mate a la raz\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/jaque-mate-a-la-razon/"
+    },
+    {
+        "article-type": "column",
+        "author": "Weildler Guerra",
+        "date": "2023-11-25",
+        "publication": "el-espectador",
+        "title": "Ojo sagrado",
+        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/ojo-sagrado/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2023-11-25",
+        "publication": "el-espectador",
+        "title": "Poes\u00eda \u00e1cida y expandida (II) ",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/poesia-acida-y-expandida-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adolfo Le\u00f3n Atehort\u00faa Cruz",
+        "date": "2023-11-25",
+        "publication": "el-espectador",
+        "title": "El salario de los docentes universitarios",
+        "url": "https://www.elespectador.com/opinion/columnistas/adolfo-leon-atehortua-cruz/el-salario-de-los-docentes-universitarios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-11-25",
+        "publication": "el-espectador",
+        "title": "En comercio digital, EE. UU. cambia de no regular a buscar espacio regulatorio",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/en-comercio-digital-ee-uu-cambia-de-no-regular-a-buscar-espacio-regulatorio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2023-11-25",
+        "publication": "el-espectador",
+        "title": "Columna de Luis Fernando Montoya: Colombia, rumbo al mundial",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-colombia-rumbo-al-mundial/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2023-11-25",
+        "publication": "el-espectador",
+        "title": "Hans Magnus Enzesberger: \u2020 24-11-2022",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/hans-magnus-enzesberger-24-11-2022/"
     },
     {
         "article-type": "column",
@@ -33,19 +121,19 @@
     },
     {
         "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-11-24",
+        "publication": "el-espectador",
+        "title": "Heredando el planeta",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/heredando-el-planeta/"
+    },
+    {
+        "article-type": "column",
         "author": "Juan Carlos Botero",
         "date": "2023-11-24",
         "publication": "el-espectador",
         "title": "El astuto",
         "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/el-astuto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2023-11-24",
-        "publication": "el-espectador",
-        "title": "Incolballet, instituci\u00f3n ejemplar ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/incolballet-institucion-ejemplar/"
     },
     {
         "article-type": "column",
@@ -56,155 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/la-historia-es-esencial-en-la-politica/"
     },
     {
-        "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2023-11-24",
-        "publication": "el-espectador",
-        "title": "Bloqueos y rutas de salida",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/bloqueos-y-rutas-de-salida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Iv\u00e1n Cuervo R.",
-        "date": "2023-11-24",
-        "publication": "el-espectador",
-        "title": "Milei y el apocalipsis zombi",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/milei-y-el-apocalipsis-zombi/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-11-24",
-        "publication": "el-espectador",
-        "title": "El poder de dar gracias",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/el-poder-de-dar-gracias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2023-11-24",
-        "publication": "el-espectador",
-        "title": "Hoy es el d\u00eda internacional de...",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/hoy-es-el-dia-internacional-de/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Felipe Herrera Carrillo",
-        "date": "2023-11-24",
-        "publication": "el-espectador",
-        "title": "Opini\u00f3n: La batalla de los guaros",
-        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-felipe-herrera-carrillo/opinion-la-batalla-de-los-guaros/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Carrizosa Calle",
-        "date": "2023-11-23",
-        "publication": "el-espectador",
-        "title": "Negocio maduro",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/negocio-maduro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2023-11-23",
-        "publication": "el-espectador",
-        "title": "TERF (Feminismo transexcluyente radical)",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/terf-feminismo-transexcluyente-radical/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2023-11-23",
-        "publication": "el-espectador",
-        "title": "Colombia y Hait\u00ed: las deudas hist\u00f3ricas",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/colombia-y-haiti-las-deudas-historicas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-11-23",
-        "publication": "el-espectador",
-        "title": "D\u00e9j\u00e0 vu y ultraderecha",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/deja-vu-y-ultraderecha-milei-en-argentina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda \u00c1ngela Holgu\u00edn",
-        "date": "2023-11-23",
-        "publication": "el-espectador",
-        "title": "Salvemos la Alianza del Pac\u00edfico",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-angela-holguin/salvemos-la-alianza-del-pacifico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
-        "date": "2023-11-23",
-        "publication": "el-espectador",
-        "title": "El empedrado hacia el infierno",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/el-empedrado-hacia-el-infierno/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-23",
+        "date": "2023-11-25",
         "publication": "el-tiempo",
-        "title": "La tregua en Gaza",
-        "url": "https://www.eltiempo.com/opinion/editorial/la-tregua-en-gaza-editorial-el-tiempo-828515"
+        "title": "Acciones necesarias",
+        "url": "https://www.eltiempo.com/opinion/editorial/acciones-necesarias-editorial-el-tiempo-829297"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-11-24",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2023-11-25",
         "publication": "el-tiempo",
-        "title": "Opiniones fuertes, razonamientos d\u00e9biles",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/opiniones-fuertes-razonamientos-debiles-columna-de-moises-wasserman-826553"
+        "title": "Infraestructura",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/infraestructura-columna-de-mauricio-cardenas-829292"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-11-24",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-11-25",
         "publication": "el-tiempo",
-        "title": "Halloween",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/halloween-columna-de-ricardo-silva-romero-826581"
+        "title": "La paz es entre todos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/la-paz-es-entre-todos-columna-de-luis-noe-ochoa-829279"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Eugenia Rinaudo",
-        "date": "2023-11-24",
+        "author": "Felipe Bay\u00f3n Pardo",
+        "date": "2023-11-25",
         "publication": "el-tiempo",
-        "title": "No hay vuelta atr\u00e1s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/no-hay-vuelta-atras-columna-de-maria-eugenia-rinaudo-826656"
+        "title": "La silenciosa historia de \u00e9xito de Reficar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/felipe-bayon-pardo/la-silenciosa-historia-de-exito-de-reficar-columna-de-felipe-bayon-829246"
     },
     {
         "article-type": "column",
-        "author": "C\u00e9sar Ferrari",
-        "date": "2023-11-24",
+        "author": "Sara Tufano",
+        "date": "2023-11-25",
         "publication": "el-tiempo",
-        "title": "\u00bfPor qu\u00e9 Colombia crece poco?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/por-que-colombia-crece-poco-columna-de-cesar-ferrari-826562"
+        "title": "Un Polo poco democr\u00e1tico",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/un-polo-poco-democratico-columna-de-sara-tufano-829272"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-11-24",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2023-11-25",
         "publication": "el-tiempo",
-        "title": "Democracia sin rumbo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/democracia-sin-rumbo-columna-de-eduardo-ppsada-carbo-826570"
+        "title": "\u00bfTiene facultades?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/tiene-facultades-columna-de-jose-gregorio-hernandez-829226"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2023-11-24",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2023-11-25",
         "publication": "el-tiempo",
-        "title": "Un sult\u00e1n impecable",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/un-sultan-impecable-columna-de-manuel-guzman-hennessey-826583"
+        "title": "Teresita G\u00f3mez",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/teresita-gomez-columna-de-victor-manuel-ruiz-829216"
     },
     {
         "article-type": "column",
-        "author": "Camilo Uma\u00f1a\u00a0Hern\u00e1ndez",
-        "date": "2023-11-24",
+        "author": "\u00c1ngela Anzola",
+        "date": "2023-11-25",
         "publication": "el-tiempo",
-        "title": "La silenciosa violencia contra funcionarios de la justicia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/la-silenciosa-violencia-contra-funcionarios-de-la-justicia-camilo-umanan-826654"
+        "title": "Bonos de Impacto Social: una herramienta clave",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/bonos-de-impacto-social-una-herramienta-clave-women-in-connection-829271"
     }
 ]
