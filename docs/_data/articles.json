@@ -2,18 +2,122 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-26",
+        "date": "2023-11-27",
         "publication": "el-colombiano",
-        "title": "El \u2018nuevo\u2019 Petro",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-nuevo-petro-GJ23194332"
+        "title": "Un tiro en el pie con los peajes",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/un-tiro-en-el-pie-con-los-peajes-MJ23198433"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-26",
+        "date": "2023-11-27",
         "publication": "el-espectador",
-        "title": "\u00a1Nada de dogmas! Celebramos el cambio de opini\u00f3n",
-        "url": "https://www.elespectador.com/opinion/editorial/nada-de-dogmas-celebramos-el-cambio-de-opinion/"
+        "title": "Contradicciones in\u00fatiles entre Gobierno y Corte Constitucional",
+        "url": "https://www.elespectador.com/opinion/editorial/contradicciones-inutiles-entre-gobierno-y-corte/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "La inocua rebeli\u00f3n de los anunciantes",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-inocua-rebelion-de-los-anunciantes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: Decisiones, suerte, DT, \u00e1rbitro ",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-decisiones-suerte-dt-arbitro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Tovar",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "Columna de Jorge Tovar: El origen de la debacle brasile\u00f1a",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-el-origen-de-la-debacle-brasilena/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "Luis Guillermo P\u00e9rez Casas",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/luis-guillermo-perez-casas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre los extranjerismos",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/cambie-de-opinion-sobre-los-extranjerismos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "El centenario del Banco de la Rep\u00fablica",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-centenario-del-banco-de-la-republica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "La miner\u00eda y \u00c1lvaro G\u00f3mez",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/la-mineria-y-alvaro-gomez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "Razones para un acuerdo",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/razones-para-un-acuerdo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "El gran acuerdo empresarial",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/el-gran-acuerdo-empresarial/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "Manicomio Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/manicomio-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "Por qu\u00e9 no es bueno romantizar la etnicidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/por-que-no-es-bueno-romantizar-la-etnicidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "Es el modelo econ\u00f3mico",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/es-el-modelo-economico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-11-27",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201c\u00a1Nada de dogmas! Celebramos el cambio de opini\u00f3n\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-nada-de-dogmas-celebramos-el-cambio-de-opinion/"
     },
     {
         "article-type": "column",
@@ -33,115 +137,11 @@
     },
     {
         "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "Escribir con las patas",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/escribir-con-las-patas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre la transici\u00f3n energ\u00e9tica",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/cambie-de-opinion-sobre-la-transicion-energetica/"
-    },
-    {
-        "article-type": "column",
         "author": "Felipe Zuleta Lleras",
         "date": "2023-11-26",
         "publication": "el-espectador",
         "title": "Cambi\u00e9 de opini\u00f3n sobre  mis creencias",
         "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/cambie-de-opinion-sobre-mis-creencias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre la lotocracia",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/cambie-de-opinion-sobre-la-lotocracia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "Reuni\u00f3n de Petro con Uribe y los cacaos: Tola y Maruja repasan la semana",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/reunion-de-petro-con-uribe-y-los-cacaos-tola-y-maruja-repasan-la-semana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "La ca\u00edda del PIB y la inversi\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/la-caida-del-pib-y-la-inversion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre la carta de Alfonso a su hijo",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/cambie-de-opinion-sobre-la-carta-de-alfonso-a-su-hijo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n frente al papa y Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/cambie-de-opinion-frente-al-papa-y-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Laura Ardila Arrieta",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre los \u201coutsiders\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-ardila-arrieta/cambie-de-opinion-sobre-los-outsiders/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "El bailar\u00edn de Puerto Plata",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/el-bailarin-de-puerto-plata/"
-    },
-    {
-        "article-type": "column",
-        "author": "Irene Vallejo Moreu",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "El silencio y otros aullidos",
-        "url": "https://www.elespectador.com/opinion/columnistas/ivallejo/el-silencio-y-otros-aullidos/"
-    },
-    {
-        "article-type": "column",
-        "author": "David Castrill\u00f3n-Kerrigan",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n (y el mundo tambi\u00e9n) sobre EE. UU. y el apocalipsis",
-        "url": "https://www.elespectador.com/opinion/columnistas/david-castrillon-kerrigan/cambie-de-opinion-y-el-mundo-tambien-sobre-ee-uu-y-el-apocalipsis/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "Panfleto contra m\u00ed mismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/panfleto-contra-mi-mismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "Mis reversazos",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/mis-reversazos/"
     },
     {
         "article-type": "editorial",
@@ -153,66 +153,58 @@
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-11-26",
+        "author": "Juan Lozano",
+        "date": "2023-11-27",
         "publication": "el-tiempo",
-        "title": "Sigamos charlando, Presidente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-sigamos-charlando-presidente-829448"
+        "title": "Reconstruir pa\u00eds desde las regiones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-reconstruir-pais-desde-las-regiones-829612"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-11-26",
+        "author": "Luis Felipe Henao",
+        "date": "2023-11-27",
         "publication": "el-tiempo",
-        "title": "Cumbre de Petro y los cacaos: la verdad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-cumbre-de-petro-y-los-cacaos-la-verdad-829462"
+        "title": "Danilo fracas\u00f3",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-danilo-fracaso-829607"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-11-26",
+        "author": "Yolanda Reyes",
+        "date": "2023-11-27",
         "publication": "el-tiempo",
-        "title": "Cese del fuego contra las empresas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-cese-del-fuego-contra-las-empresas-829446"
+        "title": "Carta del fin de una era",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-carta-del-fin-de-una-era-829614"
     },
     {
         "article-type": "column",
-        "author": "Francisco Barbosa",
-        "date": "2023-11-26",
+        "author": "Sergio Clavijo",
+        "date": "2023-11-27",
         "publication": "el-tiempo",
-        "title": "No m\u00e1s afrentas contra la justicia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-barbosa/columna-de-francisco-barbosa-no-mas-afrentas-contra-la-justicia-829461"
+        "title": "Reajuste del salario m\u00ednimo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-reajuste-del-salario-minimo-829605"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-11-26",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-11-27",
         "publication": "el-tiempo",
-        "title": "Aportes al proyecto de ley \u2018mordaza\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-aportes-al-proyecto-de-ley-mordaza-829479"
+        "title": "La neurotecnolog\u00eda, algo sorprendente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-la-neurotecnologia-algo-sorprendente-829606"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-11-26",
+        "author": "Diego Santos",
+        "date": "2023-11-27",
         "publication": "el-tiempo",
-        "title": "Acci\u00f3n de Gracias",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-accion-de-gracias-829464"
+        "title": "\u00bfC\u00f3mo informarse sobre las tres reformas cr\u00edticas de Gustavo Petro?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-como-informarse-sobre-las-reformas-de-petro-829594"
     },
     {
         "article-type": "column",
-        "author": "Luis Carlos Villegas",
-        "date": "2023-11-26",
+        "author": "Jorge Barraza",
+        "date": "2023-11-27",
         "publication": "el-tiempo",
-        "title": "Populismo en el Esequibo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-carlos-villegas/columna-de-luis-carlos-villegas-populismo-en-el-esequibo-829480"
-    },
-    {
-        "article-type": "column",
-        "author": "Mois\u00e9s Na\u00edm",
-        "date": "2023-11-26",
-        "publication": "el-tiempo",
-        "title": "\u00bfCu\u00e1l Milei gobernar\u00e1?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-naim/columna-de-moises-naim-cual-milei-gobernara-829481"
+        "title": "Un partido contra fantasmas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-un-partido-contra-fantasmas-829613"
     }
 ]
