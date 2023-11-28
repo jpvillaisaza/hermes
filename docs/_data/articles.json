@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-27",
+        "date": "2023-11-28",
         "publication": "el-colombiano",
-        "title": "Un tiro en el pie con los peajes",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/un-tiro-en-el-pie-con-los-peajes-MJ23198433"
+        "title": "Nos rajamos en los juegos, \u00bfqu\u00e9 hacer?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/nos-rajamos-en-los-juegos-que-hacer-GD23207166"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-27",
+        "date": "2023-11-28",
         "publication": "el-espectador",
-        "title": "Contradicciones in\u00fatiles entre Gobierno y Corte Constitucional",
-        "url": "https://www.elespectador.com/opinion/editorial/contradicciones-inutiles-entre-gobierno-y-corte/"
+        "title": "El desastre antidemocr\u00e1tico en Santa Marta",
+        "url": "https://www.elespectador.com/opinion/editorial/nada-de-dogmas-celebramos-el-cambio-de-opinion-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-11-28",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre Argentina",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/cambie-de-opinion-sobre-argentina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Teresita Goyeneche",
+        "date": "2023-11-28",
+        "publication": "el-espectador",
+        "title": "Formas de hablar con Dios",
+        "url": "https://www.elespectador.com/opinion/columnistas/teresita-goyeneche/formas-de-hablar-con-dios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-11-28",
+        "publication": "el-espectador",
+        "title": "\u00a1Valle invencible!",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/valle-invencible/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2023-11-28",
+        "publication": "el-espectador",
+        "title": "Los aspectos m\u00e1s preocupantes del \u201cbullying\u201d en Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/los-aspectos-mas-preocupantes-del-bullying-en-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-11-28",
+        "publication": "el-espectador",
+        "title": "El meridiano de la resistencia ",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/el-meridiano-de-la-resistencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-11-28",
+        "publication": "el-espectador",
+        "title": "Predial, tierra y paz",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/predial-tierra-y-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Hern\u00e1ndez",
+        "date": "2023-11-28",
+        "publication": "el-espectador",
+        "title": "COP28",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/cop28/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2023-11-28",
+        "publication": "el-espectador",
+        "title": "Repensando la Paz Total",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/repensando-la-paz-total/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-11-28",
+        "publication": "el-espectador",
+        "title": "El cuento m\u00e1s triste",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-cuento-mas-triste/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitada",
+        "date": "2023-11-28",
+        "publication": "el-espectador",
+        "title": "La justicia clim\u00e1tica, prioridad en la COP 28 en Dub\u00e1i",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/la-justicia-climatica-prioridad-en-la-cop-28-en-dubai/"
     },
     {
         "article-type": "column",
@@ -26,9 +106,9 @@
     {
         "article-type": "column",
         "author": "Antonio Casale",
-        "date": "2023-11-27",
+        "date": "2023-11-28",
         "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Decisiones, suerte, DT, \u00e1rbitro ",
+        "title": "Columna de Antonio Casale: toma de decisiones, mala suerte, DT, \u00e1rbitro...",
         "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-decisiones-suerte-dt-arbitro/"
     },
     {
@@ -38,22 +118,6 @@
         "publication": "el-espectador",
         "title": "Columna de Jorge Tovar: El origen de la debacle brasile\u00f1a",
         "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-el-origen-de-la-debacle-brasilena/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2023-11-27",
-        "publication": "el-espectador",
-        "title": "Luis Guillermo P\u00e9rez Casas",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/luis-guillermo-perez-casas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-11-27",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre los extranjerismos",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/cambie-de-opinion-sobre-los-extranjerismos/"
     },
     {
         "article-type": "column",
@@ -73,138 +137,74 @@
     },
     {
         "article-type": "column",
-        "author": "Luis Carvajal Basto",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
         "date": "2023-11-27",
         "publication": "el-espectador",
-        "title": "Razones para un acuerdo",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/razones-para-un-acuerdo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-11-27",
-        "publication": "el-espectador",
-        "title": "El gran acuerdo empresarial",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/el-gran-acuerdo-empresarial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2023-11-27",
-        "publication": "el-espectador",
-        "title": "Manicomio Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/manicomio-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-11-27",
-        "publication": "el-espectador",
-        "title": "Por qu\u00e9 no es bueno romantizar la etnicidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/por-que-no-es-bueno-romantizar-la-etnicidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2023-11-27",
-        "publication": "el-espectador",
-        "title": "Es el modelo econ\u00f3mico",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/es-el-modelo-economico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-11-27",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201c\u00a1Nada de dogmas! Celebramos el cambio de opini\u00f3n\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-nada-de-dogmas-celebramos-el-cambio-de-opinion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "La vida en unas cuantas libretas",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/la-vida-en-unas-cuantas-libretas/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-122/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-11-26",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre  mis creencias",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/cambie-de-opinion-sobre-mis-creencias/"
+        "title": "Cambi\u00e9 de opini\u00f3n sobre los extranjerismos",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/cambie-de-opinion-sobre-los-extranjerismos/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-26",
+        "date": "2023-11-28",
         "publication": "el-tiempo",
-        "title": "Construir confianza",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-26-de-noviembre-de-2023-construir-confianza-829445"
+        "title": "El nuevo Registrador",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-nuevo-registrador-editorial-el-tiempo-829974"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-11-27",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-11-28",
         "publication": "el-tiempo",
-        "title": "Reconstruir pa\u00eds desde las regiones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-reconstruir-pais-desde-las-regiones-829612"
+        "title": "\u00a1Lib\u00e9renlos ya!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo-liberenlos-ya-columna-de-jose-manuel-acevedo-829937"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-11-27",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2023-11-28",
         "publication": "el-tiempo",
-        "title": "Danilo fracas\u00f3",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-danilo-fracaso-829607"
+        "title": "COP28 de cambio clim\u00e1tico",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/cop28-de-cambio-climatico-columna-de-manuel-guzman-hennessey-829931"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2023-11-27",
+        "author": "Mar\u00eda Claudia Lacouture",
+        "date": "2023-11-28",
         "publication": "el-tiempo",
-        "title": "Carta del fin de una era",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-carta-del-fin-de-una-era-829614"
+        "title": "En pol\u00edtica las mujeres avanzan, pero de manera lenta e insuficiente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-claudia-lacouture-en-politica-las-mujeres-avanzan-pero-de-manera-lenta-e-insuficiente-829949"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2023-11-27",
+        "author": "Luis Fernando P\u00e9rez",
+        "date": "2023-11-28",
         "publication": "el-tiempo",
-        "title": "Reajuste del salario m\u00ednimo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-reajuste-del-salario-minimo-829605"
+        "title": "Liderazgo para la competitividad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/liderazgo-para-la-competitividad-columna-de-luis-fernando-perez-829918"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-11-27",
+        "author": "Eduardo Escobar",
+        "date": "2023-11-28",
         "publication": "el-tiempo",
-        "title": "La neurotecnolog\u00eda, algo sorprendente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-la-neurotecnologia-algo-sorprendente-829606"
+        "title": "Reformas agrarias",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/reformas-agrarias-columna-de-eduardo-escobar-829915"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-11-27",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-11-28",
         "publication": "el-tiempo",
-        "title": "\u00bfC\u00f3mo informarse sobre las tres reformas cr\u00edticas de Gustavo Petro?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-como-informarse-sobre-las-reformas-de-petro-829594"
+        "title": "Cuarto de hora de fama",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo-cuarto-de-hora-de-fama-columna-de-oscar-dominguez-giraldo-829941"
     },
     {
         "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2023-11-27",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-11-28",
         "publication": "el-tiempo",
-        "title": "Un partido contra fantasmas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-un-partido-contra-fantasmas-829613"
+        "title": "Andr\u00e9s El\u00edas Fl\u00f3rez: 'El que escribe cuentos'",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate-andres-elias-florez-el-que-escribe-cuentos-jose-miguel-alzate-829948"
     }
 ]
