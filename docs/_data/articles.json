@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-29",
+        "date": "2023-11-30",
         "publication": "el-colombiano",
-        "title": "La paz despu\u00e9s ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-paz-despues-de-rueda-OC23217944"
+        "title": "Se abre la puerta",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/se-abre-la-puerta-HB23227374"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-29",
+        "date": "2023-11-30",
         "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 significa ser partido de gobierno?",
-        "url": "https://www.elespectador.com/opinion/editorial/que-significa-ser-partido-de-gobierno/"
+        "title": "COP28: otra cumbre clim\u00e1tica en medio del desastre",
+        "url": "https://www.elespectador.com/opinion/editorial/cop28-otra-cumbre-climatica-en-medio-del-desastre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "Un recital memorable",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/un-recital-memorable/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "42 a\u00f1os del Encuentro Feminista Latinoamericano",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/42-anos-del-encuentro-feminista-latinoamericano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "\u00a1Una librer\u00eda en Arauquita!",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/una-libreria-en-arauquita/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcelo Caruso A.",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "Argentina y la transici\u00f3n regresiva",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/argentina-y-la-transicion-regresiva/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre periodismo y activismo ",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/cambie-de-opinion-sobre-periodismo-y-activismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "Artbo 2023",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/artbo-2023/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "Ikea y los cacaos invitados por Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/ikea-y-los-cacaos-invitados-por-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "Milei, China y la sombra de \u201cKing Cobra\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/milei-china-y-la-sombra-de-king-cobra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "Am\u00e9rica de Cali un proyecto a largo plazo para la Copa Libertadores",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/america-de-cali/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "\u00bfNos entregamos al uribismo en El Espectador?",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nos-entregamos-al-uribismo-en-el-espectador-fidel-cano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "La cara de la barbarie",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/la-cara-de-la-barbarie/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-11-30",
+        "publication": "el-espectador",
+        "title": "El mito del disco LP",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-mito-del-disco-lp/"
     },
     {
         "article-type": "column",
@@ -48,163 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/cambie-de-opinion-sobre-mis-limites/"
     },
     {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-11-29",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre los di\u00e1logos con el narcotr\u00e1fico",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/cambie-de-opinion-sobre-los-dialogos-con-el-narcotrafico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-11-29",
-        "publication": "el-espectador",
-        "title": "Estadio de \u00e1nimo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/estadio-de-animo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-11-29",
-        "publication": "el-espectador",
-        "title": "La geoingenier\u00eda es necesaria",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/la-geoingenieria-es-necesaria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2023-11-29",
-        "publication": "el-espectador",
-        "title": "El Peri\u00f3dico UNAL",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/el-periodico-unal/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2023-11-29",
-        "publication": "el-espectador",
-        "title": "MacanalWood",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/macanalwood/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2023-11-29",
-        "publication": "el-espectador",
-        "title": "\u00bfCu\u00e1les son las soluciones a la desigualdad que viven los j\u00f3venes en Colombia?",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/dialogo-territorial-sobre-desigualdad-region-cafetera/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-11-28",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre Argentina",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/cambie-de-opinion-sobre-argentina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Teresita Goyeneche",
-        "date": "2023-11-28",
-        "publication": "el-espectador",
-        "title": "Formas de hablar con Dios",
-        "url": "https://www.elespectador.com/opinion/columnistas/teresita-goyeneche/formas-de-hablar-con-dios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-11-28",
-        "publication": "el-espectador",
-        "title": "\u00a1Valle invencible!",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/valle-invencible/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2023-11-28",
-        "publication": "el-espectador",
-        "title": "Los aspectos m\u00e1s preocupantes del \u201cbullying\u201d en Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/los-aspectos-mas-preocupantes-del-bullying-en-bogota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-11-28",
-        "publication": "el-espectador",
-        "title": "Predial, tierra y paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/predial-tierra-y-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2023-11-28",
-        "publication": "el-espectador",
-        "title": "El meridiano de la resistencia ",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/el-meridiano-de-la-resistencia/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-29",
+        "date": "2023-11-30",
         "publication": "el-tiempo",
-        "title": "Las masacres",
-        "url": "https://www.eltiempo.com/opinion/editorial/las-masacres-editorial-el-tiempo-830392"
+        "title": "La cita del caf\u00e9",
+        "url": "https://www.eltiempo.com/opinion/editorial/la-cita-del-cafe-editorial-el-tiempo-830922"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-11-29",
+        "author": "Pedro Medellin",
+        "date": "2023-11-30",
         "publication": "el-tiempo",
-        "title": "\u00bfPaz total sin control territorial?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/paz-total-sin-control-territorial-columna-de-alfonso-gomez-mendez-830343"
+        "title": "La Naci\u00f3n contra sus territorios",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/la-nacion-contra-sus-territorios-columna-de-pedro-medellin-830917"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-11-29",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-11-30",
         "publication": "el-tiempo",
-        "title": "Regreso a la Navidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/regreso-a-la-navidad-columna-de-vladdo-830349"
+        "title": "Napole\u00f3n de verdad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/napoleon-de-verdad-columna-de-juan-esteban-constain-830808"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2023-11-29",
+        "author": "Jineth Bedoya Lima",
+        "date": "2023-11-30",
         "publication": "el-tiempo",
-        "title": "Un reencuentro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/un-reencuentro-columna-de-florence-thomas-830307"
+        "title": "La maldita narcoherencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/la-maldita-narcoherencia-columna-de-jineth-bedoya-830841"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2023-11-29",
+        "author": "Juliana Mej\u00eda",
+        "date": "2023-11-30",
         "publication": "el-tiempo",
-        "title": "Homenaje a \u2018trois\u2019 (o a \u2018quatre\u2019)",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/homenaje-a-trois-o-a-quatre-columna-de-jotamario-arbelaez-830352"
+        "title": "El ser humano en la guerra",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/el-ser-humano-en-la-guerra-columna-de-juliana-mejia-830761"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-11-29",
+        "author": "Diana Pardo",
+        "date": "2023-11-30",
         "publication": "el-tiempo",
-        "title": "El men\u00fa para los cacaos en Cartagena",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/el-menu-para-los-cacaos-en-cartagena-columna-de-poncho-renteria-830326"
+        "title": "\u2018Radical\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/radical-columna-de-diana-pardo-830780"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Laurens - Cine al Ojo",
-        "date": "2023-11-29",
+        "author": "Bj\u00f8rn Lomborg",
+        "date": "2023-11-30",
         "publication": "el-tiempo",
-        "title": "Itinerario y trilog\u00eda criminal de un autor oscuro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/itinerario-y-trilogia-criminal-de-un-autor-oscuro-columna-de-mauricio-laurens-830361"
+        "title": "Cumbre del clima, \u00bfotra oportunidad desperdiciada?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/cumbre-del-clima-otra-oportunidad-desperdiciada-bjorn-lomborg-830845"
     },
     {
         "article-type": "column",
-        "author": "Ilan Goldfajn",
-        "date": "2023-11-29",
+        "author": "Fernando Montes Negret",
+        "date": "2023-11-30",
         "publication": "el-tiempo",
-        "title": "Am\u00e9rica Latina y el Caribe, en un momento crucial ante la COP28",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/america-latina-y-el-caribe-en-un-momento-crucial-ante-la-cop28-830366"
+        "title": "Implicaciones de mantener mayores tasas de inter\u00e9s por m\u00e1s tiempo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/implicaciones-de-mantener-mayores-tasas-de-interes-por-mas-tiempo-830851"
     }
 ]
