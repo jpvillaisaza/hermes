@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-30",
+        "date": "2023-12-01",
         "publication": "el-colombiano",
-        "title": "Se abre la puerta",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/se-abre-la-puerta-HB23227374"
+        "title": "A cerrar la ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/a-cerrar-la-brecha-digital-AG23252534"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-30",
+        "date": "2023-12-01",
         "publication": "el-espectador",
-        "title": "COP28: otra cumbre clim\u00e1tica en medio del desastre",
-        "url": "https://www.elespectador.com/opinion/editorial/cop28-otra-cumbre-climatica-en-medio-del-desastre/"
+        "title": "No es hora de decidir lo que no se hizo en cuatro a\u00f1os ",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/no-es-hora-de-decidir-lo-que-no-se-hizo-en-cuatro-anos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2023-12-01",
+        "publication": "el-espectador",
+        "title": "Un minero en El Tablazo",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/un-minero-en-el-tablazo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2023-12-01",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre el \u201cempoderamiento\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/cambie-de-opinion-sobre-el-empoderamiento/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-12-01",
+        "publication": "el-espectador",
+        "title": "Por ah\u00ed es la cosa, presidente",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/por-ahi-es-la-cosa-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2023-12-01",
+        "publication": "el-espectador",
+        "title": "Dejaron por fuera a Cali",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/dejaron-por-fuera-a-cali/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-12-01",
+        "publication": "el-espectador",
+        "title": "El precio de la peque\u00f1ez",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/el-precio-de-la-pequenez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-12-01",
+        "publication": "el-espectador",
+        "title": "No superaremos el cambio clim\u00e1tico sin Am\u00e9rica Latina y el Caribe ",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/no-superaremos-el-cambio-climatico-sin-america-latina-y-el-caribe/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-12-01",
+        "publication": "el-espectador",
+        "title": "Indignaci\u00f3n por reapertura de mataderos en el Gobierno Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/indignacion-por-reapertura-de-mataderos-en-el-gobierno-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-12-01",
+        "publication": "el-espectador",
+        "title": "Los carreteros y su mundo al ruedo",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/los-carreteros-y-su-mundo-al-ruedo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-12-01",
+        "publication": "el-espectador",
+        "title": "Navidad con manos emprendedoras",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/navidad-con-manos-emprendedoras/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2023-12-01",
+        "publication": "el-espectador",
+        "title": "\u00bfEs verdad que nos vamos a quedar sin medicamentos? \u00bfCulpa de qui\u00e9n? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-es-verdad-que-nos-vamos-a-quedar-sin-medicamentos-culpa-de-quien/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/artbo-2023/"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-11-30",
-        "publication": "el-espectador",
-        "title": "Ikea y los cacaos invitados por Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/ikea-y-los-cacaos-invitados-por-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-11-30",
-        "publication": "el-espectador",
-        "title": "Milei, China y la sombra de \u201cKing Cobra\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/milei-china-y-la-sombra-de-king-cobra/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-11-30",
-        "publication": "el-espectador",
-        "title": "Am\u00e9rica de Cali un proyecto a largo plazo para la Copa Libertadores",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/america-de-cali/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-11-30",
-        "publication": "el-espectador",
-        "title": "\u00bfNos entregamos al uribismo en El Espectador?",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nos-entregamos-al-uribismo-en-el-espectador-fidel-cano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2023-11-30",
-        "publication": "el-espectador",
-        "title": "La cara de la barbarie",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/la-cara-de-la-barbarie/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-11-30",
-        "publication": "el-espectador",
-        "title": "El mito del disco LP",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-mito-del-disco-lp/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-11-29",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n y me vest\u00ed de luto",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/cambie-de-opinion-y-me-vesti-de-luto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-11-29",
-        "publication": "el-espectador",
-        "title": "El llanto de \u201cTimochenko\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/el-llanto-de-timochenko/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2023-11-29",
-        "publication": "el-espectador",
-        "title": "Alerta: un aluvi\u00f3n de invenciones arrasa con un escritor",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/alerta-un-aluvion-de-invenciones-arrasa-con-un-escritor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2023-11-29",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre mis l\u00edmites",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/cambie-de-opinion-sobre-mis-limites/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-11-30",
+        "date": "2023-12-01",
         "publication": "el-tiempo",
-        "title": "La cita del caf\u00e9",
-        "url": "https://www.eltiempo.com/opinion/editorial/la-cita-del-cafe-editorial-el-tiempo-830922"
+        "title": "Ciencia y rigor",
+        "url": "https://www.eltiempo.com/opinion/editorial/ciencia-y-rigor-editorial-el-tiempo-831345"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-11-30",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-12-01",
         "publication": "el-tiempo",
-        "title": "La Naci\u00f3n contra sus territorios",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/la-nacion-contra-sus-territorios-columna-de-pedro-medellin-830917"
+        "title": "Identidades: atr\u00e1s como cangrejo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/identidades-atras-como-cangrejo-columna-de-moises-wasserman-831250"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-11-30",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-12-01",
         "publication": "el-tiempo",
-        "title": "Napole\u00f3n de verdad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/napoleon-de-verdad-columna-de-juan-esteban-constain-830808"
+        "title": "Cerco",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/cerco-ricardo-silva-romero-831286"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2023-11-30",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2023-12-01",
         "publication": "el-tiempo",
-        "title": "La maldita narcoherencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/la-maldita-narcoherencia-columna-de-jineth-bedoya-830841"
+        "title": "Educaci\u00f3n gratuita para todos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/educacion-gratuita-para-todos-columna-de-fernando-sanchez-torres-831272"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2023-11-30",
+        "author": "Mar\u00eda Eugenia Rinaudo",
+        "date": "2023-12-01",
         "publication": "el-tiempo",
-        "title": "El ser humano en la guerra",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/el-ser-humano-en-la-guerra-columna-de-juliana-mejia-830761"
+        "title": "Decisiones clim\u00e1ticamente inteligentes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/decisiones-climaticamente-inteligentes-columna-de-maria-eugenia-rinaudo-831324"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2023-11-30",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-12-01",
         "publication": "el-tiempo",
-        "title": "\u2018Radical\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/radical-columna-de-diana-pardo-830780"
+        "title": "\u2018Bellismo universal\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo-columna-de-eduardo-posada-carbo-831266"
     },
     {
         "article-type": "column",
-        "author": "Bj\u00f8rn Lomborg",
-        "date": "2023-11-30",
+        "author": "Women in Connection",
+        "date": "2023-12-01",
         "publication": "el-tiempo",
-        "title": "Cumbre del clima, \u00bfotra oportunidad desperdiciada?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/cumbre-del-clima-otra-oportunidad-desperdiciada-bjorn-lomborg-830845"
+        "title": "\u00a1Qu\u00e9 ladrillo!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/que-ladrillo-columna-de-maria-bibiana-botero-831328"
     },
     {
         "article-type": "column",
-        "author": "Fernando Montes Negret",
-        "date": "2023-11-30",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2023-12-01",
         "publication": "el-tiempo",
-        "title": "Implicaciones de mantener mayores tasas de inter\u00e9s por m\u00e1s tiempo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/implicaciones-de-mantener-mayores-tasas-de-interes-por-mas-tiempo-830851"
+        "title": "Un sult\u00e1n avispado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/un-sultan-avispado-columna-de-manuel-guzman-hennessey-831312"
     }
 ]
