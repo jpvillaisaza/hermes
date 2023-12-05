@@ -2,34 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-04",
+        "date": "2023-12-05",
         "publication": "el-colombiano",
-        "title": "El experimento Petro",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/el-experimento-petro-GF23263577"
+        "title": "Algo huele mal",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/algo-huele-mal-AE23275225"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-04",
+        "date": "2023-12-05",
         "publication": "el-espectador",
-        "title": "La Corte Constitucional apoya la paz total con estructura",
-        "url": "https://www.elespectador.com/opinion/editorial/la-corte-constitucional-apoya-la-paz-total-con-estructura/"
+        "title": "Arbitrariedad tras la renuncia intempestiva de Martha Luc\u00eda Zamora",
+        "url": "https://www.elespectador.com/opinion/editorial/arbitrariedad-tras-la-renuncia-intempestiva-de-martha-lucia-zamora/"
     },
     {
         "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2023-12-04",
+        "author": "Cristina de la Torre",
+        "date": "2023-12-05",
         "publication": "el-espectador",
-        "title": "Cuando la pol\u00edtica fracasa",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/cuando-la-politica-fracasa/"
+        "title": "Cambi\u00e9 de opini\u00f3n sobre el clientelismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/cambie-de-opinion-sobre-el-clientelismo/"
     },
     {
         "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-12-04",
+        "author": "Fernando Galindo G.",
+        "date": "2023-12-05",
         "publication": "el-espectador",
-        "title": "Colombia, pa\u00eds no cafetero",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/colombia-pais-no-cafetero/"
+        "title": "\u00bfLos opositores a la reforma a la salud perciben el concepto de \u201cbien com\u00fan\u201d?",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/los-opositores-a-la-reforma-a-la-salud-perciben-el-concepto-de-bien-comun/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2023-12-05",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre la ley de paz total",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/cambie-de-opinion-sobre-la-ley-de-paz-total/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-12-05",
+        "publication": "el-espectador",
+        "title": "El ruso alcalde de Tunja",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-ruso-alcalde-de-tunja/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-12-05",
+        "publication": "el-espectador",
+        "title": "Mucho til\u00edn y nada de campanas",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/mucho-tilin-y-nada-de-campanas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2023-12-05",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre un cambio",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/cambie-de-opinion-sobre-un-cambio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Barbosa",
+        "date": "2023-12-05",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre la opini\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/cambie-de-opinion-sobre-la-opinion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-12-05",
+        "publication": "el-espectador",
+        "title": "La terquedad de la guerra",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/la-terquedad-de-la-guerra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-12-05",
+        "publication": "el-espectador",
+        "title": "Un mal que dur\u00f3 cien a\u00f1os",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/un-mal-que-duro-cien-anos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-12-05",
+        "publication": "el-espectador",
+        "title": "F\u00fatbol colombiano, hay que cambiar: columna de Antonio Casale",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/el-futbol-colombiano-tiene-que-cambiar-columna-de-antonio-casale/"
     },
     {
         "article-type": "column",
@@ -41,11 +105,27 @@
     },
     {
         "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-12-04",
+        "publication": "el-espectador",
+        "title": "Colombia, pa\u00eds no cafetero",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/colombia-pais-no-cafetero/"
+    },
+    {
+        "article-type": "column",
         "author": "Mar\u00eda Teresa Ronderos",
         "date": "2023-12-04",
         "publication": "el-espectador",
         "title": "Cambi\u00e9 de opini\u00f3n sobre el mal, la educaci\u00f3n y la calidad de los l\u00edderes",
         "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/cambie-de-opinion-sobre-el-mal-la-educacion-y-la-calidad-de-los-lideres/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2023-12-04",
+        "publication": "el-espectador",
+        "title": "Cuando la pol\u00edtica fracasa",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/cuando-la-politica-fracasa/"
     },
     {
         "article-type": "column",
@@ -64,155 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/el-modelo-imperante-no-resuelve-la-crisis/"
     },
     {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-12-04",
-        "publication": "el-espectador",
-        "title": "Diciembre, con su alegr\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/diciembre-con-su-alegria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2023-12-04",
-        "publication": "el-espectador",
-        "title": "M\u00ednimo sin demagogia",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/minimo-sin-demagogia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-12-04",
-        "publication": "el-espectador",
-        "title": "Nuevo Fondo Educativo en Quibd\u00f3",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/nuevo-fondo-educativo-en-quibdo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-12-04",
-        "publication": "el-espectador",
-        "title": "Un food hub para el Atl\u00e1ntico",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/un-food-hub-para-el-atlantico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-12-04",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cLa reforma a la salud necesita una amplia revisi\u00f3n\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-la-reforma-a-la-salud-necesita-una-amplia-revision/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-12-03",
-        "publication": "el-espectador",
-        "title": "Cu\u00eddate de los amables",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/cuidate-de-los-amables/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-12-03",
-        "publication": "el-espectador",
-        "title": "No creyente, practicante",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/no-creyente-practicante/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-12-03",
-        "publication": "el-espectador",
-        "title": "De alquilar balc\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/de-alquilar-balcon/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-12-03",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja sobre el ministro y las vacunas",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-sobre-el-ministro-y-las-vacunas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando G\u00f3mez Buend\u00eda",
-        "date": "2023-12-03",
-        "publication": "el-espectador",
-        "title": "Para entender lo que pasa",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/para-entender-lo-que-pasa/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-04",
+        "date": "2023-12-05",
         "publication": "el-tiempo",
-        "title": "La miner\u00eda ilegal",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-4-de-diciembre-de-2023-la-mineria-ilegal-832042"
+        "title": "Renuncia y dudas",
+        "url": "https://www.eltiempo.com/opinion/editorial/renuncia-y-dudas-editorial-el-tiempo-832435"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-12-04",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-12-05",
         "publication": "el-tiempo",
-        "title": "El valor de los gremios",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-el-valor-de-los-gremios-832065"
+        "title": "Carolina, la Bichota",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/carolina-la-bichota-columna-de-jose-manuel-acevedo-832389"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-12-04",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2023-12-05",
         "publication": "el-tiempo",
-        "title": "La Corte Constitucional y la \u2018paz total\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-la-corte-constitucional-y-la-paz-total-832055"
+        "title": "No es tan f\u00e1cil",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/no-es-tan-facil-columna-de-marcela-melendez-832383"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2023-12-04",
+        "author": "Francisco Cajiao",
+        "date": "2023-12-05",
         "publication": "el-tiempo",
-        "title": "Mi villano favorito",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-mi-villano-favorito-832056"
+        "title": "Educar en tiempos dif\u00edciles",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/educar-en-tiempos-dificiles-columna-de-francisco-cajiao-832363"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-12-04",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2023-12-05",
         "publication": "el-tiempo",
-        "title": "Hay que enamorarse de Petro para saber c\u00f3mo derrotarlo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-enamorarse-de-petro-para-derrotarlo-832040"
+        "title": "Dos visiones del mundo enfrentadas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/dos-visiones-del-mundo-enfrentadas-columna-de-sergio-munoz-bata-832349"
     },
     {
         "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-12-04",
+        "author": "Fernando Quiroz",
+        "date": "2023-12-05",
         "publication": "el-tiempo",
-        "title": "Todas esas que soy",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-todas-esas-que-soy-832066"
+        "title": "El capo innombrable",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/el-capo-innombrable-columna-de-fernando-quiroz-832394"
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2023-12-04",
+        "author": "Otros columnistas",
+        "date": "2023-12-05",
         "publication": "el-tiempo",
-        "title": "Un mundo en obra negra",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/columna-de-oscar-dominguez-un-mundo-en-obra-negra-832061"
+        "title": "\u00bfY el Senado s\u00ed estar\u00e1 a la altura?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/y-el-senado-si-estara-a-la-altura-columna-de-juan-camilo-rosas-832412"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2023-12-04",
+        "author": "Gregory Lobo",
+        "date": "2023-12-05",
         "publication": "el-tiempo",
-        "title": "Poes\u00eda carcelaria",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-poesia-carcelaria-832062"
-    },
-    {
-        "article-type": "column",
-        "author": "Alberto Parra",
-        "date": "2023-12-04",
-        "publication": "el-tiempo",
-        "title": "Educaci\u00f3n: reformar e innovar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alberto-parra/columna-de-alberto-parra-educacion-reformar-e-innovar-832064"
+        "title": "La Navidad sirve para recibir",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/la-navidad-sirve-para-recibir-columna-de-gregory-lobo-832415"
     }
 ]
