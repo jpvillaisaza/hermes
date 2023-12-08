@@ -2,26 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-07",
+        "date": "2023-12-08",
         "publication": "el-colombiano",
-        "title": "\u00bfNo les da pena?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/no-les-da-pena-PK23292508"
+        "title": "Entre Dubai y Choc\u00f3",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/entre-dubai-y-choco-PC23301842"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-07",
+        "date": "2023-12-08",
         "publication": "el-espectador",
-        "title": "Nicol\u00e1s Maduro decide anexarse el Esequibo",
-        "url": "https://www.elespectador.com/opinion/editorial/nicolas-maduro-decide-anexarse-el-esequibo/"
+        "title": "Negando la pandemia quien menos deber\u00eda",
+        "url": "https://www.elespectador.com/opinion/editorial/negando-la-pandemia-quien-menos-deberia/"
     },
     {
         "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
+        "author": "Mario Fernando Prado",
+        "date": "2023-12-08",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre c\u00f3mo comunicarme",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/cambie-de-opinion-sobre-como-comunicarme/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Diego Soler",
+        "date": "2023-12-08",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre Manuel Elkin Patarroyo",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-diego-soler/cambie-de-opinion-sobre-manuel-elkin-patarroyo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2023-12-08",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre el asesinato de l\u00edderes sociales",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/cambie-de-opinion-sobre-el-asesinato-de-lideres-sociales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-12-08",
+        "publication": "el-espectador",
+        "title": "Le lleg\u00f3 la hora de acudir a Maduro, presidente",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/le-llego-la-hora-de-acudir-a-maduro-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2023-12-08",
+        "publication": "el-espectador",
+        "title": "Gracias, Museo del Prado",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/gracias-museo-del-prado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tom\u00e1s Molina",
+        "date": "2023-12-08",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre Hegel",
+        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/cambie-de-opinion-sobre-hegel/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-12-08",
+        "publication": "el-espectador",
+        "title": "Salud, 2023",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/salud-2023/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2023-12-08",
+        "publication": "el-espectador",
+        "title": "Sol, solecito, \u00a1cali\u00e9ntame un poquito!",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/sol-solecito-calientame-un-poquito/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2023-12-08",
+        "publication": "el-espectador",
+        "title": "Aprendizajes necesarios para la democracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/aprendizajes-necesarios-para-la-democracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Carrizosa Calle",
         "date": "2023-12-07",
         "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre el aborto",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/cambie-de-opinion-sobre-el-aborto/"
+        "title": "Repensar la forma de decir las cosas",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/repensar-la-forma-de-decir-las-cosas/"
     },
     {
         "article-type": "column",
@@ -41,19 +113,11 @@
     },
     {
         "article-type": "column",
-        "author": "Cristina Carrizosa Calle",
+        "author": "Catalina Ruiz-Navarro",
         "date": "2023-12-07",
         "publication": "el-espectador",
-        "title": "Repensar la forma de decir las cosas",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/repensar-la-forma-de-decir-las-cosas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2023-12-07",
-        "publication": "el-espectador",
-        "title": "\u00bfLo personal es pol\u00edtico? Cambi\u00e9 de opini\u00f3n ",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/lo-personal-es-politico-cambie-de-opinion/"
+        "title": "Cambi\u00e9 de opini\u00f3n sobre el aborto",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/cambie-de-opinion-sobre-el-aborto/"
     },
     {
         "article-type": "column",
@@ -65,6 +129,14 @@
     },
     {
         "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2023-12-07",
+        "publication": "el-espectador",
+        "title": "\u00bfLo personal es pol\u00edtico? Cambi\u00e9 de opini\u00f3n ",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/lo-personal-es-politico-cambie-de-opinion/"
+    },
+    {
+        "article-type": "column",
         "author": "Mauricio Rubio",
         "date": "2023-12-07",
         "publication": "el-espectador",
@@ -72,139 +144,83 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/la-infancia-de-la-correccion-politica/"
     },
     {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-12-07",
-        "publication": "el-espectador",
-        "title": "Claudine Gay, la primera presidenta negra de Harvard",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/claudine-gay-la-primera-presidenta-negra-de-harvard/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-12-07",
-        "publication": "el-espectador",
-        "title": "Nos enfocamos en las v\u00edctimas y mandamos el tr\u00e1fico a descansar: Fidel Cano",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nos-enfocamos-en-las-victimas-y-mandamos-el-trafico-a-descansar-fidel-cano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-12-06",
-        "publication": "el-espectador",
-        "title": "El asesino de la serie",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-asesino-de-la-serie/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-12-06",
-        "publication": "el-espectador",
-        "title": "Cuesti\u00f3n de talante",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/cuestion-de-talante/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2023-12-06",
-        "publication": "el-espectador",
-        "title": "Fuera Petro, fuera Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/fuera-petro-fuera-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2023-12-06",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre las posibilidades de X\u00f3chitl G\u00e1lvez",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/cambie-de-opinion-sobre-un-cambio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-12-06",
-        "publication": "el-espectador",
-        "title": "La sociedad persecutoria",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/la-sociedad-persecutoria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2023-12-06",
-        "publication": "el-espectador",
-        "title": "Serenidad y sabidur\u00eda, presidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/serenidad-y-sabiduria-presidente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Erin Quesada Tovar",
-        "date": "2023-12-06",
-        "publication": "el-espectador",
-        "title": "Hay que darle una oportunidad a las Zonas de Reserva Campesina",
-        "url": "https://www.elespectador.com/colombia-20/analistas/hay-que-darle-una-oportunidad-a-las-zonas-de-reserva-campesina-columna-dejusticia/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-07",
+        "date": "2023-12-08",
         "publication": "el-tiempo",
-        "title": "Estancados en educaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/editorial/estancados-en-educacion-editorial-el-tiempo-833290"
+        "title": "Otra salida en falso",
+        "url": "https://www.eltiempo.com/opinion/editorial/otra-salida-en-falso-editorial-el-tiempo-833692"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2023-12-07",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2023-12-08",
         "publication": "el-tiempo",
-        "title": "La otra Di\u00e1n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/la-otra-dian-columna-de-pedro-medellin-833266"
+        "title": "Dilemas de la libre expresi\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/dilemas-de-la-libre-expresion-columna-de-moises-wasserman-833592"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2023-12-07",
+        "author": "Ricardo Silva Romero",
+        "date": "2023-12-08",
         "publication": "el-tiempo",
-        "title": "\u00bfEl Estado soy yo?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/el-estado-soy-yo-columna-de-juan-esteban-constain-833255"
+        "title": "Inercia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/inercia-columna-de-ricardo-silva-romero-833616"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2023-12-07",
+        "author": "Claudia Hakim",
+        "date": "2023-12-08",
         "publication": "el-tiempo",
-        "title": "Ayayayayay",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/ayayayayay-columna-de-claudia-palacios-833244"
+        "title": "El ADN de las instituciones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/el-adn-de-las-instituciones-columna-de-claudia-hakim-833603"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2023-12-07",
+        "author": "Alfredo Rangel",
+        "date": "2023-12-08",
         "publication": "el-tiempo",
-        "title": "La otra Guatemala vuelve por la democracia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/la-otra-guatemala-vuelve-por-la-democracia-columna-de-sergio-ramirez-833253"
+        "title": "La triada oscura",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/la-triada-oscura-columna-de-alfredo-rangel-833679"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Manuel Ruiz",
-        "date": "2023-12-07",
+        "author": "Juan Carlos Esguerra",
+        "date": "2023-12-08",
         "publication": "el-tiempo",
-        "title": "\u00bfCanciller sacrosanto?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/canciller-sacrosanto-columna-de-victor-manuel-ruiz-833240"
+        "title": "\u00bfY la rectitud?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-carlos-esguerra/y-la-rectitud-columna-de-juan-carlos-esguerra-833682"
     },
     {
         "article-type": "column",
-        "author": "Mariana Jaramillo Thomas",
-        "date": "2023-12-07",
+        "author": "Froil\u00e1n Casas",
+        "date": "2023-12-08",
         "publication": "el-tiempo",
-        "title": "Un llamado a la acci\u00f3n para la equidad de g\u00e9nero en el mundo laboral",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/un-llamado-a-la-accion-para-la-equidad-de-genero-en-el-mundo-laboral-833269"
+        "title": "Culto a la personalidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/froilan-casas/culto-a-la-personalidad-columna-de-froilan-casas-833623"
     },
     {
         "article-type": "column",
-        "author": "Fabio Mart\u00ednez",
-        "date": "2023-12-07",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2023-12-08",
         "publication": "el-tiempo",
-        "title": "El legado musical de Jairo Varela",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/el-legado-musical-de-jairo-varela-columna-de-fabio-martinez-833273"
+        "title": "Vanguardia intelectual",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/vanguardia-intelectual-columna-de-eduardo-posada-carbo-833608"
+    },
+    {
+        "article-type": "column",
+        "author": "Martha Senn",
+        "date": "2023-12-08",
+        "publication": "el-tiempo",
+        "title": "50 a\u00f1os de labor editorial ininterrumpida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/50-anos-de-labor-editorial-ininterrumpida-columna-de-martha-senn-833618"
+    },
+    {
+        "article-type": "column",
+        "author": "Salvo Basile",
+        "date": "2023-12-08",
+        "publication": "el-tiempo",
+        "title": "Una familia de 300",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/una-familia-de-300-columna-de-salvo-basile-833613"
     }
 ]
