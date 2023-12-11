@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-10",
+        "date": "2023-12-11",
         "publication": "el-colombiano",
-        "title": "El s\u00edmbolo de la decadencia",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-simbolo-de-la-decadencia-DC23307631"
+        "title": "El taco a\u00e9reo",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-taco-aereo-OD23310079"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-10",
+        "date": "2023-12-11",
         "publication": "el-espectador",
-        "title": "No conviene una interinidad en la Fiscal\u00eda que prolongue la bravuconer\u00eda ",
-        "url": "https://www.elespectador.com/opinion/editorial/no-conviene-una-interinidad-en-la-fiscalia-que-prolongue-la-bravuconeria/"
+        "title": "Guatemala: cr\u00f3nica de un golpe de Estado anunciado",
+        "url": "https://www.elespectador.com/opinion/editorial/guatemala-cronica-de-un-golpe-de-estado-anunciado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2023-12-11",
+        "publication": "el-espectador",
+        "title": "Se incumple la regla fiscal",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/se-incumple-la-regla-fiscal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-12-11",
+        "publication": "el-espectador",
+        "title": "El Gobierno ejecuta poco",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-gobierno-ejecuta-poco/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2023-12-11",
+        "publication": "el-espectador",
+        "title": "FARC-EP: \u00bfun \u201cd\u00e9j\u00e0 vu\u201d? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/farc-ep-un-deja-vu/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2023-12-11",
+        "publication": "el-espectador",
+        "title": "Alguien se ha quedado solo",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/alguien-se-ha-quedado-solo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2023-12-11",
+        "publication": "el-espectador",
+        "title": "Sexo y g\u00e9nero en el diccionario (1.\u00aa parte)",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/sexo-y-genero-en-el-diccionario-1-parte/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marc Hofstetter",
+        "date": "2023-12-11",
+        "publication": "el-espectador",
+        "title": "Las OBC",
+        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/las-obc/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2023-12-11",
+        "publication": "el-espectador",
+        "title": "Autoritarismo y cortinas de humo",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/autoritarismo-y-cortinas-de-humo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2023-12-11",
+        "publication": "el-espectador",
+        "title": "\u00bfSer tratados como iguales o como diferentes?",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/ser-tratados-como-iguales-o-como-diferentes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2023-12-11",
+        "publication": "el-espectador",
+        "title": "Esequibo, una apuesta a p\u00e9rdida",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/esequibo-una-apuesta-a-perdida/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2023-12-11",
+        "publication": "el-espectador",
+        "title": "Corte de cuentas",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/corte-de-cuentas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Ara\u00fajo V\u00e9lez",
+        "date": "2023-12-11",
+        "publication": "el-espectador",
+        "title": "La estupidez es invencible",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/la-estupidez-es-invencible/"
     },
     {
         "article-type": "column",
@@ -56,163 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/nodos-de-desarrollo-y-cadenas-de-valor/"
     },
     {
-        "article-type": "column",
-        "author": "Irene Vallejo Moreu",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "Una chica soltera y cabezota",
-        "url": "https://www.elespectador.com/opinion/columnistas/ivallejo/una-chica-soltera-y-cabezota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "Purga oficial",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/purga-oficial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "Esto no puede seguir as\u00ed",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/esto-no-puede-seguir-asi/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "El gas del vecino no huele",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/el-gas-del-vecino-no-huele/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "Reforma a la justicia I",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/reforma-a-la-justicia-i/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "C\u00f3mo detener la mayor amenaza para la transici\u00f3n ecol\u00f3gica de Europa",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/como-detener-la-mayor-amenaza-para-la-transicion-ecologica-de-europa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja rememoran una Navidad en familia multiespecie",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-rememoran-una-navidad-en-familia-multiespecie/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "\u201cCuando las barbas de tu vecino veas cortar\u2026\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/cuando-las-barbas-de-tu-vecino-veas-cortar/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-124/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Rinc\u00f3n Escalante",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "\u00bfEn verdad funcionan los antidepresivos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-rincon-escalante/en-verdad-funcionan-los-antidepresivos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Bada",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "Guti\u00e9rrez Girardot",
-        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/gutierrez-girardot/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-10",
+        "date": "2023-12-11",
         "publication": "el-tiempo",
-        "title": "Equilibrio necesario",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-10-de-diciembre-de-2023-equilibrio-necesario-834007"
+        "title": "El SOS de los bananeros",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-11-de-diciembre-de-2023-el-sos-de-los-bananeros-834178"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-12-10",
+        "author": "Juan Lozano",
+        "date": "2023-12-11",
         "publication": "el-tiempo",
-        "title": "El vaticinio se cumpli\u00f3",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-el-vaticinio-se-cumplio-834025"
+        "title": "J\u00edbaros felices, padres angustiados",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-jibaros-felices-padres-angustiados-834189"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-12-10",
+        "author": "Luis Felipe Henao",
+        "date": "2023-12-11",
         "publication": "el-tiempo",
-        "title": "El salvavidas de la Corte Constitucional",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-el-salvavidas-de-la-corte-constitucional-834026"
+        "title": "Magistrada, algo huele mal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-magistrada-algo-huele-mal-834188"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-12-10",
+        "author": "Mar\u00eda Jos\u00e9 Pizarro",
+        "date": "2023-12-11",
         "publication": "el-tiempo",
-        "title": "La mala hora de la Fuerza P\u00fablica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-la-mala-hora-de-la-fuerza-publica-834037"
+        "title": "Una nueva oportunidad para regular",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-maria-jose-pizarro-una-nueva-oportunidad-para-regular-834192"
     },
     {
         "article-type": "column",
-        "author": "Margarita Cabello Blanco",
-        "date": "2023-12-10",
+        "author": "Diego Santos",
+        "date": "2023-12-11",
         "publication": "el-tiempo",
-        "title": "\u2018Una crisis humanitaria en la sombra\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/margarita-cabello-blanco/columna-de-margarita-cabello-una-crisis-humanitaria-en-la-sombra-834036"
+        "title": "Ahora s\u00ed nos llev\u00f3 el pu**s",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-ahora-si-nos-llevo-el-pu-834177"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-12-10",
+        "author": "Yolanda Reyes",
+        "date": "2023-12-11",
         "publication": "el-tiempo",
-        "title": "D\u00e9spotas y maltratadores",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-despotas-y-maltratadores-834008"
+        "title": "Los mejores (y los peores) de la clase",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-los-mejores-y-los-peores-de-la-clase-834193"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-12-10",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-12-11",
         "publication": "el-tiempo",
-        "title": "Un conferencista costoso",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-un-conferencista-costoso-834029"
+        "title": "De parteras y boleros",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/columna-de-oscar-dominguez-de-parteras-y-boleros-834187"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2023-12-10",
+        "author": "Jorge Barraza",
+        "date": "2023-12-11",
         "publication": "el-tiempo",
-        "title": "Infraestructura y alianzas p\u00fablico-privadas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-infraestructura-y-alianzas-publico-privadas-834038"
-    },
-    {
-        "article-type": "column",
-        "author": "Mois\u00e9s Na\u00edm",
-        "date": "2023-12-10",
-        "publication": "el-tiempo",
-        "title": "Xi se enred\u00f3",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-naim/columna-de-moises-naim-xi-se-enredo-834039"
+        "title": "El 95 % elige el f\u00fatbol ingl\u00e9s",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-el-95-por-ciento-elige-el-futbol-ingles-834195"
     }
 ]
