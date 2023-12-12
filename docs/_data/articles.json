@@ -2,18 +2,122 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-11",
+        "date": "2023-12-12",
         "publication": "el-colombiano",
-        "title": "El taco a\u00e9reo",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-taco-aereo-OD23310079"
+        "title": "La posesi\u00f3n de Milei",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-posesion-de-milei-BD23317413"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-11",
+        "date": "2023-12-12",
         "publication": "el-espectador",
-        "title": "Guatemala: cr\u00f3nica de un golpe de Estado anunciado",
-        "url": "https://www.elespectador.com/opinion/editorial/guatemala-cronica-de-un-golpe-de-estado-anunciado/"
+        "title": "El microtr\u00e1fico no se legaliz\u00f3 ni se estaba acabando",
+        "url": "https://www.elespectador.com/opinion/editorial/el-microtrafico-no-se-legalizo-ni-se-estaba-acabando/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "Amigos y carcajadas",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/amigos-y-carcajadas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Hern\u00e1ndez",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "El ajuste de las cuentas externas",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/el-ajuste-de-las-cuentas-externas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "ELN: \u00bfquiere la paz o su dictadura armada?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/eln-quiere-la-paz-o-su-dictadura-armada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "La paz como cultura",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/la-paz-como-cultura/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "El m\u00e9dico ministro de Hacienda",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-medico-ministro-de-hacienda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Rivas",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "Los alegres guerreros",
+        "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/los-alegres-guerreros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "Carta al presidente Gustavo Petro sobre educaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/carta-al-presidente-gustavo-petro-sobre-educacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. William Pearl",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "Argentina",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/argentina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "Palestina, luto en los olivos",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/palestina-luto-en-los-olivos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "Caldas: Un para\u00edso con desigualdades escondidas",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/caldas-un-paraiso-con-desigualdades-escondidas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fabiola Calvo",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "No a las violencias contra las mujeres",
+        "url": "https://www.elespectador.com/colombia-20/analistas/no-a-la-violencia-contra-las-mujeres-columna-de-fabiola-calvo/"
+    },
+    {
+        "article-type": "column",
+        "author": "*Diego Arias-Especial para EL ESPECTADOR",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "La paz en su laberinto\u2026",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-paz-en-su-laberinto-columna-de-diego-arias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-12-12",
+        "publication": "el-espectador",
+        "title": "Ataques a los bienes culturales",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/ataques-a-los-bienes-culturales/"
     },
     {
         "article-type": "column",
@@ -40,171 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/farc-ep-un-deja-vu/"
     },
     {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2023-12-11",
-        "publication": "el-espectador",
-        "title": "Alguien se ha quedado solo",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/alguien-se-ha-quedado-solo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2023-12-11",
-        "publication": "el-espectador",
-        "title": "Sexo y g\u00e9nero en el diccionario (1.\u00aa parte)",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/sexo-y-genero-en-el-diccionario-1-parte/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2023-12-11",
-        "publication": "el-espectador",
-        "title": "Las OBC",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/las-obc/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2023-12-11",
-        "publication": "el-espectador",
-        "title": "Autoritarismo y cortinas de humo",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/autoritarismo-y-cortinas-de-humo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2023-12-11",
-        "publication": "el-espectador",
-        "title": "\u00bfSer tratados como iguales o como diferentes?",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/ser-tratados-como-iguales-o-como-diferentes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2023-12-11",
-        "publication": "el-espectador",
-        "title": "Esequibo, una apuesta a p\u00e9rdida",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/esequibo-una-apuesta-a-perdida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2023-12-11",
-        "publication": "el-espectador",
-        "title": "Corte de cuentas",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/corte-de-cuentas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-12-11",
-        "publication": "el-espectador",
-        "title": "La estupidez es invencible",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/la-estupidez-es-invencible/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitada",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre entrevistar victimarios",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/cambie-de-opinion-sobre-entrevistar-victimarios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "El Putin Bolivariano",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/el-putin-bolivariano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "El pat\u00e1n y la dama",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/el-patan-y-la-dama/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "Que avance el debate sobre cannabis en el Congreso",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/que-avance-el-debate-sobre-cannabis-en-el-congreso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2023-12-10",
-        "publication": "el-espectador",
-        "title": "Nodos de desarrollo y cadenas de valor",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/nodos-de-desarrollo-y-cadenas-de-valor/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-11",
+        "date": "2023-12-12",
         "publication": "el-tiempo",
-        "title": "El SOS de los bananeros",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-11-de-diciembre-de-2023-el-sos-de-los-bananeros-834178"
+        "title": "Sustancias prohibidas",
+        "url": "https://www.eltiempo.com/opinion/editorial/sustancias-prohibidas-editorial-el-tiempo-834555"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-12-11",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-12-12",
         "publication": "el-tiempo",
-        "title": "J\u00edbaros felices, padres angustiados",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-jibaros-felices-padres-angustiados-834189"
+        "title": "Y, sin embargo, \u00a1hay Estado!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/y-sin-embargo-hay-estado-columna-de-jose-manuel-acevedo-834483"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-12-11",
+        "author": "Mar\u00eda A. Garc\u00eda de la Torre",
+        "date": "2023-12-12",
         "publication": "el-tiempo",
-        "title": "Magistrada, algo huele mal",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-magistrada-algo-huele-mal-834188"
+        "title": "Una golondrina s\u00ed hace verano",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-a-garcia-de-la-torre/una-golondrina-si-hace-verano-columna-de-maria-antonia-garcia-834489"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Jos\u00e9 Pizarro",
-        "date": "2023-12-11",
+        "author": "Jaime Castro",
+        "date": "2023-12-12",
         "publication": "el-tiempo",
-        "title": "Una nueva oportunidad para regular",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-maria-jose-pizarro-una-nueva-oportunidad-para-regular-834192"
+        "title": "Reposicion de gastos electorales tiene l\u00edmites",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jaime-castro/reposicion-de-gastos-electorales-tiene-limites-columna-de-jaime-castro-834492"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-12-11",
+        "author": "Eduardo Escobar",
+        "date": "2023-12-12",
         "publication": "el-tiempo",
-        "title": "Ahora s\u00ed nos llev\u00f3 el pu**s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-ahora-si-nos-llevo-el-pu-834177"
+        "title": "Redenci\u00f3n por la m\u00fasica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/redencion-por-la-musica-columna-de-eduardo-escobar-834528"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2023-12-11",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2023-12-12",
         "publication": "el-tiempo",
-        "title": "Los mejores (y los peores) de la clase",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-los-mejores-y-los-peores-de-la-clase-834193"
+        "title": "Talantes olvidados",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/talantes-olvidados-columna-de-victor-corcoba-herrero-834530"
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2023-12-11",
+        "author": "Mar\u00eda Eugenia Rinaudo",
+        "date": "2023-12-12",
         "publication": "el-tiempo",
-        "title": "De parteras y boleros",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/columna-de-oscar-dominguez-de-parteras-y-boleros-834187"
+        "title": "Alianzas para la sostenibilidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/alianzas-para-la-sostenibilidad-columna-de-maria-eugenia-rinaudo-834564"
     },
     {
         "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2023-12-11",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-12-12",
         "publication": "el-tiempo",
-        "title": "El 95 % elige el f\u00fatbol ingl\u00e9s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-el-95-por-ciento-elige-el-futbol-ingles-834195"
+        "title": "'Los aparecidos': el eterno drama de la violencia en Colombia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/los-aparecidos-el-eterno-drama-de-la-violencia-en-colombia-jose-miguel-alzate-834566"
     }
 ]
