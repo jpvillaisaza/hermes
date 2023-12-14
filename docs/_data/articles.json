@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-13",
+        "date": "2023-12-14",
         "publication": "el-colombiano",
-        "title": "J\u00edbaros al parque",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/jibaros-al-parque-HA23325615"
+        "title": "Lula s\u00ed le saca jugo ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/lula-si-le-saca-jugo-al-petroleo-IB23330190"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-13",
+        "date": "2023-12-14",
         "publication": "el-espectador",
-        "title": "Otra iniciativa del Gobierno que fracasa por no seguir las normas",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/otra-iniciativa-que-fracasa-por-no-seguir-las-normas/"
+        "title": "El arranque de Javier Milei",
+        "url": "https://www.elespectador.com/opinion/editorial/el-arranque-de-javier-milei/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2023-12-14",
+        "publication": "el-espectador",
+        "title": "El pa\u00eds de Gilmer Mesa",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/el-pais-de-gilmer-mesa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2023-12-14",
+        "publication": "el-espectador",
+        "title": "Dosis m\u00ednima: un debate que requiere seriedad",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/dosis-minima-un-debate-que-requiere-seriedad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-12-14",
+        "publication": "el-espectador",
+        "title": "El gran placer de leer",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-gran-placer-de-leer/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-12-14",
+        "publication": "el-espectador",
+        "title": "\u201cProteger a las infancias\u201d y otras falacias transexcluyentes",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/proteger-a-las-infancias-y-otras-falacias-transexcluyentes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2023-12-14",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre la meritocracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/cambie-de-opinion-sobre-la-meritocracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2023-12-14",
+        "publication": "el-espectador",
+        "title": "El problema de las basuras en Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-problema-de-las-basuras-en-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-12-14",
+        "publication": "el-espectador",
+        "title": "Una fraternidad bien machista",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/una-fraternidad-bien-machista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Antequera Guzm\u00e1n",
+        "date": "2023-12-14",
+        "publication": "el-espectador",
+        "title": "\u00bfEs genocidio lo que pasa en Gaza?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/es-genocidio-lo-que-pasa-en-gaza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-12-14",
+        "publication": "el-espectador",
+        "title": "\u201cMalinterpretamos el decreto de la discordia\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/malinterpretamos-el-decreto-de-la-discordia/"
     },
     {
         "article-type": "column",
@@ -49,19 +121,19 @@
     },
     {
         "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2023-12-13",
-        "publication": "el-espectador",
-        "title": "Fumar sobre mojado",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/fumar-sobre-mojado/"
-    },
-    {
-        "article-type": "column",
         "author": "Isabel Segovia",
         "date": "2023-12-13",
         "publication": "el-espectador",
         "title": "Satanizar lo privado",
         "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/satanizar-lo-privado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-12-13",
+        "publication": "el-espectador",
+        "title": "Fumar sobre mojado",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/fumar-sobre-mojado/"
     },
     {
         "article-type": "column",
@@ -72,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/la-pesada-actualidad/"
     },
     {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-12-13",
-        "publication": "el-espectador",
-        "title": "\u00bfPodemos perdonar o reconcilarnos en el conflicto colombiano?",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/podemos-perdonar-o-reconcilarnos-en-el-conflicto-colombiano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2023-12-13",
-        "publication": "el-espectador",
-        "title": "Se acaba el tiempo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/se-acaba-el-tiempo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2023-12-13",
-        "publication": "el-espectador",
-        "title": "Leer, escribir y pensar, hoy (I)",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/leer-escribir-y-pensar-hoy-i/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2023-12-13",
-        "publication": "el-espectador",
-        "title": "Otra iniciativa del Gobierno que fracasa por no seguir las normas",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/otra-iniciativa-que-fracasa-por-no-seguir-las-normas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-12-13",
-        "publication": "el-espectador",
-        "title": "Las malas personas",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/las-malas-personas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2023-12-13",
-        "publication": "el-espectador",
-        "title": "Milei y el retorno de Argentina a Occidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/milei-y-el-retorno-de-argentina-a-occidente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2023-12-12",
-        "publication": "el-espectador",
-        "title": "Amigos y carcajadas",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/amigos-y-carcajadas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2023-12-12",
-        "publication": "el-espectador",
-        "title": "El ajuste de las cuentas externas",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/el-ajuste-de-las-cuentas-externas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2023-12-12",
-        "publication": "el-espectador",
-        "title": "ELN: \u00bfquiere la paz o su dictadura armada?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/eln-quiere-la-paz-o-su-dictadura-armada/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-13",
+        "date": "2023-12-14",
         "publication": "el-tiempo",
-        "title": "Dos meses",
-        "url": "https://www.eltiempo.com/opinion/editorial/dos-meses-editorial-el-tiempo-834944"
+        "title": "Apostar por la regi\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/editorial/apostar-por-la-region-editorial-el-tiempo-835278"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-12-13",
+        "author": "Pedro Medellin",
+        "date": "2023-12-14",
         "publication": "el-tiempo",
-        "title": "Corte Constitucional y paz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/corte-constitucional-y-paz-columna-de-alfonso-gomez-mendez-834918"
+        "title": "La democracia de los \u2018cacaos\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/la-democracia-de-los-cacaos-columna-de-pedro-medellin-835267"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-12-13",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-12-14",
         "publication": "el-tiempo",
-        "title": "Un libro para releer",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/un-libro-para-releer-columna-de-vladdo-834913"
+        "title": "El m\u00e1s grande",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/el-mas-grande-columna-de-juan-esteban-constain-835245"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2023-12-13",
+        "author": "Jineth Bedoya Lima",
+        "date": "2023-12-14",
         "publication": "el-tiempo",
-        "title": "Tomarse un caf\u00e9",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/tomarse-un-cafe-columna-de-florence-thomas-834890"
+        "title": "Saldo en rojo para mujeres y ni\u00f1as",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/saldo-en-rojo-para-mujeres-y-ninas-columna-de-jineth-bedoya-lima-835262"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2023-12-13",
+        "author": "Juliana Mej\u00eda",
+        "date": "2023-12-14",
         "publication": "el-tiempo",
-        "title": "La obra de David da vida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/la-obra-de-david-da-vida-columna-de-alfonso-gomez-mendez-834921"
+        "title": "El valor de las organizaciones sociales de base",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/el-valor-de-las-organizaciones-sociales-de-base-columna-de-juliana-mejia-835211"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-12-13",
+        "author": "Mauricio Lloreda",
+        "date": "2023-12-14",
         "publication": "el-tiempo",
-        "title": "Claudia L\u00f3pez, te faltan 18 d\u00edas y...",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/claudia-lopez-te-faltan-18-dias-y-columna-de-poncho-renteria-834897"
+        "title": "Delcy Morelos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/delcy-morelos-columna-de-mauricio-lloreda-835248"
     },
     {
         "article-type": "column",
-        "author": "Santiago Vargas Acebedo",
-        "date": "2023-12-13",
+        "author": "Diana Pardo",
+        "date": "2023-12-14",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 es la venganza?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/que-es-la-venganza-columna-de-santiago-vargas-834930"
+        "title": "Poes\u00eda a la carta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/poesia-a-la-carta-columna-de-diana-pardo-835204"
     },
     {
         "article-type": "column",
-        "author": "Alpher Rojas Carvajal",
-        "date": "2023-12-13",
+        "author": "Javier Borda Diaz",
+        "date": "2023-12-14",
         "publication": "el-tiempo",
-        "title": "Los problemas del pa\u00eds no surgieron ahora",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-carvajal/los-problemas-del-pais-no-surgieron-ahora-columna-de-alpher-rojas-834926"
+        "title": "La vida o el trabajo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/la-vida-o-el-trabajo-columna-de-javier-borda-835226"
     }
 ]
