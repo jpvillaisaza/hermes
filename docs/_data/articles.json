@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-15",
+        "date": "2023-12-16",
         "publication": "el-colombiano",
-        "title": "PISA, un informe preocupante",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/pisa-un-informe-preocupante-AB23336600"
+        "title": "Venezuela y Guyana: cesa el ruido",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/venezuela-y-guyana-cesa-el-ruido-EG23345607"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-15",
+        "date": "2023-12-16",
         "publication": "el-espectador",
-        "title": "\u00bfCondenados a vivir atrincherados en los prejuicios?",
-        "url": "https://www.elespectador.com/opinion/editorial/condenados-a-vivir-atrincherados-en-los-prejuicios/"
+        "title": "Justicia agridulce en el caso de Javier Ord\u00f3\u00f1ez",
+        "url": "https://www.elespectador.com/opinion/editorial/condenados-a-vivir-atrincherados-en-los-prejuicios-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2023-12-16",
+        "publication": "el-espectador",
+        "title": "Columna del profe Montoya: un tibur\u00f3n campe\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-del-profe-montoya-un-tiburon-campeon/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2023-12-16",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n: \u00a1feliz Navidad, Vicky D\u00e1vila!",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/cambie-de-opinion-feliz-navidad-vicky-davila/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2023-12-16",
+        "publication": "el-espectador",
+        "title": "Dejen comer a las ni\u00f1as en Navidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/dejen-comer-a-las-ninas-en-navidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2023-12-16",
+        "publication": "el-espectador",
+        "title": "\u00bfAlguien quiere pensar en los ni\u00f1os?",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/alguien-quiere-pensar-en-los-ninos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2023-12-16",
+        "publication": "el-espectador",
+        "title": "Prop\u00f3sito nacional",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/proposito-nacional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-12-16",
+        "publication": "el-espectador",
+        "title": "Sobre los buenos modales",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/sobre-los-buenos-modales/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2023-12-16",
+        "publication": "el-espectador",
+        "title": "Fidelidad cinematogr\u00e1fica",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/fidelidad-cinematografica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Weildler Guerra",
+        "date": "2023-12-16",
+        "publication": "el-espectador",
+        "title": "El atlas fantasma",
+        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/el-atlas-fantasma/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-12-16",
+        "publication": "el-espectador",
+        "title": "\u00bfSpotify sal\u00eda de Uruguay? Casi pero no",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/spotify-salia-de-uruguay-casi-pero-no/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juliana Mu\u00f1oz Toro",
+        "date": "2023-12-16",
+        "publication": "el-espectador",
+        "title": "La \u00faltima carta ",
+        "url": "https://www.elespectador.com/opinion/columnistas/laura-juliana-munoz/la-ultima-carta/"
     },
     {
         "article-type": "column",
@@ -25,19 +105,19 @@
     },
     {
         "article-type": "column",
-        "author": "Eduardo Lora",
-        "date": "2023-12-15",
-        "publication": "el-espectador",
-        "title": "\u00bfAlta rotaci\u00f3n de personal en su empresa? Mala se\u00f1a",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-lora-/alta-rotacion-de-personal-en-su-empresa-mala-sena/"
-    },
-    {
-        "article-type": "column",
         "author": "Mario Fernando Prado",
         "date": "2023-12-15",
         "publication": "el-espectador",
         "title": "Los \u201cticinco\u201d de Nieves",
         "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/los-ticinco-de-nieves/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Lora",
+        "date": "2023-12-15",
+        "publication": "el-espectador",
+        "title": "\u00bfAlta rotaci\u00f3n de personal en su empresa? Mala se\u00f1a",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-lora-/alta-rotacion-de-personal-en-su-empresa-mala-sena/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/secretos-de-mujeres/"
     },
     {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2023-12-15",
-        "publication": "el-espectador",
-        "title": "Regalo para conectarse",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/regalo-para-conectarse/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2023-12-15",
-        "publication": "el-espectador",
-        "title": "Las noticias m\u00e1s RID\u00cdCULAS y chistosas de Colombia en 2023 | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-las-noticias-mas-ridiculas-y-chistosas-de-colombia-en-2023/"
-    },
-    {
-        "article-type": "column",
-        "author": "Claudia Morales",
-        "date": "2023-12-14",
-        "publication": "el-espectador",
-        "title": "El pa\u00eds de Gilmer Mesa",
-        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/el-pais-de-gilmer-mesa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2023-12-14",
-        "publication": "el-espectador",
-        "title": "Dosis m\u00ednima: un debate que requiere seriedad",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/dosis-minima-un-debate-que-requiere-seriedad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-12-14",
-        "publication": "el-espectador",
-        "title": "El gran placer de leer",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-gran-placer-de-leer/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-12-14",
-        "publication": "el-espectador",
-        "title": "El problema de las basuras en Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-problema-de-las-basuras-en-bogota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2023-12-14",
-        "publication": "el-espectador",
-        "title": "\u201cProteger a las infancias\u201d y otras falacias transexcluyentes",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/proteger-a-las-infancias-y-otras-falacias-transexcluyentes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2023-12-14",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre la meritocracia",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/cambie-de-opinion-sobre-la-meritocracia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-12-14",
-        "publication": "el-espectador",
-        "title": "Una fraternidad bien machista",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/una-fraternidad-bien-machista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Antequera Guzm\u00e1n",
-        "date": "2023-12-14",
-        "publication": "el-espectador",
-        "title": "\u00bfEs genocidio lo que pasa en Gaza?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/es-genocidio-lo-que-pasa-en-gaza/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-15",
+        "date": "2023-12-16",
         "publication": "el-tiempo",
-        "title": "Alianza por La Guajira",
-        "url": "https://www.eltiempo.com/opinion/editorial/alianza-por-la-guajira-editorial-el-tiempo-835680"
+        "title": "Avance asombroso",
+        "url": "https://www.eltiempo.com/opinion/editorial/avance-asombroso-editorial-el-tiempo-836063"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-12-15",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2023-12-16",
         "publication": "el-tiempo",
-        "title": "Lluvia de malas notas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/lluvia-de-malas-notas-columna-de-moises-wasserman-835585"
+        "title": "La deuda p\u00fablica y los zapatos del Gobierno",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/la-deuda-publica-y-los-zapatos-del-gobierno-columna-de-carlos-caballero-argaez-835952"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-12-15",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-12-16",
         "publication": "el-tiempo",
-        "title": "Dosis",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/dosis-columna-de-ricardo-silva-romero-835615"
+        "title": "Que no tarden tanto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/que-no-tarden-tanto-columna-de-luis-noe-ochoa-836020"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Rinc\u00f3n Mazo",
+        "date": "2023-12-16",
+        "publication": "el-tiempo",
+        "title": "Despedidas y bienvenidas, entre aciertos y desaf\u00edos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/patricia-rincon-mazo/despedidas-y-bienvenidas-entre-aciertos-y-desafio-columna-de-patricia-rincon-mazo-835981"
+    },
+    {
+        "article-type": "column",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2023-12-16",
+        "publication": "el-tiempo",
+        "title": "Los magn\u00e1nimos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/los-magnanimos-columna-de-adolfo-zableh-duran-835962"
+    },
+    {
+        "article-type": "column",
+        "author": "Armando Silva",
+        "date": "2023-12-16",
+        "publication": "el-tiempo",
+        "title": "El lado oscuro de elegir",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/el-lado-oscuro-de-elegir-columna-de-armando-silva-835968"
+    },
+    {
+        "article-type": "column",
+        "author": "Diego Arias Torres",
+        "date": "2023-12-16",
+        "publication": "el-tiempo",
+        "title": "Quinto ciclo de di\u00e1logos con el Eln: la dejaci\u00f3n de armas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-arias-torres/quinto-ciclo-de-dialogos-con-el-eln-la-dejacion-de-armas-diego-arias-836005"
     },
     {
         "article-type": "column",
         "author": "Otros columnistas",
-        "date": "2023-12-15",
+        "date": "2023-12-16",
         "publication": "el-tiempo",
-        "title": "Generador de desarrollo y justicia social",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/generador-de-desarrollo-y-justicia-social-columna-de-alvaro-balcazar-835596"
-    },
-    {
-        "article-type": "column",
-        "author": "Women in Connection",
-        "date": "2023-12-15",
-        "publication": "el-tiempo",
-        "title": "No es momento de callar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/no-es-momento-de-callar-columna-de-carolina-nieto-835608"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-12-15",
-        "publication": "el-tiempo",
-        "title": "Ensayos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/ensayos-columna-de-eduardo-posada-carbo-835591"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2023-12-15",
-        "publication": "el-tiempo",
-        "title": "S\u00ed, pero no",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/si-pero-no-columna-de-manuel-guzman-hennessey-835601"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio D\u00edaz-Granados",
-        "date": "2023-12-15",
-        "publication": "el-tiempo",
-        "title": "Un nuevo comienzo para la integraci\u00f3n latinoamericana",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-diaz-granados/un-nuevo-comienzo-para-la-integracion-latinoamericana-sergio-diazgranados-835648"
+        "title": "\u00bfY el seguimiento fiscal y econ\u00f3mico a las zonas francas?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/y-el-seguimiento-fiscal-y-economico-a-las-zonas-francas-dejusticia-836007"
     }
 ]
