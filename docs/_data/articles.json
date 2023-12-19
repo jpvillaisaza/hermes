@@ -2,18 +2,66 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-18",
+        "date": "2023-12-19",
         "publication": "el-colombiano",
-        "title": "El bolsillo en ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-bolsillo-en-diciembre-EH23352622"
+        "title": "Es hora de repensar ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/es-hora-de-repensar-el-gobierno-de-epm-FH23359387"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-18",
+        "date": "2023-12-19",
         "publication": "el-espectador",
-        "title": "Una derrota de Google con impactos globales",
-        "url": "https://www.elespectador.com/opinion/editorial/una-derrota-de-google-con-impactos-globales/"
+        "title": "Triunfo agridulce tras el plebiscito en Chile",
+        "url": "https://www.elespectador.com/opinion/editorial/triunfo-agridulce-tras-el-plebiscito-en-chile/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2023-12-19",
+        "publication": "el-espectador",
+        "title": "\u00bfMinchitas de antirracismo?",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/minchitas-de-antirracismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2023-12-19",
+        "publication": "el-espectador",
+        "title": "Narcisismo y mu\u00f1ecas inflables",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/narcisismo-y-munecas-inflables/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2023-12-19",
+        "publication": "el-espectador",
+        "title": "El legado de Jaime Ni\u00f1o D\u00edez (1942-2016)",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/el-legado-de-jaime-nino-diez-1942-2016/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2023-12-19",
+        "publication": "el-espectador",
+        "title": "Antioquia, \u00bfUn ejemplo de \u00e9xito econ\u00f3mico o un departamento desigual?",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/antioquia-un-ejemplo-de-exito-economico-o-un-departamento-desigual/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Ortiz",
+        "date": "2023-12-19",
+        "publication": "el-espectador",
+        "title": "Cont\u00e9stame cuando puedas ",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-ortiz/contestame-cuando-puedas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-12-19",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: el m\u00e9todo Junior",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-el-metodo-junior/"
     },
     {
         "article-type": "column",
@@ -33,27 +81,19 @@
     },
     {
         "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2023-12-18",
-        "publication": "el-espectador",
-        "title": "La popularidad de Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-popularidad-de-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Villamizar",
-        "date": "2023-12-18",
-        "publication": "el-espectador",
-        "title": "Un detective para...",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/un-detective-para/"
-    },
-    {
-        "article-type": "column",
         "author": "Fernando Barbosa",
         "date": "2023-12-18",
         "publication": "el-espectador",
         "title": "Un haiku para la COP28",
         "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/un-haiku-para-la-cop28/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2023-12-18",
+        "publication": "el-espectador",
+        "title": "Una ilusi\u00f3n para el 2024",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/una-ilusion-para-el-2024/"
     },
     {
         "article-type": "column",
@@ -65,11 +105,19 @@
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Teresa Ronderos",
+        "author": "Mar\u00eda Alejandra Villamizar",
         "date": "2023-12-18",
         "publication": "el-espectador",
-        "title": "Una ilusi\u00f3n para el 2024",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/una-ilusion-para-el-2024/"
+        "title": "Un detective para...",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/un-detective-para/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2023-12-18",
+        "publication": "el-espectador",
+        "title": "La popularidad de Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-popularidad-de-petro/"
     },
     {
         "article-type": "column",
@@ -89,14 +137,6 @@
     },
     {
         "article-type": "column",
-        "author": "Jhan Tocarema",
-        "date": "2023-12-18",
-        "publication": "el-espectador",
-        "title": "El arte de ser tibios",
-        "url": "https://www.elespectador.com/opinion/lectores/columnas-del-lector/el-arte-de-ser-tibios/"
-    },
-    {
-        "article-type": "column",
         "author": "Indalecio Dangond B.",
         "date": "2023-12-18",
         "publication": "el-espectador",
@@ -104,107 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/un-tinto-con-el-presidente/"
     },
     {
-        "article-type": "column",
-        "author": "Columnista invitado",
-        "date": "2023-12-18",
-        "publication": "el-espectador",
-        "title": "La ONU: \u00bfpromover los derechos humanos para todos? No del todo",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado/la-onu-promover-los-derechos-humanos-para-todos-no-del-todo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2023-12-18",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cTodo mal en la novela de los pasaportes\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-todo-mal-en-la-novedad-de-los-pasaportes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-12-17",
-        "publication": "el-espectador",
-        "title": "Hasta que nos soportemos",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/hasta-que-nos-soportemos-el-caminante/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-12-17",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre un ministro",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/cambie-de-opinion-sobre-un-ministro/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-12-17",
-        "publication": "el-espectador",
-        "title": "Barrer la calle",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/barrer-la-calle/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-18",
+        "date": "2023-12-19",
         "publication": "el-tiempo",
-        "title": "Los cuidados con El Ni\u00f1o",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-18-de-diciembre-de-2023-los-cuidados-con-el-nino-836346"
+        "title": "Avanzar sin secuestro",
+        "url": "https://www.eltiempo.com/opinion/editorial/avanzar-sin-secuestro-editorial-el-tiempo-836705"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-12-18",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2023-12-19",
         "publication": "el-tiempo",
-        "title": "Ser corrupto no es normal",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-ser-corrupto-no-es-normal-836354"
+        "title": "Tumbarnos una \u2018i\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/tumbarnos-una-i-columna-de-jose-manuel-acevedo-836647"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-12-18",
+        "author": "Marcela Mel\u00e9ndez",
+        "date": "2023-12-19",
         "publication": "el-tiempo",
-        "title": "La Guayana y las Malvinas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-la-guayana-y-las-malvinas-836350"
+        "title": "Pertenecer",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/pertenecer-columna-de-marcela-melendez-836680"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2023-12-18",
+        "author": "Francisco Cajiao",
+        "date": "2023-12-19",
         "publication": "el-tiempo",
-        "title": "El personaje del a\u00f1o",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-el-personaje-del-ano-836361"
+        "title": "El conocimiento y la fe",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/el-conocimiento-y-la-fe-columna-de-francisco-cajiao-836635"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-12-18",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2023-12-19",
         "publication": "el-tiempo",
-        "title": "A punta de ilusiones, y l\u00edderes chimbos, no vamos a salvar el planeta",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-a-punta-de-ilusiones-no-vamos-a-salvar-el-planeta-836362"
+        "title": "Los extremos se tocan",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/los-extremos-se-tocan-columna-de-sergio-munoz-bata-836632"
     },
     {
         "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-12-18",
+        "author": "Fernando Quiroz",
+        "date": "2023-12-19",
         "publication": "el-tiempo",
-        "title": "El futuro era mejor antes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-el-futuro-era-mejor-antes-836359"
+        "title": "Ilusiones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/ilusiones-columna-de-fernando-quiroz-836643"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-12-18",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2023-12-19",
         "publication": "el-tiempo",
-        "title": "Tendencias para el 2024",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-tendencias-para-el-2024-836351"
+        "title": "Los pol\u00edticos traicionan la voluntad del pueblo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/los-politicos-traicionan-la-voluntad-del-pueblo-columna-de-jose-miguel-alzate-836741"
     },
     {
         "article-type": "column",
-        "author": "Manuel Rodr\u00edguez Becerra",
-        "date": "2023-12-18",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2023-12-19",
         "publication": "el-tiempo",
-        "title": "COP28: un fracaso anunciado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/columna-de-manuel-rodriguez-becerra-cop28-un-fracaso-anunciado-836355"
+        "title": "Gu\u00e1cata: diez millones de votantes invisibles\u2026",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/guacata-diez-millones-de-votantes-invisibles-columna-de-alexander-cambero-836737"
     }
 ]
