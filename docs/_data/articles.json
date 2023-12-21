@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-20",
+        "date": "2023-12-21",
         "publication": "el-colombiano",
-        "title": "\u00bfM\u00e1s centralismo?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/mas-centralismo-BE23365015"
+        "title": "Pr\u00e9stamos para despedirse",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/prestamos-para-despedirse-EF23370774"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-20",
+        "date": "2023-12-21",
         "publication": "el-espectador",
-        "title": "Abandonar el secuestro es un paso firme a la paz",
-        "url": "https://www.elespectador.com/opinion/editorial/abandonar-el-secuestro-es-un-paso-firme-a-la-paz/"
+        "title": "Una buena se\u00f1al desde el Banco de la Rep\u00fablica",
+        "url": "https://www.elespectador.com/opinion/editorial/una-buena-senal-desde-el-banco-de-la-republica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Carrizosa Calle",
+        "date": "2023-12-21",
+        "publication": "el-espectador",
+        "title": "Sagradas familias",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/sagradas-familias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2023-12-21",
+        "publication": "el-espectador",
+        "title": "No m\u00e1s juegos con la memoria",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/no-mas-juegos-con-la-memoria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
+        "date": "2023-12-21",
+        "publication": "el-espectador",
+        "title": "Cana\u00e1n",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/canaan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2023-12-21",
+        "publication": "el-espectador",
+        "title": "Genocidio",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/genocidio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2023-12-21",
+        "publication": "el-espectador",
+        "title": "Coherencia legislativa de la reforma a la salud",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/coherencia-legislativa-de-la-reforma-a-la-salud/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2023-12-21",
+        "publication": "el-espectador",
+        "title": "Momentos que marcaron el 2023",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/momentos-que-marcaron-el-2023/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2023-12-21",
+        "publication": "el-espectador",
+        "title": "Trabajar gratis para una multinacional",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/trabajar-gratis-para-una-multinacional/"
+    },
+    {
+        "article-type": "column",
+        "author": "H\u00e9ctor Garc\u00eda",
+        "date": "2023-12-21",
+        "publication": "el-espectador",
+        "title": "Deepfakes de voz: \u00bfla identidad del ser humano ya no es \u00fanica? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/hectorgarcia/deepfakes-de-voz-la-identidad-del-ser-humano-ya-no-es-unica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2023-12-21",
+        "publication": "el-espectador",
+        "title": "\u201cEste marrano navide\u00f1o qued\u00f3 m\u00e1s loco que Milei con su posesi\u00f3n\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/redaccion-al-desnudo-este-marrano-navideno-quedo-mas-loco-que-milei-con-su-posesion/"
     },
     {
         "article-type": "column",
@@ -41,19 +113,19 @@
     },
     {
         "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2023-12-20",
-        "publication": "el-espectador",
-        "title": "Bronx, distrito creativo",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/bronx-distrito-creativo/"
-    },
-    {
-        "article-type": "column",
         "author": "Pablo Leyva",
         "date": "2023-12-20",
         "publication": "el-espectador",
         "title": "Bogot\u00e1, un empalme insuficiente, incierto e impuesto",
         "url": "https://www.elespectador.com/opinion/columnistas/pablo-leyva/bogota-un-empalme-insuficiente-incierto-e-impuesto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-12-20",
+        "publication": "el-espectador",
+        "title": "Bronx, distrito creativo",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/bronx-distrito-creativo/"
     },
     {
         "article-type": "column",
@@ -72,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/una-colombia-verde-y-fresca/"
     },
     {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2023-12-20",
-        "publication": "el-espectador",
-        "title": "Leer, escribir y pensar, hoy. Alberto Lleras (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/leer-escribir-y-pensar-hoy-alberto-lleras-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2023-12-20",
-        "publication": "el-espectador",
-        "title": "La soluci\u00f3n es un nuevo modelo",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/la-solucion-es-un-nuevo-modelo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-12-20",
-        "publication": "el-espectador",
-        "title": "Enfrentar un adversario invisible: el papel de la ONU en la lucha contra la corrupci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/enfrentar-un-adversario-invisible-el-papel-de-la-onu-en-la-lucha-contra-la-corrupcion/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-12-20",
-        "publication": "el-espectador",
-        "title": "\u201cMar\u00eda\u201d y \u201cCien a\u00f1os de soledad\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/maria-y-cien-anos-de-soledad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2023-12-20",
-        "publication": "el-espectador",
-        "title": "La inane derogatoria del inane Decreto 1844 de 2018",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/la-inane-derogatoria-del-inane-decreto-1844-de-2018/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2023-12-19",
-        "publication": "el-espectador",
-        "title": "\u00bfMinchitas de antirracismo?",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/minchitas-de-antirracismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2023-12-20",
-        "publication": "el-espectador",
-        "title": "La voz de Gaza: MC Abdul",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/la-voz-de-gaza-mc-abdul/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2023-12-19",
-        "publication": "el-espectador",
-        "title": "Narcisismo y mu\u00f1ecas inflables",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/narcisismo-y-munecas-inflables/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2023-12-19",
-        "publication": "el-espectador",
-        "title": "El legado de Jaime Ni\u00f1o D\u00edez (1942-2016)",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/el-legado-de-jaime-nino-diez-1942-2016/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-20",
+        "date": "2023-12-21",
         "publication": "el-tiempo",
-        "title": "Bendici\u00f3n hist\u00f3rica",
-        "url": "https://www.eltiempo.com/opinion/editorial/bendicion-historica-editorial-el-tiempo-837127"
+        "title": "Tasas necesarias",
+        "url": "https://www.eltiempo.com/opinion/editorial/tasas-necesarias-editorial-el-tiempo-837553"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2023-12-20",
+        "author": "Pedro Medellin",
+        "date": "2023-12-21",
         "publication": "el-tiempo",
-        "title": "Al o\u00eddo de los nuevos mandatarios",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/al-oido-de-los-nuevos-mandatarios-columna-de-alfonso-gomez-mendez-837098"
+        "title": "2023: el fracaso del radicalismo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/2023-el-fracaso-del-radicalismo-columna-de-pedro-medellin-837525"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2023-12-20",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2023-12-21",
         "publication": "el-tiempo",
-        "title": "Institucionalidad, asunto de todos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/institucionalidad-asunto-de-todos-columna-de-vladdo-837117"
+        "title": "Incr\u00e9dulo asombro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/incredulo-asombro-columna-de-juan-esteban-constain-837508"
     },
     {
         "article-type": "column",
-        "author": "Otros columnistas",
-        "date": "2023-12-20",
+        "author": "Claudia Palacios",
+        "date": "2023-12-21",
         "publication": "el-tiempo",
-        "title": "C\u00f3mo llegar a la Colombia profunda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/como-llegar-a-la-colombia-profunda-columna-de-guillermo-murillo-837079"
+        "title": "Yo tambi\u00e9n tuve 20 a\u00f1os...",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/yo-tambien-tuve-20-anos-columna-de-claudia-palacios-837510"
     },
     {
         "article-type": "column",
-        "author": "Margarita Posada",
-        "date": "2023-12-20",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2023-12-21",
         "publication": "el-tiempo",
-        "title": "Reflexiones de una maltratadora",
-        "url": "https://www.eltiempo.com/opinion/columnistas/margarita-posada/reflexiones-de-una-maltratadora-columna-de-margarita-posada-837114"
+        "title": "Escenograf\u00edas de la memoria",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/escenografias-de-la-memoria-columna-de-sergio-ramirez-837501"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2023-12-20",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2023-12-21",
         "publication": "el-tiempo",
-        "title": "Populista sin pueblo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/populista-sin-pueblo-columna-de-gustavo-duncan-837076"
+        "title": "Diciembre en Boyac\u00e1",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/diciembre-en-boyaca-columna-de-victor-manuel-ruiz-837511"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2023-12-20",
+        "author": "Bj\u00f8rn Lomborg",
+        "date": "2023-12-21",
         "publication": "el-tiempo",
-        "title": "El diciembre tiene fuc\u00fa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/el-diciembre-tiene-fucu-columna-de-poncho-renteria-837088"
+        "title": "Ayudar m\u00e1s y mejor: un gran objetivo para el 2024",
+        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/ayudar-mas-y-mejor-un-gran-objetivo-para-el-2024-columna-de-bjorn-lomborg-837543"
     },
     {
         "article-type": "column",
-        "author": "Otros columnistas",
-        "date": "2023-12-20",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2023-12-21",
         "publication": "el-tiempo",
-        "title": "\u00bfEmpoderamiento o liderazgo femenino?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/empoderamiento-o-liderazgo-femenino-columna-de-david-colmenares-837108"
-    },
-    {
-        "article-type": "column",
-        "author": "Enrique Pe\u00f1alosa",
-        "date": "2023-12-20",
-        "publication": "el-tiempo",
-        "title": "Bloquear el norte de Bogot\u00e1, un desastre social y ambiental",
-        "url": "https://www.eltiempo.com/opinion/editorial/bloquear-el-norte-de-bogota-un-desastre-social-y-ambiental-enrique-penalosa-837161"
+        "title": "Intimidades juveniles de la mujer del \u00eddolo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/intimidades-juveniles-de-la-mujer-del-idolo-columna-de-mauricio-laurens-837549"
     }
 ]
