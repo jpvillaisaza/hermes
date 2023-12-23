@@ -2,10 +2,10 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-22",
+        "date": "2023-12-23",
         "publication": "el-colombiano",
-        "title": "Qu\u00e9 dice la econom\u00eda ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/que-dice-la-economia-del-2023-DF23376050"
+        "title": "2023, el a\u00f1o del retroceso",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/2023-el-ano-del-retroceso-MK23388051"
     },
     {
         "article-type": "editorial",
@@ -14,6 +14,46 @@
         "publication": "el-espectador",
         "title": "El de personas africanas en El Dorado, un esc\u00e1ndalo exagerado y con tinte racista",
         "url": "https://www.elespectador.com/opinion/editorial/el-de-personas-africanas-en-el-dorado-un-escandalo-exagerado-y-con-tinte-racista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-12-23",
+        "publication": "el-espectador",
+        "title": "Carta al ni\u00f1o Dios para 2024",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/carta-al-nino-dios-para-2024/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2023-12-23",
+        "publication": "el-espectador",
+        "title": "Cincuenta y dos columnas (II)",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/cincuenta-y-dos-columnas-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2023-12-23",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n\u2026 hace tiempo sobre la llamada Navidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/cambie-de-opinion-hace-tiempo-sobre-la-llamada-navidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Iv\u00e1n Rinc\u00f3n",
+        "date": "2023-12-23",
+        "publication": "el-espectador",
+        "title": "El retacero del arte y la memoria",
+        "url": "https://www.elespectador.com/colombia-20/analistas/el-retacero-del-arte-y-la-memoria-columna-de-ivan-rincon/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gustavo Gall\u00f3n y Laura Arango*",
+        "date": "2023-12-23",
+        "publication": "el-espectador",
+        "title": "Colombia en el Foro Mundial sobre Refugiados",
+        "url": "https://www.elespectador.com/colombia-20/analistas/colombia-en-el-foro-mundial-sobre-refugiados-columna-de-gustavo-gallon-y-laura-arango/"
     },
     {
         "article-type": "column",
@@ -41,19 +81,19 @@
     },
     {
         "article-type": "column",
-        "author": "Tom\u00e1s Molina",
-        "date": "2023-12-22",
-        "publication": "el-espectador",
-        "title": "De la desigualdad radical viene la injusticia",
-        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/de-la-desigualdad-radical-viene-la-injusticia/"
-    },
-    {
-        "article-type": "column",
         "author": "Patricia Lara Salive",
         "date": "2023-12-22",
         "publication": "el-espectador",
         "title": "Navidad sin secuestros",
         "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/navidad-sin-secuestros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tom\u00e1s Molina",
+        "date": "2023-12-22",
+        "publication": "el-espectador",
+        "title": "De la desigualdad radical viene la injusticia",
+        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/de-la-desigualdad-radical-viene-la-injusticia/"
     },
     {
         "article-type": "column",
@@ -65,19 +105,19 @@
     },
     {
         "article-type": "column",
-        "author": "Juan Carlos Botero",
-        "date": "2023-12-22",
-        "publication": "el-espectador",
-        "title": "Creo (2023)",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/creo-2023/"
-    },
-    {
-        "article-type": "column",
         "author": "Francisco Guti\u00e9rrez San\u00edn",
         "date": "2023-12-22",
         "publication": "el-espectador",
         "title": "Obituario fuera de lugar",
         "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/obituario-fuera-de-lugar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2023-12-22",
+        "publication": "el-espectador",
+        "title": "Creo (2023)",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/creo-2023/"
     },
     {
         "article-type": "column",
@@ -104,115 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/felices-fiestas-2/"
     },
     {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2023-12-22",
-        "publication": "el-espectador",
-        "title": "Petro, Uribe y lo peor del 2023 | Premios La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/premios-la-pulla-petro-uribe-y-lo-peor-del-2023/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Carrizosa Calle",
-        "date": "2023-12-21",
-        "publication": "el-espectador",
-        "title": "Sagradas familias",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/sagradas-familias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2023-12-21",
-        "publication": "el-espectador",
-        "title": "No m\u00e1s juegos con la memoria",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/no-mas-juegos-con-la-memoria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
-        "date": "2023-12-21",
-        "publication": "el-espectador",
-        "title": "Cana\u00e1n",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/canaan/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2023-12-21",
-        "publication": "el-espectador",
-        "title": "Genocidio",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/genocidio/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-22",
+        "date": "2023-12-23",
         "publication": "el-tiempo",
-        "title": "5G: ahora, a ejecutarse",
-        "url": "https://www.eltiempo.com/opinion/editorial/5g-ahora-a-ejecutarse-editorial-el-tiempo-837939"
+        "title": "Vacaciones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/vacaciones-columna-de-mauricio-cardenas-santamaria-838295"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-12-22",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2023-12-23",
         "publication": "el-tiempo",
-        "title": "Ciencia chistosa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/ciencia-chistosa-columna-de-moises-wasserman-837885"
+        "title": "Vacaciones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/vacaciones-columna-de-mauricio-cardenas-santamaria-838295"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-12-22",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-12-23",
         "publication": "el-tiempo",
-        "title": "Escr\u00fapulos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/escrupulos-columna-de-ricardo-silva-romero-837880"
+        "title": "Divino Ni\u00f1o, salva a los ni\u00f1os",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/divino-nino-salva-a-los-ninos-columna-de-luis-noe-ochoa-838278"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2023-12-22",
+        "author": "Sara Tufano",
+        "date": "2023-12-23",
         "publication": "el-tiempo",
-        "title": "Navidad para Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/navidad-para-bogota-columna-de-claudia-hakim-837896"
+        "title": "Hasta que la dignidad se haga costumbre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/hasta-que-la-dignidad-se-haga-costumbre-columna-de-sara-tufano-838261"
     },
     {
         "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2023-12-22",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2023-12-23",
         "publication": "el-tiempo",
-        "title": "Chile y su enredo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/chile-y-su-enredo-columna-de-alfredo-rangel-837926"
+        "title": "El poder del veto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/el-poder-del-veto-columna-de-jose-gregorio-hernandez-838258"
     },
     {
         "article-type": "column",
-        "author": "Martha Ortiz",
-        "date": "2023-12-22",
+        "author": "Armando Silva",
+        "date": "2023-12-23",
         "publication": "el-tiempo",
-        "title": "La p\u00edldora",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/la-pildora-columna-de-martha-ortiz-837909"
+        "title": "Turismo y magia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/turismo-y-magia-columna-de-armando-silva-838256"
     },
     {
         "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2023-12-22",
+        "author": "Manuel Otero",
+        "date": "2023-12-23",
         "publication": "el-tiempo",
-        "title": "De la mano por primera vez",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/de-la-mano-por-primera-vez-columna-de-martha-senn-837913"
+        "title": "Camino a la COP28, un llamado de los Minagricultura de las Am\u00e9ricas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/camino-a-la-cop28-un-llamado-de-los-minagricultura-de-las-americas-838272"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2023-12-22",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2023-12-23",
         "publication": "el-tiempo",
-        "title": "De absurdos y Leviatanes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/de-absurdos-y-leviatanes-columna-de-eduardo-posada-carbo-837889"
-    },
-    {
-        "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2023-12-22",
-        "publication": "el-tiempo",
-        "title": "\u00bfBien com\u00fan o riqueza privada?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/bien-comun-o-riqueza-privada-columna-de-salvo-basile-837869"
+        "title": "\u00a1Bienvenida la paz!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/bienvenida-la-paz-columna-de-fabio-martinez-838268"
     }
 ]
