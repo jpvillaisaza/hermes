@@ -17,6 +17,30 @@
     },
     {
         "article-type": "column",
+        "author": "El Espectador",
+        "date": "2023-12-25",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201c\u00bfY si el prop\u00f3sito de esta \u00e9poca fuera bajar el tono?\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-y-si-el-proposito-de-esta-epoca-fuera-bajar-el-tono/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hugo Sabogal",
+        "date": "2023-12-25",
+        "publication": "el-espectador",
+        "title": "Un 2023 al estilo europeo",
+        "url": "https://www.elespectador.com/opinion/columnistas/hugo-sabogal/un-2023-al-estilo-europeo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Ara\u00fajo V\u00e9lez",
+        "date": "2023-12-25",
+        "publication": "el-espectador",
+        "title": "Dime c\u00f3mo reaccionas y te dir\u00e9 qui\u00e9n eres",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/dime-como-reaccionas-y-te-dire-quien-eres/"
+    },
+    {
+        "article-type": "column",
         "author": "Piedad Bonnett",
         "date": "2023-12-24",
         "publication": "el-espectador",
@@ -57,19 +81,19 @@
     },
     {
         "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "No hay plata esta Navidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/no-hay-plata-esta-navidad/"
-    },
-    {
-        "article-type": "column",
         "author": "Rodrigo Uprimny",
         "date": "2023-12-24",
         "publication": "el-espectador",
         "title": "75 a\u00f1os de la Declaraci\u00f3n Universal de los Derechos Humanos",
         "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/75-anos-de-la-declaracion-universal-de-los-derechos-humanos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Bayly",
+        "date": "2023-12-24",
+        "publication": "el-espectador",
+        "title": "No hay plata esta Navidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/no-hay-plata-esta-navidad/"
     },
     {
         "article-type": "column",
@@ -120,30 +144,6 @@
         "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/quien-quiere-ser-ministro/"
     },
     {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "Adi\u00f3s, 2023",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/adios-2023/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-126/"
-    },
-    {
-        "article-type": "column",
-        "author": "Joan C. L\u00f3pez - Columbia University",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "El pa\u00eds que se gesta por medio del amor y la reconciliaci\u00f3n",
-        "url": "https://www.elespectador.com/colombia-20/analistas/el-pais-que-se-gesta-por-medio-del-amor-y-la-reconciliacion/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2023-12-23",
@@ -153,66 +153,58 @@
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-12-24",
+        "author": "Juan Lozano",
+        "date": "2023-12-25",
         "publication": "el-tiempo",
-        "title": "Salimos bien librados",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-salimos-bien-librados-838451"
+        "title": "Ser corrupto no es normal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-ser-corrupto-no-es-normal-836354"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-12-24",
+        "author": "Luis Felipe Henao",
+        "date": "2023-12-25",
         "publication": "el-tiempo",
-        "title": "\u00bfNavide\u00f1o o \u2018Scrooge\u2019?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-navideno-o-scrooge-838453"
+        "title": "La Guayana y las Malvinas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-la-guayana-y-las-malvinas-836350"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-12-24",
+        "author": "Paola Ochoa",
+        "date": "2023-12-25",
         "publication": "el-tiempo",
-        "title": "Los regalos del Ni\u00f1o Dios",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/laura-maria-avendano-ladino/nestor-humberto-martinez/laura-maria-avendano-ladino/columna-de-nestor-humberto-martinez-neira-los-regalos-del-nino-dios-838457"
+        "title": "El personaje del a\u00f1o",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-el-personaje-del-ano-836361"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-12-24",
+        "author": "Diego Santos",
+        "date": "2023-12-25",
         "publication": "el-tiempo",
-        "title": "El rega\u00f1o de Navidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-el-regano-de-navidad-838452"
+        "title": "A punta de ilusiones, y l\u00edderes chimbos, no vamos a salvar el planeta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-a-punta-de-ilusiones-no-vamos-a-salvar-el-planeta-836362"
     },
     {
         "article-type": "column",
-        "author": "Carlos Camargo Assis",
-        "date": "2023-12-24",
+        "author": "Melba Escobar",
+        "date": "2023-12-25",
         "publication": "el-tiempo",
-        "title": "Los ineludibles l\u00edmites humanitarios de la negociaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-camargo-assis/columna-de-carlos-camargo-los-limites-humanitarios-de-la-negociacion-836211"
+        "title": "El futuro era mejor antes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-el-futuro-era-mejor-antes-836359"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Antonio Ocampo",
-        "date": "2023-12-24",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-12-25",
         "publication": "el-tiempo",
-        "title": "El balance econ\u00f3mico de 2023",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo/columna-de-jose-antonio-ocampo-el-balance-economico-de-2023-836201"
+        "title": "Tendencias para el 2024",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-tendencias-para-el-2024-836351"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-12-24",
+        "author": "Manuel Rodr\u00edguez Becerra",
+        "date": "2023-12-25",
         "publication": "el-tiempo",
-        "title": "Ni salud ni dinero",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-ni-salud-ni-dinero-838455"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Posada",
-        "date": "2023-12-24",
-        "publication": "el-tiempo",
-        "title": "\u00bfPor qu\u00e9 el reguet\u00f3n?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/columna-de-fernando-posada-por-que-el-regueton-836212"
+        "title": "COP28: un fracaso anunciado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/columna-de-manuel-rodriguez-becerra-cop28-un-fracaso-anunciado-836355"
     }
 ]
