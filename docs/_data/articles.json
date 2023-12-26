@@ -2,10 +2,10 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-24",
+        "date": "2023-12-26",
         "publication": "el-colombiano",
-        "title": "Regalos que no pueden envolverse",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/regalos-que-no-pueden-envolverse-BF23401088"
+        "title": "El enroque de Fico",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-enroque-de-fico-HF23406607"
     },
     {
         "article-type": "editorial",
@@ -14,6 +14,22 @@
         "publication": "el-espectador",
         "title": "\u00bfY si el prop\u00f3sito de esta \u00e9poca fuera bajar el tono? ",
         "url": "https://www.elespectador.com/opinion/editorial/y-si-el-proposito-de-esta-epoca-fuera-bajar-el-tono/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2023-12-26",
+        "publication": "el-espectador",
+        "title": "Los libros preferidos",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/los-libros-preferidos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2023-12-26",
+        "publication": "el-espectador",
+        "title": "Columna de Antonio Casale: hacer deporte",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/hacer-deporte/"
     },
     {
         "article-type": "column",
@@ -113,35 +129,19 @@
     },
     {
         "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "Feliz Navidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/feliz-navidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Laura Ardila Arrieta",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "El \u00faltimo refugio",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-ardila-arrieta/el-ultimo-refugio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "So\u00f1ando una mejor educaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/sonando-una-mejor-educacion/"
-    },
-    {
-        "article-type": "column",
         "author": "Ramiro Bejarano Guzm\u00e1n",
         "date": "2023-12-24",
         "publication": "el-espectador",
         "title": "Qui\u00e9n quiere ser ministro",
         "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/quien-quiere-ser-ministro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Felipe Zuleta Lleras",
+        "date": "2023-12-26",
+        "publication": "el-espectador",
+        "title": "Adi\u00f3s, 2023",
+        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/adios-2023/"
     },
     {
         "article-type": "editorial",
@@ -153,58 +153,58 @@
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2023-12-25",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2023-12-26",
         "publication": "el-tiempo",
-        "title": "Ser corrupto no es normal",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-ser-corrupto-no-es-normal-836354"
+        "title": "Por fin lleg\u00f3 el 5G",
+        "url": "https://www.eltiempo.com/opinion/columna-de-guillermo-santos-calderon-por-fin-llego-el-5g-838707"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Higuera Sotomayor",
+        "date": "2023-12-26",
+        "publication": "el-tiempo",
+        "title": "Volver al mundo de atr\u00e1s",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-volver-al-mundo-de-atras-838708"
+    },
+    {
+        "article-type": "column",
+        "author": "Viviane Morales Hoyos",
+        "date": "2023-12-26",
+        "publication": "el-tiempo",
+        "title": "La hora hist\u00f3rica de la Procuradur\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/columna-de-viviane-morales-la-hora-historica-de-la-procuraduria-838711"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Orejuela",
+        "date": "2023-12-26",
+        "publication": "el-tiempo",
+        "title": "Transici\u00f3n energ\u00e9tica: \u00bfpor qu\u00e9? \u00bfCu\u00e1l?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-jaime-orjuela-transicion-energetica-por-que-cual-838719"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Escobar",
+        "date": "2023-12-26",
+        "publication": "el-tiempo",
+        "title": "Homenaje pertinente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-ecobar-homenaje-pertinente-838714"
     },
     {
         "article-type": "column",
         "author": "Luis Felipe Henao",
-        "date": "2023-12-25",
+        "date": "2023-12-26",
         "publication": "el-tiempo",
-        "title": "La Guayana y las Malvinas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-la-guayana-y-las-malvinas-836350"
+        "title": "El Cauca, el nuevo Cagu\u00e1n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-el-cauca-el-nuevo-caguan-838730"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2023-12-25",
+        "author": "Jorge Barraza",
+        "date": "2023-12-26",
         "publication": "el-tiempo",
-        "title": "El personaje del a\u00f1o",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-el-personaje-del-ano-836361"
-    },
-    {
-        "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2023-12-25",
-        "publication": "el-tiempo",
-        "title": "A punta de ilusiones, y l\u00edderes chimbos, no vamos a salvar el planeta",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-a-punta-de-ilusiones-no-vamos-a-salvar-el-planeta-836362"
-    },
-    {
-        "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2023-12-25",
-        "publication": "el-tiempo",
-        "title": "El futuro era mejor antes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-el-futuro-era-mejor-antes-836359"
-    },
-    {
-        "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-12-25",
-        "publication": "el-tiempo",
-        "title": "Tendencias para el 2024",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-tendencias-para-el-2024-836351"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Rodr\u00edguez Becerra",
-        "date": "2023-12-25",
-        "publication": "el-tiempo",
-        "title": "COP28: un fracaso anunciado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/columna-de-manuel-rodriguez-becerra-cop28-un-fracaso-anunciado-836355"
+        "title": "Una salvajada: Espa\u00f1a 12-Malta 1",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-una-salvajada-espana-12-malta-1-838733"
     }
 ]
