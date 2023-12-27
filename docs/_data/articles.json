@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-26",
+        "date": "2023-12-27",
         "publication": "el-colombiano",
-        "title": "El enroque de Fico",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-enroque-de-fico-HF23406607"
+        "title": "arrow_right_alt",
+        "url": "https://www.elcolombiano.com/opinion/cita-textual/articulo-LE23416728"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-24",
+        "date": "2023-12-27",
         "publication": "el-espectador",
-        "title": "\u00bfY si el prop\u00f3sito de esta \u00e9poca fuera bajar el tono? ",
-        "url": "https://www.elespectador.com/opinion/editorial/y-si-el-proposito-de-esta-epoca-fuera-bajar-el-tono/"
+        "title": "Si el Estado fuera eficiente, este feminicidio hubiera podido evitarse",
+        "url": "https://www.elespectador.com/opinion/editorial/si-el-estado-fuera-eficiente-este-feminicidio-hubiera-podido-evitarse/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "El mundo a las urnas",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/el-mundo-a-las-urnas-marcos-peckel/"
+    },
+    {
+        "article-type": "column",
+        "author": "Oscar Guardiola-Rivera",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "Lo mejor del a\u00f1o",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/lo-mejor-del-ano-oscar-guardiola-rivera/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "Irrealidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/irrealidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "Las guerras del pacifismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/las-guerras-del-pacifismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "Cualquier otro pol\u00edtico se habr\u00eda retirado. \u00bfTrump? De ninguna manera",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/cualquier-otro-politico-se-habria-retirado-trump-de-ninguna-manera/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "La creciente",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/la-creciente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "La carta al Ni\u00f1o Dios",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/la-carta-al-nino-dios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "Ha pasado un a\u00f1o y ya estamos al servicio de ChatGPT",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/ha-pasado-un-ano-y-ya-estamos-al-servicio-de-chatgpt/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "So\u00f1ar un futuro audaz",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/sonar-un-futuro-audaz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Hern\u00e1ndez",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "Bien por el primer descenso de tasas",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/bien-por-el-primer-descenso-de-tasas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "No cambio de opini\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/no-cambio-de-opinion/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2023-12-27",
+        "publication": "el-espectador",
+        "title": "La familia Leyva",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-familia-leyva-2/"
     },
     {
         "article-type": "column",
@@ -48,163 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/hugo-sabogal/un-2023-al-estilo-europeo/"
     },
     {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-12-25",
-        "publication": "el-espectador",
-        "title": "Dime c\u00f3mo reaccionas y te dir\u00e9 qui\u00e9n eres",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/dime-como-reaccionas-y-te-dire-quien-eres/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "Adicciones y divorcio",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/adicciones-y-divorcio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "El adi\u00f3s de Vargas Llosa",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/el-adios-de-vargas-llosa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "\u201cRender\u201d, realidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/render-realidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "\u00bfSe ha convertido el CNMH en una empresa familiar? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/se-ha-convertido-el-cnmh-en-una-empresa-familiar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Irene Vallejo Moreu",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "Mientras alguien cena o abre la ventana",
-        "url": "https://www.elespectador.com/opinion/columnistas/ivallejo/mientras-alguien-cena-o-abre-la-ventana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "75 a\u00f1os de la Declaraci\u00f3n Universal de los Derechos Humanos",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/75-anos-de-la-declaracion-universal-de-los-derechos-humanos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "No hay plata esta Navidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/no-hay-plata-esta-navidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "Europa quiz\u00e1 vaya en camino a algo impensable",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/europa-quiza-vaya-en-camino-a-algo-impensable/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "Carta al Ni\u00f1o Jes\u00fas, por Tola y Maruja",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/carta-al-nino-jesus-por-tola-y-maruja/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2023-12-24",
-        "publication": "el-espectador",
-        "title": "Qui\u00e9n quiere ser ministro",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/quien-quiere-ser-ministro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-12-26",
-        "publication": "el-espectador",
-        "title": "Adi\u00f3s, 2023",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/adios-2023/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-23",
+        "date": "2023-12-27",
         "publication": "el-tiempo",
-        "title": "Vacaciones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/vacaciones-columna-de-mauricio-cardenas-santamaria-838295"
+        "title": "SOS por el Cauca",
+        "url": "https://www.eltiempo.com/opinion/editorial/sos-por-el-cauca-editorial-el-tiempo-839071"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2023-12-26",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2023-12-27",
         "publication": "el-tiempo",
-        "title": "Por fin lleg\u00f3 el 5G",
-        "url": "https://www.eltiempo.com/opinion/columna-de-guillermo-santos-calderon-por-fin-llego-el-5g-838707"
+        "title": "Saludable noticia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/saludable-noticia-columna-de-fernando-sanchez-torres-839065"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2023-12-26",
+        "author": "Vladdo",
+        "date": "2023-12-27",
         "publication": "el-tiempo",
-        "title": "Volver al mundo de atr\u00e1s",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-volver-al-mundo-de-atras-838708"
+        "title": "Reflexiones de un sesentennial",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/reflexiones-de-un-sesentennial-columna-de-vladdo-839068"
     },
     {
         "article-type": "column",
-        "author": "Viviane Morales Hoyos",
-        "date": "2023-12-26",
+        "author": "Florence Thomas",
+        "date": "2023-12-27",
         "publication": "el-tiempo",
-        "title": "La hora hist\u00f3rica de la Procuradur\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/columna-de-viviane-morales-la-hora-historica-de-la-procuraduria-838711"
+        "title": "Decembritis y familitis",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/decembritis-y-familitis-columna-de-florence-thomas-839023"
     },
     {
         "article-type": "column",
-        "author": "Jaime Orejuela",
-        "date": "2023-12-26",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2023-12-27",
         "publication": "el-tiempo",
-        "title": "Transici\u00f3n energ\u00e9tica: \u00bfpor qu\u00e9? \u00bfCu\u00e1l?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-jaime-orjuela-transicion-energetica-por-que-cual-838719"
+        "title": "\u00c1lvaro Barrios y Teresita G\u00f3mez",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/alvaro-barrios-y-teresita-gomez-columna-de-jotamario-arbelaez-839061"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2023-12-26",
+        "author": "Poncho Renter\u00eda",
+        "date": "2023-12-27",
         "publication": "el-tiempo",
-        "title": "Homenaje pertinente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-ecobar-homenaje-pertinente-838714"
+        "title": "Este a\u00f1o fue fatal, del 24 no esperen mucho",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/este-ano-fue-fatal-del-24-no-esperen-mucho-columna-de-poncho-renteria-839013"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2023-12-26",
+        "author": "Women in Connection",
+        "date": "2023-12-27",
         "publication": "el-tiempo",
-        "title": "El Cauca, el nuevo Cagu\u00e1n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-el-cauca-el-nuevo-caguan-838730"
+        "title": "Rompiendo los estereotipos occidentales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/rompiendo-los-estereotipos-occidentales-columna-de-mia-perdomo-838975"
     },
     {
         "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2023-12-26",
+        "author": "Alpher Rojas Carvajal",
+        "date": "2023-12-27",
         "publication": "el-tiempo",
-        "title": "Una salvajada: Espa\u00f1a 12-Malta 1",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-una-salvajada-espana-12-malta-1-838733"
+        "title": "Tanguedia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-carvajal/tanguedia-columna-de-alpher-rojas-838969"
     }
 ]
