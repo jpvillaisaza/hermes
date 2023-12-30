@@ -5,15 +5,87 @@
         "date": "2023-12-27",
         "publication": "el-colombiano",
         "title": "arrow_right_alt",
-        "url": "https://www.elcolombiano.com/opinion/cita-textual/articulo-OH23427494"
+        "url": "https://www.elcolombiano.com/opinion/cita-textual/articulo-BG23437262"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-29",
+        "date": "2023-12-30",
         "publication": "el-espectador",
-        "title": "Israel vs. Ham\u00e1s, guerra de perdedores",
-        "url": "https://www.elespectador.com/opinion/editorial/israel-vs-hamas-guerra-de-perdedores/"
+        "title": "Es momento de repensar la p\u00f3lvora",
+        "url": "https://www.elespectador.com/opinion/editorial/es-momento-de-repensar-la-polvora/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2023-12-30",
+        "publication": "el-espectador",
+        "title": "L\u00f3gica Dos",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/logica-dos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2023-12-30",
+        "publication": "el-espectador",
+        "title": "\u00a1Feliz A\u00f1o Nuevo, pirobitos!",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/feliz-ano-nuevo-pirobitos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Weildler Guerra",
+        "date": "2023-12-30",
+        "publication": "el-espectador",
+        "title": "Un diccionario y una canci\u00f3n anarquistas",
+        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/un-diccionario-y-una-cancion-anarquista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2023-12-30",
+        "publication": "el-espectador",
+        "title": "\u00a1Feliz d\u00eda del dominio p\u00fablico 2024!",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/feliz-dia-del-dominio-publico-2024/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-12-30",
+        "publication": "el-espectador",
+        "title": "La vida y la muerte de los nombres",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/la-vida-y-la-muerte-de-los-nombres/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2023-12-30",
+        "publication": "el-espectador",
+        "title": "El Cid y los h\u00e9roes germanos",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/el-cid-y-los-heroes-germanos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2023-12-30",
+        "publication": "el-espectador",
+        "title": "Colombia se mueve\u2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/colombia-se-mueve/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2023-12-30",
+        "publication": "el-espectador",
+        "title": "Buen a\u00f1o para la selecci\u00f3n de Colombia: la columna de Andr\u00e9s Marocco",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/buen-ano-para-la-seleccion-colombia-la-columna-de-andres-marocco/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2023-12-30",
+        "publication": "el-espectador",
+        "title": "Lo bueno y lo malo del 2023 para las mujeres y personas LGBTIQ+",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/lo-bueno-y-lo-malo-del-2023-para-las-mujeres-y-personas-lgbtiq/"
     },
     {
         "article-type": "column",
@@ -41,14 +113,6 @@
     },
     {
         "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2023-12-29",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre Javier Milei",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/cambie-de-opinion-sobre-javier-milei/"
-    },
-    {
-        "article-type": "column",
         "author": "Mario Fernando Prado",
         "date": "2023-12-29",
         "publication": "el-espectador",
@@ -65,6 +129,14 @@
     },
     {
         "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2023-12-29",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre Javier Milei",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/cambie-de-opinion-sobre-javier-milei/"
+    },
+    {
+        "article-type": "column",
         "author": "La Pulla",
         "date": "2023-12-29",
         "publication": "el-espectador",
@@ -72,139 +144,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-claudia-lopez-fue-pesima-alcaldesa-o-va-para-presidenta/"
     },
     {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2023-12-29",
-        "publication": "el-espectador",
-        "title": "D\u00eda de los inocentes: comentarios machistas que parecen mentira, pero fueron verdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/dia-de-los-inocentes-comentarios-machistas-que-parecen-mentira-pero-fueron-verdad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Lora",
-        "date": "2023-12-28",
-        "publication": "el-espectador",
-        "title": "#NoMeClasifique o la trampa de la identidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-lora-/nomeclasifique-o-la-trampa-de-la-identidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2023-12-28",
-        "publication": "el-espectador",
-        "title": "Bel\u00e9n, sin Navidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/belen-sin-navidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2023-12-28",
-        "publication": "el-espectador",
-        "title": "En el D\u00eda de Inocentes",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/en-el-dia-de-inocentes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2023-12-28",
-        "publication": "el-espectador",
-        "title": "\u00bfCinismo, inocentada o complicidad?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/cinismo-inocentada-o-complicidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2023-12-28",
-        "publication": "el-espectador",
-        "title": "Dar la vida",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/dar-la-vida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2023-12-28",
-        "publication": "el-espectador",
-        "title": "El f\u00fatbol colombiano tiene motivos para so\u00f1ar en 2024",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/el-futbol-colombiano-tiene-motivos-para-sonar-en-2024/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitada",
-        "date": "2023-12-28",
-        "publication": "el-espectador",
-        "title": "Dubai dist\u00f3pica ",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/dubai-distopica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2023-12-27",
-        "publication": "el-espectador",
-        "title": "El mundo a las urnas",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/el-mundo-a-las-urnas-marcos-peckel/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-29",
+        "date": "2023-12-30",
         "publication": "el-tiempo",
-        "title": "Un a\u00f1o de guerras",
-        "url": "https://www.eltiempo.com/opinion/editorial/un-ano-de-guerras-editorial-el-tiempo-839856"
+        "title": "La gesti\u00f3n de Claudia",
+        "url": "https://www.eltiempo.com/opinion/editorial/la-gestion-de-claudia-editorial-el-tiempo-840202"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2023-12-29",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2023-12-30",
         "publication": "el-tiempo",
-        "title": "Adivinos, a rendir cuentas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/adivinos-a-rendir-cuentas-columna-de-moises-wasserman-839785"
+        "title": "Llamado a la esperanza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/llamado-a-la-esperanza-columna-de-carlos-caballero-argaez-840113"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2023-12-29",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2023-12-30",
         "publication": "el-tiempo",
-        "title": "Esnobismo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/esnobismo-columna-de-ricardo-silva-romero-839805"
+        "title": "Las uvas de los deseos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/las-uvas-de-los-deseos-columna-de-luis-noe-ochoa-840183"
     },
     {
         "article-type": "column",
-        "author": "Froil\u00e1n Casas",
-        "date": "2023-12-29",
+        "author": "Nancy Patricia Guti\u00e9rrez",
+        "date": "2023-12-30",
         "publication": "el-tiempo",
-        "title": "\u00bfPor qu\u00e9 fracasan los pa\u00edses?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/froilan-casas/por-que-fracasan-los-paises-columna-de-froilan-casas-839792"
+        "title": "Crisis humanitaria",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nancy-patricia-gutierrez/crisis-humanitaria-columna-de-nancy-patricia-gutierrez-840199"
     },
     {
         "article-type": "column",
-        "author": "Camila Escobar",
-        "date": "2023-12-29",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2023-12-30",
         "publication": "el-tiempo",
-        "title": "La innovaci\u00f3n: un activo estrat\u00e9gico clave para el ecosistema empresarial",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/la-innovacion-un-activo-estrategico-clave-para-el-ecosistema-empresarial-839850"
+        "title": "La oposici\u00f3n en Navidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/la-oposicion-en-navidad-columna-de-adolfo-zableh-duran-840116"
     },
     {
         "article-type": "column",
-        "author": "Otros columnistas",
-        "date": "2023-12-29",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2023-12-30",
         "publication": "el-tiempo",
-        "title": "Alcalde Gal\u00e1n: ojo con el Sumapaz y la Bogot\u00e1 rural",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/alcalde-galan-ojo-con-el-sumapaz-y-la-bogota-rural-diego-bautista-839817"
+        "title": "La poes\u00eda marca con el 8",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/la-poesia-marca-con-el-8-columna-de-oscar-dominguez-840136"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2023-12-29",
+        "author": "V\u00edctor Corcoba Herrero",
+        "date": "2023-12-30",
         "publication": "el-tiempo",
-        "title": "La f\u00e1bula de las abejas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/la-fabula-de-las-abejas-columna-de-manuel-guzman-hennessey-839809"
-    },
-    {
-        "article-type": "column",
-        "author": "Santiago Vargas Acebedo",
-        "date": "2023-12-29",
-        "publication": "el-tiempo",
-        "title": "La libertad seg\u00fan los libertarios",
-        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/la-libertad-segun-los-libertarios-columna-de-santiago-vargas-839847"
+        "title": "Mejorar la vigilancia es signo de sabidur\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/mejorar-la-vigilancia-es-signo-de-sabiduria-columna-de-victor-corcoba-840173"
     }
 ]
