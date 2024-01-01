@@ -17,6 +17,14 @@
     },
     {
         "article-type": "column",
+        "author": "Hugo Sabogal",
+        "date": "2024-01-01",
+        "publication": "el-espectador",
+        "title": "Mieles para 2024",
+        "url": "https://www.elespectador.com/opinion/columnistas/hugo-sabogal/mieles-para-2024/"
+    },
+    {
+        "article-type": "column",
         "author": "Fernando Ara\u00fajo V\u00e9lez",
         "date": "2023-12-31",
         "publication": "el-espectador",
@@ -65,6 +73,14 @@
     },
     {
         "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2023-12-31",
+        "publication": "el-espectador",
+        "title": "Este a\u00f1o proponte algo que vaya m\u00e1s all\u00e1 de ti",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/este-ano-proponte-algo-que-vaya-mas-alla-de-ti/"
+    },
+    {
+        "article-type": "column",
         "author": "Mauricio Botero Caicedo",
         "date": "2023-12-31",
         "publication": "el-espectador",
@@ -78,14 +94,6 @@
         "publication": "el-espectador",
         "title": "Espejos retrovisores",
         "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/espejos-retrovisores/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-12-31",
-        "publication": "el-espectador",
-        "title": "Este a\u00f1o proponte algo que vaya m\u00e1s all\u00e1 de ti",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/este-ano-proponte-algo-que-vaya-mas-alla-de-ti/"
     },
     {
         "article-type": "column",
@@ -136,14 +144,6 @@
         "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/logica-dos/"
     },
     {
-        "article-type": "column",
-        "author": "Esteban Carlos Mej\u00eda",
-        "date": "2023-12-30",
-        "publication": "el-espectador",
-        "title": "\u00a1Feliz A\u00f1o Nuevo, pirobitos!",
-        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/feliz-ano-nuevo-pirobitos/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
         "date": "2023-12-31",
@@ -153,58 +153,58 @@
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2023-12-31",
+        "author": "Juan Lozano",
+        "date": "2024-01-01",
         "publication": "el-tiempo",
-        "title": "Un camino distinto",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-un-camino-distinto-840379"
+        "title": "Ser corrupto no es normal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-ser-corrupto-no-es-normal-836354"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2023-12-31",
+        "author": "Luis Felipe Henao",
+        "date": "2024-01-01",
         "publication": "el-tiempo",
-        "title": "\u00bfAnimales o humanos?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-animales-o-humanos-840372"
+        "title": "La Guayana y las Malvinas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-la-guayana-y-las-malvinas-836350"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2023-12-31",
+        "author": "Paola Ochoa",
+        "date": "2024-01-01",
         "publication": "el-tiempo",
-        "title": "Sue\u00f1o de fin de a\u00f1o",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-sueno-de-fin-de-ano-840359"
+        "title": "El personaje del a\u00f1o",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-el-personaje-del-ano-836361"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2023-12-31",
+        "author": "Diego Santos",
+        "date": "2024-01-01",
         "publication": "el-tiempo",
-        "title": "Predicciones 2024",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-predicciones-2024-840374"
+        "title": "A punta de ilusiones, y l\u00edderes chimbos, no vamos a salvar el planeta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-a-punta-de-ilusiones-no-vamos-a-salvar-el-planeta-836362"
     },
     {
         "article-type": "column",
-        "author": "Margarita Cabello Blanco",
-        "date": "2023-12-31",
+        "author": "Melba Escobar",
+        "date": "2024-01-01",
         "publication": "el-tiempo",
-        "title": "\u00a1Ni uno m\u00e1s!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/margarita-cabello-blanco/columna-de-margarita-cabello-ni-uno-mas-840358"
+        "title": "El futuro era mejor antes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-el-futuro-era-mejor-antes-836359"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Antonio Ocampo",
-        "date": "2023-12-31",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2024-01-01",
         "publication": "el-tiempo",
-        "title": "La segunda d\u00e9cada perdida de Am\u00e9rica Latina",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo/columna-de-jose-antonio-ocampo-la-segunda-decada-perdida-de-america-latina-840360"
+        "title": "Tendencias para el 2024",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-tendencias-para-el-2024-836351"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2023-12-31",
+        "author": "Manuel Rodr\u00edguez Becerra",
+        "date": "2024-01-01",
         "publication": "el-tiempo",
-        "title": "Contadas veces",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-contadas-veces-840371"
+        "title": "COP28: un fracaso anunciado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/columna-de-manuel-rodriguez-becerra-cop28-un-fracaso-anunciado-836355"
     }
 ]
