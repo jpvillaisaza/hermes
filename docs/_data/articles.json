@@ -2,18 +2,66 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-02",
+        "date": "2024-01-03",
         "publication": "el-colombiano",
-        "title": "Urge recargar el optimismo",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/urge-recargar-el-optimismo-KA23451568"
+        "title": "La fina telara\u00f1a de la econom\u00eda mundial",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-fina-telarana-de-la-economia-mundial-HD23461060"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2023-12-31",
+        "date": "2024-01-03",
         "publication": "el-espectador",
-        "title": "Colombia, entre el duelo y las oportunidades",
-        "url": "https://www.elespectador.com/opinion/editorial/colombia-entre-el-duelo-y-las-oportunidades/"
+        "title": "Ataque a medio de Valledupar pone en riesgo la libertad de prensa",
+        "url": "https://www.elespectador.com/opinion/editorial/ataque-a-medio-de-valledupar-pone-en-riesgo-la-libertad-de-prensa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2024-01-03",
+        "publication": "el-espectador",
+        "title": "Aparta la mirada, elude responsabilidades y solo culpa a TikTok",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/aparta-la-mirada-elude-responsabilidades-y-solo-culpa-a-tiktok/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2024-01-03",
+        "publication": "el-espectador",
+        "title": "\u00a1Ni m\u00e1s faltaba!",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/ni-mas-faltaba/"
+    },
+    {
+        "article-type": "column",
+        "author": "Teresita Goyeneche",
+        "date": "2024-01-03",
+        "publication": "el-espectador",
+        "title": "Escucha",
+        "url": "https://www.elespectador.com/opinion/columnistas/teresita-goyeneche/escucha/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sandra Vilardy",
+        "date": "2024-01-03",
+        "publication": "el-espectador",
+        "title": "Hacia una ciudadan\u00eda clim\u00e1ticamente consciente y adaptada",
+        "url": "https://www.elespectador.com/opinion/columnistas/sandra-vilardy/hacia-una-ciudadania-climaticamente-consciente-y-adaptada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2024-01-03",
+        "publication": "el-espectador",
+        "title": "Consuelo de la tierra caliente",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/consuelo-de-la-tierra-caliente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2024-01-03",
+        "publication": "el-espectador",
+        "title": "Los aniversarios del 2024",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/los-aniversarios-del-2024/"
     },
     {
         "article-type": "column",
@@ -22,22 +70,6 @@
         "publication": "el-espectador",
         "title": "El grito",
         "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-grito/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcelo Caruso A.",
-        "date": "2024-01-02",
-        "publication": "el-espectador",
-        "title": "Florecer\u00e1 Guatemala",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/florecera-guatemala/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2024-01-02",
-        "publication": "el-espectador",
-        "title": "Un exceso de historia",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/un-exceso-de-historia/"
     },
     {
         "article-type": "column",
@@ -57,6 +89,22 @@
     },
     {
         "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2024-01-02",
+        "publication": "el-espectador",
+        "title": "Un exceso de historia",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/un-exceso-de-historia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcelo Caruso A.",
+        "date": "2024-01-02",
+        "publication": "el-espectador",
+        "title": "Florecer\u00e1 Guatemala",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/florecera-guatemala/"
+    },
+    {
+        "article-type": "column",
         "author": "Indalecio Dangond B.",
         "date": "2024-01-02",
         "publication": "el-espectador",
@@ -70,6 +118,14 @@
         "publication": "el-espectador",
         "title": "El balso",
         "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/el-balso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas de los lectores",
+        "date": "2024-01-03",
+        "publication": "el-espectador",
+        "title": "La parte oscura de la pol\u00edtica en Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/la-parte-oscura-de-la-politica-en-colombia/"
     },
     {
         "article-type": "column",
@@ -88,115 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-lo-que-deberia-pasar-en-2024/"
     },
     {
-        "article-type": "column",
-        "author": "Hugo Sabogal",
-        "date": "2024-01-01",
-        "publication": "el-espectador",
-        "title": "Mieles para 2024",
-        "url": "https://www.elespectador.com/opinion/columnistas/hugo-sabogal/mieles-para-2024/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2023-12-31",
-        "publication": "el-espectador",
-        "title": "Pero cero m\u00e1s cero no siempre es cero",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/pero-cero-mas-cero-no-siempre-es-cero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2023-12-31",
-        "publication": "el-espectador",
-        "title": "Del dolor y la barbarie",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/del-dolor-y-la-barbarie/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2023-12-31",
-        "publication": "el-espectador",
-        "title": "Serrat, ochenta a\u00f1os",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/serrat-ochenta-anos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2023-12-31",
-        "publication": "el-espectador",
-        "title": "Soy alcalde de la ciudad de Gaza; nuestra vida y cultura se han reducido a escombros",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/soy-alcalde-de-la-ciudad-de-gaza-nuestra-vida-y-cultura-se-han-reducido-a-escombros/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2023-12-31",
-        "publication": "el-espectador",
-        "title": "Predicciones 2024",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/predicciones-2024/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2023-12-31",
-        "publication": "el-espectador",
-        "title": "Por la vida en la Tierra",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/por-la-vida-en-la-tierra/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-02",
+        "date": "2024-01-03",
         "publication": "el-tiempo",
-        "title": "El salario m\u00ednimo",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-2-de-enero-de-2024-el-salario-minimo-840674"
+        "title": "El momento de Gal\u00e1n",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-momento-de-galan-editorial-841050"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2024-01-02",
+        "author": "Mauricio Lizcano",
+        "date": "2024-01-03",
         "publication": "el-tiempo",
-        "title": "Mijitos, \u00a1pilas, pues!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-mijitos-pilas-pues-840685"
+        "title": "Democratizando la IA",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/democratizando-la-ia-columna-de-mauricio-lizcano-840963"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2024-01-02",
+        "author": "Vladdo",
+        "date": "2024-01-03",
         "publication": "el-tiempo",
-        "title": "Esperanza ante la adversidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/columna-de-sergio-munoz-bata-esperanza-ante-la-adversidad-840686"
+        "title": "La ruleta rusa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/la-ruleta-rusa-columna-de-vladdo-841056"
     },
     {
         "article-type": "column",
-        "author": "Cristina Esguerra Miranda",
-        "date": "2024-01-02",
+        "author": "Gustavo Duncan",
+        "date": "2024-01-03",
         "publication": "el-tiempo",
-        "title": "Ciencia y filosof\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/cristina-esguerra-miranda/columna-de-cristina-esguerra-ciencia-y-filosofia-840689"
+        "title": "\u00bfY la oposici\u00f3n qu\u00e9?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/y-la-oposicion-que-columna-de-gustavo-duncan-840976"
     },
     {
         "article-type": "column",
-        "author": "Iv\u00e1n Name",
-        "date": "2024-01-02",
+        "author": "Lina Mar\u00eda Montoya",
+        "date": "2024-01-03",
         "publication": "el-tiempo",
-        "title": "Sin autonom\u00eda regional no habr\u00e1 paz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-ivan-name-vasquez-sin-autonomia-regional-no-habra-paz-840688"
+        "title": "Mam\u00e1, \u00bfqu\u00e9 es un ama de casa?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/mama-que-es-un-ama-de-casa-columna-de-lina-maria-montoya-841013"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2024-01-02",
+        "author": "Zhu Jingyang",
+        "date": "2024-01-03",
         "publication": "el-tiempo",
-        "title": "Semana de prop\u00f3sitos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/columna-de-fernando-quiroz-semana-de-propositos-840684"
+        "title": "El crecimiento econ\u00f3mico de China",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-crecimiento-economico-de-china-columna-de-zhu-jingyang-840979"
     },
     {
         "article-type": "column",
-        "author": "Mariana Mazzucato",
-        "date": "2024-01-02",
+        "author": "Poncho Renter\u00eda",
+        "date": "2024-01-03",
         "publication": "el-tiempo",
-        "title": "No hay alternativa para la estrategia industrial verde",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mariana-mazzucato/columna-de-mariana-mazzucato-y-greg-clark-la-estrategia-industrial-verde-840676"
+        "title": "Bogot\u00e1: el alcalde Gal\u00e1n, a corregir",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/bogota-el-alcalde-galan-a-corregir-columna-de-poncho-renteria-840986"
+    },
+    {
+        "article-type": "column",
+        "author": "Robert Max Steenkist",
+        "date": "2024-01-03",
+        "publication": "el-tiempo",
+        "title": "Certificar una forma del amor",
+        "url": "https://www.eltiempo.com/opinion/columnistas/robert-max-steenkist/certificar-una-forma-del-amor-columna-de-robert-max-steenkist-841029"
     }
 ]
