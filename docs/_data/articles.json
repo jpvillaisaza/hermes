@@ -2,18 +2,66 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-03",
+        "date": "2024-01-04",
         "publication": "el-colombiano",
-        "title": "La fina telara\u00f1a de la econom\u00eda mundial",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-fina-telarana-de-la-economia-mundial-HD23461060"
+        "title": "Las elecciones del a\u00f1o ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/las-elecciones-del-ano-ND23463781"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-03",
+        "date": "2024-01-04",
         "publication": "el-espectador",
-        "title": "Ataque a medio de Valledupar pone en riesgo la libertad de prensa",
-        "url": "https://www.elespectador.com/opinion/editorial/ataque-a-medio-de-valledupar-pone-en-riesgo-la-libertad-de-prensa/"
+        "title": "La antidemocr\u00e1tica jugadita del Concejo de Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/editorial/la-antidemocratica-jugadita-del-concejo-de-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2024-01-04",
+        "publication": "el-espectador",
+        "title": "Esp\u00edritu colectivo",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/espiritu-colectivo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicholas D. Kristof",
+        "date": "2024-01-04",
+        "publication": "el-espectador",
+        "title": "2023 fue un a\u00f1o terrible pero quiz\u00e1s tambi\u00e9n el mejor hasta ahora para la humanidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicholas-d-kristof/2023-fue-un-ano-terrible-pero-quizas-tambien-el-mejor-hasta-ahora-para-la-humanidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2024-01-04",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n respecto al ambientalismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/cambie-de-opinion-respecto-al-ambientalismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2024-01-04",
+        "publication": "el-espectador",
+        "title": "Migraci\u00f3n y prejuicios de siempre",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/migracion-y-prejuicios-de-siempre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Carrizosa Calle",
+        "date": "2024-01-04",
+        "publication": "el-espectador",
+        "title": "Desprop\u00f3sitos",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/despropositos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
+        "date": "2024-01-04",
+        "publication": "el-espectador",
+        "title": "En suajili",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/en-suajili/"
     },
     {
         "article-type": "column",
@@ -96,115 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/un-exceso-de-historia/"
     },
     {
-        "article-type": "column",
-        "author": "Marcelo Caruso A.",
-        "date": "2024-01-02",
-        "publication": "el-espectador",
-        "title": "Florecer\u00e1 Guatemala",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/florecera-guatemala/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2024-01-02",
-        "publication": "el-espectador",
-        "title": "Un a\u00f1o de turbulencias",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/un-ano-de-turbulencias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2024-01-02",
-        "publication": "el-espectador",
-        "title": "El balso",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/el-balso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas de los lectores",
-        "date": "2024-01-03",
-        "publication": "el-espectador",
-        "title": "La parte oscura de la pol\u00edtica en Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/la-parte-oscura-de-la-politica-en-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2024-01-02",
-        "publication": "el-espectador",
-        "title": "El nadador o la ruina de un peque\u00f1oburgu\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-nadador-o-la-ruina-de-un-pequenoburgues/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2024-01-02",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Lo que deber\u00eda pasar en 2024 ",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-lo-que-deberia-pasar-en-2024/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-03",
+        "date": "2024-01-04",
         "publication": "el-tiempo",
-        "title": "El momento de Gal\u00e1n",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-momento-de-galan-editorial-841050"
+        "title": "Naci\u00f3n y territorios",
+        "url": "https://www.eltiempo.com/opinion/editorial/nacion-y-territorios-editorial-el-tiempo-841412"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Lizcano",
-        "date": "2024-01-03",
+        "author": "Pedro Medellin",
+        "date": "2024-01-04",
         "publication": "el-tiempo",
-        "title": "Democratizando la IA",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/democratizando-la-ia-columna-de-mauricio-lizcano-840963"
+        "title": "2024: el a\u00f1o de las oportunidades",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/2024-el-ano-de-las-oportunidades-columna-de-pedro-medellin-841391"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2024-01-03",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2024-01-04",
         "publication": "el-tiempo",
-        "title": "La ruleta rusa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/la-ruleta-rusa-columna-de-vladdo-841056"
+        "title": "A puerta cerrada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/a-puerta-cerrada-columna-de-juan-esteban-constain-841389"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2024-01-03",
+        "author": "Claudia Palacios",
+        "date": "2024-01-04",
         "publication": "el-tiempo",
-        "title": "\u00bfY la oposici\u00f3n qu\u00e9?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/y-la-oposicion-que-columna-de-gustavo-duncan-840976"
+        "title": "Un delito saliendo del cl\u00f3set",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/un-delito-saliendo-del-closet-columna-de-claudia-palacios-841395"
     },
     {
         "article-type": "column",
-        "author": "Lina Mar\u00eda Montoya",
-        "date": "2024-01-03",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2024-01-04",
         "publication": "el-tiempo",
-        "title": "Mam\u00e1, \u00bfqu\u00e9 es un ama de casa?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/mama-que-es-un-ama-de-casa-columna-de-lina-maria-montoya-841013"
+        "title": "Yo no olvido el a\u00f1o viejo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/yo-no-olvido-el-ano-viejo-columna-de-sergio-ramirez-841386"
     },
     {
         "article-type": "column",
-        "author": "Zhu Jingyang",
-        "date": "2024-01-03",
+        "author": "Armando Silva",
+        "date": "2024-01-04",
         "publication": "el-tiempo",
-        "title": "El crecimiento econ\u00f3mico de China",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-crecimiento-economico-de-china-columna-de-zhu-jingyang-840979"
+        "title": "\u2018La \u00faltima cena\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/la-ultima-cena-columna-de-armando-silva-841397"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2024-01-03",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2024-01-04",
         "publication": "el-tiempo",
-        "title": "Bogot\u00e1: el alcalde Gal\u00e1n, a corregir",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/bogota-el-alcalde-galan-a-corregir-columna-de-poncho-renteria-840986"
+        "title": "Vida marital y musical de Leonard Bernstein",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/vida-marital-y-musical-de-leonard-bernstein-columna-de-mauricio-laurens-841453"
     },
     {
         "article-type": "column",
-        "author": "Robert Max Steenkist",
-        "date": "2024-01-03",
+        "author": "Fernando Montes Negret",
+        "date": "2024-01-04",
         "publication": "el-tiempo",
-        "title": "Certificar una forma del amor",
-        "url": "https://www.eltiempo.com/opinion/columnistas/robert-max-steenkist/certificar-una-forma-del-amor-columna-de-robert-max-steenkist-841029"
+        "title": "El arte de hacer proyecciones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/el-arte-de-hacer-proyecciones-columna-de-fernando-montes-841452"
     }
 ]
