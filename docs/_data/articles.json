@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-08",
+        "date": "2024-01-09",
         "publication": "el-colombiano",
-        "title": "Un aumento ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/un-aumento-muy-generoso-LN23483800"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/2024-empieza-la-movida-NN23487912"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-08",
+        "date": "2024-01-09",
         "publication": "el-espectador",
-        "title": "El periodismo contra ChatGPT y similares",
-        "url": "https://www.elespectador.com/opinion/editorial/el-periodismo-contra-chatgpt-y-similares/"
+        "title": "Terror\u00edfico acoso contra periodistas de Noticias Caracol",
+        "url": "https://www.elespectador.com/opinion/editorial/terrorifico-acoso-contra-periodistas-de-noticias-caracol/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2024-01-09",
+        "publication": "el-espectador",
+        "title": "Se desarticula la econom\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/se-desarticula-la-economia/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2024-01-09",
+        "publication": "el-espectador",
+        "title": "Juan Carlos Henao",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/juan-carlos-henao/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Reyes Posada",
+        "date": "2024-01-09",
+        "publication": "el-espectador",
+        "title": "Carta a la ministra de Agricultura",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/carta-a-la-ministra-de-agricultura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2024-01-09",
+        "publication": "el-espectador",
+        "title": "El llamamiento del papa",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/el-llamamiento-del-papa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2024-01-09",
+        "publication": "el-espectador",
+        "title": "El pasado como luz",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/el-pasado-como-luz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2024-01-09",
+        "publication": "el-espectador",
+        "title": "Invisible e ignorada... ya no m\u00e1s",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/invisible-e-ignorada-ya-no-mas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2024-01-09",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 tienen contra lo largo?",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/que-tienen-contra-lo-largo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2024-01-09",
+        "publication": "el-espectador",
+        "title": "Un verdadero a\u00f1o nuevo",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/un-verdadero-ano-nuevo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Tovar",
+        "date": "2024-01-09",
+        "publication": "el-espectador",
+        "title": "Columna de Jorge Tovar: Desidia Panamericana",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-desidia-panamericana-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas de los lectores",
+        "date": "2024-01-09",
+        "publication": "el-espectador",
+        "title": "Voces rebeldes que desaf\u00edan el \u201cstatu quo\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/voces-rebeldes-que-desafian-el-statu-quo/"
     },
     {
         "article-type": "column",
@@ -25,19 +105,19 @@
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2024-01-08",
-        "publication": "el-espectador",
-        "title": "Sexo y g\u00e9nero en el diccionario (3.\u00aa parte)",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/sexo-y-genero-en-el-diccionario-3-parte/"
-    },
-    {
-        "article-type": "column",
         "author": "Lorenzo Madrigal",
         "date": "2024-01-08",
         "publication": "el-espectador",
         "title": "Maravillosa Nieves",
         "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/maravillosa-nieves/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2024-01-08",
+        "publication": "el-espectador",
+        "title": "Sexo y g\u00e9nero en el diccionario (3.\u00aa parte)",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/sexo-y-genero-en-el-diccionario-3-parte/"
     },
     {
         "article-type": "column",
@@ -64,147 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/lo-que-acaba-de-ocurrir-en-harvard-es-mas-grande-que-yo/"
     },
     {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2024-01-08",
-        "publication": "el-espectador",
-        "title": "Los $9,1 billones para el agro",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/los-91-billones-para-el-agro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2024-01-08",
-        "publication": "el-espectador",
-        "title": "2024: el mayor reto de Petro ser\u00e1 Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/2024-el-mayor-reto-de-petro-sera-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2024-01-07",
-        "publication": "el-espectador",
-        "title": "La belleza incorruptible ",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/la-belleza-incorruptible/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hugo Sabogal",
-        "date": "2024-01-07",
-        "publication": "el-espectador",
-        "title": "Un ritual obligatorio",
-        "url": "https://www.elespectador.com/opinion/columnistas/hugo-sabogal/un-ritual-obligatorio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2024-01-07",
-        "publication": "el-espectador",
-        "title": "Esto es lo que deber\u00eda aprender Harvard de la renuncia de Claudine Gay",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/esto-es-lo-que-deberia-aprender-harvard-de-la-renuncia-de-claudine-gay/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2024-01-07",
-        "publication": "el-espectador",
-        "title": "Paradas t\u00e9cnicas",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/paradas-tecnicas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Lora",
-        "date": "2024-01-07",
-        "publication": "el-espectador",
-        "title": "Lecciones de Barranquilla para los nuevos alcaldes",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-lora-/lecciones-de-barranquilla-para-los-nuevos-alcaldes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Irene Vallejo Moreu",
-        "date": "2024-01-07",
-        "publication": "el-espectador",
-        "title": "Verdades como pu\u00f1os",
-        "url": "https://www.elespectador.com/opinion/columnistas/ivallejo/verdades-como-punos/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2024-01-07",
-        "publication": "el-espectador",
-        "title": "La \u00faltima voluntad de Isaiah Berlin",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/la-ultima-voluntad-de-isaiah-berlin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Paul Krugman",
-        "date": "2024-01-07",
-        "publication": "el-espectador",
-        "title": "\u00bfEstados Unidos est\u00e1 en v\u00edas de recuperaci\u00f3n?",
-        "url": "https://www.elespectador.com/opinion/columnistas/paul-krugman/estados-unidos-esta-en-vias-de-recuperacion/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-08",
+        "date": "2024-01-09",
         "publication": "el-tiempo",
-        "title": "Marcas innecesarias",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-8-de-enero-de-2024-marcas-innecesarias-842490"
+        "title": "El gran reto de este a\u00f1o",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-9-de-enero-de-2024-el-gran-reto-de-este-ano-842667"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2024-01-08",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2024-01-09",
         "publication": "el-tiempo",
-        "title": "Radiograf\u00eda de un despelote",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-radiografia-de-un-despelote-842508"
+        "title": "Petro y la Colombia federal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/columna-de-jose-manuel-acevedo-petro-y-la-colombia-federal-842672"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2024-01-08",
+        "author": "Viviane Morales Hoyos",
+        "date": "2024-01-09",
         "publication": "el-tiempo",
-        "title": "La \u2018m\u00e1quina tapaesc\u00e1ndalos\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-la-maquina-tapaescandalos-842500"
+        "title": "Se equivocaron los concejales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/columna-de-viviane-morales-se-equivocaron-los-concejales-842678"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2024-01-08",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2024-01-09",
         "publication": "el-tiempo",
-        "title": "Gal\u00e1n en Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-galan-en-bogota-842510"
+        "title": "La elecci\u00f3n de fiscal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/columna-de-victor-manuel-ruiz-la-eleccion-de-fiscal-842673"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2024-01-08",
+        "author": "Carmen Caballero",
+        "date": "2024-01-09",
         "publication": "el-tiempo",
-        "title": "\u00bfEs posible salvar a la humanidad?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-es-posible-salvar-a-la-humanidad-842507"
+        "title": "El pa\u00eds de la belleza avanza en negocios y turismo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carmen-caballero/columna-de-carmen-caballero-el-pais-avanza-en-negocios-y-turismo-842679"
     },
     {
         "article-type": "column",
-        "author": "Hugo Acero Vel\u00e1squez",
-        "date": "2024-01-08",
+        "author": "Eduardo Escobar",
+        "date": "2024-01-09",
         "publication": "el-tiempo",
-        "title": "Santa Marta, Barranquilla y Cartagena",
-        "url": "https://www.eltiempo.com/opinion/columnistas/hugo-acero-velasquez/columna-de-hugo-acero-santa-marta-barranquilla-y-cartagena-842511"
+        "title": "Los profetas de enero",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/columna-de-eduardo-escobar-los-profetas-de-enero-842680"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2024-01-08",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2024-01-09",
         "publication": "el-tiempo",
-        "title": "\u00bfLa IA es confiable?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-la-ia-es-confiable-842492"
+        "title": "La banalidad del mal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/columna-de-fabio-martinez-la-banalidad-del-mal-842670"
     },
     {
         "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2024-01-08",
+        "author": "Alpher Rojas Carvajal",
+        "date": "2024-01-09",
         "publication": "el-tiempo",
-        "title": "Negocio monumental, \u00bfpara qui\u00e9n?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-negocio-monumental-para-quien-842512"
+        "title": "Honor a un grande: el rector y magistrado Juan Carlos Henao",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-carvajal/columna-de-alpher-rojas-honor-a-un-grande-juan-carlos-henao-842696"
     }
 ]
