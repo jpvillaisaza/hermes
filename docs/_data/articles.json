@@ -2,18 +2,74 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-11",
+        "date": "2024-01-12",
         "publication": "el-colombiano",
-        "title": "El d\u00f3lar en tregua",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-dolar-en-tregua-CE23503405"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/ojo-con-la-tripledemia-HF23517642"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-11",
+        "date": "2024-01-12",
         "publication": "el-espectador",
-        "title": "La grave crisis que vive Ecuador",
-        "url": "https://www.elespectador.com/opinion/editorial/la-grave-crisis-que-vive-ecuador/"
+        "title": "Falta transparencia con la agenda de la primera dama",
+        "url": "https://www.elespectador.com/opinion/editorial/falta-transparencia-con-la-agenda-de-la-primera-dama/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2024-01-12",
+        "publication": "el-espectador",
+        "title": "Final lamentable",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/final-lamentable/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2024-01-12",
+        "publication": "el-espectador",
+        "title": "Mi Cali bella",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/mi-cali-bella-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2024-01-12",
+        "publication": "el-espectador",
+        "title": "Uribe y la inmunidad de la Drummond",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/uribe-y-la-inmunidad-de-la-drummond/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rafael Rivas",
+        "date": "2024-01-12",
+        "publication": "el-espectador",
+        "title": "C\u00famulo de absurdos",
+        "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/cumulo-de-absurdos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2024-01-12",
+        "publication": "el-espectador",
+        "title": "Mal de vereda",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/mal-de-vereda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2024-01-12",
+        "publication": "el-espectador",
+        "title": "Tiempo fuera",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/tiempo-fuera/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2024-01-12",
+        "publication": "el-espectador",
+        "title": "Ensalmo para cambiar de a\u00f1o",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/ensalmo-para-cambiar-de-ano/"
     },
     {
         "article-type": "column",
@@ -88,115 +144,59 @@
         "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/los-chistes-machistas-de-jo-koy-en-los-globos-de-oro/"
     },
     {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-01-11",
-        "publication": "el-espectador",
-        "title": "\u201cHay que revisar c\u00f3mo pasaron las clases de geograf\u00eda algunos periodistas\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/hay-que-revisar-como-pasaron-las-clases-de-geografia-algunos-periodistas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2024-01-10",
-        "publication": "el-espectador",
-        "title": "Toda la carne en el asador",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/toda-la-carne-en-el-asador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Isabel Segovia",
-        "date": "2024-01-10",
-        "publication": "el-espectador",
-        "title": "Volv\u00ed a cambiar de opini\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/isabel-segovia/volvi-a-cambiar-de-opinion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2024-01-10",
-        "publication": "el-espectador",
-        "title": "Augurios",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/augurios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2024-01-10",
-        "publication": "el-espectador",
-        "title": "Un eufemismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/un-eufemismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-01-10",
-        "publication": "el-espectador",
-        "title": "Libertad para Arturo Char: \u00bfel poder de las influencias?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/libertad-para-arturo-char-el-poder-de-las-influencias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2024-01-10",
-        "publication": "el-espectador",
-        "title": "Tras de cotudos...",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/tras-de-cotudos-2/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-11",
+        "date": "2024-01-12",
         "publication": "el-tiempo",
-        "title": "Mejor de lo esperado",
-        "url": "https://www.eltiempo.com/opinion/editorial/mejor-de-lo-esperado-editorial-el-tiempo-843472"
+        "title": "Tres meses de horror",
+        "url": "https://www.eltiempo.com/opinion/editorial/tres-meses-de-horror-editorial-el-tiempo-843841"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2024-01-11",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2024-01-12",
         "publication": "el-tiempo",
-        "title": "El presidencialismo centralista ha fracasado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-presidencialismo-centralista-ha-fracasado-columna-de-pedro-medellin-843464"
+        "title": "Malas noticias: hay buenas noticias",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/malas-noticias-hay-buenas-noticias-columna-de-moises-wasserman-843786"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2024-01-11",
+        "author": "Ricardo Silva Romero",
+        "date": "2024-01-12",
         "publication": "el-tiempo",
-        "title": "Buenos insultos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/buenos-insultos-columna-de-juan-esteban-constain-843430"
+        "title": "Guiso",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/guiso-columna-de-ricardo-silva-romero-843804"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2024-01-11",
+        "author": "Juan Gabriel P\u00e9rez",
+        "date": "2024-01-12",
         "publication": "el-tiempo",
-        "title": "Cartagena nos necesita",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/cartagena-nos-necesita-columna-de-jineth-bedoya-843349"
+        "title": "Retos y oportunidades en la frontera",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/retos-y-oportunidades-en-la-frontera-columna-de-juan-gabriel-perez-843792"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2024-01-11",
+        "author": "Mar\u00eda Eugenia Rinaudo",
+        "date": "2024-01-12",
         "publication": "el-tiempo",
-        "title": "Refugios urbanos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/refugios-urbanos-columna-de-diana-pardo-843360"
+        "title": "La acci\u00f3n clim\u00e1tica, una oportunidad para los negocios en Colombia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/la-accion-climatica-una-oportunidad-para-los-negocios-en-colombia-843789"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Lloreda",
-        "date": "2024-01-11",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2024-01-12",
         "publication": "el-tiempo",
-        "title": "Ser colombiano, 2024",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/ser-colombiano-2024-columna-de-mauricio-lloreda-843419"
+        "title": "El mito de Davos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/el-mito-de-davos-columna-de-manuel-guzman-hennessey-843807"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2024-01-11",
+        "author": "Dar\u00edo Hidalgo",
+        "date": "2024-01-12",
         "publication": "el-tiempo",
-        "title": "Confianza en uno mismo: el sue\u00f1o del hombre despierto",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/confianza-en-uno-mismo-el-sueno-del-hombre-despierto-victor-corcoba-843428"
+        "title": "Dos muertes viales por minuto, la pandemia silenciosa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/dario-hidalgo/dos-muertes-viales-por-minuto-la-pandemia-silenciosa-dario-hidalgo-843812"
     }
 ]
