@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-14",
+        "date": "2024-01-15",
         "publication": "el-colombiano",
-        "title": "\u00bfQu\u00e9 tan ignorante puede ser el Estado?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/que-tan-ignorante-puede-ser-el-estado-AG23524073"
+        "title": "Colombia m\u00e1s envejecida, \u00bfqu\u00e9 hacer?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/colombia-mas-envejecida-que-hacer-FG23526982"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-14",
+        "date": "2024-01-15",
         "publication": "el-espectador",
-        "title": "Un fiscal general en campa\u00f1a pol\u00edtica ",
-        "url": "https://www.elespectador.com/opinion/editorial/un-fiscal-general-en-campana-politica/"
+        "title": "El desastre en el Choc\u00f3 y el futuro de Colombia",
+        "url": "https://www.elespectador.com/opinion/editorial/el-desastre-en-el-choco-y-el-futuro-de-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2024-01-15",
+        "publication": "el-espectador",
+        "title": "Imperativo \u00e9tico de maestr\u00edas docentes en modalidad dual",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/imperativo-etico-de-maestrias-docentes-en-modalidad-dual/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2024-01-15",
+        "publication": "el-espectador",
+        "title": "Del Ecuador y nuestros demonios",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/del-ecuador-y-nuestros-demonios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2024-01-15",
+        "publication": "el-espectador",
+        "title": "As\u00ed o as\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-dice-sostenible-o-sustentable-se-dice-el-mototaxi-o-la-mototaxi/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2024-01-15",
+        "publication": "el-espectador",
+        "title": "Ecuador, laboratorio de la nueva criminalidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/ecuador-laboratorio-de-la-nueva-criminalidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Villamizar",
+        "date": "2024-01-15",
+        "publication": "el-espectador",
+        "title": "Las maravillas de Ecuador",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/las-maravillas-de-ecuador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2024-01-15",
+        "publication": "el-espectador",
+        "title": "Neoludismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/neoludismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2024-01-15",
+        "publication": "el-espectador",
+        "title": "La mentira de la federalizaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/la-mentira-de-la-federalizacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2024-01-15",
+        "publication": "el-espectador",
+        "title": "Lo que da la tierrita",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/lo-que-da-la-tierrita-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2024-01-15",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cUn fiscal general en campa\u00f1a pol\u00edtica\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-un-fiscal-general-en-campana-politica/"
     },
     {
         "article-type": "column",
@@ -49,19 +121,19 @@
     },
     {
         "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2024-01-14",
-        "publication": "el-espectador",
-        "title": "Ganadores y perdedores del calentamiento global",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/ganadores-y-perdedores-del-calentamiento-global/"
-    },
-    {
-        "article-type": "column",
         "author": "William Ospina",
         "date": "2024-01-14",
         "publication": "el-espectador",
         "title": "El l\u00e1tigo",
         "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/el-latigo-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Botero Caicedo",
+        "date": "2024-01-14",
+        "publication": "el-espectador",
+        "title": "Ganadores y perdedores del calentamiento global",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/ganadores-y-perdedores-del-calentamiento-global/"
     },
     {
         "article-type": "column",
@@ -72,147 +144,75 @@
         "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/inflacion-el-envion-final/"
     },
     {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2024-01-14",
-        "publication": "el-espectador",
-        "title": "La dolorosa crisis de Ecuador",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/la-dolorosa-crisis-de-ecuador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2024-01-14",
-        "publication": "el-espectador",
-        "title": "Elecciones en medio mundo",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/elecciones-en-medio-mundo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2024-01-14",
-        "publication": "el-espectador",
-        "title": "Desastre anunciado",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/desastre-anunciado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Charry",
-        "date": "2024-01-13",
-        "publication": "el-espectador",
-        "title": "Modelos de enamorados",
-        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/modelos-de-enamorados/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Uribe Rinc\u00f3n",
-        "date": "2024-01-13",
-        "publication": "el-espectador",
-        "title": "La elecci\u00f3n de referenciar",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/la-eleccion-de-referenciar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Esteban Carlos Mej\u00eda",
-        "date": "2024-01-13",
-        "publication": "el-espectador",
-        "title": "Hurgar alrededor del ombligo",
-        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/hurgar-alrededor-del-ombligo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Nicol\u00e1s Rodr\u00edguez",
-        "date": "2024-01-13",
-        "publication": "el-espectador",
-        "title": "M\u00e1s de lo mismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/mas-de-lo-mismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio C\u00e9sar Londo\u00f1o",
-        "date": "2024-01-13",
-        "publication": "el-espectador",
-        "title": "Sobre el alma (o casi)",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/sobre-el-alma-o-casi/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2024-01-13",
-        "publication": "el-espectador",
-        "title": "La renuncia est\u00e1 sobre la mesa",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/la-renuncia-esta-sobre-la-mesa/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-14",
+        "date": "2024-01-15",
         "publication": "el-tiempo",
-        "title": "Ecuador, en la encrucijada",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-14-de-enero-de-2024-ecuador-en-la-encrucijada-844384"
+        "title": "Clama, otra vez, Choc\u00f3",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-15-de-enero-de-2024-clama-otra-vez-choco-844539"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2024-01-14",
+        "author": "Juan Lozano",
+        "date": "2024-01-15",
         "publication": "el-tiempo",
-        "title": "Arranca mal el a\u00f1o",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-arranca-mal-el-ano-844386"
+        "title": "Tasas de inter\u00e9s y adolescentes rebeldes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-tasas-de-interes-y-adolescentes-rebeldes-844548"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2024-01-14",
+        "author": "Luis Felipe Henao",
+        "date": "2024-01-15",
         "publication": "el-tiempo",
-        "title": "El arte, a la calle",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/columna-de-juliana-mejia-el-arte-a-la-calle-844410"
+        "title": "Reconducir la \u2018paz total\u2019 en 2024",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-reconducir-la-paz-total-en-2024-844546"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2024-01-14",
+        "author": "Marta Luc\u00eda Ram\u00edrez",
+        "date": "2024-01-15",
         "publication": "el-tiempo",
-        "title": "Solidaridad real con Ecuador",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-solidaridad-real-con-ecuador-844402"
+        "title": "Un futuro esperanzador",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marta-lucia-ramirez/columna-de-marta-lucia-ramirez-un-futuro-esperanzador-844547"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2024-01-14",
+        "author": "Diego Santos",
+        "date": "2024-01-15",
         "publication": "el-tiempo",
-        "title": "La \u2018pax narca\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-la-pax-narca-844385"
+        "title": "\u00bfAguantar\u00e1 la democracia la salvaje embestida de la desinformaci\u00f3n en 2024?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-la-embestida-de-la-desinformacion-en-2024-844538"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Antonio Ocampo",
-        "date": "2024-01-14",
+        "author": "Paola Ochoa",
+        "date": "2024-01-15",
         "publication": "el-tiempo",
-        "title": "Perspectivas y retos econ\u00f3micos de 2024",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo/columna-de-jose-antonio-ocampo-perspectivas-y-retos-economicos-de-2024-844397"
+        "title": "Primera dama Barbie",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-primera-dama-barbie-844555"
     },
     {
         "article-type": "column",
-        "author": "Manuel Rodr\u00edguez Becerra",
-        "date": "2024-01-14",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2024-01-15",
         "publication": "el-tiempo",
-        "title": "COP16 sobre biodiversidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/columna-de-manuel-rodriguez-becerra-cop16-sobre-biodiversidad-844395"
+        "title": "Empresas, para tener en cuenta este a\u00f1o",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-empresas-para-tener-en-cuenta-este-ano-844545"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2024-01-14",
+        "author": "Melba Escobar",
+        "date": "2024-01-15",
         "publication": "el-tiempo",
-        "title": "Caras vemos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-caras-vemos-844396"
+        "title": "En tiempos can\u00edbales",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-en-tiempos-canibales-844550"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Riveros Gonz\u00e1lez",
-        "date": "2024-01-14",
+        "author": "Klaus Schwab",
+        "date": "2024-01-15",
         "publication": "el-tiempo",
-        "title": "El punto Nemo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/columna-de-alejandro-riveros-el-punto-nemo-844422"
+        "title": "Restaurar la confianza en el futuro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-klaus-schwab-restaurar-la-confianza-en-el-futuro-844551"
     }
 ]
