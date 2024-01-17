@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-16",
+        "date": "2024-01-17",
         "publication": "el-colombiano",
-        "title": "\u00bfHasta cu\u00e1ndo estar\u00e1 Roa en Ecopetrol?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/hasta-cuando-estara-roa-en-ecopetrol-CH23534107"
+        "title": "",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/ecuador-en-pie-de-guerra-KH23539322"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-16",
+        "date": "2024-01-17",
         "publication": "el-espectador",
-        "title": "El manejo del caso Uribe ha sido deplorable ",
-        "url": "https://www.elespectador.com/opinion/editorial/el-manejo-del-caso-uribe-ha-sido-deplorable/"
+        "title": "Cautela frente al populismo y autoritarismo de la respuesta ecuatoriana",
+        "url": "https://www.elespectador.com/opinion/editorial/cautela-frente-al-populismo-y-autoritarismo-de-la-respuesta-ecuatoriana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2024-01-17",
+        "publication": "el-espectador",
+        "title": "\u00bfLe lleg\u00f3 la hora a Michelle Obama?",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/le-llego-la-hora-a-michelle-obama/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2024-01-17",
+        "publication": "el-espectador",
+        "title": "\u00a1Dios salve a Ecuador!",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/dios-salve-a-ecuador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2024-01-17",
+        "publication": "el-espectador",
+        "title": "\u00bfAfanados nosotros?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/afanados-nosotros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2024-01-17",
+        "publication": "el-espectador",
+        "title": "El caso Uribe en la Fiscal\u00eda: una burla al pa\u00eds",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-caso-uribe-en-la-fiscalia-una-burla-al-pais/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2024-01-17",
+        "publication": "el-espectador",
+        "title": "Polic\u00eda del silencio ",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/policia-del-silencio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando Roa Su\u00e1rez",
+        "date": "2024-01-17",
+        "publication": "el-espectador",
+        "title": "Leer, escribir y pensar, hoy. Importancia del tema (IV)",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/leer-escribir-y-pensar-hoy-importancia-del-tema-iv/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sandra Vilardy",
+        "date": "2024-01-17",
+        "publication": "el-espectador",
+        "title": "Danilo nos va a hacer mucha falta",
+        "url": "https://www.elespectador.com/opinion/columnistas/sandra-vilardy/danilo-nos-va-a-hacer-mucha-falta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2024-01-17",
+        "publication": "el-espectador",
+        "title": "Miedo",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/miedo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Ernesto Fagua C.",
+        "date": "2024-01-17",
+        "publication": "el-espectador",
+        "title": "La Paz debe imponerse ante el odio",
+        "url": "https://www.elespectador.com/colombia-20/analistas/la-paz-debe-imponerse-ante-el-odio-columna-de-opinion-paz-total-de-petro-paramilitarismo/"
     },
     {
         "article-type": "column",
@@ -22,6 +94,22 @@
         "publication": "el-espectador",
         "title": "Telecom y la Telef\u00f3nica Espa\u00f1ola",
         "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/telecom-y-la-telefonica-espanola/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2024-01-16",
+        "publication": "el-espectador",
+        "title": "Menos tendencias y m\u00e1s elegancia",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/menos-tendencias-y-mas-elegancia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Barbosa",
+        "date": "2024-01-16",
+        "publication": "el-espectador",
+        "title": "Los trabajadores: el mejor activo",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/los-trabajadores-el-mejor-activo/"
     },
     {
         "article-type": "column",
@@ -49,22 +137,6 @@
     },
     {
         "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2024-01-16",
-        "publication": "el-espectador",
-        "title": "Menos tendencias y m\u00e1s elegancia",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/menos-tendencias-y-mas-elegancia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Barbosa",
-        "date": "2024-01-16",
-        "publication": "el-espectador",
-        "title": "Los trabajadores: el mejor activo",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/los-trabajadores-el-mejor-activo/"
-    },
-    {
-        "article-type": "column",
         "author": "Reinaldo Spitaletta",
         "date": "2024-01-16",
         "publication": "el-espectador",
@@ -72,131 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/kafka-un-ser-de-otro-mundo/"
     },
     {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2024-01-16",
-        "publication": "el-espectador",
-        "title": "La raz\u00f3n no odia",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/la-razon-no-odia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2024-01-16",
-        "publication": "el-espectador",
-        "title": "Basilisco resentido",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/basilisco-resentido/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2024-01-16",
-        "publication": "el-espectador",
-        "title": "Risaralda: \u00bfLa tierra prometida? Una mirada desde la educaci\u00f3n y el progreso",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/risaralda-la-tierra-prometida-una-mirada-desde-la-educacion-y-el-progreso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2024-01-16",
-        "publication": "el-espectador",
-        "title": "El Choc\u00f3 y el Pac\u00edfico necesitan medidas estructurales, no solo coyunturales",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-choco-y-el-pacifico-mas-que-soluciones-coyunturales-necesitan-medidas-estructurales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2024-01-15",
-        "publication": "el-espectador",
-        "title": "Imperativo \u00e9tico de maestr\u00edas docentes en modalidad dual",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/imperativo-etico-de-maestrias-docentes-en-modalidad-dual/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Villamizar",
-        "date": "2024-01-15",
-        "publication": "el-espectador",
-        "title": "Las maravillas de Ecuador",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/las-maravillas-de-ecuador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2024-01-15",
-        "publication": "el-espectador",
-        "title": "Ecuador, laboratorio de la nueva criminalidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/ecuador-laboratorio-de-la-nueva-criminalidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Teresa Ronderos",
-        "date": "2024-01-15",
-        "publication": "el-espectador",
-        "title": "Del Ecuador y nuestros demonios",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/del-ecuador-y-nuestros-demonios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2024-01-15",
-        "publication": "el-espectador",
-        "title": "As\u00ed o as\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-dice-sostenible-o-sustentable-se-dice-el-mototaxi-o-la-mototaxi/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-16",
+        "date": "2024-01-17",
         "publication": "el-tiempo",
-        "title": "Crecer, el reto global",
-        "url": "https://www.eltiempo.com/opinion/editorial/crecer-el-reto-global-editorial-el-tiempo-844905"
+        "title": "Mensaje desafortunado",
+        "url": "https://www.eltiempo.com/opinion/editorial/mensaje-desafortunado-editorial-el-tiempo-845302"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2024-01-16",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2024-01-17",
         "publication": "el-tiempo",
-        "title": "La par\u00e1bola del cami\u00f3n atravesado",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/la-parabola-del-camion-atravesado-columna-de-jose-manuel-acevedo-844843"
+        "title": "Narcotr\u00e1fico y orden p\u00fablica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/narcotrafico-y-orden-publica-columna-de-alfonso-gomez-mendez-845237"
     },
     {
         "article-type": "column",
-        "author": "Marcela Mel\u00e9ndez",
-        "date": "2024-01-16",
+        "author": "Vladdo",
+        "date": "2024-01-17",
         "publication": "el-tiempo",
-        "title": "Lo p\u00fablico",
-        "url": "https://www.eltiempo.com/opinion/columnistas/marcela-melendez/lo-publico-columna-de-marcela-melendez-844850"
+        "title": "M\u00e1s soberbia que Fiscal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/mas-soberbia-que-fiscal-columna-de-vladdo-845298"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2024-01-16",
+        "author": "In\u00e9s Olano",
+        "date": "2024-01-17",
         "publication": "el-tiempo",
-        "title": "Buenos augurios para 2024",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/buenos-augurios-para-2024-columna-de-francisco-cajiao-844847"
+        "title": "La mentor\u00eda como herramienta clave para el liderazgo femenino",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/desbloqueando-el-potencial-en-el-2024-la-mentoria-como-herramienta-clave-845307"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2024-01-16",
+        "author": "Gustavo Duncan",
+        "date": "2024-01-17",
         "publication": "el-tiempo",
-        "title": "\u00bfSobrevivir\u00e1 la democracia en 2024?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/sobrevivira-la-democracia-en-2024-columna-de-sergio-munoz-bata-844838"
+        "title": "La posinsurgencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/la-posinsurgencia-columna-de-gustavo-duncan-845233"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2024-01-16",
+        "author": "Andr\u00e9s Hurtado Garc\u00eda",
+        "date": "2024-01-17",
         "publication": "el-tiempo",
-        "title": "Elogio de la duda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/elogio-de-la-duda-columna-de-fernando-quiroz-844841"
+        "title": "\u2018La vor\u00e1gine\u2019, bella y emocionante",
+        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/la-voragine-bella-y-emocionante-columna-de-andres-hurtado-garcia-845225"
     },
     {
         "article-type": "column",
-        "author": "Alex\u00e1nder Cambero",
-        "date": "2024-01-16",
+        "author": "Poncho Renter\u00eda",
+        "date": "2024-01-17",
         "publication": "el-tiempo",
-        "title": "El desaf\u00edo venezolano del 2024",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/el-desafio-venezolano-del-2024-columna-de-alexander-cambero-844851"
+        "title": "Petro, en Suiza, con nieve y sin trinos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-en-suiza-con-nieve-y-sin-trinos-columna-de-poncho-renteria-845218"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Borda Diaz",
+        "date": "2024-01-17",
+        "publication": "el-tiempo",
+        "title": "La desinformaci\u00f3n, \u00bfel peor mal de todos?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/la-desinformacion-el-peor-mal-de-todos-columna-de-javier-borda-845282"
     }
 ]
