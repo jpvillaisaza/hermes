@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-22",
+        "date": "2024-01-23",
         "publication": "el-colombiano",
-        "title": "Made in China: de barato a sofisticado",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/made-in-china-de-barato-a-sofisticado-MM23587496"
+        "title": "\u00bfTrump imparable?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/trump-imparable-DN23593356"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-22",
+        "date": "2024-01-23",
         "publication": "el-espectador",
-        "title": "\u00bfCorrupci\u00f3n en el Departamento de Prosperidad Social?",
-        "url": "https://www.elespectador.com/opinion/editorial/corrupcion-en-el-departamento-de-prosperidad-social/"
+        "title": "La dominancia de Claro obstruye la competencia",
+        "url": "https://www.elespectador.com/opinion/editorial/la-dominancia-de-claro-obstruye-la-competencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2024-01-23",
+        "publication": "el-espectador",
+        "title": "Las primeras damas",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/las-primeras-damas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2024-01-23",
+        "publication": "el-espectador",
+        "title": "\u00bfCambio en Guatemala le arde al uribismo?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/cambio-en-guatemala-le-arde-al-uribismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2024-01-23",
+        "publication": "el-espectador",
+        "title": "El cambio real",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/el-cambio-real/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2024-01-23",
+        "publication": "el-espectador",
+        "title": "Vistiendo el futuro",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/vistiendo-el-futuro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2024-01-23",
+        "publication": "el-espectador",
+        "title": "Claudia",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/claudia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2024-01-23",
+        "publication": "el-espectador",
+        "title": "Gracias, Piedad",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/gracias-piedad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2024-01-23",
+        "publication": "el-espectador",
+        "title": "Cambi\u00e9 de opini\u00f3n sobre el uso de las redes por parte de ni\u00f1os y j\u00f3venes",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/cambie-de-opinion-sobre-el-uso-de-las-redes-por-parte-de-ninos-y-jovenes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2024-01-23",
+        "publication": "el-espectador",
+        "title": "El fiscal yogurt",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-fiscal-yogurt/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Reyes Posada",
+        "date": "2024-01-23",
+        "publication": "el-espectador",
+        "title": "Regeneraci\u00f3n de suelos contra el cambio clim\u00e1tico",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/regeneracion-de-suelos-contra-el-cambio-climatico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2024-01-23",
+        "publication": "el-espectador",
+        "title": "Desigualdades, sue\u00f1os y oportunidades: Una mirada desde el Quind\u00edo",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/desigualdades-suenos-y-oportunidades-una-mirada-desde-el-quindio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Ortiz",
+        "date": "2024-01-23",
+        "publication": "el-espectador",
+        "title": "Feliz A\u00f1o",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-ortiz/feliz-ano/"
     },
     {
         "article-type": "column",
@@ -56,163 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/sevilla-capital/"
     },
     {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "El valor de una opini\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/el-valor-de-una-opinion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Lora",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "El cambio generacional en la orientaci\u00f3n sexual ",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-lora-/el-cambio-generacional-en-la-orientacion-sexual/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "El a\u00f1o que se viene",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-ano-que-se-viene/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "\u00abAl interior\u00bb no siempre es adecuado",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/cuando-es-adecuado-decir-al-interior/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "Por ahora no tendremos recesi\u00f3n, pero\u2026",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/por-ahora-no-tendremos-recesion-pero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Leonardo Garc\u00eda*",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "La hipocres\u00eda de la vivienda social",
-        "url": "https://www.elespectador.com/opinion/lectores/columnas-del-lector/la-hipocresia-de-la-vivienda-social/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas de los lectores",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "Clamor de soberan\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/clamor-de-soberania/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "MinCultura y MinInterior, a responder por cultura ciudadana",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/mincultura-y-mininterior-a-responder-por-cultura-ciudadana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "El cr\u00e9dito agropecuario",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/el-credito-agropecuario/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabiola Calvo",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "Di\u00e1logos con el ELN: \u00bfTendr\u00e1 que decir algo El Vaticano?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/cita-petro-papa-francisco-la-relacion-entre-la-iglesia-y-el-eln-ciclo-en-el-vaticano/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cEl abandono del Invima produce incertidumbre\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-el-abandono-del-invima-produce-incertidumbre/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-22",
+        "date": "2024-01-23",
         "publication": "el-tiempo",
-        "title": "Cambio de estrato",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-22-de-enero-de-2024-cambio-de-estrato-846891"
+        "title": "Ojo con la 68",
+        "url": "https://www.eltiempo.com/opinion/editorial/ojo-con-la-68-editorial-el-tiempo-847291"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2024-01-22",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2024-01-23",
         "publication": "el-tiempo",
-        "title": "Ciudades drogadictas, epicentros de prostituci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-ciudades-drogadictas-epicentros-de-prostitucion-846908"
+        "title": "Pa\u00eds de homenajes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/pais-de-homenajes-columna-de-jose-manuel-acevedo-847242"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2024-01-22",
+        "author": "Viviane Morales Hoyos",
+        "date": "2024-01-23",
         "publication": "el-tiempo",
-        "title": "El robo de nuestra historia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-el-robo-de-nuestra-historia-846931"
+        "title": "Este no es el proceso 8.000",
+        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/este-no-es-el-proceso-8-000-columna-de-viviane-morales-847219"
     },
     {
         "article-type": "column",
-        "author": "Yolanda Reyes",
-        "date": "2024-01-22",
+        "author": "Eduardo Escobar",
+        "date": "2024-01-23",
         "publication": "el-tiempo",
-        "title": "Las dos \u2018casas Colombia\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-las-dos-casas-colombia-846912"
+        "title": "Carrusel de las narrativas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/carrusel-de-las-narrativas-columna-de-eduardo-escobar-847232"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2024-01-22",
+        "author": "Sara Tufano",
+        "date": "2024-01-23",
         "publication": "el-tiempo",
-        "title": "Piedad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-piedad-846892"
+        "title": "Un presidente que no escucha",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/un-presidente-que-no-escucha-columna-de-sara-tufano-847239"
     },
     {
         "article-type": "column",
-        "author": "Juan Mart\u00edn Caicedo Ferrer",
-        "date": "2024-01-22",
+        "author": "Sara Valentina Quevedo Delgado",
+        "date": "2024-01-23",
         "publication": "el-tiempo",
-        "title": "\u2018Mea culpa\u2019 del Estado: \u00a1v\u00edas colapsadas!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-martin-caicedo-ferrer/columna-de-juan-martin-caicedo-mea-culpa-del-estado-vias-colapsadas-846913"
+        "title": "Violenta estigmatizaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sara-valentina-quevedo-delgado/violenta-estigmatizacion-columna-de-sara-valentina-quevedo-847258"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Manuel Ruiz",
-        "date": "2024-01-22",
+        "author": "Fernando Montes Negret",
+        "date": "2024-01-23",
         "publication": "el-tiempo",
-        "title": "El Mirado de Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/columna-de-victor-manuel-ruiz-el-mirado-de-petro-846905"
+        "title": "Econom\u00eda del comportamiento",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/economia-del-comportamiento-columna-de-fernando-montes-negret-847247"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2024-01-22",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2024-01-23",
         "publication": "el-tiempo",
-        "title": "Un cambio laboral",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-un-cambio-laboral-846906"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Barraza",
-        "date": "2024-01-22",
-        "publication": "el-tiempo",
-        "title": "As\u00ed, el f\u00fatbol no tiene sentido",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jorge-barraza/columna-de-jorge-barraza-asi-el-futbol-no-tiene-sentido-846917"
+        "title": "La novela \u2018Sol marchito\u2019: \u00bfmemoria de la guerra de 1876?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/la-novela-sol-marchito-memoria-de-la-guerra-de-1876-jose-miguel-alzate-847250"
     }
 ]
