@@ -2,18 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-23",
+        "date": "2024-01-24",
         "publication": "el-colombiano",
-        "title": "\u00bfTrump imparable?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/trump-imparable-DN23593356"
+        "title": "Los verdaderos protagonistas de Davos",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/los-verdaderos-protagonistas-de-davos-CN23599597"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-23",
+        "date": "2024-01-24",
         "publication": "el-espectador",
-        "title": "La dominancia de Claro obstruye la competencia",
-        "url": "https://www.elespectador.com/opinion/editorial/la-dominancia-de-claro-obstruye-la-competencia/"
+        "title": "\u00bfPor qu\u00e9 seguimos sin contralor?",
+        "url": "https://www.elespectador.com/opinion/editorial/por-que-seguimos-sin-contralor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2024-01-24",
+        "publication": "el-espectador",
+        "title": "La gente, las naciones ",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/la-gente-las-naciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2024-01-24",
+        "publication": "el-espectador",
+        "title": "Dosis de realidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/dosis-de-realidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2024-01-24",
+        "publication": "el-espectador",
+        "title": "Los anuncios del contralor que los senadores deben considerar",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/los-anuncios-del-contralor-que-los-senadores-deben-considerar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2024-01-24",
+        "publication": "el-espectador",
+        "title": "\u00bfHablamos de unidad? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/hablamos-de-unidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2024-01-24",
+        "publication": "el-espectador",
+        "title": "Borreguismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/borreguismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2024-01-24",
+        "publication": "el-espectador",
+        "title": "Piedad C\u00f3rdoba, perseguida por ignorantes y letrados",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/piedad-cordoba-perseguida-por-ignorantes-y-letrados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2024-01-24",
+        "publication": "el-espectador",
+        "title": "Colombia sin Piedad",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/colombia-sin-piedad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2024-01-24",
+        "publication": "el-espectador",
+        "title": "Conoce una se\u00f1al para pedir ayuda",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/conoce-una-senal-para-pedir-ayuda/"
     },
     {
         "article-type": "column",
@@ -80,131 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-fiscal-yogurt/"
     },
     {
-        "article-type": "column",
-        "author": "Alejandro Reyes Posada",
-        "date": "2024-01-23",
-        "publication": "el-espectador",
-        "title": "Regeneraci\u00f3n de suelos contra el cambio clim\u00e1tico",
-        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/regeneracion-de-suelos-contra-el-cambio-climatico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2024-01-23",
-        "publication": "el-espectador",
-        "title": "Desigualdades, sue\u00f1os y oportunidades: Una mirada desde el Quind\u00edo",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/desigualdades-suenos-y-oportunidades-una-mirada-desde-el-quindio/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Ortiz",
-        "date": "2024-01-23",
-        "publication": "el-espectador",
-        "title": "Feliz A\u00f1o",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-ortiz/feliz-ano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "La mano visible ",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-mano-visible/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "Columna de Antonio Casale: Opinar y la Superliga",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-opinar-y-la-superliga/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "Columna de Jorge Tovar: Bogot\u00e1, \u00bfsin estadio de f\u00fatbol?",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-bogota-sin-estadio-de-futbol/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario M\u00e9ndez",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "Estragos en la educaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-mendez/estragos-en-la-educacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2024-01-22",
-        "publication": "el-espectador",
-        "title": "\u201cSevilla, capital\u2026\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/sevilla-capital/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-23",
+        "date": "2024-01-24",
         "publication": "el-tiempo",
-        "title": "Ojo con la 68",
-        "url": "https://www.eltiempo.com/opinion/editorial/ojo-con-la-68-editorial-el-tiempo-847291"
+        "title": "Incendios por doquier",
+        "url": "https://www.eltiempo.com/opinion/editorial/incendios-por-doquier-editorial-el-tiempo-847688"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2024-01-23",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2024-01-24",
         "publication": "el-tiempo",
-        "title": "Pa\u00eds de homenajes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/pais-de-homenajes-columna-de-jose-manuel-acevedo-847242"
+        "title": "\u2018Revivamos nuestra historia\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/revivamos-nuestra-historia-columna-de-alfonso-gomez-mendez-847664"
     },
     {
         "article-type": "column",
-        "author": "Viviane Morales Hoyos",
-        "date": "2024-01-23",
+        "author": "Vladdo",
+        "date": "2024-01-24",
         "publication": "el-tiempo",
-        "title": "Este no es el proceso 8.000",
-        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/este-no-es-el-proceso-8-000-columna-de-viviane-morales-847219"
+        "title": "\u2018El Pa\u00eds\u2019 sin Savater",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/el-pais-sin-savater-columna-de-vladdo-847674"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2024-01-23",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2024-01-24",
         "publication": "el-tiempo",
-        "title": "Carrusel de las narrativas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/carrusel-de-las-narrativas-columna-de-eduardo-escobar-847232"
+        "title": "Del fin del nada\u00edsmo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/del-fin-del-nadaismo-columna-de-jotamario-arbelaez-847640"
     },
     {
         "article-type": "column",
-        "author": "Sara Tufano",
-        "date": "2024-01-23",
+        "author": "Mar\u00eda Eugenia Rinaudo",
+        "date": "2024-01-24",
         "publication": "el-tiempo",
-        "title": "Un presidente que no escucha",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/un-presidente-que-no-escucha-columna-de-sara-tufano-847239"
+        "title": "Naturaleza positiva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/naturaleza-positiva-columna-de-maria-eugenia-rinaudo-847666"
     },
     {
         "article-type": "column",
-        "author": "Sara Valentina Quevedo Delgado",
-        "date": "2024-01-23",
+        "author": "Froil\u00e1n Casas",
+        "date": "2024-01-24",
         "publication": "el-tiempo",
-        "title": "Violenta estigmatizaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sara-valentina-quevedo-delgado/violenta-estigmatizacion-columna-de-sara-valentina-quevedo-847258"
+        "title": "Manos manchadas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/froilan-casas/manos-manchadas-columna-de-froilan-casas-847634"
     },
     {
         "article-type": "column",
-        "author": "Fernando Montes Negret",
-        "date": "2024-01-23",
+        "author": "Poncho Renter\u00eda",
+        "date": "2024-01-24",
         "publication": "el-tiempo",
-        "title": "Econom\u00eda del comportamiento",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/economia-del-comportamiento-columna-de-fernando-montes-negret-847247"
+        "title": "Piedad C\u00f3rdoba y el Hay Festival",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/piedad-cordoba-y-el-hay-festival-columna-de-poncho-renteria-847638"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2024-01-23",
+        "author": "Catalina Escobar",
+        "date": "2024-01-24",
         "publication": "el-tiempo",
-        "title": "La novela \u2018Sol marchito\u2019: \u00bfmemoria de la guerra de 1876?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/la-novela-sol-marchito-memoria-de-la-guerra-de-1876-jose-miguel-alzate-847250"
+        "title": "\u201cUna de cada tres mujeres ha sufrido violencia f\u00edsica o sexual\"",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/una-de-cada-tres-mujeres-ha-sufrido-violencia-fisica-o-sexual-catalina-escobar-847669"
     }
 ]
