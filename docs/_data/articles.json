@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-24",
+        "date": "2024-01-25",
         "publication": "el-colombiano",
-        "title": "Los verdaderos protagonistas de Davos",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/los-verdaderos-protagonistas-de-davos-CN23599597"
+        "title": "\u00bfCu\u00e1nto tiempo le queda al sistema de salud?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/cuanto-tiempo-le-queda-al-sistema-de-salud-HH23608069"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-24",
+        "date": "2024-01-25",
         "publication": "el-espectador",
-        "title": "\u00bfPor qu\u00e9 seguimos sin contralor?",
-        "url": "https://www.elespectador.com/opinion/editorial/por-que-seguimos-sin-contralor/"
+        "title": "Nicol\u00e1s Maduro: imposible creer en la buena fe de un aut\u00f3crata",
+        "url": "https://www.elespectador.com/opinion/editorial/nicolas-maduro-imposible-creer-en-la-buena-fe-de-un-autocrata/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2024-01-25",
+        "publication": "el-espectador",
+        "title": "Columna de Luis Fernando Montoya: La selecci\u00f3n sub-23",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-la-seleccion-sub-23/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2024-01-25",
+        "publication": "el-espectador",
+        "title": "Si por ac\u00e1 llueve, por all\u00e1 no escampa",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/si-por-aca-llueve-por-alla-no-escampa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2024-01-25",
+        "publication": "el-espectador",
+        "title": "Museo Abierto de Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/museo-abierto-de-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2024-01-25",
+        "publication": "el-espectador",
+        "title": "Una caricia llamada cultura",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/una-caricia-llamada-cultura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2024-01-25",
+        "publication": "el-espectador",
+        "title": "Clima extremo: el futuro ya lleg\u00f3 ",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/clima-extremo-el-futuro-ya-llego/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2024-01-25",
+        "publication": "el-espectador",
+        "title": "Adi\u00f3s al falso \u201cS\u00edndrome de Alienaci\u00f3n Parental\u201d ",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/adios-al-falso-sindrome-de-alienacion-parental/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2024-01-25",
+        "publication": "el-espectador",
+        "title": "Sobre el humor en la m\u00fasica",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/sobre-el-humor-en-la-musica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2024-01-25",
+        "publication": "el-espectador",
+        "title": "Premios \u00d3scar: cr\u00edticas por Barbie y el hito de una mujer latina",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/premios-oscar-criticas-por-barbie-y-el-hito-de-una-mujer-latina/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2024-01-25",
+        "publication": "el-espectador",
+        "title": "Una instrucci\u00f3n en un correo termin\u00f3 siendo un t\u00edtulo",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/una-instruccion-en-un-correo-termino-siendo-un-titulo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2024-01-25",
+        "publication": "el-espectador",
+        "title": "Ayodhya",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/ayodhya-elecciones-en-india-marcos-peckel/"
     },
     {
         "article-type": "column",
@@ -49,14 +129,6 @@
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2024-01-24",
-        "publication": "el-espectador",
-        "title": "Borreguismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/borreguismo/"
-    },
-    {
-        "article-type": "column",
         "author": "Cecilia Orozco Tasc\u00f3n",
         "date": "2024-01-24",
         "publication": "el-espectador",
@@ -65,146 +137,66 @@
     },
     {
         "article-type": "column",
-        "author": "Columnista invitado EE",
+        "author": "Andr\u00e9s Hoyos",
         "date": "2024-01-24",
         "publication": "el-espectador",
-        "title": "Colombia sin Piedad",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/colombia-sin-piedad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-01-24",
-        "publication": "el-espectador",
-        "title": "Conoce una se\u00f1al para pedir ayuda",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/conoce-una-senal-para-pedir-ayuda/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2024-01-23",
-        "publication": "el-espectador",
-        "title": "Las primeras damas",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/las-primeras-damas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2024-01-23",
-        "publication": "el-espectador",
-        "title": "\u00bfCambio en Guatemala le arde al uribismo?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/cambio-en-guatemala-le-arde-al-uribismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2024-01-23",
-        "publication": "el-espectador",
-        "title": "El cambio real",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/el-cambio-real/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2024-01-23",
-        "publication": "el-espectador",
-        "title": "Vistiendo el futuro",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/vistiendo-el-futuro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2024-01-23",
-        "publication": "el-espectador",
-        "title": "Claudia",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/claudia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Garc\u00eda-Pe\u00f1a",
-        "date": "2024-01-23",
-        "publication": "el-espectador",
-        "title": "Gracias, Piedad",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/gracias-piedad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2024-01-23",
-        "publication": "el-espectador",
-        "title": "Cambi\u00e9 de opini\u00f3n sobre el uso de las redes por parte de ni\u00f1os y j\u00f3venes",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/cambie-de-opinion-sobre-el-uso-de-las-redes-por-parte-de-ninos-y-jovenes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2024-01-23",
-        "publication": "el-espectador",
-        "title": "El fiscal yogurt",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-fiscal-yogurt/"
+        "title": "Borreguismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/borreguismo/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-24",
+        "date": "2024-01-25",
         "publication": "el-tiempo",
-        "title": "Incendios por doquier",
-        "url": "https://www.eltiempo.com/opinion/editorial/incendios-por-doquier-editorial-el-tiempo-847688"
+        "title": "El futuro del \u2018Transmi\u2019",
+        "url": "https://www.eltiempo.com/opinion/editorial/el-futuro-del-transmi-editorial-el-tiempo-848104"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2024-01-24",
+        "author": "Pedro Medellin",
+        "date": "2024-01-25",
         "publication": "el-tiempo",
-        "title": "\u2018Revivamos nuestra historia\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/revivamos-nuestra-historia-columna-de-alfonso-gomez-mendez-847664"
+        "title": "En modo campa\u00f1a electoral",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/en-modo-campana-electoral-columna-de-pedro-medellin-848078"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2024-01-24",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2024-01-25",
         "publication": "el-tiempo",
-        "title": "\u2018El Pa\u00eds\u2019 sin Savater",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/el-pais-sin-savater-columna-de-vladdo-847674"
+        "title": "Como yo diga",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/como-yo-diga-columna-de-juan-esteban-constain-848050"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2024-01-24",
+        "author": "Juliana Mej\u00eda",
+        "date": "2024-01-25",
         "publication": "el-tiempo",
-        "title": "Del fin del nada\u00edsmo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/del-fin-del-nadaismo-columna-de-jotamario-arbelaez-847640"
+        "title": "Buenaventura tiene esperanza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/buenaventura-tiene-esperanza-columna-de-juliana-mejia-848011"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Eugenia Rinaudo",
-        "date": "2024-01-24",
+        "author": "Fernando S\u00e1nchez Torres",
+        "date": "2024-01-25",
         "publication": "el-tiempo",
-        "title": "Naturaleza positiva",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/naturaleza-positiva-columna-de-maria-eugenia-rinaudo-847666"
+        "title": "Ayudar a nacer (II)",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/ayudar-a-nacer-ii-columna-de-fernando-sanchez-torres-848044"
     },
     {
         "article-type": "column",
-        "author": "Froil\u00e1n Casas",
-        "date": "2024-01-24",
+        "author": "Diana Pardo",
+        "date": "2024-01-25",
         "publication": "el-tiempo",
-        "title": "Manos manchadas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/froilan-casas/manos-manchadas-columna-de-froilan-casas-847634"
+        "title": "Abuso de confianza",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/abuso-de-confianza-columna-de-diana-pardo-848029"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2024-01-24",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2024-01-25",
         "publication": "el-tiempo",
-        "title": "Piedad C\u00f3rdoba y el Hay Festival",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/piedad-cordoba-y-el-hay-festival-columna-de-poncho-renteria-847638"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Escobar",
-        "date": "2024-01-24",
-        "publication": "el-tiempo",
-        "title": "\u201cUna de cada tres mujeres ha sufrido violencia f\u00edsica o sexual\"",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/una-de-cada-tres-mujeres-ha-sufrido-violencia-fisica-o-sexual-catalina-escobar-847669"
+        "title": "Los peligros de la democracia en Am\u00e9rica Latina",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/los-peligros-de-la-democracia-en-america-latina-columna-de-fabio-marinez-848056"
     }
 ]
