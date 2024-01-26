@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-25",
+        "date": "2024-01-26",
         "publication": "el-colombiano",
-        "title": "\u00bfCu\u00e1nto tiempo le queda al sistema de salud?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/cuanto-tiempo-le-queda-al-sistema-de-salud-HH23608069"
+        "title": "Dej\u00e9moslo a \u00e9l que divague",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/dejemoslo-a-el-que-divague-PG23614319"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-25",
+        "date": "2024-01-26",
         "publication": "el-espectador",
-        "title": "Nicol\u00e1s Maduro: imposible creer en la buena fe de un aut\u00f3crata",
-        "url": "https://www.elespectador.com/opinion/editorial/nicolas-maduro-imposible-creer-en-la-buena-fe-de-un-autocrata/"
+        "title": "Advertidos y mal preparados para los incendios",
+        "url": "https://www.elespectador.com/opinion/editorial/advertidos-y-mal-preparados-para-los-incendios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2024-01-26",
+        "publication": "el-espectador",
+        "title": "Se le est\u00e1n muriendo los ni\u00f1os de hambre, presidente",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/se-le-estan-muriendo-los-ninos-de-hambre-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2024-01-26",
+        "publication": "el-espectador",
+        "title": "El pa\u00eds de los impuestos",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-pais-de-los-impuestos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2024-01-26",
+        "publication": "el-espectador",
+        "title": "Poeta andaluz entre cachacos",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/poeta-andaluz-entre-cachacos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2024-01-26",
+        "publication": "el-espectador",
+        "title": "Elecciones, elecciones",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/elecciones-elecciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2024-01-26",
+        "publication": "el-espectador",
+        "title": "Beatriz en el Infierno",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/beatriz-en-el-infierno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2024-01-26",
+        "publication": "el-espectador",
+        "title": "Corte a la restituci\u00f3n de tierras",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/corte-a-la-restitucion-de-tierras/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2024-01-26",
+        "publication": "el-espectador",
+        "title": "Malabares",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/malabares/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas de los lectores",
+        "date": "2024-01-26",
+        "publication": "el-espectador",
+        "title": "A manera de antieditorial: el derecho que le asiste a un contralor",
+        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/a-manera-de-antieditorial-el-derecho-que-le-asiste-a-un-contralor/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2024-01-26",
+        "publication": "el-espectador",
+        "title": "Ver\u00f3nica Alcocer le est\u00e1 haciendo trampa a Colombia | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-veronica-alcocer-le-esta-haciendo-trampa-a-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Centro de Estudios sobre Seguridad y Drogas (Cesed)",
+        "date": "2024-01-26",
+        "publication": "el-espectador",
+        "title": "Las expectativas en la Pol\u00edtica de Drogas para el 2024",
+        "url": "https://www.elespectador.com/colombia-20/analistas/politica-de-drogas-del-gobierno-petro-10-expectativas-del-cesed-uniandes-para-2024/"
     },
     {
         "article-type": "column",
@@ -41,19 +121,19 @@
     },
     {
         "article-type": "column",
-        "author": "Claudia Morales",
-        "date": "2024-01-25",
-        "publication": "el-espectador",
-        "title": "Una caricia llamada cultura",
-        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/una-caricia-llamada-cultura/"
-    },
-    {
-        "article-type": "column",
         "author": "Yolanda Ruiz",
         "date": "2024-01-25",
         "publication": "el-espectador",
         "title": "Clima extremo: el futuro ya lleg\u00f3 ",
         "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/clima-extremo-el-futuro-ya-llego/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2024-01-25",
+        "publication": "el-espectador",
+        "title": "Una caricia llamada cultura",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/una-caricia-llamada-cultura/"
     },
     {
         "article-type": "column",
@@ -64,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/adios-al-falso-sindrome-de-alienacion-parental/"
     },
     {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2024-01-25",
-        "publication": "el-espectador",
-        "title": "Sobre el humor en la m\u00fasica",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/sobre-el-humor-en-la-musica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-01-25",
-        "publication": "el-espectador",
-        "title": "Premios \u00d3scar: cr\u00edticas por Barbie y el hito de una mujer latina",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/premios-oscar-criticas-por-barbie-y-el-hito-de-una-mujer-latina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-01-25",
-        "publication": "el-espectador",
-        "title": "Una instrucci\u00f3n en un correo termin\u00f3 siendo un t\u00edtulo",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/una-instruccion-en-un-correo-termino-siendo-un-titulo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2024-01-25",
-        "publication": "el-espectador",
-        "title": "Ayodhya",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/ayodhya-elecciones-en-india-marcos-peckel/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2024-01-24",
-        "publication": "el-espectador",
-        "title": "La gente, las naciones ",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/la-gente-las-naciones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2024-01-24",
-        "publication": "el-espectador",
-        "title": "Dosis de realidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/dosis-de-realidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2024-01-24",
-        "publication": "el-espectador",
-        "title": "Los anuncios del contralor que los senadores deben considerar",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/los-anuncios-del-contralor-que-los-senadores-deben-considerar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2024-01-24",
-        "publication": "el-espectador",
-        "title": "\u00bfHablamos de unidad? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/hablamos-de-unidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-01-24",
-        "publication": "el-espectador",
-        "title": "Piedad C\u00f3rdoba, perseguida por ignorantes y letrados",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/piedad-cordoba-perseguida-por-ignorantes-y-letrados/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2024-01-24",
-        "publication": "el-espectador",
-        "title": "Borreguismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/borreguismo/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-25",
+        "date": "2024-01-26",
         "publication": "el-tiempo",
-        "title": "El futuro del \u2018Transmi\u2019",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-futuro-del-transmi-editorial-el-tiempo-848104"
+        "title": "Una discusi\u00f3n t\u00e9cnica",
+        "url": "https://www.eltiempo.com/opinion/editorial/una-discusion-tecnica-editorial-el-tiempo-848501"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2024-01-25",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2024-01-26",
         "publication": "el-tiempo",
-        "title": "En modo campa\u00f1a electoral",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/en-modo-campana-electoral-columna-de-pedro-medellin-848078"
+        "title": "\u00bfRealmente est\u00e1 en crisis la democracia?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/realmente-esta-en-crisis-la-democracia-columna-de-moises-wasserman-848440"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2024-01-25",
+        "author": "Ricardo Silva Romero",
+        "date": "2024-01-26",
         "publication": "el-tiempo",
-        "title": "Como yo diga",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/como-yo-diga-columna-de-juan-esteban-constain-848050"
+        "title": "Pepes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/pepes-columna-de-ricardo-silva-romero-848474"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2024-01-25",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2024-01-26",
         "publication": "el-tiempo",
-        "title": "Buenaventura tiene esperanza",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/buenaventura-tiene-esperanza-columna-de-juliana-mejia-848011"
+        "title": "Perspectiva de Trump 2",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/perspectiva-de-trump-2-columna-de-eduardo-posada-carbo-848459"
     },
     {
         "article-type": "column",
-        "author": "Fernando S\u00e1nchez Torres",
-        "date": "2024-01-25",
+        "author": "Luz Stella Murgas",
+        "date": "2024-01-26",
         "publication": "el-tiempo",
-        "title": "Ayudar a nacer (II)",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-sanchez-torres/ayudar-a-nacer-ii-columna-de-fernando-sanchez-torres-848044"
+        "title": "Haciendo la tarea con el planeta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luz-stella-murgas/haciendo-la-tarea-con-el-planeta-columna-de-luz-stella-murgas-848484"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2024-01-25",
+        "author": "Santiago Vargas Acebedo",
+        "date": "2024-01-26",
         "publication": "el-tiempo",
-        "title": "Abuso de confianza",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/abuso-de-confianza-columna-de-diana-pardo-848029"
+        "title": "\u00bfC\u00f3mo entender los apodos que usa Donald Trump?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/como-entender-los-apodos-que-usa-donald-trump-columna-de-santiago-vargas-848479"
     },
     {
         "article-type": "column",
-        "author": "Fabio Mart\u00ednez",
-        "date": "2024-01-25",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2024-01-26",
         "publication": "el-tiempo",
-        "title": "Los peligros de la democracia en Am\u00e9rica Latina",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/los-peligros-de-la-democracia-en-america-latina-columna-de-fabio-marinez-848056"
+        "title": "\u00bfPor qu\u00e9 se incendian los bosques?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/por-que-se-incendian-los-bosques-columna-de-manuel-guzman-hennessey-848423"
+    },
+    {
+        "article-type": "column",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2024-01-26",
+        "publication": "el-tiempo",
+        "title": "Mikis Theodorakis y Gabriel Garc\u00eda M\u00e1rquez, en la gen\u00e9tica del MAS",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/mikis-theodorakis-y-gabriel-garcia-marquez-en-la-genetica-del-mas-848466"
     }
 ]
