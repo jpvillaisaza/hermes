@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-27",
+        "date": "2024-01-28",
         "publication": "el-colombiano",
-        "title": "Adaptaci\u00f3n y gesti\u00f3n de riesgo de desastres",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/adaptacion-y-gestion-de-riesgo-de-desastres-CF23622176"
+        "title": "La lecci\u00f3n de Piedad",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-leccion-de-piedad-IF23624941"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-27",
+        "date": "2024-01-28",
         "publication": "el-espectador",
-        "title": "Un asesinato que silencia a una comunidad entera",
-        "url": "https://www.elespectador.com/opinion/editorial/un-asesinato-que-silencia-a-una-comunidad-entera/"
+        "title": "La promesa de cambio no confiere inmunidad legal ",
+        "url": "https://www.elespectador.com/opinion/editorial/la-promesa-de-cambio-no-confiere-inmunidad-legal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marc Hofstetter",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "El vendedor de humo y el divagador",
+        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/el-vendedor-de-humo-y-el-divagador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Uprimny",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "La Corte Suprema: en deuda por la Fiscal\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/la-corte-suprema-en-deuda-por-la-fiscalia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Piedad Bonnett",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "Una mirada comprensiva",
+        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/una-mirada-comprensiva/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lariza Pizano",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "Ver para pagar",
+        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/ver-para-pagar/"
+    },
+    {
+        "article-type": "column",
+        "author": "H\u00e9ctor Abad Faciolince",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "Apagando incendios",
+        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/apagando-incendios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Botero Caicedo",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "\u00bfAlg\u00fan d\u00eda convertir\u00e1n la ret\u00f3rica en acci\u00f3n? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/algun-dia-convertiran-la-retorica-en-accion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Armando Montenegro",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "R\u00e9quiem por las bermas",
+        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/requiem-por-las-bermas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "Una soluci\u00f3n pac\u00edfica para Taiw\u00e1n es cada vez m\u00e1s lejana",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/una-solucion-pacifica-para-taiwan-es-cada-vez-mas-lejana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ramiro Bejarano Guzm\u00e1n",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "Del partido \u00fanico a la reelecci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/del-partido-unico-a-la-reeleccion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando G\u00f3mez Buend\u00eda",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "La paz equivocada",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/la-paz-equivocada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Bayly",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "Matamoscas",
+        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/matamoscas/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2024-01-28",
+        "publication": "el-espectador",
+        "title": "MICROLINGOTES",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-131/"
     },
     {
         "article-type": "column",
@@ -33,14 +129,6 @@
     },
     {
         "article-type": "column",
-        "author": "Julio C\u00e9sar Londo\u00f1o",
-        "date": "2024-01-27",
-        "publication": "el-espectador",
-        "title": "La invenci\u00f3n de la muerte",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/la-invencion-de-la-muerte-2/"
-    },
-    {
-        "article-type": "column",
         "author": "Esteban Carlos Mej\u00eda",
         "date": "2024-01-27",
         "publication": "el-espectador",
@@ -49,162 +137,82 @@
     },
     {
         "article-type": "column",
-        "author": "Luis Fernando Charry",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
         "date": "2024-01-27",
         "publication": "el-espectador",
-        "title": "Autenticidad y reconocimiento",
-        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/autenticidad-y-reconocimiento/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2024-01-27",
-        "publication": "el-espectador",
-        "title": "El arte de comunicar",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/el-arte-de-comunicar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Uribe Rinc\u00f3n",
-        "date": "2024-01-27",
-        "publication": "el-espectador",
-        "title": "La violencia de los \u201cinfluencers\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/la-violencia-de-los-influencers/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Amaya",
-        "date": "2024-01-27",
-        "publication": "el-espectador",
-        "title": "Columna de Opini\u00f3n de Camilo Amaya: La \u201cmacchina umana\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-amaya/columna-de-opinion-de-camilo-amaya-la-macchina-umana-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Nicol\u00e1s Rodr\u00edguez",
-        "date": "2024-01-27",
-        "publication": "el-espectador",
-        "title": "Pesos y pesados contrapesos",
-        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/pesos-y-pesados-contrapesos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2024-01-26",
-        "publication": "el-espectador",
-        "title": "Se le est\u00e1n muriendo los ni\u00f1os de hambre, presidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/se-le-estan-muriendo-los-ninos-de-hambre-presidente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2024-01-26",
-        "publication": "el-espectador",
-        "title": "Poeta andaluz entre cachacos",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/poeta-andaluz-entre-cachacos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2024-01-26",
-        "publication": "el-espectador",
-        "title": "Elecciones, elecciones",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/elecciones-elecciones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2024-01-26",
-        "publication": "el-espectador",
-        "title": "Beatriz en el Infierno",
-        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/beatriz-en-el-infierno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2024-01-26",
-        "publication": "el-espectador",
-        "title": "El pa\u00eds de los impuestos",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-pais-de-los-impuestos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas de los lectores",
-        "date": "2024-01-26",
-        "publication": "el-espectador",
-        "title": "A manera de antieditorial: el derecho que le asiste a un contralor",
-        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/a-manera-de-antieditorial-el-derecho-que-le-asiste-a-un-contralor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2024-01-26",
-        "publication": "el-espectador",
-        "title": "Malabares",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/malabares/"
+        "title": "La invenci\u00f3n de la muerte",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/la-invencion-de-la-muerte-2/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-27",
+        "date": "2024-01-28",
         "publication": "el-tiempo",
-        "title": "Y ahora, por la calidad",
-        "url": "https://www.eltiempo.com/opinion/editorial/y-ahora-por-la-calidad-editorial-el-tiempo-848918"
+        "title": "Mitigaci\u00f3n y adaptaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-28-de-enero-de-2024-mitigacion-y-adaptacion-849069"
     },
     {
         "article-type": "column",
-        "author": "Carlos Caballero Arg\u00e1ez",
-        "date": "2024-01-27",
+        "author": "Germ\u00e1n Vargas Lleras",
+        "date": "2024-01-28",
         "publication": "el-tiempo",
-        "title": "El gobierno de las \u2018pifias\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/el-gobierno-de-las-pifias-columna-de-carlos-caballero-argaez-848838"
+        "title": "Incendio en la torre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-incendio-en-la-torre-849071"
     },
     {
         "article-type": "column",
-        "author": "Luis No\u00e9 Ochoa",
-        "date": "2024-01-27",
+        "author": "Mar\u00eda Isabel Rueda",
+        "date": "2024-01-28",
         "publication": "el-tiempo",
-        "title": "El rancho ardiendo y el agua lejos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/el-rancho-ardiendo-el-agua-lejos-columna-de-luis-noe-ochoa-848872"
+        "title": "El canon de la fealdad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-el-canon-de-la-fealdad-849077"
     },
     {
         "article-type": "column",
-        "author": "Francisco Vera",
-        "date": "2024-01-27",
+        "author": "N\u00e9stor Humberto Mart\u00ednez",
+        "date": "2024-01-28",
         "publication": "el-tiempo",
-        "title": "El planeta necesita educaci\u00f3n para la vida",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-planeta-necesita-educacion-para-la-vida-columna-de-francisco-vera-848864"
+        "title": "Adi\u00f3s a la extradici\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-adios-a-la-extradicion-849080"
     },
     {
         "article-type": "column",
-        "author": "\u00c1ngela Hurtado",
-        "date": "2024-01-27",
+        "author": "Mauricio Vargas",
+        "date": "2024-01-28",
         "publication": "el-tiempo",
-        "title": "Otro a\u00f1o de volatilidad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/otro-ano-de-volatilidad-columna-de-angela-hurtado-848882"
+        "title": "La terna se va en blanco",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-la-terna-se-va-en-blanco-849070"
     },
     {
         "article-type": "column",
-        "author": "Adolfo Zableh Dur\u00e1n",
-        "date": "2024-01-27",
+        "author": "Roy Barreras",
+        "date": "2024-01-28",
         "publication": "el-tiempo",
-        "title": "No se cuele",
-        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/no-se-cuele-columna-de-adolfo-zableh-848848"
+        "title": "Colombia, en el centro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/roy-barreras/columna-de-roy-barreras-colombia-en-el-centro-849078"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2024-01-27",
+        "author": "Thierry Ways",
+        "date": "2024-01-28",
         "publication": "el-tiempo",
-        "title": "Orgasmo y libertad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/orgasmo-y-libertad-columna-de-armando-silva-848867"
+        "title": "El Ministerio de la Verdad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-el-ministerio-de-la-verdad-849075"
     },
     {
         "article-type": "column",
-        "author": "Alpher Rojas Carvajal",
-        "date": "2024-01-27",
+        "author": "Luis Carlos Villegas",
+        "date": "2024-01-28",
         "publication": "el-tiempo",
-        "title": "\u00a1Adi\u00f3s, Piedad!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-carvajal/adios-piedad-columna-de-alpher-rojas-848063"
+        "title": "Vecino enojoso",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-carlos-villegas/columna-de-luis-carlos-villegas-vecino-enojoso-849081"
+    },
+    {
+        "article-type": "column",
+        "author": "Mois\u00e9s Na\u00edm",
+        "date": "2024-01-28",
+        "publication": "el-tiempo",
+        "title": "Los terremotos en Gaza e Israel",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-naim/columna-de-moises-naim-los-terremotos-en-gaza-e-israel-849076"
     }
 ]
