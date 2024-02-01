@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-31",
+        "date": "2024-02-01",
         "publication": "el-colombiano",
-        "title": "D\u00e9monos un respiro",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/demonos-un-respiro-LD23641390"
+        "title": "\u00bfPor qu\u00e9 calla Petro?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/por-que-calla-petro-ED23649195"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-31",
+        "date": "2024-02-01",
         "publication": "el-espectador",
-        "title": "No caben medias tintas ante la tiran\u00eda venezolana ",
-        "url": "https://www.elespectador.com/opinion/editorial/no-caben-medias-tintas-ante-la-tirania-venezolana/"
+        "title": "Un siglo para recuperar los cerros",
+        "url": "https://www.elespectador.com/opinion/editorial/un-siglo-para-recuperar-los-cerros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "\u00bfPOT expr\u00e9s?",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/pot-expres/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "El glamur de la barbarie",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/el-glamur-de-la-barbarie/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Carrizosa Calle",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "Cuando grandes, seamos bomberos ",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/cuando-grandes-seamos-bomberos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "Denuncias contra el director Carlos Vermut por presunta violencia sexual",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/denuncias-contra-el-director-carlos-vermut-por-presunta-violencia-sexual/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "De \u201cLa sociedad de la nieve\u201d a la sociedad actual",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/de-la-sociedad-de-la-nieve-a-la-sociedad-actual/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda \u00c1ngela Holgu\u00edn",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "Algo no cuadra en Venezuela",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-angela-holguin/algo-no-cuadra-en-venezuela/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "El plural en los a\u00f1os",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-plural-en-los-anos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Blanca In\u00e9s Dur\u00e1n",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "Si los cerros pudieran hablar",
+        "url": "https://www.elespectador.com/opinion/columnistas/blancainesduran/si-los-cerros-pudieran-hablar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "Columna de Luis Fernando Montoya: Reestructuraci\u00f3n en las selecciones de Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-reestructuracion-en-las-selecciones-de-colombia-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "Las amantes y acompa\u00f1antes del presidente",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/las-amantes-y-acompanantes-del-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jos\u00e9 Obdulio Espejo Mu\u00f1oz",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "Paz, ELN y disidencias",
+        "url": "https://www.elespectador.com/colombia-20/analistas/paz-eln-y-disidencias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2024-02-01",
+        "publication": "el-espectador",
+        "title": "\u201cPreferimos pecar por exceso de libertades que por coartarlas\u201d: Fidel Cano",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/preferimos-pecar-por-exceso-de-libertades-que-por-coartarlas-fidel-cano/"
     },
     {
         "article-type": "column",
@@ -48,163 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/los-dias-de-fuego/"
     },
     {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "El Barrio de Griselda",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-barrio-de-griselda/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "\u00bfSeguir\u00e1 libre Mar\u00eda Corina?",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/seguira-libre-maria-corina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "Que termine de posesionarse ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/que-termine-de-posesionarse/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "\u00bfTumbaron al hombre que entreg\u00f3 a Santrich?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/tumbaron-al-hombre-que-entrego-a-santrich/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "Soplidos providenciales",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/soplidos-providenciales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "Leer, escribir y pensar, hoy. El arte y el oficio de leer (V) ",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/leer-escribir-y-pensar-hoy-el-arte-y-el-oficio-de-leer-v/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "El Cohete",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-cohete/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "La hist\u00f3rica discriminaci\u00f3n de la mujer en la filosof\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/la-historica-discriminacion-de-la-mujer-en-la-filosofia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "Maduro activa el garrote contra los maestros venezolanos",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/maduro-activa-el-garrote-contra-los-maestros-venezolanos/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2024-01-30",
-        "publication": "el-espectador",
-        "title": "Piedad C\u00f3rdoba",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/piedad-cordoba/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Rivas",
-        "date": "2024-01-30",
-        "publication": "el-espectador",
-        "title": "Los impuestos al capital",
-        "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/los-impuestos-al-capital/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2024-01-30",
-        "publication": "el-espectador",
-        "title": "El manifiesto cavernario de Milei",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/el-manifiesto-cavernario-de-milei/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-01-31",
+        "date": "2024-02-01",
         "publication": "el-tiempo",
-        "title": "Retroceso en Venezuela",
-        "url": "https://www.eltiempo.com/opinion/editorial/retroceso-en-venezuela-editorial-el-tiempo-850019"
+        "title": "La sanci\u00f3n al canciller",
+        "url": "https://www.eltiempo.com/opinion/editorial/la-sancion-al-canciller-editorial-el-tiempo-850444"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2024-01-31",
+        "author": "Pedro Medellin",
+        "date": "2024-02-01",
         "publication": "el-tiempo",
-        "title": "Temas de justicia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/temas-de-justicia-columna-de-alfonso-gomez-mendez-849959"
+        "title": "El precipicio totalitario",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-precipicio-totalitario-columna-de-pedro-medellin-850443"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2024-01-31",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2024-02-01",
         "publication": "el-tiempo",
-        "title": "\u00bfY si se acabara la robadera?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/y-si-se-acabara-la-robadera-columna-de-vladdo-849982"
+        "title": "Olor de padre",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/olor-de-padre-columna-de-juan-esteban-constain-850341"
     },
     {
         "article-type": "column",
-        "author": "Andr\u00e9s Hurtado Garc\u00eda",
-        "date": "2024-01-31",
+        "author": "Claudia Palacios",
+        "date": "2024-02-01",
         "publication": "el-tiempo",
-        "title": "\u2018Juan B\u2019 y el Valle de Cocora",
-        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/juan-b-y-el-valle-de-cocora-columna-de-andres-hurtado-garcia-849985"
+        "title": "\u2018La embarazada\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/la-embarazada-columna-de-claudia-palacios-850401"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Eugenia Rinaudo",
-        "date": "2024-01-31",
+        "author": "Sergio Ram\u00edrez",
+        "date": "2024-02-01",
         "publication": "el-tiempo",
-        "title": "Dos metros cuadrados",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-eugenia-rinaudo/dos-metros-cuadrados-columna-de-maria-eugenia-rinaudo-849994"
+        "title": "Valiente mundo real",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/valiente-mundo-real-columna-de-sergio-ramirez-850338"
     },
     {
         "article-type": "column",
-        "author": "Gustavo Duncan",
-        "date": "2024-01-31",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2024-02-01",
         "publication": "el-tiempo",
-        "title": "Un hombre solo",
-        "url": "https://www.eltiempo.com/opinion/cartas/un-hombre-solo-columna-de-gustavo-duncan-849978"
+        "title": "\u2018Colombia secreta\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/colombia-secreta-columna-de-victor-manuel-ruiz-850389"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2024-01-31",
+        "author": "Mauricio Laurens - Cine al Ojo",
+        "date": "2024-02-01",
         "publication": "el-tiempo",
-        "title": "Leyva se hizo un autogol",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/leyva-se-hizo-un-autogol-columna-de-poncho-renteria-849988"
+        "title": "Variaciones rom\u00e1nticas y posmodernas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/variaciones-romanticas-y-posmodernas-columna-de-mauricio-laurens-850435"
     },
     {
         "article-type": "column",
-        "author": "Bj\u00f8rn Lomborg",
-        "date": "2024-01-31",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2024-02-01",
         "publication": "el-tiempo",
-        "title": "Hipocres\u00eda de los pa\u00edses ricos desv\u00eda fondos para el desarrollo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/bjorn-lomborg/hipocresia-de-los-paises-ricos-desvia-fondos-para-el-desarrollo-bjorn-lomborg-850001"
+        "title": "Tenemos el liderazgo para derrotar el r\u00e9gimen",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/tenemos-el-liderazgo-para-derrotar-el-regimen-columna-de-alexander-cambero-850411"
     }
 ]
