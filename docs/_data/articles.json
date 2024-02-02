@@ -2,26 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-01",
+        "date": "2024-02-02",
         "publication": "el-colombiano",
-        "title": "\u00bfPor qu\u00e9 calla Petro?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/por-que-calla-petro-ED23649195"
+        "title": "La U. de Medell\u00edn: \u00a1Qu\u00e9 guayabo!",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-u-de-medellin-que-guayabo-AC23657227"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-01",
+        "date": "2024-02-02",
         "publication": "el-espectador",
-        "title": "Un siglo para recuperar los cerros",
-        "url": "https://www.elespectador.com/opinion/editorial/un-siglo-para-recuperar-los-cerros/"
+        "title": "Se asom\u00f3 una esperanza por el Pac\u00edfico colombiano",
+        "url": "https://www.elespectador.com/opinion/editorial/se-asomo-una-esperanza-por-el-pacifico-colombiano/"
     },
     {
         "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2024-02-01",
+        "author": "Juan Diego Soler",
+        "date": "2024-02-02",
         "publication": "el-espectador",
-        "title": "\u00bfPOT expr\u00e9s?",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/pot-expres/"
+        "title": "Nuestro pedazo del cielo",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-diego-soler/nuestro-pedazo-del-cielo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2024-02-02",
+        "publication": "el-espectador",
+        "title": "La apuesta de Barbosa",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/la-apuesta-de-barbosa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tom\u00e1s Molina",
+        "date": "2024-02-02",
+        "publication": "el-espectador",
+        "title": "Adam Smith, h\u00e9roe de los trabajadores",
+        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/adam-smith-heroe-de-los-trabajadores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2024-02-02",
+        "publication": "el-espectador",
+        "title": "\u00bfUstedes entienden?",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/ustedes-entienden/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2024-02-02",
+        "publication": "el-espectador",
+        "title": "\u00bfMala prensa para Colombia?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/mala-prensa-para-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2024-02-02",
+        "publication": "el-espectador",
+        "title": "Una mujer decapitada",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/una-mujer-decapitada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2024-02-02",
+        "publication": "el-espectador",
+        "title": "Cambio de Tercio",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/cambio-de-tercio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2024-02-02",
+        "publication": "el-espectador",
+        "title": "Cine colombiano: todo surgi\u00f3 en Cali",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/cine-colombiano-todo-surgio-en-cali/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas de los lectores",
+        "date": "2024-02-02",
+        "publication": "el-espectador",
+        "title": "Sobre el t\u00edtulo de un editorial y las elecciones de 2026",
+        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/sobre-el-titulo-de-un-editorial-y-las-elecciones-de-2026/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2024-02-02",
+        "publication": "el-espectador",
+        "title": "Nayib Bukele va a ganar CON TRAMPA en El Salvador | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-nayib-bukele-va-a-ganar-con-trampa-en-el-salvador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2024-02-02",
+        "publication": "el-espectador",
+        "title": "Las dos Colombias",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/las-dos-colombias/"
     },
     {
         "article-type": "column",
@@ -33,27 +113,11 @@
     },
     {
         "article-type": "column",
-        "author": "Cristina Carrizosa Calle",
+        "author": "Brigitte LG Baptiste",
         "date": "2024-02-01",
         "publication": "el-espectador",
-        "title": "Cuando grandes, seamos bomberos ",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/cuando-grandes-seamos-bomberos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-02-01",
-        "publication": "el-espectador",
-        "title": "Denuncias contra el director Carlos Vermut por presunta violencia sexual",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/denuncias-contra-el-director-carlos-vermut-por-presunta-violencia-sexual/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2024-02-01",
-        "publication": "el-espectador",
-        "title": "De \u201cLa sociedad de la nieve\u201d a la sociedad actual",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/de-la-sociedad-de-la-nieve-a-la-sociedad-actual/"
+        "title": "\u00bfPOT expr\u00e9s?",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/pot-expres/"
     },
     {
         "article-type": "column",
@@ -65,146 +129,98 @@
     },
     {
         "article-type": "column",
-        "author": "Juan David Zuloaga D.",
+        "author": "Cristina Nicholls Ocampo",
         "date": "2024-02-01",
         "publication": "el-espectador",
-        "title": "El plural en los a\u00f1os",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-plural-en-los-anos/"
+        "title": "De \u201cLa sociedad de la nieve\u201d a la sociedad actual",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/de-la-sociedad-de-la-nieve-a-la-sociedad-actual/"
     },
     {
         "article-type": "column",
-        "author": "Blanca In\u00e9s Dur\u00e1n",
+        "author": "Cristina Carrizosa Calle",
         "date": "2024-02-01",
         "publication": "el-espectador",
-        "title": "Si los cerros pudieran hablar",
-        "url": "https://www.elespectador.com/opinion/columnistas/blancainesduran/si-los-cerros-pudieran-hablar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2024-02-01",
-        "publication": "el-espectador",
-        "title": "Columna de Luis Fernando Montoya: Reestructuraci\u00f3n en las selecciones de Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-de-luis-fernando-montoya-reestructuracion-en-las-selecciones-de-colombia-noticias-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2024-02-01",
-        "publication": "el-espectador",
-        "title": "Las amantes y acompa\u00f1antes del presidente",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/las-amantes-y-acompanantes-del-presidente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jos\u00e9 Obdulio Espejo Mu\u00f1oz",
-        "date": "2024-02-01",
-        "publication": "el-espectador",
-        "title": "Paz, ELN y disidencias",
-        "url": "https://www.elespectador.com/colombia-20/analistas/paz-eln-y-disidencias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-02-01",
-        "publication": "el-espectador",
-        "title": "\u201cPreferimos pecar por exceso de libertades que por coartarlas\u201d: Fidel Cano",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/preferimos-pecar-por-exceso-de-libertades-que-por-coartarlas-fidel-cano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Oscar Guardiola-Rivera",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "Contra la hipocres\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/contra-la-hipocresia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sandra Vilardy",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "El duelo clim\u00e1tico",
-        "url": "https://www.elespectador.com/opinion/columnistas/sandra-vilardy/el-duelo-climatico/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "Lost in translation: \u2018Pedro P\u00e1ramo\u2019 en ingl\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/lost-in-translation-pedro-paramo-en-ingles/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2024-01-31",
-        "publication": "el-espectador",
-        "title": "Los d\u00edas de fuego",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/los-dias-de-fuego/"
+        "title": "Cuando grandes, seamos bomberos ",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/cuando-grandes-seamos-bomberos/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-01",
+        "date": "2024-02-02",
         "publication": "el-tiempo",
-        "title": "La sanci\u00f3n al canciller",
-        "url": "https://www.eltiempo.com/opinion/editorial/la-sancion-al-canciller-editorial-el-tiempo-850444"
+        "title": "Motos y siniestralidad",
+        "url": "https://www.eltiempo.com/opinion/editorial/motos-y-siniestralidad-editorial-el-tiempo-850847"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2024-02-01",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2024-02-02",
         "publication": "el-tiempo",
-        "title": "El precipicio totalitario",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/el-precipicio-totalitario-columna-de-pedro-medellin-850443"
+        "title": "Baudolino",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/baudolino-columna-de-moises-wasserman-850770"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2024-02-01",
+        "author": "Ricardo Silva Romero",
+        "date": "2024-02-02",
         "publication": "el-tiempo",
-        "title": "Olor de padre",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/olor-de-padre-columna-de-juan-esteban-constain-850341"
+        "title": "Conciliaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/conciliacion-columna-de-ricardo-silva-romero-850788"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2024-02-01",
+        "author": "Claudia Hakim",
+        "date": "2024-02-02",
         "publication": "el-tiempo",
-        "title": "\u2018La embarazada\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/la-embarazada-columna-de-claudia-palacios-850401"
+        "title": "La joya de \u2018Mona Lisa\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/la-joya-de-mona-lisa-columna-de-claudia-hakim-850779"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2024-02-01",
+        "author": "Martha Ortiz",
+        "date": "2024-02-02",
         "publication": "el-tiempo",
-        "title": "Valiente mundo real",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/valiente-mundo-real-columna-de-sergio-ramirez-850338"
+        "title": "Bogot\u00e1 huele a humo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/bogota-huele-a-humo-columna-de-martha-ortiz-850794"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Manuel Ruiz",
-        "date": "2024-02-01",
+        "author": "Alfredo Rangel",
+        "date": "2024-02-02",
         "publication": "el-tiempo",
-        "title": "\u2018Colombia secreta\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/colombia-secreta-columna-de-victor-manuel-ruiz-850389"
+        "title": "Nadie le teme a EE. UU.",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/nadie-le-teme-a-ee-uu-columna-de-alfredo-rangel-850806"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Laurens - Cine al Ojo",
-        "date": "2024-02-01",
+        "author": "Martha Senn",
+        "date": "2024-02-02",
         "publication": "el-tiempo",
-        "title": "Variaciones rom\u00e1nticas y posmodernas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/variaciones-romanticas-y-posmodernas-columna-de-mauricio-laurens-850435"
+        "title": "Teresita G\u00f3mez: m\u00fasica para toda una vida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/teresita-gomez-musica-para-toda-una-vida-columna-de-martha-senn-850796"
     },
     {
         "article-type": "column",
-        "author": "Alex\u00e1nder Cambero",
-        "date": "2024-02-01",
+        "author": "Otros columnistas",
+        "date": "2024-02-02",
         "publication": "el-tiempo",
-        "title": "Tenemos el liderazgo para derrotar el r\u00e9gimen",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/tenemos-el-liderazgo-para-derrotar-el-regimen-columna-de-alexander-cambero-850411"
+        "title": "El bosque de niebla est\u00e1 a salvo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-bosque-de-niebla-esta-a-salvo-columna-de-fredy-zuleta-850826"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2024-02-02",
+        "publication": "el-tiempo",
+        "title": "Reelecci\u00f3n y crisis",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/reeleccion-y-crisis-columna-de-eduardo-posada-carbo-850771"
+    },
+    {
+        "article-type": "column",
+        "author": "Salvo Basile",
+        "date": "2024-02-02",
+        "publication": "el-tiempo",
+        "title": "El Papa y la IA",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/el-papa-y-la-ia-columna-de-salvo-basile-850782"
     }
 ]
