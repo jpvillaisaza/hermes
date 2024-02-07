@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-06",
+        "date": "2024-02-07",
         "publication": "el-colombiano",
-        "title": "El fen\u00f3meno Bukele",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-fenomeno-bukele-GA23674367"
+        "title": "Leyva el c\u00ednico",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/leyva-el-cinico-GP23680754"
     },
     {
         "article-type": "editorial",
         "author": null,
+        "date": "2024-02-07",
+        "publication": "el-espectador",
+        "title": "La Corte Suprema puede ahorrarnos m\u00e1s divisiones",
+        "url": "https://www.elespectador.com/opinion/editorial/la-corte-suprema-puede-ahorrarnos-mas-divisiones-y-elegir-fiscal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2024-02-07",
+        "publication": "el-espectador",
+        "title": "Las tres heridas",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/las-tres-heridas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2024-02-07",
+        "publication": "el-espectador",
+        "title": "El monigote y el presidente",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-monigote-y-el-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2024-02-07",
+        "publication": "el-espectador",
+        "title": "Como para exportar",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/como-para-exportar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2024-02-07",
+        "publication": "el-espectador",
+        "title": "Utop\u00eda versus realidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/utopia-versus-realidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2024-02-07",
+        "publication": "el-espectador",
+        "title": "D\u00e9jenme divagar",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/dejenme-divagar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2024-02-07",
+        "publication": "el-espectador",
+        "title": "El circo",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-circo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando Roa Su\u00e1rez",
+        "date": "2024-02-07",
+        "publication": "el-espectador",
+        "title": "Leer, escribir y pensar, hoy. El arte y el oficio de escribir (VI)",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/leer-escribir-y-pensar-hoy-el-arte-y-el-oficio-de-escribir-vi/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Tovar",
+        "date": "2024-02-07",
+        "publication": "el-espectador",
+        "title": "Columna de Jorge Tovar: El problema de la Superliga europea",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-el-problema-de-la-superliga-europea/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2024-02-07",
+        "publication": "el-espectador",
+        "title": "La cultura, la primera sacrificada",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-cultura-la-primera-sacrificada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Hern\u00e1ndez",
         "date": "2024-02-06",
         "publication": "el-espectador",
-        "title": "El fin no justifica los medios de Nayib Bukele",
-        "url": "https://www.elespectador.com/opinion/editorial/el-fin-no-justifica-los-medios-de-nayib-bukele/"
+        "title": "La pol\u00edtica fiscal con el reto de la desaceleraci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/la-politica-fiscal-con-el-reto-de-la-desaceleracion/"
     },
     {
         "article-type": "column",
@@ -33,11 +113,11 @@
     },
     {
         "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
+        "author": "Gloria Arias Nieto",
         "date": "2024-02-06",
         "publication": "el-espectador",
-        "title": "La pol\u00edtica fiscal con el reto de la desaceleraci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/la-politica-fiscal-con-el-reto-de-la-desaceleracion/"
+        "title": "\u00a1Pilas, presidente!",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/pilas-presidente/"
     },
     {
         "article-type": "column",
@@ -49,22 +129,6 @@
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "El archiduque",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-archiduque/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "Ministros, los chivos expiatorios",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/ministros-los-chivos-expiatorios/"
-    },
-    {
-        "article-type": "column",
         "author": "Alejandro Reyes Posada",
         "date": "2024-02-06",
         "publication": "el-espectador",
@@ -73,138 +137,74 @@
     },
     {
         "article-type": "column",
-        "author": "Gloria Arias Nieto",
+        "author": "\u00d3scar Alarc\u00f3n",
         "date": "2024-02-06",
         "publication": "el-espectador",
-        "title": "\u00a1Pilas, presidente!",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/pilas-presidente/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. William Pearl",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "Tema",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/tema/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "Los nuevos opios del pueblo",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/los-nuevos-opios-del-pueblo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Garc\u00eda-Pe\u00f1a",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "Biden vs. Trump: repetici\u00f3n in\u00e9dita",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/biden-vs-trump-repeticion-inedita/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas de los lectores",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "\u00bfDignidad en la Fiscal\u00eda General de la Naci\u00f3n?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/dignidad-en-la-fiscalia-general-de-la-nacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Allison Benson Hern\u00e1ndez",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "No es una desigualdad, son muchas",
-        "url": "https://www.elespectador.com/opinion/columnistas/allison-benson-hernandez/no-es-una-desigualdad-son-muchas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2024-02-05",
-        "publication": "el-espectador",
-        "title": "Q. e. p. d., Piedad",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/q-e-p-d-piedad-cordoba/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio Borges",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "El silencio de Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/el-silencio-de-petro-sobre-el-caso-de-maria-corina-machado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "Mayra Ram\u00edrez: el machismo en el fichaje m\u00e1s caro del f\u00fatbol femenino",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/mayra-ramirez-el-machismo-en-el-fichaje-mas-caro-del-futbol-femenino/"
+        "title": "El archiduque",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-archiduque/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-06",
+        "date": "2024-02-07",
         "publication": "el-tiempo",
-        "title": "Ante la tempestad",
-        "url": "https://www.eltiempo.com/opinion/editorial/ante-la-tempestad-editorial-el-tiempo-851950"
+        "title": "La institucionalidad fracturada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/la-institucionalidad-fracturada-columna-de-vladdo-852362"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2024-02-06",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2024-02-07",
         "publication": "el-tiempo",
-        "title": "Mazzucato pas\u00f3 por aqu\u00ed...",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/mazzucato-paso-por-aqui-columna-de-jose-manuel-acevedo-851870"
+        "title": "Reflexiones sobre la Fiscal\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/reflexiones-sobre-la-fiscalia-columna-de-alfonso-gomez-mendez-852342"
     },
     {
         "article-type": "column",
-        "author": "Viviane Morales Hoyos",
-        "date": "2024-02-06",
+        "author": "Vladdo",
+        "date": "2024-02-07",
         "publication": "el-tiempo",
-        "title": "Mesura s\u00ed, cobard\u00eda no",
-        "url": "https://www.eltiempo.com/opinion/columnistas/viviane-morales-hoyos/mesura-si-cobardia-no-columna-de-viviane-morales-851881"
+        "title": "La institucionalidad fracturada",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/la-institucionalidad-fracturada-columna-de-vladdo-852362"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Escobar",
-        "date": "2024-02-06",
+        "author": "Florence Thomas",
+        "date": "2024-02-07",
         "publication": "el-tiempo",
-        "title": "Flores, frutos y avichuchos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-escobar/flores-frutos-y-avichuchos-columna-de-eduardo-escobar-851886"
+        "title": "\u00a1Ya no m\u00e1s disputas, por favor!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/ya-no-mas-disputas-por-favor-columna-de-florence-thomas-852276"
     },
     {
         "article-type": "column",
-        "author": "Sara Tufano",
-        "date": "2024-02-06",
+        "author": "Jotamario Arbel\u00e1ez",
+        "date": "2024-02-07",
         "publication": "el-tiempo",
-        "title": "\u00bfC\u00f3mo naci\u00f3 el Me Too?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sara-tufano/como-nacio-el-me-too-columna-de-sara-tufano-851892"
+        "title": "Unos cuantos cuentos cruentos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/unos-cuantos-cuentos-cruentos-columna-de-jotamario-arbelaez-852243"
     },
     {
         "article-type": "column",
-        "author": "Alejandro Riveros Gonz\u00e1lez",
-        "date": "2024-02-06",
+        "author": "Poncho Renter\u00eda",
+        "date": "2024-02-07",
         "publication": "el-tiempo",
-        "title": "Bogot\u00e1 necesita un sic\u00f3logo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/bogota-necesita-un-sicologo-columna-de-alejandro-riveros-851922"
+        "title": "\u2018Petro, c\u00e1lmate, no te sofoques\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-calmate-no-te-sofoques-columna-de-poncho-renteria-852304"
     },
     {
         "article-type": "column",
-        "author": "Fernando Posada",
-        "date": "2024-02-06",
+        "author": "Mar\u00eda Paulina Castillo",
+        "date": "2024-02-07",
         "publication": "el-tiempo",
-        "title": "60 a\u00f1os de la noche que cambi\u00f3 la historia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/60-anos-de-la-noche-que-cambio-la-historia-columna-de-fernando-posada-851914"
+        "title": "Resignificaci\u00f3n del balance vida-trabajo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/resignificacion-del-balance-vida-trabajo-columna-de-maria-paulina-castillo-852285"
     },
     {
         "article-type": "column",
-        "author": "V\u00edctor Corcoba Herrero",
-        "date": "2024-02-06",
+        "author": "Fernando Montes Negret",
+        "date": "2024-02-07",
         "publication": "el-tiempo",
-        "title": "El buen prop\u00f3sito",
-        "url": "https://www.eltiempo.com/opinion/columnistas/victor-corcoba-herrero/el-buen-proposito-columna-de-victor-corcoba-herrero-851907"
+        "title": "\u00bfQu\u00e9 quiere decir \u2018sostenibilidad de la deuda\u2019?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/que-quiere-decir-sostenibilidad-de-la-deuda-fernando-montes-852289"
     }
 ]
