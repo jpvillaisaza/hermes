@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-07",
+        "date": "2024-02-08",
         "publication": "el-colombiano",
-        "title": "Leyva el c\u00ednico",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/leyva-el-cinico-GP23680754"
+        "title": "\u00a1Vu\u00e9lvanse serios!",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/vuelvanse-serios-MO23694080"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-07",
+        "date": "2024-02-08",
         "publication": "el-espectador",
-        "title": "La Corte Suprema puede ahorrarnos m\u00e1s divisiones",
-        "url": "https://www.elespectador.com/opinion/editorial/la-corte-suprema-puede-ahorrarnos-mas-divisiones-y-elegir-fiscal/"
+        "title": "\u00bfCu\u00e1l es el temor a investigaciones profundas de la JEP?",
+        "url": "https://www.elespectador.com/opinion/editorial/cual-es-el-temor-a-investigaciones-profundas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2024-02-08",
+        "publication": "el-espectador",
+        "title": "Recuerdo de Julio E. S\u00e1nchez",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/recuerdo-de-julio-e-sanchez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2024-02-08",
+        "publication": "el-espectador",
+        "title": "Hecha la ley, hecha la trampa",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/hecha-la-ley-hecha-la-trampa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2024-02-08",
+        "publication": "el-espectador",
+        "title": "La tormenta perfecta",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/la-tormenta-perfecta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2024-02-08",
+        "publication": "el-espectador",
+        "title": "La tormenta perfecta",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/la-tormenta-perfecta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2024-02-08",
+        "publication": "el-espectador",
+        "title": "El dictador m\u00e1s cool de Latinoam\u00e9rica",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/el-dictador-mas-cool-de-latinoamerica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
+        "date": "2024-02-08",
+        "publication": "el-espectador",
+        "title": "Los \u201cboomers\u201d: del conservadurismo al atavismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/los-boomers-del-conservadurismo-al-atavismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2024-02-08",
+        "publication": "el-espectador",
+        "title": "La Griselda de Sof\u00eda Vergara",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/la-griselda-de-sofia-vergara/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Camargo",
+        "date": "2024-02-08",
+        "publication": "el-espectador",
+        "title": "Inteligencia artificial: un aliado fundamental para los docentes en la era digital",
+        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/inteligencia-artificial-un-aliado-fundamental-para-los-docentes-en-la-era-digital/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2024-02-08",
+        "publication": "el-espectador",
+        "title": "Titulamos con una obviedad que nos hizo merecedores de un \u201cGracias Faryd\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/titulamos-con-una-obviedad-que-nos-hizo-merecedores-de-un-gracias-faryd/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2024-02-08",
+        "publication": "el-espectador",
+        "title": "\u00bfDe d\u00f3nde salieron?",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/de-donde-salieron-los-huties-y-el-medio-oriente-marcos-peckel/"
     },
     {
         "article-type": "column",
@@ -41,6 +121,14 @@
     },
     {
         "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2024-02-07",
+        "publication": "el-espectador",
+        "title": "El circo",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-circo/"
+    },
+    {
+        "article-type": "column",
         "author": "Andr\u00e9s Hoyos",
         "date": "2024-02-07",
         "publication": "el-espectador",
@@ -56,155 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/dejenme-divagar/"
     },
     {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2024-02-07",
-        "publication": "el-espectador",
-        "title": "El circo",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-circo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2024-02-07",
-        "publication": "el-espectador",
-        "title": "Leer, escribir y pensar, hoy. El arte y el oficio de escribir (VI)",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/leer-escribir-y-pensar-hoy-el-arte-y-el-oficio-de-escribir-vi/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2024-02-07",
-        "publication": "el-espectador",
-        "title": "Columna de Jorge Tovar: El problema de la Superliga europea",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-el-problema-de-la-superliga-europea/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2024-02-07",
-        "publication": "el-espectador",
-        "title": "La cultura, la primera sacrificada",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-cultura-la-primera-sacrificada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "La pol\u00edtica fiscal con el reto de la desaceleraci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/la-politica-fiscal-con-el-reto-de-la-desaceleracion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "Resiliencia y tecnolog\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/resiliencia-y-tecnologia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "Griselda y los fariseos",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/griselda-y-los-fariseos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "\u00a1Pilas, presidente!",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/pilas-presidente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "Cien a\u00f1os de la Sonora Matancera",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/cien-anos-de-la-sonora-matancera/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejandro Reyes Posada",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "La Corte abre un boquete a la Ley de Restituci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/la-corte-constitucional-abre-un-boquete-a-la-ley-de-restitucion-de-tierras/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2024-02-06",
-        "publication": "el-espectador",
-        "title": "El archiduque",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-archiduque/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-07",
+        "date": "2024-02-08",
         "publication": "el-tiempo",
-        "title": "La institucionalidad fracturada",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/la-institucionalidad-fracturada-columna-de-vladdo-852362"
+        "title": "Una decisi\u00f3n oportuna",
+        "url": "https://www.eltiempo.com/opinion/editorial/una-decision-oportuna-editorial-el-tiempo-852769"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2024-02-07",
+        "author": "Pedro Medellin",
+        "date": "2024-02-08",
         "publication": "el-tiempo",
-        "title": "Reflexiones sobre la Fiscal\u00eda",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/reflexiones-sobre-la-fiscalia-columna-de-alfonso-gomez-mendez-852342"
+        "title": "Entre belicosos e intrascendentes",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/entre-belicosos-e-intrascendentes-columna-de-pedro-medellin-852755"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2024-02-07",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2024-02-08",
         "publication": "el-tiempo",
-        "title": "La institucionalidad fracturada",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/la-institucionalidad-fracturada-columna-de-vladdo-852362"
+        "title": "Buenas nuevas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/buenas-nuevas-columna-de-juan-esteban-constain-852705"
     },
     {
         "article-type": "column",
-        "author": "Florence Thomas",
-        "date": "2024-02-07",
+        "author": "Jineth Bedoya Lima",
+        "date": "2024-02-08",
         "publication": "el-tiempo",
-        "title": "\u00a1Ya no m\u00e1s disputas, por favor!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/florence-thomas/ya-no-mas-disputas-por-favor-columna-de-florence-thomas-852276"
+        "title": "Gracias a las mujeres que comunican",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/gracias-a-las-mujeres-que-comunican-columna-de-jineth-bedoya-lima-852751"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2024-02-07",
+        "author": "Juliana Mej\u00eda",
+        "date": "2024-02-08",
         "publication": "el-tiempo",
-        "title": "Unos cuantos cuentos cruentos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/unos-cuantos-cuentos-cruentos-columna-de-jotamario-arbelaez-852243"
+        "title": "La paz no se firma, se teje",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/la-paz-no-se-firma-se-teje-columna-de-juliana-mejia-852762"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2024-02-07",
+        "author": "Mauricio Lloreda",
+        "date": "2024-02-08",
         "publication": "el-tiempo",
-        "title": "\u2018Petro, c\u00e1lmate, no te sofoques\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/petro-calmate-no-te-sofoques-columna-de-poncho-renteria-852304"
+        "title": "Desde las regiones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-lloreda/desde-las-regiones-columna-de-mauricio-lloreda-852699"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Paulina Castillo",
-        "date": "2024-02-07",
+        "author": "Diana Pardo",
+        "date": "2024-02-08",
         "publication": "el-tiempo",
-        "title": "Resignificaci\u00f3n del balance vida-trabajo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/resignificacion-del-balance-vida-trabajo-columna-de-maria-paulina-castillo-852285"
+        "title": "Contra el manique\u00edsmo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/contra-el-maniqueismo-columna-de-diana-pardo-852685"
     },
     {
         "article-type": "column",
-        "author": "Fernando Montes Negret",
-        "date": "2024-02-07",
+        "author": "Gregory Lobo",
+        "date": "2024-02-08",
         "publication": "el-tiempo",
-        "title": "\u00bfQu\u00e9 quiere decir \u2018sostenibilidad de la deuda\u2019?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-montes-negret/que-quiere-decir-sostenibilidad-de-la-deuda-fernando-montes-852289"
+        "title": "Un alto el fuego justo, moral y realista",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gregory-lobo/un-alto-el-fuego-justo-moral-y-realista-columna-de-gregory-lobo-852759"
     }
 ]
