@@ -2,18 +2,74 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-09",
+        "date": "2024-02-10",
         "publication": "el-colombiano",
-        "title": "\u00bfNo hay peor sordo que el que no quiere o\u00edr? ",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/no-hay-peor-sordo-que-el-que-no-quiere-oir-EG23701489"
+        "title": "Los 20 a\u00f1os de Facebook",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/los-20-anos-de-facebook-JG23708652"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-09",
+        "date": "2024-02-10",
         "publication": "el-espectador",
-        "title": "Una pol\u00edtica exterior al servicio de la politiquer\u00eda local",
-        "url": "https://www.elespectador.com/opinion/editorial/una-politica-exterior-al-servicio-de-la-politiqueria-local/"
+        "title": "Un perd\u00f3n que se acepta, un compromiso que emerge ",
+        "url": "https://www.elespectador.com/opinion/editorial/un-perdon-que-se-acepta-un-compromiso-que-emerge/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2024-02-10",
+        "publication": "el-espectador",
+        "title": "Isabel Barrag\u00e1n quiere ser polic\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/isabel-barragan-quiere-ser-policia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2024-02-10",
+        "publication": "el-espectador",
+        "title": "Bananas",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/bananas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2024-02-10",
+        "publication": "el-espectador",
+        "title": "Hablar de amor ",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/hablar-de-amor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Weildler Guerra",
+        "date": "2024-02-10",
+        "publication": "el-espectador",
+        "title": "El cuerpo de Mart\u00edn Tinajero",
+        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/el-cuerpo-de-martin-tinajero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dolly Montoya Casta\u00f1o",
+        "date": "2024-02-10",
+        "publication": "el-espectador",
+        "title": "Designaci\u00f3n rectoral en UNAL: experiencia de democracia y participaci\u00f3n acad\u00e9mica",
+        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/designacion-rectoral-en-unal-experiencia-de-democracia-y-participacion-academica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2024-02-10",
+        "publication": "el-espectador",
+        "title": "El desequilibrio de \u201cEl Tiempo\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/el-desequilibrio-de-el-tiempo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2024-02-10",
+        "publication": "el-espectador",
+        "title": "Primera mirada a la Estrategia Nacional Digital",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/primera-mirada-a-la-estrategia-nacional-digital/"
     },
     {
         "article-type": "column",
@@ -88,123 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/hecha-la-ley-hecha-la-trampa/"
     },
     {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-02-08",
-        "publication": "el-espectador",
-        "title": "El dictador m\u00e1s cool de Latinoam\u00e9rica",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/el-dictador-mas-cool-de-latinoamerica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2024-02-08",
-        "publication": "el-espectador",
-        "title": "La tormenta perfecta",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/la-tormenta-perfecta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2024-02-08",
-        "publication": "el-espectador",
-        "title": "La tormenta perfecta",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/la-tormenta-perfecta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
-        "date": "2024-02-08",
-        "publication": "el-espectador",
-        "title": "Los \u201cboomers\u201d: del conservadurismo al atavismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/los-boomers-del-conservadurismo-al-atavismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Camargo",
-        "date": "2024-02-08",
-        "publication": "el-espectador",
-        "title": "Inteligencia artificial: un aliado fundamental para los docentes en la era digital",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/inteligencia-artificial-un-aliado-fundamental-para-los-docentes-en-la-era-digital/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2024-02-08",
-        "publication": "el-espectador",
-        "title": "La Griselda de Sof\u00eda Vergara",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/la-griselda-de-sofia-vergara/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-02-08",
-        "publication": "el-espectador",
-        "title": "Titulamos con una obviedad que nos hizo merecedores de un \u201cGracias Faryd\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/titulamos-con-una-obviedad-que-nos-hizo-merecedores-de-un-gracias-faryd/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-09",
+        "date": "2024-02-10",
         "publication": "el-tiempo",
-        "title": "El futuro de los cerros",
-        "url": "https://www.eltiempo.com/opinion/editorial/el-futuro-de-los-cerros-editorial-el-tiempo-853185"
+        "title": "Red de dilemas",
+        "url": "https://www.eltiempo.com/opinion/editorial/red-de-dilemas-editorial-el-tiempo-853509"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2024-02-09",
+        "author": "Carlos Caballero Arg\u00e1ez",
+        "date": "2024-02-10",
         "publication": "el-tiempo",
-        "title": "\u00bfQui\u00e9n es el due\u00f1o de la cultura?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/quien-es-el-dueno-de-la-cultura-columna-de-moises-wasserman-853124"
+        "title": "Pesos y contrapesos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/pesos-y-contrapesos-columna-de-carlos-caballero-argaez-853377"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2024-02-09",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2024-02-10",
         "publication": "el-tiempo",
-        "title": "Rid\u00edculo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/ridiculo-columna-de-ricardo-silva-romero-853113"
+        "title": "Golpe por golpe",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/golpe-por-golpe-columna-de-luis-noe-ochoa-853550"
     },
     {
         "article-type": "column",
-        "author": "Juanita Goebertus Estrada",
-        "date": "2024-02-09",
+        "author": "Adolfo Zableh Dur\u00e1n",
+        "date": "2024-02-10",
         "publication": "el-tiempo",
-        "title": "La reelecci\u00f3n de Bukele",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juanita-goebertus-estrada/la-reeleccion-de-bukele-columna-de-juanita-goebertus-853146"
+        "title": "M\u00e1s all\u00e1 de las narices",
+        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/mas-alla-de-las-narices-columna-de-adolfo-zableh-853382"
     },
     {
         "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2024-02-09",
+        "author": "Manuel Rodr\u00edguez Becerra",
+        "date": "2024-02-10",
         "publication": "el-tiempo",
-        "title": "De Bukeles y Maduros",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/de-bukeles-y-maduros-columna-de-eduardo-posada-carbo-853131"
+        "title": "Adaptaci\u00f3n y mala adaptaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/adaptacion-y-mala-adaptacion-columna-de-manuel-rodriguez-becerra-853484"
     },
     {
         "article-type": "column",
-        "author": "Manuel Guzm\u00e1n Hennessey",
-        "date": "2024-02-09",
+        "author": "Armando Silva",
+        "date": "2024-02-10",
         "publication": "el-tiempo",
-        "title": "La primavera bulliciosa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/la-primavera-bulliciosa-columna-de-manuel-guzman-hennessey-853117"
+        "title": "Barrio Abajo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/barrio-abajo-columna-de-armando-silva-853391"
     },
     {
         "article-type": "column",
-        "author": "Sonia G\u00f3mez G\u00f3mez",
-        "date": "2024-02-09",
+        "author": "Luc\u00eda Amaya",
+        "date": "2024-02-10",
         "publication": "el-tiempo",
-        "title": "\u00bfCu\u00e1ntos hipop\u00f3tamos m\u00e1s queremos?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sonia-gomez-gomez/cuantos-hipopotamos-mas-queremos-columna-de-sonia-gomez-853149"
+        "title": "Una forma sencilla para hacer que la equidad sea un tema de todos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/una-forma-sencilla-para-hacer-que-la-equidad-sea-un-tema-de-todos-853478"
     },
     {
         "article-type": "column",
-        "author": "Dar\u00edo Hidalgo",
-        "date": "2024-02-09",
+        "author": "Fabio Mart\u00ednez",
+        "date": "2024-02-10",
         "publication": "el-tiempo",
-        "title": "C\u00e1maras a bordo de buses para controlar invasi\u00f3n de carriles de buses",
-        "url": "https://www.eltiempo.com/opinion/columnistas/dario-hidalgo/camaras-a-bordo-de-buses-para-controlar-invasion-de-carriles-de-buses-853186"
+        "title": "Cali, la ciudad de los gatos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/cali-la-ciudad-de-los-gatos-editorial-el-tiempo-853494"
     }
 ]
