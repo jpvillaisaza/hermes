@@ -2,26 +2,130 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-10",
+        "date": "2024-02-11",
         "publication": "el-colombiano",
-        "title": "Los 20 a\u00f1os de Facebook",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/los-20-anos-de-facebook-JG23708652"
+        "title": "Ojo: cuidemos la democracia",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/ojo-cuidemos-la-democracia-BH23711761"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-10",
+        "date": "2024-02-11",
         "publication": "el-espectador",
-        "title": "Un perd\u00f3n que se acepta, un compromiso que emerge ",
-        "url": "https://www.elespectador.com/opinion/editorial/un-perdon-que-se-acepta-un-compromiso-que-emerge/"
+        "title": "\u00a1Por favor, no m\u00e1s gasolina al incendio institucional! ",
+        "url": "https://www.elespectador.com/opinion/editorial/por-favor-no-mas-gasolina-al-incendio-institucional/"
     },
     {
         "article-type": "column",
-        "author": "Esteban Carlos Mej\u00eda",
-        "date": "2024-02-10",
+        "author": "Fernando Ara\u00fajo V\u00e9lez",
+        "date": "2024-02-11",
         "publication": "el-espectador",
-        "title": "Isabel Barrag\u00e1n quiere ser polic\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/isabel-barragan-quiere-ser-policia/"
+        "title": "La mujer del libro en el parque ",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/la-mujer-del-libro-en-el-parque/"
+    },
+    {
+        "article-type": "column",
+        "author": "William Ospina",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "El enemigo",
+        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/el-enemigo/"
+    },
+    {
+        "article-type": "column",
+        "author": "H\u00e9ctor Abad Faciolince",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "D\u00e9jenlo terminar su mandato",
+        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/dejenlo-terminar-su-mandato/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tola y Maruja",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "Tola y Maruja cuentan c\u00f3mo es defender a Petro en Antioquia",
+        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-cuentan-como-es-defender-a-petro-en-antioquia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Bayly",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "El aviador",
+        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/el-aviador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Piedad Bonnett",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "La tiran\u00eda del Pico y Placa",
+        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/la-tirania-del-pico-y-placa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lariza Pizano",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "\u00bfMarchar por qui\u00e9n?",
+        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/marchar-por-quien/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Uprimny",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "Petro y las instituciones",
+        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/petro-y-las-instituciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tatiana Acevedo Guerrero",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "Tollos, rayas y quimeras II",
+        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/tollos-rayas-y-quimeras-ii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ramiro Bejarano Guzm\u00e1n",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "La conjura en tiempos de Barbosa",
+        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/la-conjura-en-tiempos-de-barbosa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Armando Montenegro",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "Militares empresarios y constructores",
+        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/militares-empresarios-y-constructores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Botero Caicedo",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "Grandes y peque\u00f1os C\u00e9sares",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/grandes-y-pequenos-cesares/"
+    },
+    {
+        "article-type": "column",
+        "author": "Felipe Zuleta Lleras",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "Repensando la Fiscal\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/repensando-la-fiscalia/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2024-02-11",
+        "publication": "el-espectador",
+        "title": "Microlingotes",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-133/"
     },
     {
         "article-type": "column",
@@ -33,178 +137,82 @@
     },
     {
         "article-type": "column",
-        "author": "Luis Fernando Charry",
+        "author": "Esteban Carlos Mej\u00eda",
         "date": "2024-02-10",
         "publication": "el-espectador",
-        "title": "Hablar de amor ",
-        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/hablar-de-amor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Weildler Guerra",
-        "date": "2024-02-10",
-        "publication": "el-espectador",
-        "title": "El cuerpo de Mart\u00edn Tinajero",
-        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/el-cuerpo-de-martin-tinajero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Dolly Montoya Casta\u00f1o",
-        "date": "2024-02-10",
-        "publication": "el-espectador",
-        "title": "Designaci\u00f3n rectoral en UNAL: experiencia de democracia y participaci\u00f3n acad\u00e9mica",
-        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/designacion-rectoral-en-unal-experiencia-de-democracia-y-participacion-academica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio C\u00e9sar Londo\u00f1o",
-        "date": "2024-02-10",
-        "publication": "el-espectador",
-        "title": "El desequilibrio de \u201cEl Tiempo\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/el-desequilibrio-de-el-tiempo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carolina Botero Cabrera",
-        "date": "2024-02-10",
-        "publication": "el-espectador",
-        "title": "Primera mirada a la Estrategia Nacional Digital",
-        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/primera-mirada-a-la-estrategia-nacional-digital/"
-    },
-    {
-        "article-type": "column",
-        "author": "Augusto Trujillo Mu\u00f1oz",
-        "date": "2024-02-09",
-        "publication": "el-espectador",
-        "title": "\u00bfBicefalitis?",
-        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/bicefalitis/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2024-02-09",
-        "publication": "el-espectador",
-        "title": "Las listas del alma (mater)",
-        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/las-listas-del-alma-mater/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2024-02-09",
-        "publication": "el-espectador",
-        "title": "A\u00f1o y medio de concierto y desconcierto",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/ano-y-medio-de-concierto-y-desconcierto/"
-    },
-    {
-        "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2024-02-09",
-        "publication": "el-espectador",
-        "title": "\u00bfLos ni\u00f1os seguir\u00e1n padeciendo desnutrici\u00f3n, presidente?",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/los-ninos-seguiran-padeciendo-desnutricion-presidente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2024-02-09",
-        "publication": "el-espectador",
-        "title": "Cali, capital del aviturismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/cali-capital-del-aviturismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Adriana Cooper",
-        "date": "2024-02-09",
-        "publication": "el-espectador",
-        "title": "El ejemplo de Diego Ortega",
-        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/el-ejemplo-de-diego-ortega/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2024-02-09",
-        "publication": "el-espectador",
-        "title": "Buena pinta",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/buena-pinta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2024-02-08",
-        "publication": "el-espectador",
-        "title": "Recuerdo de Julio E. S\u00e1nchez",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/recuerdo-de-julio-e-sanchez/"
-    },
-    {
-        "article-type": "column",
-        "author": "Claudia Morales",
-        "date": "2024-02-08",
-        "publication": "el-espectador",
-        "title": "Hecha la ley, hecha la trampa",
-        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/hecha-la-ley-hecha-la-trampa/"
+        "title": "Isabel Barrag\u00e1n quiere ser polic\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/isabel-barragan-quiere-ser-policia/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-10",
+        "date": "2024-02-11",
         "publication": "el-tiempo",
-        "title": "Red de dilemas",
-        "url": "https://www.eltiempo.com/opinion/editorial/red-de-dilemas-editorial-el-tiempo-853509"
+        "title": "Respeto y mesura",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-11-de-febrero-de-2024-respeto-y-mesura-853717"
     },
     {
         "article-type": "column",
-        "author": "Carlos Caballero Arg\u00e1ez",
-        "date": "2024-02-10",
+        "author": "Germ\u00e1n Vargas Lleras",
+        "date": "2024-02-11",
         "publication": "el-tiempo",
-        "title": "Pesos y contrapesos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-caballero-argaez/pesos-y-contrapesos-columna-de-carlos-caballero-argaez-853377"
+        "title": "La \u00faltima trinchera",
+        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-la-ultima-trinchera-853719"
     },
     {
         "article-type": "column",
-        "author": "Luis No\u00e9 Ochoa",
-        "date": "2024-02-10",
+        "author": "Mar\u00eda Isabel Rueda",
+        "date": "2024-02-11",
         "publication": "el-tiempo",
-        "title": "Golpe por golpe",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/golpe-por-golpe-columna-de-luis-noe-ochoa-853550"
+        "title": "Benedetti se gana el limbo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-benedetti-se-gana-el-limbo-853726"
     },
     {
         "article-type": "column",
-        "author": "Adolfo Zableh Dur\u00e1n",
-        "date": "2024-02-10",
+        "author": "N\u00e9stor Humberto Mart\u00ednez",
+        "date": "2024-02-11",
         "publication": "el-tiempo",
-        "title": "M\u00e1s all\u00e1 de las narices",
-        "url": "https://www.eltiempo.com/opinion/columnistas/adolfo-zableh-duran/mas-alla-de-las-narices-columna-de-adolfo-zableh-853382"
+        "title": "Las cifras delictivas son distintas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-las-cifras-delictivas-son-distintas-853731"
     },
     {
         "article-type": "column",
-        "author": "Manuel Rodr\u00edguez Becerra",
-        "date": "2024-02-10",
+        "author": "Mauricio Vargas",
+        "date": "2024-02-11",
         "publication": "el-tiempo",
-        "title": "Adaptaci\u00f3n y mala adaptaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-rodriguez-becerra/adaptacion-y-mala-adaptacion-columna-de-manuel-rodriguez-becerra-853484"
+        "title": "Petro, en modo Trump",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-petro-en-modo-trump-853718"
     },
     {
         "article-type": "column",
-        "author": "Armando Silva",
-        "date": "2024-02-10",
+        "author": "Carlos Camargo Assis",
+        "date": "2024-02-11",
         "publication": "el-tiempo",
-        "title": "Barrio Abajo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/armando-silva/barrio-abajo-columna-de-armando-silva-853391"
+        "title": "No nos quitemos el sacoleva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carlos-camargo-assis/columna-de-carlos-camargo-no-nos-quitemos-el-sacoleva-853738"
     },
     {
         "article-type": "column",
-        "author": "Luc\u00eda Amaya",
-        "date": "2024-02-10",
+        "author": "Jos\u00e9 Antonio Ocampo",
+        "date": "2024-02-11",
         "publication": "el-tiempo",
-        "title": "Una forma sencilla para hacer que la equidad sea un tema de todos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/una-forma-sencilla-para-hacer-que-la-equidad-sea-un-tema-de-todos-853478"
+        "title": "La reforma pensional",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo/columna-de-jose-antonio-ocampo-la-reforma-pensional-853728"
     },
     {
         "article-type": "column",
-        "author": "Fabio Mart\u00ednez",
-        "date": "2024-02-10",
+        "author": "Thierry Ways",
+        "date": "2024-02-11",
         "publication": "el-tiempo",
-        "title": "Cali, la ciudad de los gatos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fabio-martinez/cali-la-ciudad-de-los-gatos-editorial-el-tiempo-853494"
+        "title": "La paranoia es mala consejera",
+        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-la-paranoia-es-mala-consejera-853727"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Vargas Acebedo",
+        "date": "2024-02-11",
+        "publication": "el-tiempo",
+        "title": "El fetiche de la tecnolog\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/santiago-vargas-acebedo/columna-de-santiago-vargas-acebedo-el-fetiche-de-la-tecnologia-853739"
     }
 ]
