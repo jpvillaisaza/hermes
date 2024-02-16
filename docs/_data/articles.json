@@ -2,18 +2,122 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-15",
+        "date": "2024-02-16",
         "publication": "el-colombiano",
-        "title": "La injerencia de la OEA y la Comisi\u00f3n IDH",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-injerencia-de-la-oea-y-la-comision-idh-EF23735010"
+        "title": "\u00a1Frenazo!",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/frenazo-KC23746936"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-15",
+        "date": "2024-02-16",
         "publication": "el-espectador",
-        "title": "El ELN insiste en la violencia",
-        "url": "https://www.elespectador.com/opinion/editorial/el-eln-insiste-en-la-violencia/"
+        "title": "M\u00e1s all\u00e1 de los estigmas en el debate sobre tiburones",
+        "url": "https://www.elespectador.com/opinion/editorial/mas-alla-de-los-estigmas-en-el-debate-sobre-tiburones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tom\u00e1s Molina",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "Marx y Lenin, admiradores de la burgues\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/marx-y-lenin-admiradores-de-la-burguesia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "El prontuario de la fiscal general de la Naci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/el-prontuario-de-la-fiscal-general-de-la-nacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "\u00bfEl mismo cuento?",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/el-mismo-cuento/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Diego Soler",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "El canal paralelo",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-diego-soler/el-canal-paralelo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "\u00bfEl Valle, sin presupuesto?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-valle-sin-presupuesto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "La culpa de los medios",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/la-culpa-de-los-medios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "Incendiarios y bomberos",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/incendiarios-y-bomberos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "Transmilenio y las rejas de Bukele",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/transmilenio-y-las-rejas-de-bukele/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "De todo un poco",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/de-todo-un-poco/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "\u00bfServicio a la habitaci\u00f3n?",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/servicio-a-la-habitacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas de los lectores",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "Sobre la corrupci\u00f3n p\u00fablica y la v\u00eda Bucaramanga-Bogot\u00e1",
+        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/sin-titulo-26/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "\u00bfEs verdad que van a tumbar a Gustavo Petro? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-es-verdad-que-van-a-tumbar-a-gustavo-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2024-02-16",
+        "publication": "el-espectador",
+        "title": "La muerte de Seiji Ozawa",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-muerte-de-seiji-ozawa/"
     },
     {
         "article-type": "column",
@@ -25,14 +129,6 @@
     },
     {
         "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2024-02-15",
-        "publication": "el-espectador",
-        "title": "Asesinar las diferencias",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/asesinar-las-diferencias/"
-    },
-    {
-        "article-type": "column",
         "author": "Cristina Carrizosa Calle",
         "date": "2024-02-15",
         "publication": "el-espectador",
@@ -41,170 +137,82 @@
     },
     {
         "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
+        "author": "Juan David Zuloaga D.",
         "date": "2024-02-15",
         "publication": "el-espectador",
-        "title": "El r\u00edo que convirti\u00f3 a un hombre en caim\u00e1n",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/el-rio-que-convirtio-a-un-hombre-en-caiman/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2024-02-15",
-        "publication": "el-espectador",
-        "title": "Moverse inteligentemente",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/moverse-inteligentemente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-02-15",
-        "publication": "el-espectador",
-        "title": "Publicidad oficial y libertad de expresi\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/publicidad-oficial-y-libertad-de-expresion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2024-02-15",
-        "publication": "el-espectador",
-        "title": "La ruta de los brasieres, ida y vuelta",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/la-ruta-de-los-brasieres-ida-y-vuelta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Blanca In\u00e9s Dur\u00e1n",
-        "date": "2024-02-15",
-        "publication": "el-espectador",
-        "title": "Si por ac\u00e1 llueve\u2026",
-        "url": "https://www.elespectador.com/opinion/columnistas/blancainesduran/si-por-aca-llueve/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-02-15",
-        "publication": "el-espectador",
-        "title": "D\u00eda de San Valent\u00edn : \u00bfQu\u00e9 piensan las ni\u00f1as y los ni\u00f1os sobre el amor?",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/dia-de-san-valentin-que-piensan-las-ninas-y-los-ninos-sobre-el-amor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-02-15",
-        "publication": "el-espectador",
-        "title": "\u00bfC\u00f3mo hablar sobre v\u00edctimas menores de edad?",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/como-hablar-de-menores-de-edad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Oscar Guardiola-Rivera",
-        "date": "2024-02-14",
-        "publication": "el-espectador",
-        "title": "C\u00f3mo hacer un golpe de Estado",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/como-hacer-un-golpe-de-estado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2024-02-14",
-        "publication": "el-espectador",
-        "title": "Un relato con altura",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/un-relato-con-altura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sandra Vilardy",
-        "date": "2024-02-14",
-        "publication": "el-espectador",
-        "title": "Sobre peces grandes y la necesidad de reimaginarnos la colaboraci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/sandra-vilardy/sobre-peces-grandes-y-la-necesidad-de-reimaginarnos-la-colaboracion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2024-02-14",
-        "publication": "el-espectador",
-        "title": "La comedia de los errores",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/la-comedia-de-los-errores/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2024-02-14",
-        "publication": "el-espectador",
-        "title": "La asoleada asonada",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/la-asoleada-asonada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-02-14",
-        "publication": "el-espectador",
-        "title": "No olvido un ataque aleve contra la Corte Suprema",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/no-olvido-un-ataque-aleve-contra-la-corte-suprema/"
+        "title": "Asesinar las diferencias",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/asesinar-las-diferencias/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-15",
+        "date": "2024-02-16",
         "publication": "el-tiempo",
-        "title": "Emergencia carcelaria",
-        "url": "https://www.eltiempo.com/opinion/editorial/emergencia-carcelaria-editorial-el-tiempo-855081"
+        "title": "A enmendar la plana",
+        "url": "https://www.eltiempo.com/opinion/editorial/a-enmendar-la-plana-editorial-el-tiempo-855505"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2024-02-15",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2024-02-16",
         "publication": "el-tiempo",
-        "title": "Jugando con candela",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/jugando-con-candela-columna-de-pedro-medellin-855096"
+        "title": "Creer mentiras",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/creer-mentiras-columna-de-moises-wasserman-855396"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2024-02-15",
+        "author": "Ricardo Silva Romero",
+        "date": "2024-02-16",
         "publication": "el-tiempo",
-        "title": "Justificar lo injustificable",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/justificar-lo-injustificable-columna-de-juan-esteban-constain-855008"
+        "title": "Decencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/decencia-columna-de-ricardo-silva-romero-855446"
     },
     {
         "article-type": "column",
-        "author": "Claudia Palacios",
-        "date": "2024-02-15",
+        "author": "Martha Ortiz",
+        "date": "2024-02-16",
         "publication": "el-tiempo",
-        "title": "Un dolor necesario",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-palacios/un-dolor-necesario-columna-de-claudia-isabel-palacios-855034"
+        "title": "La fuerza del contrapeso al caos",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-ortiz/la-fuerza-del-contrapeso-al-caos-columna-de-martha-ortiz-855424"
     },
     {
         "article-type": "column",
-        "author": "Sergio Ram\u00edrez",
-        "date": "2024-02-15",
+        "author": "Alfredo Rangel",
+        "date": "2024-02-16",
         "publication": "el-tiempo",
-        "title": "Cien a\u00f1os de \u2018La vor\u00e1gine\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-ramirez/cien-anos-de-la-voragine-columna-de-sergio-ramirez-855026"
+        "title": "El chantaje",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/el-chantaje-columna-de-alfredo-rangel-855439"
     },
     {
         "article-type": "column",
-        "author": "\u00d3scar Dom\u00ednguez Giraldo",
-        "date": "2024-02-15",
+        "author": "Martha Senn",
+        "date": "2024-02-16",
         "publication": "el-tiempo",
-        "title": "Muy agradecidos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/muy-agradecidos-columna-de-oscar-dominguez-giraldo-855039"
+        "title": "\u2018Carmen\u2019 o el mito de la libertad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/carmen-o-el-mito-de-la-libertad-columna-de-martha-senn-855431"
     },
     {
         "article-type": "column",
-        "author": "Everth Bustamante",
-        "date": "2024-02-15",
+        "author": "Claudia Hakim",
+        "date": "2024-02-16",
         "publication": "el-tiempo",
-        "title": "Los Panamericanos, una p\u00e9rdida irreparable para Colombia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/los-panamericanos-una-perdida-irreparable-para-colombia-855043"
+        "title": "Un mundo de inspiraci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/un-mundo-de-inspiracion-columna-de-claudia-hakim-855402"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Laurens - Cine al Ojo",
-        "date": "2024-02-15",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2024-02-16",
         "publication": "el-tiempo",
-        "title": "Dos nuevos cl\u00e1sicos de la pantalla",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-laurens-cine-al-ojo/dos-nuevos-clasicos-de-la-pantalla-columna-de-mauricio-laurens-855048"
+        "title": "Cuatro a\u00f1os y la eternidad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/cuatro-anos-y-la-eternidad-columna-de-eduardo-posada-carbo-855404"
+    },
+    {
+        "article-type": "column",
+        "author": "Salvo Basile",
+        "date": "2024-02-16",
+        "publication": "el-tiempo",
+        "title": "Los 40 de Catalina",
+        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/los-40-de-catalina-columna-de-salvo-basile-855416"
     }
 ]
