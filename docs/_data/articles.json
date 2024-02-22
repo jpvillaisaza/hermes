@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-21",
+        "date": "2024-02-22",
         "publication": "el-colombiano",
-        "title": "Cr\u00f3nica de otra",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/muerte-alexey-navalny-simbolo-de-oposicion-contra-vladimir-putin-en-rusia-BP23794775"
+        "title": "Es un deber defender el sistema de salud",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/reforma-salud-gustavo-petro-retroceso-en-cobertura-BJ23804072"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-21",
+        "date": "2024-02-22",
         "publication": "el-espectador",
-        "title": "Rodrigo Pardo, una voz necesaria que har\u00e1 mucha falta",
-        "url": "https://www.elespectador.com/opinion/editorial/rodrigo-pardo-una-voz-necesaria-que-hara-mucha-falta/"
+        "title": "Cali, orgullo de Colombia y sede de la COP16",
+        "url": "https://www.elespectador.com/opinion/editorial/cali-orgullo-de-colombia-y-sede-de-la-cop16/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio Borges",
+        "date": "2024-02-22",
+        "publication": "el-espectador",
+        "title": "La Furia Bolivariana contra Roc\u00edo San Miguel",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/la-furia-bolivariana-contra-rocio-san-miguel/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2024-02-22",
+        "publication": "el-espectador",
+        "title": "Autoritarismos contra el pop",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/autoritarismos-contra-el-pop/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2024-02-22",
+        "publication": "el-espectador",
+        "title": "La Mona Lisa no tiene la culpa",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-mona-lisa-no-tiene-la-culpa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2024-02-22",
+        "publication": "el-espectador",
+        "title": "El caminante",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-caminante/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2024-02-22",
+        "publication": "el-espectador",
+        "title": "Acceso a la informaci\u00f3n p\u00fablica",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/acceso-a-la-informacion-publica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2024-02-22",
+        "publication": "el-espectador",
+        "title": "Un grito por la cultura",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/un-grito-por-la-cultura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2024-02-22",
+        "publication": "el-espectador",
+        "title": "Despedir a un amigo",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/despedir-a-un-amigo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2024-02-22",
+        "publication": "el-espectador",
+        "title": "Pablo, Sof\u00eda, los medios y el sanchismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/pablo-sofia-los-medios-y-el-sanchismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2024-02-22",
+        "publication": "el-espectador",
+        "title": "Por m\u00e1s importante que sea el personaje, no todo hay que publicarlo",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/por-mas-importante-que-sea-el-personaje-no-todo-hay-que-publicarlo/"
     },
     {
         "article-type": "column",
@@ -72,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/a-dar-ejemplo-senores-magistrados/"
     },
     {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2024-02-21",
-        "publication": "el-espectador",
-        "title": "Del \u201cThe Spectator\u201d a \u201cEl Espectador\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/del-the-spectator-a-el-espectador-columnistas-opinion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2024-02-21",
-        "publication": "el-espectador",
-        "title": "Leer, escribir y pensar, hoy. A manera de conclusiones (VII)",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/leer-escribir-y-pensar-hoy-a-manera-de-conclusiones-vii/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-02-21",
-        "publication": "el-espectador",
-        "title": "\u00bfPor qu\u00e9 \u201cContigo\u201d, de Karol G y Young Miko, desaf\u00eda las reglas del reguet\u00f3n?",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/por-que-contigo-de-karol-g-y-young-miko-desafia-las-reglas-del-regueton/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2024-02-21",
-        "publication": "el-espectador",
-        "title": "Todo gira alrededor del agua: una mirada al cambio clim\u00e1tico desde el Caribe",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/todo-gira-alrededor-del-agua-una-mirada-al-cambio-climatico-desde-el-caribe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2024-02-20",
-        "publication": "el-espectador",
-        "title": "Cambio de foco en la paz",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/cambio-de-foco-en-la-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2024-02-20",
-        "publication": "el-espectador",
-        "title": "Luchas por la libertad",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/luchas-por-la-libertad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2024-02-20",
-        "publication": "el-espectador",
-        "title": "Elementos para la reactivaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/elementos-para-la-reactivacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2024-02-20",
-        "publication": "el-espectador",
-        "title": "Hablando de populismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/hablando-de-populismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2024-02-20",
-        "publication": "el-espectador",
-        "title": "\u201cEl caballo dorado\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/el-caballo-dorado/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-21",
+        "date": "2024-02-22",
         "publication": "el-tiempo",
-        "title": "Decisi\u00f3n sin presiones",
-        "url": "https://www.eltiempo.com/opinion/editorial/decision-sin-presiones-editorial-el-tiempo-856972"
+        "title": "Robos en Bogot\u00e1",
+        "url": "https://www.eltiempo.com/opinion/editorial/robos-en-bogota-editorial-el-tiempo-857401"
     },
     {
         "article-type": "column",
-        "author": "Alfonso G\u00f3mez M\u00e9ndez",
-        "date": "2024-02-21",
+        "author": "Pedro Medellin",
+        "date": "2024-02-22",
         "publication": "el-tiempo",
-        "title": "\u00bfPaz, sin Estado y sin control territorial?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/paz-sin-estado-y-sin-control-territorial-columna-de-alfonso-gomez-mendez-856941"
+        "title": "Reinos de taifas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/reinos-de-taifas-columna-de-pedro-medellin-857384"
     },
     {
         "article-type": "column",
-        "author": "Vladdo",
-        "date": "2024-02-21",
+        "author": "Juan Esteban Consta\u00edn",
+        "date": "2024-02-22",
         "publication": "el-tiempo",
-        "title": "Adi\u00f3s a un gran tipo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/adios-a-un-gran-tipo-editorial-el-tiempo-856989"
+        "title": "Decadencia de la decadencia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/decadencia-de-la-decadencia-columna-de-juan-esteban-constain-857307"
     },
     {
         "article-type": "column",
-        "author": "Otros columnistas",
-        "date": "2024-02-21",
+        "author": "Juliana Mej\u00eda",
+        "date": "2024-02-22",
         "publication": "el-tiempo",
-        "title": "Dos a\u00f1os de una decisi\u00f3n hist\u00f3rica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/dos-anos-de-una-decision-historica-columna-de-marta-royo-856955"
+        "title": "Ruptura institucional: \u00bfmiedo o realidad?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/ruptura-institucional-miedo-o-realidad-columna-de-juliana-mejia-857286"
     },
     {
         "article-type": "column",
-        "author": "Jotamario Arbel\u00e1ez",
-        "date": "2024-02-21",
+        "author": "Jineth Bedoya Lima",
+        "date": "2024-02-22",
         "publication": "el-tiempo",
-        "title": "\u00a1Lev\u00e1ntate y nada!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jotamario-arbelaez/levantate-y-nada-columna-de-jotamario-arbelaez-856953"
+        "title": "Hasta pronto, querido Rodrigo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/hasta-pronto-querido-rodrigo-columna-de-yineth-bedoya-857362"
     },
     {
         "article-type": "column",
-        "author": "Poncho Renter\u00eda",
-        "date": "2024-02-21",
+        "author": "Diana Pardo",
+        "date": "2024-02-22",
         "publication": "el-tiempo",
-        "title": "Una fiscal y un rey con c\u00e1ncer",
-        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/una-fiscal-y-un-rey-con-cancer-columna-de-poncho-renteria-856963"
+        "title": "Porque me fascina vivir",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/porque-me-fascina-vivir-columna-de-diana-pardo-857294"
     },
     {
         "article-type": "column",
-        "author": "Carolina Avenda\u00f1o",
-        "date": "2024-02-21",
+        "author": "Javier Borda Diaz",
+        "date": "2024-02-22",
         "publication": "el-tiempo",
-        "title": "Tercos recuerdos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/carolina-avendano/tercos-recuerdos-columna-de-carolina-avendano-856916"
+        "title": "\u00a1Qu\u00e9 dif\u00edcil leer una noticia en internet!",
+        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/que-dificil-leer-una-noticia-en-internet-columna-de-javier-borda-857354"
     },
     {
         "article-type": "column",
-        "author": "In\u00e9s Olano",
-        "date": "2024-02-21",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2024-02-22",
         "publication": "el-tiempo",
-        "title": "El poder transformador de la empat\u00eda en el liderazgo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/el-poder-transformador-de-la-empatia-en-el-liderazgo-columna-de-ines-olano-856912"
+        "title": "\u2018Un camino al \u00c1frica\u2019: un libro para conocer este continente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/un-camino-al-africa-un-libro-para-conocer-este-continente-jose-miguel-alzate-857340"
     }
 ]
