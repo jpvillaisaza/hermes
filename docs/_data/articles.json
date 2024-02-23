@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-22",
+        "date": "2024-02-23",
         "publication": "el-colombiano",
-        "title": "Es un deber defender el sistema de salud",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/reforma-salud-gustavo-petro-retroceso-en-cobertura-BJ23804072"
+        "title": "Presidente, la infraestructura no es para los ricos ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/construccion-vias-gobierno-gustavo-petro-desarrollo-colombia-AI23815063"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-22",
+        "date": "2024-02-23",
         "publication": "el-espectador",
-        "title": "Cali, orgullo de Colombia y sede de la COP16",
-        "url": "https://www.elespectador.com/opinion/editorial/cali-orgullo-de-colombia-y-sede-de-la-cop16/"
+        "title": "La inmadurez del ELN es una muestra de debilidad",
+        "url": "https://www.elespectador.com/opinion/editorial/la-inmadurez-del-eln-es-una-muestra-de-debilidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2024-02-23",
+        "publication": "el-espectador",
+        "title": "Invisibles",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/invisibles/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2024-02-23",
+        "publication": "el-espectador",
+        "title": "Assange: 175 a\u00f1os y una eternidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/assange-175-anos-y-una-eternidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2024-02-23",
+        "publication": "el-espectador",
+        "title": "Una visita",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/una-visita/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Diego Soler",
+        "date": "2024-02-23",
+        "publication": "el-espectador",
+        "title": "Ucrania: esperanza ante la desesperanza",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-diego-soler/ucrania-esperanza-ante-la-desesperanza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2024-02-23",
+        "publication": "el-espectador",
+        "title": "Cuando se sabe perder",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/cuando-se-sabe-perder/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2024-02-23",
+        "publication": "el-espectador",
+        "title": "Hasta siempre, Rodrigo Pardo",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/hasta-siempre-rodrigo-pardo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2024-02-23",
+        "publication": "el-espectador",
+        "title": "\u201cMelancol\u00eda\u201d de Fosse y fiordos de Hertervig",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/melancolia-de-fosse-y-fiordos-de-hertervig/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cartas de los lectores",
+        "date": "2024-02-23",
+        "publication": "el-espectador",
+        "title": "Una dosis de populismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/una-dosis-de-populismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2024-02-23",
+        "publication": "el-espectador",
+        "title": "Lo b\u00e1sico",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/lo-basico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2024-02-23",
+        "publication": "el-espectador",
+        "title": "El colapso de la democracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/el-colapso-de-la-democracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Paula Valencia Cort\u00e9s*",
+        "date": "2024-02-23",
+        "publication": "el-espectador",
+        "title": "La decisi\u00f3n de la Corte que pone en riesgo la restituci\u00f3n de tierras",
+        "url": "https://www.elespectador.com/colombia-20/analistas/restitucion-de-tierras-en-colombia-en-riesgo-por-decision-de-corte-en-caso-villa-claudia/"
     },
     {
         "article-type": "column",
@@ -22,22 +110,6 @@
         "publication": "el-espectador",
         "title": "La Furia Bolivariana contra Roc\u00edo San Miguel",
         "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/la-furia-bolivariana-contra-rocio-san-miguel/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-02-22",
-        "publication": "el-espectador",
-        "title": "Autoritarismos contra el pop",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/autoritarismos-contra-el-pop/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2024-02-22",
-        "publication": "el-espectador",
-        "title": "La Mona Lisa no tiene la culpa",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-mona-lisa-no-tiene-la-culpa/"
     },
     {
         "article-type": "column",
@@ -72,139 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/despedir-a-un-amigo/"
     },
     {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2024-02-22",
-        "publication": "el-espectador",
-        "title": "Pablo, Sof\u00eda, los medios y el sanchismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/pablo-sofia-los-medios-y-el-sanchismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-02-22",
-        "publication": "el-espectador",
-        "title": "Por m\u00e1s importante que sea el personaje, no todo hay que publicarlo",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/por-mas-importante-que-sea-el-personaje-no-todo-hay-que-publicarlo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2024-02-21",
-        "publication": "el-espectador",
-        "title": "El Holocausto fue \u00fanico",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/el-holocausto-fue-unico-columna-de-marcos-peckel/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2024-02-21",
-        "publication": "el-espectador",
-        "title": "Democracia degenerada",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/democracia-degenerada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2024-02-21",
-        "publication": "el-espectador",
-        "title": "Raza c\u00f3smica",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/raza-cosmica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-02-21",
-        "publication": "el-espectador",
-        "title": "Una tripleta fat\u00eddica manej\u00f3 la Fiscal\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/una-tripleta-fatidica-manejo-la-fiscalia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2024-02-21",
-        "publication": "el-espectador",
-        "title": "Los ricos no dejan gobernar",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/los-ricos-no-dejan-gobernar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2024-02-21",
-        "publication": "el-espectador",
-        "title": "Menos caf\u00e9 y m\u00e1s valeriana",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/menos-cafe-y-mas-valeriana/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2024-02-21",
-        "publication": "el-espectador",
-        "title": "A dar ejemplo, se\u00f1ores magistrados",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/a-dar-ejemplo-senores-magistrados/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-22",
+        "date": "2024-02-23",
         "publication": "el-tiempo",
-        "title": "Robos en Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/editorial/robos-en-bogota-editorial-el-tiempo-857401"
+        "title": "Cuidar el f\u00fatbol",
+        "url": "https://www.eltiempo.com/opinion/editorial/cuidar-el-futbol-edtorial-el-tiempo-857770"
     },
     {
         "article-type": "column",
-        "author": "Pedro Medellin",
-        "date": "2024-02-22",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2024-02-23",
         "publication": "el-tiempo",
-        "title": "Reinos de taifas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/pedro-medellin/reinos-de-taifas-columna-de-pedro-medellin-857384"
+        "title": "Gomelos con doctorado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/gomelos-con-doctorado-columna-de-moises-wasserman-857750"
     },
     {
         "article-type": "column",
-        "author": "Juan Esteban Consta\u00edn",
-        "date": "2024-02-22",
+        "author": "Mois\u00e9s Wasserman",
+        "date": "2024-02-23",
         "publication": "el-tiempo",
-        "title": "Decadencia de la decadencia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-esteban-constain/decadencia-de-la-decadencia-columna-de-juan-esteban-constain-857307"
+        "title": "Gomelos con doctorado",
+        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/gomelos-con-doctorado-columna-de-moises-wasserman-857750"
     },
     {
         "article-type": "column",
-        "author": "Juliana Mej\u00eda",
-        "date": "2024-02-22",
+        "author": "Sergio D\u00edaz-Granados",
+        "date": "2024-02-23",
         "publication": "el-tiempo",
-        "title": "Ruptura institucional: \u00bfmiedo o realidad?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juliana-mejia/ruptura-institucional-miedo-o-realidad-columna-de-juliana-mejia-857286"
+        "title": "Un llamado urgente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-diaz-granados/un-llamado-urgente-columna-de-sergio-diaz-granados-857735"
     },
     {
         "article-type": "column",
-        "author": "Jineth Bedoya Lima",
-        "date": "2024-02-22",
+        "author": "Mar\u00eda Paula Duque",
+        "date": "2024-02-23",
         "publication": "el-tiempo",
-        "title": "Hasta pronto, querido Rodrigo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jineth-bedoya-lima/hasta-pronto-querido-rodrigo-columna-de-yineth-bedoya-857362"
+        "title": "Juntas inclusivas, una estrategia competitiva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/juntas-inclusivas-una-estrategia-competitiva-maria-paula-duque-857759"
     },
     {
         "article-type": "column",
-        "author": "Diana Pardo",
-        "date": "2024-02-22",
+        "author": "Eduardo Posada Carb\u00f3",
+        "date": "2024-02-23",
         "publication": "el-tiempo",
-        "title": "Porque me fascina vivir",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diana-pardo/porque-me-fascina-vivir-columna-de-diana-pardo-857294"
+        "title": "Lecciones por aprender",
+        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/lecciones-por-aprender-columna-de-eduardo-posada-carbo-857736"
     },
     {
         "article-type": "column",
-        "author": "Javier Borda Diaz",
-        "date": "2024-02-22",
+        "author": "Manuel Guzm\u00e1n Hennessey",
+        "date": "2024-02-23",
         "publication": "el-tiempo",
-        "title": "\u00a1Qu\u00e9 dif\u00edcil leer una noticia en internet!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/javier-borda-diaz/que-dificil-leer-una-noticia-en-internet-columna-de-javier-borda-857354"
+        "title": "La COP de Cali",
+        "url": "https://www.eltiempo.com/opinion/columnistas/manuel-guzman-hennessey/la-cop-de-cali-columna-de-manuel-guzman-hennessey-857742"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Miguel Alzate",
-        "date": "2024-02-22",
+        "author": "Alex\u00e1nder Cambero",
+        "date": "2024-02-23",
         "publication": "el-tiempo",
-        "title": "\u2018Un camino al \u00c1frica\u2019: un libro para conocer este continente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/un-camino-al-africa-un-libro-para-conocer-este-continente-jose-miguel-alzate-857340"
+        "title": "Todo un pueblo llor\u00f3",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alexander-cambero/todo-un-pueblo-lloro-columna-de-alexander-cambero-857762"
     }
 ]
