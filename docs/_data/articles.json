@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-25",
+        "date": "2024-02-26",
         "publication": "el-colombiano",
-        "title": "La obsesi\u00f3n de Petro",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-obsesion-de-petro-reformas-estado-populismo-HK23830744"
+        "title": "El buen destino del edificio V\u00e1squez",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/uso-edificio-vasquez-alcaldia-federico-gutierrez-PK23833480"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-25",
+        "date": "2024-02-26",
         "publication": "el-espectador",
-        "title": "Ucrania, dos a\u00f1os v\u00edctima de un tirano invasor ",
-        "url": "https://www.elespectador.com/opinion/editorial/ucrania-dos-anos-victima-de-un-tirano-invasor/"
+        "title": "Bogot\u00e1 est\u00e1 en medio del temor",
+        "url": "https://www.elespectador.com/opinion/editorial/bogota-esta-en-medio-del-temor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2024-02-26",
+        "publication": "el-espectador",
+        "title": "Ruedas de prensa",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-ruedas-de-prensa-liga-betplay/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2024-02-26",
+        "publication": "el-espectador",
+        "title": "Inversi\u00f3n extranjera, inflaci\u00f3n y tasas de inter\u00e9s",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/inversion-extranjera-inflacion-y-tasas-de-interes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2024-02-26",
+        "publication": "el-espectador",
+        "title": "La nueva banca digital",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/la-nueva-banca-digital/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2024-02-26",
+        "publication": "el-espectador",
+        "title": "Palabras que (no) existen",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/palabras-que-no-existen/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2024-02-26",
+        "publication": "el-espectador",
+        "title": "Los caricaturistas no deber\u00edan morir",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/los-caricaturistas-no-deberian-morir/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2024-02-26",
+        "publication": "el-espectador",
+        "title": "Entrevista a Petro sin ilusi\u00f3n de respuestas",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/entrevista-a-petro-sin-ilusion-de-respuestas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2024-02-26",
+        "publication": "el-espectador",
+        "title": "Golpe de gracia contra los partidos",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/golpe-de-gracia-contra-los-partidos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2024-02-26",
+        "publication": "el-espectador",
+        "title": "Senatec y educaci\u00f3n digital: invitar al MEN",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/senatec-y-educacion-digital-invitar-al-men/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2024-02-26",
+        "publication": "el-espectador",
+        "title": "Espejito, espejito\u2026 dice el aut\u00f3crata",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/espejito-espejito-dice-el-autocrata/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fabiola Calvo",
+        "date": "2024-02-26",
+        "publication": "el-espectador",
+        "title": "Si busca empleo\u2026",
+        "url": "https://www.elespectador.com/colombia-20/analistas/por-que-personas-con-especializaciones-maestrias-y-doctorados-no-tienen-empleo/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2024-02-26",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cUcrania, dos a\u00f1os v\u00edctima de un tirano invasor\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-ucrania-dos-anos-victima-de-un-tirano-invasor/"
     },
     {
         "article-type": "column",
@@ -33,27 +121,11 @@
     },
     {
         "article-type": "column",
-        "author": "William Ospina",
+        "author": "Armando Montenegro",
         "date": "2024-02-25",
         "publication": "el-espectador",
-        "title": "El tiempo corre",
-        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/el-tiempo-corre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "Descalabro en Galicia desconcierta al \u201cgobierno Frankenstein\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/descalabro-en-galicia-desconcierta-al-gobierno-frankenstein/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "Thinking rundowns",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/thinking-rundowns/"
+        "title": "El sistema de salud: se aproxima el fin",
+        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/el-sistema-de-salud-se-aproxima-el-fin/"
     },
     {
         "article-type": "column",
@@ -65,146 +137,82 @@
     },
     {
         "article-type": "column",
-        "author": "Armando Montenegro",
+        "author": "William Ospina",
         "date": "2024-02-25",
         "publication": "el-espectador",
-        "title": "El sistema de salud: se aproxima el fin",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/el-sistema-de-salud-se-aproxima-el-fin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "La inseguridad en Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/la-inseguridad-en-bogota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Barbosa",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "Jap\u00f3n: los reacomodos",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/japon-los-reacomodos/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "Ucrania: tan lejos, tan cerca",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/ucrania-tan-lejos-tan-cerca/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "Aspen, Argentina",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/aspen-argentina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "Pena de muerte",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/pena-de-muerte/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "H\u00e9roes",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/heroes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja recuerdan las andanzas del que sabemos",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-recuerdan-las-andanzas-del-que-sabemos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "Funciones electorales de las cortes: eliminarlas o ajustarlas",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/funciones-electorales-de-las-cortes-eliminarlas-o-ajustarlas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "Un hombre bueno",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/un-hombre-bueno/"
+        "title": "El tiempo corre",
+        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/el-tiempo-corre/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-25",
+        "date": "2024-02-26",
         "publication": "el-tiempo",
-        "title": "Evitar la incertidumbre",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-25-de-febrero-de-2024-evitar-la-incertidumbre-858336"
+        "title": "Las cifras de la salud",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-26-de-febrero-de-2024-las-cifras-de-la-salud-858488"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2024-02-25",
+        "author": "Juan Lozano",
+        "date": "2024-02-26",
         "publication": "el-tiempo",
-        "title": "El Congreso por la faja",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-el-congreso-por-la-faja-858349"
+        "title": "El infierno de la inseguridad",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-el-infierno-de-la-inseguridad-858493"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2024-02-25",
+        "author": "Luis Felipe Henao",
+        "date": "2024-02-26",
         "publication": "el-tiempo",
-        "title": "Candidata inelegible",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-candidata-inelegible-858350"
+        "title": "Propuestas para una reforma de la justicia penal",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-propuestas-para-una-reforma-de-la-justicia-penal-858485"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2024-02-25",
+        "author": "Marta Luc\u00eda Ram\u00edrez",
+        "date": "2024-02-26",
         "publication": "el-tiempo",
-        "title": "Se busca \u2018un Bukele\u2019",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-se-busca-un-bukele-858355"
+        "title": "\u00bfQue todo cambie para que todo siga igual?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/marta-lucia-ramirez/columna-de-marta-lucia-ramirez-que-todo-cambie-para-que-todo-siga-igual-858494"
     },
     {
         "article-type": "column",
-        "author": "Susana Muhamad",
-        "date": "2024-02-25",
+        "author": "Diego Santos",
+        "date": "2024-02-26",
         "publication": "el-tiempo",
-        "title": "La COP de la gente",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/columna-de-susana-muhamad-la-cop-de-la-gente-858335"
+        "title": "Cuando el mundo digital cobra todo el sentido del mundo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-cuando-el-mundo-digital-cobra-sentido-858484"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2024-02-25",
+        "author": "Paola Ochoa",
+        "date": "2024-02-26",
         "publication": "el-tiempo",
-        "title": "Dedazos palaciegos",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-dedazos-palaciegos-858337"
+        "title": "El arte de la seducci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-el-arte-de-la-seduccion-858486"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2024-02-25",
+        "author": "Guillermo Santos Calder\u00f3n",
+        "date": "2024-02-26",
         "publication": "el-tiempo",
-        "title": "El gallo de Alicia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-el-gallo-de-alicia-858351"
+        "title": "El celular acab\u00f3 con la socializaci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-el-celular-acabo-con-la-socializacion-858491"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Antonio Ocampo",
-        "date": "2024-02-25",
+        "author": "Melba Escobar",
+        "date": "2024-02-26",
         "publication": "el-tiempo",
-        "title": "La econom\u00eda del pa\u00eds frente al informe del Fondo Monetario",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-antonio-ocampo/columna-de-jose-antonio-ocampo-la-economia-frente-al-informe-del-fmi-858354"
+        "title": "SOS por la prensa",
+        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-sos-por-la-prensa-858495"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Higuera Sotomayor",
+        "date": "2024-02-26",
+        "publication": "el-tiempo",
+        "title": "\u00bfY la \u00e9tica de los \u2018influencers\u2019?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-y-la-etica-de-los-influencers-858492"
     }
 ]
