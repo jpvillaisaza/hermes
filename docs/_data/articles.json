@@ -2,18 +2,122 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-26",
+        "date": "2024-02-27",
         "publication": "el-colombiano",
-        "title": "El buen destino del edificio V\u00e1squez",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/uso-edificio-vasquez-alcaldia-federico-gutierrez-PK23833480"
+        "title": "La paradoja de la seguridad en las capitales",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/inseguridad-en-ciudades-de-colombia-por-atracos-y-homicidios-BN23840735"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-26",
+        "date": "2024-02-27",
         "publication": "el-espectador",
-        "title": "Bogot\u00e1 est\u00e1 en medio del temor",
-        "url": "https://www.elespectador.com/opinion/editorial/bogota-esta-en-medio-del-temor/"
+        "title": "Tenemos que volver a hablar sobre la JEP",
+        "url": "https://www.elespectador.com/opinion/editorial/tenemos-que-volver-a-hablar-sobre-la-jep/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "Fedeg\u00e1n juega con candela",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/fedegan-juega-con-candela/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "El aumento de los delitos con violencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/el-aumento-de-los-delitos-con-violencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "Perder el miedo",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/perder-el-miedo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "El camino hacia la victoria",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/el-camino-hacia-la-victoria/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "La Corte Suprema y los c\u00f3nclaves",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-corte-suprema-y-los-conclaves/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "Lavado verde",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/lavado-verde/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario M\u00e9ndez",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "Preguntas extempor\u00e1neas a Rub\u00e9n Dar\u00edo",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-mendez/preguntas-extemporaneas-a-ruben-dario/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "Rodrigo Pardo Garc\u00eda-Pe\u00f1a",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/rodrigo-pardo-garcia-pena/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "La demanda contra las plataformas tecnol\u00f3gicas en Estados Unidos",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/la-demanda-contra-las-plataformas-tecnologicas-en-estados-unidos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "Las selfis y un genocidio",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/las-selfis-y-un-genocidio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "Nuestras cinco de la tarde",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/nuestras-cinco-de-la-tarde/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "La econom\u00eda de demanda y oferta",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/la-economia-de-demanda-y-oferta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2024-02-27",
+        "publication": "el-espectador",
+        "title": "Los presidentes en las redes",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/los-presidentes-en-las-redes/"
     },
     {
         "article-type": "column",
@@ -22,14 +126,6 @@
         "publication": "el-espectador",
         "title": "Ruedas de prensa",
         "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-ruedas-de-prensa-liga-betplay/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2024-02-26",
-        "publication": "el-espectador",
-        "title": "Inversi\u00f3n extranjera, inflaci\u00f3n y tasas de inter\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/inversion-extranjera-inflacion-y-tasas-de-interes/"
     },
     {
         "article-type": "column",
@@ -48,171 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/palabras-que-no-existen/"
     },
     {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2024-02-26",
-        "publication": "el-espectador",
-        "title": "Los caricaturistas no deber\u00edan morir",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/los-caricaturistas-no-deberian-morir/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2024-02-26",
-        "publication": "el-espectador",
-        "title": "Entrevista a Petro sin ilusi\u00f3n de respuestas",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/entrevista-a-petro-sin-ilusion-de-respuestas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2024-02-26",
-        "publication": "el-espectador",
-        "title": "Golpe de gracia contra los partidos",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/golpe-de-gracia-contra-los-partidos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2024-02-26",
-        "publication": "el-espectador",
-        "title": "Senatec y educaci\u00f3n digital: invitar al MEN",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/senatec-y-educacion-digital-invitar-al-men/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Teresa Ronderos",
-        "date": "2024-02-26",
-        "publication": "el-espectador",
-        "title": "Espejito, espejito\u2026 dice el aut\u00f3crata",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/espejito-espejito-dice-el-autocrata/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fabiola Calvo",
-        "date": "2024-02-26",
-        "publication": "el-espectador",
-        "title": "Si busca empleo\u2026",
-        "url": "https://www.elespectador.com/colombia-20/analistas/por-que-personas-con-especializaciones-maestrias-y-doctorados-no-tienen-empleo/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2024-02-26",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cUcrania, dos a\u00f1os v\u00edctima de un tirano invasor\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-ucrania-dos-anos-victima-de-un-tirano-invasor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "Arrastr\u00e1ndose",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/arrastrandose/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "Y escarb\u00e9 la vida",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/y-escarbe-la-vida-el-caminante-columnistas-el-espectador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "El sistema de salud: se aproxima el fin",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/el-sistema-de-salud-se-aproxima-el-fin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rafael Rivas",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "El cambio",
-        "url": "https://www.elespectador.com/opinion/columnistas/rafael-rivas/el-cambio/"
-    },
-    {
-        "article-type": "column",
-        "author": "William Ospina",
-        "date": "2024-02-25",
-        "publication": "el-espectador",
-        "title": "El tiempo corre",
-        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/el-tiempo-corre/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-26",
+        "date": "2024-02-27",
         "publication": "el-tiempo",
-        "title": "Las cifras de la salud",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-26-de-febrero-de-2024-las-cifras-de-la-salud-858488"
+        "title": "Urgente claridad",
+        "url": "https://www.eltiempo.com/opinion/editorial/urgente-claridad-editorial-el-tiempo-858897"
     },
     {
         "article-type": "column",
-        "author": "Juan Lozano",
-        "date": "2024-02-26",
+        "author": "Jos\u00e9 Manuel Acevedo",
+        "date": "2024-02-27",
         "publication": "el-tiempo",
-        "title": "El infierno de la inseguridad",
-        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-el-infierno-de-la-inseguridad-858493"
+        "title": "Eln: los mismos faltones",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/eln-los-mismos-faltones-columna-de-jose-manuel-acevedo-858796"
     },
     {
         "article-type": "column",
-        "author": "Luis Felipe Henao",
-        "date": "2024-02-26",
+        "author": "Sergio Mu\u00f1oz Bata",
+        "date": "2024-02-27",
         "publication": "el-tiempo",
-        "title": "Propuestas para una reforma de la justicia penal",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-propuestas-para-una-reforma-de-la-justicia-penal-858485"
+        "title": "Trump, el peor",
+        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/trump-el-infame-columna-de-sergio-munoz-bata-858780"
     },
     {
         "article-type": "column",
-        "author": "Marta Luc\u00eda Ram\u00edrez",
-        "date": "2024-02-26",
+        "author": "Luis Carlos Villegas",
+        "date": "2024-02-27",
         "publication": "el-tiempo",
-        "title": "\u00bfQue todo cambie para que todo siga igual?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/marta-lucia-ramirez/columna-de-marta-lucia-ramirez-que-todo-cambie-para-que-todo-siga-igual-858494"
+        "title": "Autoritarismo y gerontocracia",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-carlos-villegas/autoritarismo-y-gerontocracia-columna-de-luis-carlos-villegas-858827"
     },
     {
         "article-type": "column",
-        "author": "Diego Santos",
-        "date": "2024-02-26",
+        "author": "Maria Camila Mu\u00f1oz",
+        "date": "2024-02-27",
         "publication": "el-tiempo",
-        "title": "Cuando el mundo digital cobra todo el sentido del mundo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-cuando-el-mundo-digital-cobra-sentido-858484"
+        "title": "Las damas poderosas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/las-damas-poderosas-columna-de-women-in-connection-858867"
     },
     {
         "article-type": "column",
-        "author": "Paola Ochoa",
-        "date": "2024-02-26",
+        "author": "Francisco Cajiao",
+        "date": "2024-02-27",
         "publication": "el-tiempo",
-        "title": "El arte de la seducci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/paola-ochoa/columna-de-paola-ochoa-el-arte-de-la-seduccion-858486"
+        "title": "La propensi\u00f3n a agradar",
+        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/la-propension-a-agradar-columna-de-francisco-cajiao-858791"
     },
     {
         "article-type": "column",
-        "author": "Guillermo Santos Calder\u00f3n",
-        "date": "2024-02-26",
+        "author": "Fernando Quiroz",
+        "date": "2024-02-27",
         "publication": "el-tiempo",
-        "title": "El celular acab\u00f3 con la socializaci\u00f3n",
-        "url": "https://www.eltiempo.com/opinion/columnistas/guillermo-santos-calderon/columna-de-guillermo-santos-calderon-el-celular-acabo-con-la-socializacion-858491"
+        "title": "La quejadera",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/la-quejadera-columna-de-fernando-quiroz-858801"
     },
     {
         "article-type": "column",
-        "author": "Melba Escobar",
-        "date": "2024-02-26",
+        "author": "Manuel Otero",
+        "date": "2024-02-27",
         "publication": "el-tiempo",
-        "title": "SOS por la prensa",
-        "url": "https://www.eltiempo.com/opinion/columnistas/melba-escobar/columna-de-melba-escobar-sos-por-la-prensa-858495"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejandro Higuera Sotomayor",
-        "date": "2024-02-26",
-        "publication": "el-tiempo",
-        "title": "\u00bfY la \u00e9tica de los \u2018influencers\u2019?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-higuera-sotomayor/columna-de-alejandro-higuera-y-la-etica-de-los-influencers-858492"
+        "title": "La genuina competitividad de los agricultores de las Am\u00e9ricas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/la-genuina-competitividad-de-los-agricultores-de-las-americas-manuel-otero-858822"
     }
 ]
