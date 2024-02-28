@@ -2,42 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-27",
+        "date": "2024-02-28",
         "publication": "el-colombiano",
-        "title": "La paradoja de la seguridad en las capitales",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/inseguridad-en-ciudades-de-colombia-por-atracos-y-homicidios-BN23840735"
+        "title": "arrow_right_alt",
+        "url": "https://www.elcolombiano.com/opinion/cita-textual/articulo-DN23849749"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-27",
+        "date": "2024-02-28",
         "publication": "el-espectador",
-        "title": "Tenemos que volver a hablar sobre la JEP",
-        "url": "https://www.elespectador.com/opinion/editorial/tenemos-que-volver-a-hablar-sobre-la-jep/"
+        "title": "El gobierno Petro sufre su desastre en la Canciller\u00eda",
+        "url": "https://www.elespectador.com/opinion/editorial/el-gobierno-petro-sufre-su-desastre-en-la-cancilleria/"
     },
     {
         "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2024-02-27",
+        "author": "Oscar Guardiola-Rivera",
+        "date": "2024-02-28",
         "publication": "el-espectador",
-        "title": "Fedeg\u00e1n juega con candela",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/fedegan-juega-con-candela/"
+        "title": "Humo",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/humo-columna-de-oscar-guardiola/"
     },
     {
         "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2024-02-27",
+        "author": "J. William Pearl",
+        "date": "2024-02-28",
         "publication": "el-espectador",
-        "title": "El aumento de los delitos con violencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/el-aumento-de-los-delitos-con-violencia/"
+        "title": "Contraproducente",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/contraproducente/"
     },
     {
         "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2024-02-27",
+        "author": "Sandra Vilardy",
+        "date": "2024-02-28",
         "publication": "el-espectador",
-        "title": "Perder el miedo",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/perder-el-miedo/"
+        "title": "Tiburones y frailejones en el pa\u00eds de la belleza",
+        "url": "https://www.elespectador.com/opinion/columnistas/sandra-vilardy/tiburones-y-frailejones-en-el-pais-de-la-belleza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2024-02-28",
+        "publication": "el-espectador",
+        "title": "Extremismos recurrentes",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/extremismos-recurrentes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2024-02-28",
+        "publication": "el-espectador",
+        "title": "\u00bfValiente, traidor o esp\u00eda caballo de Troya?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/valiente-traidor-o-espia-caballo-de-troya/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2024-02-28",
+        "publication": "el-espectador",
+        "title": "El dictador dej\u00f3 ver las orejas",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/el-dictador-dejo-ver-las-orejas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2024-02-28",
+        "publication": "el-espectador",
+        "title": "La superstici\u00f3n de las armas",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/la-supersticion-de-las-armas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2024-02-28",
+        "publication": "el-espectador",
+        "title": "De paradoja en paradoja",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/de-paradoja-en-paradoja/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2024-02-28",
+        "publication": "el-espectador",
+        "title": "El color de la esperanza",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/el-color-de-la-esperanza/"
     },
     {
         "article-type": "column",
@@ -57,43 +105,27 @@
     },
     {
         "article-type": "column",
-        "author": "Jaime Arocha",
+        "author": "Aura Luc\u00eda Mera",
         "date": "2024-02-27",
         "publication": "el-espectador",
-        "title": "Lavado verde",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/lavado-verde/"
+        "title": "Perder el miedo",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/perder-el-miedo/"
     },
     {
         "article-type": "column",
-        "author": "Mario M\u00e9ndez",
+        "author": "Cristina de la Torre",
         "date": "2024-02-27",
         "publication": "el-espectador",
-        "title": "Preguntas extempor\u00e1neas a Rub\u00e9n Dar\u00edo",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-mendez/preguntas-extemporaneas-a-ruben-dario/"
+        "title": "Fedeg\u00e1n juega con candela",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/fedegan-juega-con-candela/"
     },
     {
         "article-type": "column",
-        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "author": "Yesid Reyes Alvarado",
         "date": "2024-02-27",
         "publication": "el-espectador",
-        "title": "Rodrigo Pardo Garc\u00eda-Pe\u00f1a",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/rodrigo-pardo-garcia-pena/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2024-02-27",
-        "publication": "el-espectador",
-        "title": "La demanda contra las plataformas tecnol\u00f3gicas en Estados Unidos",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/la-demanda-contra-las-plataformas-tecnologicas-en-estados-unidos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2024-02-27",
-        "publication": "el-espectador",
-        "title": "Las selfis y un genocidio",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/las-selfis-y-un-genocidio/"
+        "title": "El aumento de los delitos con violencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/el-aumento-de-los-delitos-con-violencia/"
     },
     {
         "article-type": "column",
@@ -105,106 +137,82 @@
     },
     {
         "article-type": "column",
-        "author": "Eduardo Sarmiento",
+        "author": "Mario M\u00e9ndez",
         "date": "2024-02-27",
         "publication": "el-espectador",
-        "title": "La econom\u00eda de demanda y oferta",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/la-economia-de-demanda-y-oferta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2024-02-27",
-        "publication": "el-espectador",
-        "title": "Los presidentes en las redes",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/los-presidentes-en-las-redes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2024-02-26",
-        "publication": "el-espectador",
-        "title": "Ruedas de prensa",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-ruedas-de-prensa-liga-betplay/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2024-02-26",
-        "publication": "el-espectador",
-        "title": "La nueva banca digital",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/la-nueva-banca-digital/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2024-02-26",
-        "publication": "el-espectador",
-        "title": "Palabras que (no) existen",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/palabras-que-no-existen/"
+        "title": "Preguntas extempor\u00e1neas a Rub\u00e9n Dar\u00edo",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-mendez/preguntas-extemporaneas-a-ruben-dario/"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-02-27",
+        "date": "2024-02-28",
         "publication": "el-tiempo",
-        "title": "Urgente claridad",
-        "url": "https://www.eltiempo.com/opinion/editorial/urgente-claridad-editorial-el-tiempo-858897"
+        "title": "Absurda novela",
+        "url": "https://www.eltiempo.com/opinion/editorial/absurda-novela-editorial-el-tiempo-859354"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Manuel Acevedo",
-        "date": "2024-02-27",
+        "author": "Alfonso G\u00f3mez M\u00e9ndez",
+        "date": "2024-02-28",
         "publication": "el-tiempo",
-        "title": "Eln: los mismos faltones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jose-manuel-acevedo/eln-los-mismos-faltones-columna-de-jose-manuel-acevedo-858796"
+        "title": "Regreso de Mancuso",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alfonso-gomez-mendez/regreso-de-mancuso-columna-de-alfonso-gomez-mendez-859272"
     },
     {
         "article-type": "column",
-        "author": "Sergio Mu\u00f1oz Bata",
-        "date": "2024-02-27",
+        "author": "Vladdo",
+        "date": "2024-02-28",
         "publication": "el-tiempo",
-        "title": "Trump, el peor",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-munoz-bata/trump-el-infame-columna-de-sergio-munoz-bata-858780"
+        "title": "M\u00e1s idolatr\u00eda que ideolog\u00eda",
+        "url": "https://www.eltiempo.com/opinion/columnistas/vladdo/mas-idolatria-que-ideologia-columna-de-vladdo-859331"
     },
     {
         "article-type": "column",
-        "author": "Luis Carlos Villegas",
-        "date": "2024-02-27",
+        "author": "Andr\u00e9s Hurtado Garc\u00eda",
+        "date": "2024-02-28",
         "publication": "el-tiempo",
-        "title": "Autoritarismo y gerontocracia",
-        "url": "https://www.eltiempo.com/opinion/columnistas/luis-carlos-villegas/autoritarismo-y-gerontocracia-columna-de-luis-carlos-villegas-858827"
+        "title": "Dos consejos con mucho gusto",
+        "url": "https://www.eltiempo.com/opinion/columnistas/andres-hurtado-garcia/dos-consejos-con-mucho-gusto-columna-de-andres-hurtado-garcia-859283"
     },
     {
         "article-type": "column",
-        "author": "Maria Camila Mu\u00f1oz",
-        "date": "2024-02-27",
+        "author": "Carolina Avenda\u00f1o",
+        "date": "2024-02-28",
         "publication": "el-tiempo",
-        "title": "Las damas poderosas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/las-damas-poderosas-columna-de-women-in-connection-858867"
+        "title": "Qu\u00e9 viene para el \u2018man\u2019 de la Sijin",
+        "url": "https://www.eltiempo.com/opinion/columnistas/carolina-avendano/que-viene-para-el-man-de-la-sijin-columna-de-carolina-avendano-859316"
     },
     {
         "article-type": "column",
-        "author": "Francisco Cajiao",
-        "date": "2024-02-27",
+        "author": "Gustavo Duncan",
+        "date": "2024-02-28",
         "publication": "el-tiempo",
-        "title": "La propensi\u00f3n a agradar",
-        "url": "https://www.eltiempo.com/opinion/columnistas/francisco-cajiao/la-propension-a-agradar-columna-de-francisco-cajiao-858791"
+        "title": "Falta la oferta",
+        "url": "https://www.eltiempo.com/opinion/columnistas/gustavo-duncan/falta-la-oferta-columna-de-gustavo-duncan-859279"
     },
     {
         "article-type": "column",
-        "author": "Fernando Quiroz",
-        "date": "2024-02-27",
+        "author": "Juan Lucas Restrepo",
+        "date": "2024-02-28",
         "publication": "el-tiempo",
-        "title": "La quejadera",
-        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-quiroz/la-quejadera-columna-de-fernando-quiroz-858801"
+        "title": "La COP16: \u00bfla agricultura contribuye a la biodiversidad?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lucas-restrepo/la-cop16-la-agricultura-contribuye-a-la-biodiversidad-juan-lucas-restrepo-859295"
     },
     {
         "article-type": "column",
-        "author": "Manuel Otero",
-        "date": "2024-02-27",
+        "author": "Poncho Renter\u00eda",
+        "date": "2024-02-28",
         "publication": "el-tiempo",
-        "title": "La genuina competitividad de los agricultores de las Am\u00e9ricas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/la-genuina-competitividad-de-los-agricultores-de-las-americas-manuel-otero-858822"
+        "title": "Perdieron Petro, Roy y \u00c1lvaro Leyva",
+        "url": "https://www.eltiempo.com/opinion/columnistas/poncho-renteria/perdieron-petro-roy-y-alvaro-leyva-columna-de-poncho-renteria-859286"
+    },
+    {
+        "article-type": "column",
+        "author": "Alpher Rojas Carvajal",
+        "date": "2024-02-28",
+        "publication": "el-tiempo",
+        "title": "Hasta siempre, Rodrigo",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alpher-rojas-carvajal/hasta-siempre-rodrigo-columna-de-alpher-rojas-859304"
     }
 ]
