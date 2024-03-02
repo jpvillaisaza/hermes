@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-01",
+        "date": "2024-03-02",
         "publication": "el-colombiano",
-        "title": "Las asonadas contra el Ej\u00e9rcito",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/asonadas-contra-el-ejercito-en-cauca-paz-total-gustavo-petro-IP23868011"
+        "title": "Turismo: secretar\u00eda y \u00bfqu\u00e9 m\u00e1s?",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/creacion-secretaria-turismo-medellin-alcaldia-federico-gutierrez-JO23877248"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-01",
+        "date": "2024-03-02",
         "publication": "el-espectador",
-        "title": "A sumar esfuerzos frente a las enfermedades raras",
-        "url": "https://www.elespectador.com/opinion/editorial/a-sumar-esfuerzos-frente-a-las-enfermedades-raras/"
+        "title": "El horror en Gaza debe acabar",
+        "url": "https://www.elespectador.com/opinion/editorial/el-horror-en-gaza-debe-acabar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "Repensando la seguridad",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/repensando-la-seguridad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "Un blues para Betto",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/un-blues-para-betto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Weildler Guerra",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "Monse\u00f1or Espejo",
+        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/monsenor-espejo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "Cinco fragmentos gram\u00e1ticos",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/cinco-fragmentos-gramaticos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "Dos p\u00e1ginas de un diario",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/dos-paginas-de-un-diario/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "La utop\u00eda puntual",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/la-utopia-puntual/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "Monitoreo ambiental ",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/monitoreo-ambiental/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adolfo Le\u00f3n Atehort\u00faa Cruz",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "Carta abierta: S.O.S. por la UPN",
+        "url": "https://www.elespectador.com/opinion/columnistas/adolfo-leon-atehortua-cruz/carta-abierta-sos-por-la-upn/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "Un atleta del hambre",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/un-atleta-del-hambre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "Aproximaci\u00f3n diferencial y perspectiva de g\u00e9nero para las pol\u00edticas de seguridad",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/aproximacion-diferencial-y-perspectiva-de-genero-para-las-politicas-de-seguridad-digital/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ot\u00e1lora Montenegro",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "Un mafioso sin cartel y con muchos votos",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-otalora-montenegro/un-mafioso-sin-cartel-y-con-muchos-votos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2024-03-02",
+        "publication": "el-espectador",
+        "title": "Walt Disney, 100 a\u00f1os",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/walt-disney-100-anos/"
     },
     {
         "article-type": "column",
@@ -33,22 +129,6 @@
     },
     {
         "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2024-03-01",
-        "publication": "el-espectador",
-        "title": "Buga, destino religioso mundial",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/buga-destino-religioso-mundial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tom\u00e1s Molina",
-        "date": "2024-03-01",
-        "publication": "el-espectador",
-        "title": "Mirar las apariencias para ver las esencias",
-        "url": "https://www.elespectador.com/opinion/columnistas/tomas-molilna/mirar-las-apariencias-para-ver-las-esencias/"
-    },
-    {
-        "article-type": "column",
         "author": "Juan Carlos Botero",
         "date": "2024-03-01",
         "publication": "el-espectador",
@@ -64,163 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/currulao-en-la-fabrica-de-muebles/"
     },
     {
-        "article-type": "column",
-        "author": "Jorge Iv\u00e1n Cuervo R.",
-        "date": "2024-03-01",
-        "publication": "el-espectador",
-        "title": "El desaf\u00edo libertario",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/el-desafio-libertario/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2024-03-01",
-        "publication": "el-espectador",
-        "title": "Los infaltables",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/los-infaltables/"
-    },
-    {
-        "article-type": "column",
-        "author": "Augusto Trujillo Mu\u00f1oz",
-        "date": "2024-03-01",
-        "publication": "el-espectador",
-        "title": "Ciudadan\u00eda y civilidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/ciudadania-y-civilidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cartas de los lectores",
-        "date": "2024-03-01",
-        "publication": "el-espectador",
-        "title": "El f\u00fatbol y la tercera edad",
-        "url": "https://www.elespectador.com/opinion/columnistas/cartas-de-los-lectores/el-futbol-y-la-tercera-edad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Ospina",
-        "date": "2024-03-01",
-        "publication": "el-espectador",
-        "title": "Ceses al fuego",
-        "url": "https://www.elespectador.com/colombia-20/analistas/ceses-al-fuego-con-emc-y-eln-no-son-comparables-al-de-farc-en-2016-columna-de-juan-ospina/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2024-03-01",
-        "publication": "el-espectador",
-        "title": "Las MANIPULACIONES de Cabal, De la Espriella, Polo Polo y la derecha | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-las-manipulaciones-de-cabal-de-la-espriella-polo-polo-y-la-derecha/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Carrizosa Calle",
-        "date": "2024-02-29",
-        "publication": "el-espectador",
-        "title": "El poder de lo femenino",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/el-poder-de-lo-femenino/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2024-02-29",
-        "publication": "el-espectador",
-        "title": "El mundo en llamas",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/el-mundo-en-llamas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2024-03-01",
-        "publication": "el-espectador",
-        "title": "Gustavo Bol\u00edvar, de guionista a pol\u00edtico",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/gustavo-bolivar-de-guionista-a-politico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-02-29",
-        "publication": "el-espectador",
-        "title": "La libertad retrocede",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/la-libertad-retrocede/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-01",
+        "date": "2024-03-02",
         "publication": "el-tiempo",
-        "title": "Las obras de Bogot\u00e1",
-        "url": "https://www.eltiempo.com/opinion/editorial/las-obras-de-bogota-editorial-el-tiempo-860136"
+        "title": "Talanquera al Caribe",
+        "url": "https://www.eltiempo.com/opinion/editorial/talanquera-al-caribe-editorial-el-teiempo-860467"
     },
     {
         "article-type": "column",
-        "author": "Mois\u00e9s Wasserman",
-        "date": "2024-03-01",
+        "author": "Mauricio C\u00e1rdenas Santamar\u00eda",
+        "date": "2024-03-02",
         "publication": "el-tiempo",
-        "title": "\u00a1Cuidado, lluvia de \u2018deepfakes\u2019!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/moises-wasserman/cuidado-lluvia-de-deepfakes-columna-de-moises-wassermajn-860050"
+        "title": "El camino que viene",
+        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-cardenas-santamaria/el-camino-que-viene-columna-de-mauricio-cardenas-860481"
     },
     {
         "article-type": "column",
-        "author": "Ricardo Silva Romero",
-        "date": "2024-03-01",
+        "author": "Luis No\u00e9 Ochoa",
+        "date": "2024-03-02",
         "publication": "el-tiempo",
-        "title": "\u00a1Campa\u00f1a!",
-        "url": "https://www.eltiempo.com/opinion/columnistas/ricardo-silva-romero/campana-columna-de-ricardo-silva-romero-860038"
+        "title": "VAR hasta en la pol\u00edtica",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-noe-ochoa/var-hasta-en-la-politica-columna-de-luis-noe-ochoa-860457"
     },
     {
         "article-type": "column",
-        "author": "Claudia Hakim",
-        "date": "2024-03-01",
+        "author": "Mar\u00eda A. Garc\u00eda de la Torre",
+        "date": "2024-03-02",
         "publication": "el-tiempo",
-        "title": "Desasosiego",
-        "url": "https://www.eltiempo.com/opinion/columnistas/claudia-hakim/desasosiego-columna-de-claudia-hakim-860067"
+        "title": "Estados Unidos: la tierra de la \u2018libertad\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/maria-a-garcia-de-la-torre/estados-unidos-la-tierra-de-la-libertad-maria-antonia-garcia-de-la-torre-860360"
     },
     {
         "article-type": "column",
-        "author": "Martha Senn",
-        "date": "2024-03-01",
+        "author": "Jos\u00e9 Gregorio Hern\u00e1ndez",
+        "date": "2024-03-02",
         "publication": "el-tiempo",
-        "title": "\u2018Cos\u00ec fan tutte\u2019 o la escuela de los amantes",
-        "url": "https://www.eltiempo.com/opinion/columnistas/martha-senn/cosi-fan-tutte-o-la-escuela-de-los-amantes-columna-de-martha-senn-860060"
+        "title": "Una estrategia indebida",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-gregorio-hernandez/una-estrategia-indebida-columna-de-jose-gregorio-hernandez-860393"
     },
     {
         "article-type": "column",
-        "author": "Alfredo Rangel",
-        "date": "2024-03-01",
+        "author": "V\u00edctor Manuel Ruiz",
+        "date": "2024-03-02",
         "publication": "el-tiempo",
-        "title": "Petro ineficiente, menos mal",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alfredo-rangel/petro-ineficiente-menos-mal-columna-de-alfredo-rangel-860070"
+        "title": "\u00bfA d\u00f3nde llegaremos?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/victor-manuel-ruiz/a-donde-llegaremos-columna-de-victor-manuel-ruiz-860398"
     },
     {
         "article-type": "column",
-        "author": "Jaime Castro",
-        "date": "2024-03-01",
+        "author": "Fernando Posada",
+        "date": "2024-03-02",
         "publication": "el-tiempo",
-        "title": "Congreso puede sancionar pol\u00edticamente a Petro",
-        "url": "https://www.eltiempo.com/opinion/columnistas/jaime-castro/congreso-puede-sancionar-politicamente-a-petro-columna-de-jaime-castro-860113"
+        "title": "Reforma de la salud: \u00bfy la responsabilidad de los congresistas?",
+        "url": "https://www.eltiempo.com/opinion/columnistas/fernando-posada/reforma-de-la-salud-y-la-responsabilidad-de-los-congresistas-fernando-posada-860441"
     },
     {
         "article-type": "column",
-        "author": "Rolando Roncancio Rachid",
-        "date": "2024-03-01",
+        "author": "Mar\u00eda Carolina Hoyos",
+        "date": "2024-03-02",
         "publication": "el-tiempo",
-        "title": "El papel de las universidades",
-        "url": "https://www.eltiempo.com/opinion/columnistas/otros-columnistas/el-papel-de-las-universidades-columna-de-rolando-roncancio-860064"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Posada Carb\u00f3",
-        "date": "2024-03-01",
-        "publication": "el-tiempo",
-        "title": "Ret\u00f3ricas de paz",
-        "url": "https://www.eltiempo.com/opinion/columnistas/eduardo-posada-carbo/retoricas-de-paz-columna-de-eduardo-posada-carbo-860048"
-    },
-    {
-        "article-type": "column",
-        "author": "Salvo Basile",
-        "date": "2024-03-01",
-        "publication": "el-tiempo",
-        "title": "Invitaci\u00f3n a un sue\u00f1o",
-        "url": "https://www.eltiempo.com/opinion/columnistas/salvo-basile/invitacion-a-un-sueno-columna-de-salvo-basile-860042"
+        "title": "Es la hora de las mujeres en las juntas directivas",
+        "url": "https://www.eltiempo.com/opinion/columnistas/women-in-connection/es-la-hora-de-las-mujeres-en-las-juntas-directivas-women-in-connection-860455"
     }
 ]
