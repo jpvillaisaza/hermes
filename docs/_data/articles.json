@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-03",
+        "date": "2024-03-04",
         "publication": "el-colombiano",
-        "title": "El voto m\u00e1s importante del Senado en su historia",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/votacion-senadores-comision-septima-sobre-reforma-a-la-salud-de-gustavo-petro-IB23881081"
+        "title": "La Nvidia de muchos",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/las-ganancias-de-nvidia-comparadas-con-el-pib-de-colombia-HB23886463"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-03",
+        "date": "2024-03-04",
         "publication": "el-espectador",
-        "title": "Un sistema de salud en crisis de hostilidad",
-        "url": "https://www.elespectador.com/opinion/editorial/un-sistema-de-salud-en-crisis-de-hostilidad/"
+        "title": "T\u00e9cnicos vs. activistas: un debate enga\u00f1oso",
+        "url": "https://www.elespectador.com/opinion/editorial/tecnicos-vs-activistas-un-debate-enganoso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "Entre Guernica e Hiroshima",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/entre-guernica-e-hiroshima/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "Un gran observador del Caribe",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/un-gran-observador-del-caribe/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "Malaya el lenguaje inclusivo",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/malaya-el-lenguaje-inclusivo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "Ex-FARC en \u201cSemana\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/ex-farc-en-semana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alvaro Forero Tasc\u00f3n",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "Segundo tercio",
+        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/segundo-tercio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "De la insurrecci\u00f3n al orden",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/de-la-insurreccion-al-orden/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "De Brasil para Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/de-brasil-para-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "La Corte militante",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-corte-militante/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "Las p\u00edrricas rentas de la polarizaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/las-pirricas-rentas-de-la-polarizacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "Marco de una verdadera reforma educativa",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/marco-de-una-verdadera-reforma-educativa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Tovar",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "El VAR y la c\u00e1mara lenta ",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-opinion-de-jorge-tovar-el-var-y-la-camara-lenta-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2024-03-04",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cUn sistema de salud en crisis de hostilidad\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-un-sistema-de-salud-en-crisis-de-hostilidad/"
     },
     {
         "article-type": "column",
@@ -48,171 +144,67 @@
         "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/la-sociedad-del-estruendo/"
     },
     {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "Funciones electorales de las Cortes (II) ",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/funciones-electorales-de-las-cortes-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "La estampida de los hambrientos",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/la-estampida-de-los-hambrientos/"
-    },
-    {
-        "article-type": "column",
-        "author": "William Ospina",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "Al final*",
-        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/al-final/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "Empat\u00eda a trav\u00e9s de la diferencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/empatia-a-traves-de-la-diferencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "De esc\u00e1ndalo en esc\u00e1ndalo",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/de-escandalo-en-escandalo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "Justicia y Paz vs. la impunidad en la JEP",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/justicia-y-paz-vs-la-impunidad-en-la-jep/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja apoyan a Petro con Israel",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-apoyan-a-petro-con-israel/"
-    },
-    {
-        "article-type": "column",
-        "author": "Irene Vallejo Moreu",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "La m\u00e9dica imaginaria",
-        "url": "https://www.elespectador.com/opinion/columnistas/ivallejo/la-medica-imaginaria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "Inteligencia poquita",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/inteligencia-poquita/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "Tecnocracia versus populismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/tecnocracia-versus-populismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "La inquina del izquierdista contra los neoliberales",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/la-inquina-del-izquierdista-contra-los-neoliberales/"
-    },
-    {
-        "article-type": "column",
-        "author": "Laura Ardila Arrieta",
-        "date": "2024-03-03",
-        "publication": "el-espectador",
-        "title": "Barranquilla, los narcos y los mudos",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-ardila-arrieta/barranquilla-y-los-narcos/"
-    },
-    {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-03",
+        "date": "2024-03-04",
         "publication": "el-tiempo",
-        "title": "La paz debe ser sin impunidad",
-        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-3-de-marzo-de-2024-la-paz-debe-ser-sin-impunidad-860647"
+        "title": "Cese del fuego",
+        "url": "https://www.eltiempo.com/opinion/editorial/editorial-de-el-tiempo-del-4-de-marzo-de-2024-cese-del-fuego-860807"
     },
     {
         "article-type": "column",
-        "author": "Germ\u00e1n Vargas Lleras",
-        "date": "2024-03-03",
+        "author": "Juan Lozano",
+        "date": "2024-03-04",
         "publication": "el-tiempo",
-        "title": "A por todo",
-        "url": "https://www.eltiempo.com/opinion/columnistas/german-vargas-lleras/columna-de-german-vargas-lleras-a-por-todo-860657"
+        "title": "Purasangres vs. saltimbanquis",
+        "url": "https://www.eltiempo.com/opinion/columnistas/juan-lozano/columna-de-juan-lozano-purasangres-vs-saltimbanquis-860822"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Isabel Rueda",
-        "date": "2024-03-03",
+        "author": "Luis Felipe Henao",
+        "date": "2024-03-04",
         "publication": "el-tiempo",
-        "title": "El rompecabezas de Leyva",
-        "url": "https://www.eltiempo.com/opinion/columnistas/maria-isabel-rueda/columna-de-maria-isabel-rueda-el-rompecabezas-de-leyva-860659"
+        "title": "Carrotanques de corrupci\u00f3n",
+        "url": "https://www.eltiempo.com/opinion/columnistas/luis-felipe-henao/columna-de-luis-felipe-henao-carrotanques-de-corrupcion-860815"
     },
     {
         "article-type": "column",
-        "author": "N\u00e9stor Humberto Mart\u00ednez",
-        "date": "2024-03-03",
+        "author": "Yolanda Reyes",
+        "date": "2024-03-04",
         "publication": "el-tiempo",
-        "title": "Lluvia de sobres",
-        "url": "https://www.eltiempo.com/opinion/columnistas/nestor-humberto-martinez/columna-de-nestor-humberto-martinez-lluvia-de-sobres-860673"
+        "title": "\u2018La patrulla gourmet\u2019",
+        "url": "https://www.eltiempo.com/opinion/columnistas/yolanda-reyes/columna-de-yolanda-reyes-la-patrulla-gourmet-860829"
     },
     {
         "article-type": "column",
-        "author": "Mauricio Vargas",
-        "date": "2024-03-03",
+        "author": "Diego Santos",
+        "date": "2024-03-04",
         "publication": "el-tiempo",
-        "title": "\u00bfRegal\u00f3 Petro el gale\u00f3n San Jos\u00e9?",
-        "url": "https://www.eltiempo.com/opinion/columnistas/mauricio-vargas/columna-de-mauricio-vargas-regalo-petro-el-galeon-san-jose-860648"
+        "title": "Israel se confi\u00f3 en exceso en su poder tecnol\u00f3gico y lo pag\u00f3 muy caro",
+        "url": "https://www.eltiempo.com/opinion/columnistas/diego-santos/columna-de-diego-santos-israel-se-confio-en-su-poder-tecnologico-860814"
     },
     {
         "article-type": "column",
-        "author": "Thierry Ways",
-        "date": "2024-03-03",
+        "author": "Alejandro Cheyne",
+        "date": "2024-03-04",
         "publication": "el-tiempo",
-        "title": "La persistencia de las malas ideas",
-        "url": "https://www.eltiempo.com/opinion/columnistas/thierry-ways/columna-de-thierry-ways-la-persistencia-de-las-malas-ideas-860658"
+        "title": "La necesidad de una educaci\u00f3n de calidad y trabajo decente",
+        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-cheyne/columna-de-alejandro-cheyne-necesidad-de-educacion-de-calidad-y-trabajo-decente-860824"
     },
     {
         "article-type": "column",
-        "author": "Sergio Clavijo",
-        "date": "2024-03-03",
+        "author": "\u00d3scar Dom\u00ednguez Giraldo",
+        "date": "2024-03-04",
         "publication": "el-tiempo",
-        "title": "Tecnopol\u00edticos e instituciones",
-        "url": "https://www.eltiempo.com/opinion/columnistas/sergio-clavijo/columna-de-sergio-clavijo-tecnopoliticos-e-instituciones-860672"
+        "title": "Pirotecnias (2)",
+        "url": "https://www.eltiempo.com/opinion/columnistas/oscar-dominguez-giraldo/columna-de-oscar-dominguez-pirotecnias-2-860821"
     },
     {
         "article-type": "column",
-        "author": "Froil\u00e1n Casas",
-        "date": "2024-03-03",
+        "author": "Jos\u00e9 Miguel Alzate",
+        "date": "2024-03-04",
         "publication": "el-tiempo",
-        "title": "Angela Merkel",
-        "url": "https://www.eltiempo.com/opinion/columnistas/froilan-casas/columna-de-froilan-casas-angela-merkel-860674"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejandro Riveros Gonz\u00e1lez",
-        "date": "2024-03-03",
-        "publication": "el-tiempo",
-        "title": "La ruta energ\u00e9tica",
-        "url": "https://www.eltiempo.com/opinion/columnistas/alejandro-riveros-gonzalez/columna-de-jorge-barraza-la-ruta-energetica-860676"
+        "title": "La vida de Agust\u00edn Agualongo en una novela",
+        "url": "https://www.eltiempo.com/opinion/columnistas/jose-miguel-alzate/columna-de-jose-miguel-alzate-la-vida-de-agustin-agualongo-en-una-novela-860828"
     }
 ]
