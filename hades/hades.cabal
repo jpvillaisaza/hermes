@@ -5,7 +5,7 @@ version: 0.1.0.0
 
 common common
   build-depends:
-    , base == 4.14.3.0
+    , base == 4.18.2.0
   ghc-options:
     -Wall
 
@@ -17,7 +17,7 @@ library
   exposed-modules:
     Hades
   build-depends:
-    , aeson >= 2.0.3 && < 2.1
+    , aeson >= 2.2 && < 2.3
     , bytestring
     , http-client >= 0.7.11 && < 0.8
     , http-client-tls >= 0.3.6 && < 0.4
@@ -25,6 +25,7 @@ library
     , tagsoup >= 0.14.8 && < 0.15
     , text
     , time
+    , tls < 2.0
 
 executable hades
   import:
