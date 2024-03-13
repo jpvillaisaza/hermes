@@ -140,7 +140,7 @@ main = do
       _ ->
         pure mempty
   articles <-
-    for [minBound .. maxBound] $
+    for [ElColombiano, ElEspectador] $
       \publication -> do
         articles <- getArticles manager publication
         pure (fmap (toArticle articles0) articles)

@@ -19,15 +19,15 @@ jobs:
   build:
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/cache@v3
+      - uses: actions/checkout@v4
+      - uses: actions/cache@v4
         with:
           path: |
             ~/.cabal/packages/
             ~/.cabal/store/
-          key: ghc-8.10.7-${{ hashFiles('**/cabal.project', '**/*.cabal') }}
-          restore-keys: ghc-8.10.7-
-      - run: ghcup install ghc 8.10.7 --set
+          key: ghc-9.6.4-${{ hashFiles('**/cabal.project', '**/*.cabal') }}
+          restore-keys: ghc-9.6.4-
+      - run: ghcup install ghc 9.6.4 --set
       - run: ghcup list
       - run: cabal build all
       - run: cabal run exe:hades --verbose=0 -- docs/_data/articles.json > articles.json
