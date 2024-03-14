@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-13",
+        "date": "2024-03-14",
         "publication": "el-colombiano",
-        "title": "Ham\u00e1s no deja ni entrar comida",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/hamas-no-deja-ni-entrar-comida-a-franja-de-gaza-BP23977152"
+        "title": "La vaca para las 4G",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-propuesta-de-un-millon-de-pesos-de-alvaro-uribe-para-terminar-vias-4g-antioquia-KB23991759"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-13",
+        "date": "2024-03-14",
         "publication": "el-espectador",
-        "title": "A restaurar la confianza en la Fiscal\u00eda",
-        "url": "https://www.elespectador.com/opinion/editorial/a-restaurar-la-confianza-en-la-fiscalia/"
+        "title": "Hait\u00ed contin\u00faa sumida en el caos",
+        "url": "https://www.elespectador.com/opinion/editorial/haiti-continua-sumida-en-el-caos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda \u00c1ngela Holgu\u00edn",
+        "date": "2024-03-14",
+        "publication": "el-espectador",
+        "title": "Le lleg\u00f3 una mujer a M\u00e9xico",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-angela-holguin/le-llego-una-mujer-a-mexico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Brigitte LG Baptiste",
+        "date": "2024-03-14",
+        "publication": "el-espectador",
+        "title": "Comprando tiempo clim\u00e1tico",
+        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/comprando-tiempo-climatico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2024-03-14",
+        "publication": "el-espectador",
+        "title": "Alcalde Gal\u00e1n: \u00a1las ni\u00f1as tienen derecho a la protesta!",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/alcalde-galan-las-ninas-tienen-derecho-a-la-protesta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Carrizosa Calle",
+        "date": "2024-03-14",
+        "publication": "el-espectador",
+        "title": "La brutalidad de llamarnos \u201cembrutecidos\u201d por \u201cembrutecedores\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/la-brutalidad-de-llamarnos-embrutecidos-por-embrutecedores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2024-03-14",
+        "publication": "el-espectador",
+        "title": "No nos alcanzar\u00e1 la vida para perdonarnos tanto silencio",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/no-nos-alcanzara-la-vida-para-perdonarnos-tanto-silencio/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2024-03-14",
+        "publication": "el-espectador",
+        "title": "Otro 8 de marzo",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/otro-8-de-marzo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2024-03-14",
+        "publication": "el-espectador",
+        "title": "El 8M marcharon en Espa\u00f1a dos feminismos enfrentados por asuntos de g\u00e9nero",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/el-8m-marcharon-en-espana-dos-feminismos-enfrentados-por-asuntos-de-genero/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2024-03-14",
+        "publication": "el-espectador",
+        "title": "El bien por siempre",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-bien-por-siempre/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Camargo",
+        "date": "2024-03-14",
+        "publication": "el-espectador",
+        "title": "La culpa es de otros",
+        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/la-culpa-es-de-otros/"
     },
     {
         "article-type": "column",
@@ -70,77 +142,5 @@
         "publication": "el-espectador",
         "title": "Cuando el presidente Petro se haya ido",
         "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/cuando-el-presidente-petro-se-haya-ido/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-03-13",
-        "publication": "el-espectador",
-        "title": "\u00bfCampa\u00f1a para intimidar a la nueva fiscal?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/campana-para-intimidar-a-la-nueva-fiscal/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2024-03-13",
-        "publication": "el-espectador",
-        "title": "\u00bfPodemos estar peor?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/podemos-estar-peor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sandra Vilardy",
-        "date": "2024-03-13",
-        "publication": "el-espectador",
-        "title": "Las mujeres, el cuidado y la crisis clim\u00e1tica",
-        "url": "https://www.elespectador.com/opinion/columnistas/sandra-vilardy/las-mujeres-el-cuidado-y-la-crisis-climatica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2024-03-13",
-        "publication": "el-espectador",
-        "title": "De servidor p\u00fablico a insultador p\u00fablico",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/de-servidor-publico-a-insultador-publico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2024-03-13",
-        "publication": "el-espectador",
-        "title": "Construyamos paz y democracia en Am\u00e9rica Latina (II)",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/construyamos-paz-y-democracia-en-america-latina-ii/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Marocco",
-        "date": "2024-03-13",
-        "publication": "el-espectador",
-        "title": "Presbicia futbolera  ",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/presbicia-futbolera-opinion-andres-marocco-luis-diaz-hoy-liverpool-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-03-13",
-        "publication": "el-espectador",
-        "title": "La pensi\u00f3n no deber\u00eda ser un lujo para las mujeres",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/la-pension-no-deberia-ser-un-lujo-para-las-mujeres/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2024-03-13",
-        "publication": "el-espectador",
-        "title": "El mundo de los sobrevivientes promete no olvidar",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/el-mundo-de-los-sobrevivientes-promete-no-olvidar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2024-03-13",
-        "publication": "el-espectador",
-        "title": "La pregunta ineludible",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/la-pregunta-ineludible/"
     }
 ]
