@@ -2,42 +2,122 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-15",
+        "date": "2024-03-16",
         "publication": "el-colombiano",
-        "title": "El colapso de Hait\u00ed",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-colapso-de-haiti-CH24016730"
+        "title": "Mancuso, el c\u00ednico ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/salvatore-mancuso-el-cinico-gestor-de-paz-AF24031616"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-15",
+        "date": "2024-03-16",
         "publication": "el-espectador",
-        "title": "Simbolismos perversos en la respuesta estatal a las marchas del 8M",
-        "url": "https://www.elespectador.com/opinion/editorial/simbolismos-perversos-en-la-respuesta-estatal-a-las-marchas-del-8m/"
+        "title": "No podemos quedar sin medicamentos psiqui\u00e1tricos",
+        "url": "https://www.elespectador.com/opinion/editorial/no-podemos-quedar-sin-medicamentos-psiquiatricos/"
     },
     {
         "article-type": "column",
-        "author": "Juan Carlos Botero",
-        "date": "2024-03-15",
+        "author": "Luis Fernando Montoya",
+        "date": "2024-03-16",
         "publication": "el-espectador",
-        "title": "El autogol de la diversidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/el-autogol-de-la-diversidad/"
+        "title": "Millonarios: grandeza y resiliencia frente a la adversidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/millonarios-grandeza-y-resiliencia-frente-a-la-adversidad-opinion-de-luis-fernando-montoya-alberto-gamero-hoy/"
     },
     {
         "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2024-03-15",
+        "author": "Santiago Gamboa",
+        "date": "2024-03-16",
         "publication": "el-espectador",
-        "title": "M\u00e1s bloqueos en la Panamericana",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/mas-bloqueos-en-la-panamericana/"
+        "title": "En agosto nos vemos",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/en-agosto-nos-vemos/"
     },
     {
         "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2024-03-15",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2024-03-16",
         "publication": "el-espectador",
-        "title": "Di\u00e1logos regionales, \u00fanica salida",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/dialogos-regionales-unica-salida/"
+        "title": "Kate Middleton, audiencias, medios y tabloides",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/kate-middleton-audiencias-medios-y-tabloides/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2024-03-16",
+        "publication": "el-espectador",
+        "title": "Ocho fragmentos literarios",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/ocho-fragmentos-literarios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2024-03-16",
+        "publication": "el-espectador",
+        "title": "La diplomacia colombiana en materia de drogas merece un aplauso",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/la-diplomacia-colombiana-en-materia-de-drogas-merece-un-aplauso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcelo Caruso A.",
+        "date": "2024-03-16",
+        "publication": "el-espectador",
+        "title": "Cambios con consecuencias dolorosas",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/cambios-con-consecuencias-dolorosas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2024-03-16",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 pas\u00f3 el 8M? El Sidmo sabe",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/que-paso-el-8m-el-sidmo-sabe/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ot\u00e1lora Montenegro",
+        "date": "2024-03-16",
+        "publication": "el-espectador",
+        "title": "\u00bfDe qu\u00e9 embrutecidos est\u00e1 hablando el se\u00f1or presidente?",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-otalora-montenegro/de-que-embrutecidos-esta-hablando-el-senor-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adolfo Le\u00f3n Atehort\u00faa Cruz",
+        "date": "2024-03-16",
+        "publication": "el-espectador",
+        "title": "Atenci\u00f3n a la salud mental",
+        "url": "https://www.elespectador.com/opinion/columnistas/adolfo-leon-atehortua-cruz/atencion-a-la-salud-mental/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Rinc\u00f3n Escalante",
+        "date": "2024-03-16",
+        "publication": "el-espectador",
+        "title": "Pobrecito el presidente Gustavo Petro y su asamble\u00edta constituyente",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-rincon-escalante/pobrecito-el-presidente-gustavo-petro-y-su-asambleita-constituyente/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2024-03-16",
+        "publication": "el-espectador",
+        "title": "El triunfo del horror",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/el-triunfo-del-horror/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rub\u00e9n Mendoza",
+        "date": "2024-03-16",
+        "publication": "el-espectador",
+        "title": "Amigas, amigos\u2026 ",
+        "url": "https://www.elespectador.com/opinion/columnistas/ruben-mendoza/amigas-amigos-sobre-una-verguenza-del-8m/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2024-03-16",
+        "publication": "el-espectador",
+        "title": "Yo soy como el picaflor, Annette Bening, otra vez sin \u00d3scar",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/yo-soy-como-el-picaflor-annette-bening-otra-vez-sin-oscar/"
     },
     {
         "article-type": "column",
@@ -62,85 +142,5 @@
         "publication": "el-espectador",
         "title": "\u201cOppenheimer\u201d: pieza del espejo roto que refleja la realidad",
         "url": "https://www.elespectador.com/opinion/columnistas/juan-diego-soler/oppenheimer-pieza-del-espejo-roto-que-refleja-la-realidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2024-03-15",
-        "publication": "el-espectador",
-        "title": "Las noticias en los aparatos de todos los bolsillos",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/las-noticias-en-los-aparatos-de-todos-los-bolsillos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Augusto Trujillo Mu\u00f1oz",
-        "date": "2024-03-15",
-        "publication": "el-espectador",
-        "title": "Intoxican el ambiente, enturbian la pol\u00edtica, destrozan la convivencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/intoxican-el-ambiente-enturbian-la-politica-destrozan-la-convivencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2024-03-15",
-        "publication": "el-espectador",
-        "title": "No me da\u00f1en el caldo de pata",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/no-me-danen-el-caldo-de-pata/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2024-03-15",
-        "publication": "el-espectador",
-        "title": "El lado m\u00e1s oscuro del turismo en Medell\u00edn | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-el-lado-mas-oscuro-del-turismo-en-medellin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2024-03-15",
-        "publication": "el-espectador",
-        "title": "\u00bfPor qu\u00e9 suben tanto las tarifas de energ\u00eda en la regi\u00f3n Caribe?",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/por-que-suben-tanto-las-tarifas-de-energia-en-la-region-caribe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elementa DD.HH.",
-        "date": "2024-03-15",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 se puede esperar de Colombia en la Comisi\u00f3n de Estupefacientes en Viena?",
-        "url": "https://www.elespectador.com/colombia-20/analistas/petro-y-comision-de-estupefacientes-en-viena-la-discusion-sobre-lucha-contra-las-drogas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda \u00c1ngela Holgu\u00edn",
-        "date": "2024-03-14",
-        "publication": "el-espectador",
-        "title": "Le lleg\u00f3 una mujer a M\u00e9xico",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-angela-holguin/le-llego-una-mujer-a-mexico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2024-03-14",
-        "publication": "el-espectador",
-        "title": "Comprando tiempo clim\u00e1tico",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/comprando-tiempo-climatico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-03-14",
-        "publication": "el-espectador",
-        "title": "Alcalde Gal\u00e1n: \u00a1las ni\u00f1as tienen derecho a la protesta!",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/alcalde-galan-las-ninas-tienen-derecho-a-la-protesta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Carrizosa Calle",
-        "date": "2024-03-14",
-        "publication": "el-espectador",
-        "title": "La brutalidad de llamarnos \u201cembrutecidos\u201d por \u201cembrutecedores\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/la-brutalidad-de-llamarnos-embrutecidos-por-embrutecedores/"
     }
 ]
