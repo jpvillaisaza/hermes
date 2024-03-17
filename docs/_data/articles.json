@@ -2,18 +2,130 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-16",
+        "date": "2024-03-17",
         "publication": "el-colombiano",
-        "title": "Mancuso, el c\u00ednico ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/salvatore-mancuso-el-cinico-gestor-de-paz-AF24031616"
+        "title": "El crimen organizado se toma el continente",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/rafael-pardo-rueda-el-crimen-organizado-se-toma-el-continente-BF24034162"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-16",
+        "date": "2024-03-17",
         "publication": "el-espectador",
-        "title": "No podemos quedar sin medicamentos psiqui\u00e1tricos",
-        "url": "https://www.elespectador.com/opinion/editorial/no-podemos-quedar-sin-medicamentos-psiquiatricos/"
+        "title": "Es necesario parar la violencia ret\u00f3rica",
+        "url": "https://www.elespectador.com/opinion/editorial/es-necesario-parar-la-violencia-retorica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Ara\u00fajo V\u00e9lez",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "Solo basta una chispa",
+        "url": "https://www.elespectador.com/opinion/columnistas/solo-basta-una-chispa-el-caminante-columnistas-el-espectador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Botero Caicedo",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "El 28 de julio habr\u00e1 simulacro de elecciones en Venezuela ",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/el-28-de-julio-habra-simulacro-de-elecciones-en-venezuela/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ramiro Bejarano Guzm\u00e1n",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "Haciendo su agosto",
+        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/haciendo-su-agosto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "El debate de control pol\u00edtico al ministro de Salud",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/el-debate-de-control-politico-al-ministro-de-salud/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tatiana Acevedo Guerrero",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "Frente a las alertas, el primer reflejo es el optimismo tecnol\u00f3gico",
+        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/frente-a-las-alertas-el-primer-reflejo-es-el-optimismo-tecnologico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carlos Enrique Moreno",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": " Verdad inclusiva y ley de punto final",
+        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/verdad-inclusiva-y-ley-de-punto-final/"
+    },
+    {
+        "article-type": "column",
+        "author": "Tola y Maruja",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "Tola y Maruja buscan prestamo pal mill\u00f3n de Uribe... Y Petro les ayuda",
+        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-buscan-prestamo-pal-millon-de-uribe-y-petro-les-ayuda/"
+    },
+    {
+        "article-type": "column",
+        "author": "Paul Krugman",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "Tr\u00e1fico sexual, mentiras de facto e inmigraci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/paul-krugman/trafico-sexual-mentiras-de-facto-e-inmigracion/"
+    },
+    {
+        "article-type": "column",
+        "author": "H\u00e9ctor Abad Faciolince",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "El gobierno perpetuo del zar Vladimir",
+        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/el-gobierno-perpetuo-del-zar-vladimir/"
+    },
+    {
+        "article-type": "column",
+        "author": "Rodrigo Uprimny",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "Los desaf\u00edos de la nueva fiscal ",
+        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/los-desafios-de-la-nueva-fiscal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Armando Montenegro",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "Amenazas para la infraestructura",
+        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/amenazas-para-la-infraestructura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Bayly",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "Yo mismo era el mal clima",
+        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/yo-mismo-era-el-mal-clima/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "MICROLINGOTES",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-138/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2024-03-17",
+        "publication": "el-espectador",
+        "title": "Para cumplir con el Acuerdo hay que cumplir con las sanciones propias",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/para-cumplir-con-el-acuerdo-de-paz-hay-que-cumplir-con-las-sanciones-propias/"
     },
     {
         "article-type": "column",
@@ -30,117 +142,5 @@
         "publication": "el-espectador",
         "title": "En agosto nos vemos",
         "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/en-agosto-nos-vemos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Uribe Rinc\u00f3n",
-        "date": "2024-03-16",
-        "publication": "el-espectador",
-        "title": "Kate Middleton, audiencias, medios y tabloides",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/kate-middleton-audiencias-medios-y-tabloides/"
-    },
-    {
-        "article-type": "column",
-        "author": "Julio C\u00e9sar Londo\u00f1o",
-        "date": "2024-03-16",
-        "publication": "el-espectador",
-        "title": "Ocho fragmentos literarios",
-        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/ocho-fragmentos-literarios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Nicol\u00e1s Rodr\u00edguez",
-        "date": "2024-03-16",
-        "publication": "el-espectador",
-        "title": "La diplomacia colombiana en materia de drogas merece un aplauso",
-        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/la-diplomacia-colombiana-en-materia-de-drogas-merece-un-aplauso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcelo Caruso A.",
-        "date": "2024-03-16",
-        "publication": "el-espectador",
-        "title": "Cambios con consecuencias dolorosas",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcelo-caruso-a-/cambios-con-consecuencias-dolorosas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carolina Botero Cabrera",
-        "date": "2024-03-16",
-        "publication": "el-espectador",
-        "title": "\u00bfQu\u00e9 pas\u00f3 el 8M? El Sidmo sabe",
-        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/que-paso-el-8m-el-sidmo-sabe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ot\u00e1lora Montenegro",
-        "date": "2024-03-16",
-        "publication": "el-espectador",
-        "title": "\u00bfDe qu\u00e9 embrutecidos est\u00e1 hablando el se\u00f1or presidente?",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-otalora-montenegro/de-que-embrutecidos-esta-hablando-el-senor-presidente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Adolfo Le\u00f3n Atehort\u00faa Cruz",
-        "date": "2024-03-16",
-        "publication": "el-espectador",
-        "title": "Atenci\u00f3n a la salud mental",
-        "url": "https://www.elespectador.com/opinion/columnistas/adolfo-leon-atehortua-cruz/atencion-a-la-salud-mental/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Rinc\u00f3n Escalante",
-        "date": "2024-03-16",
-        "publication": "el-espectador",
-        "title": "Pobrecito el presidente Gustavo Petro y su asamble\u00edta constituyente",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-rincon-escalante/pobrecito-el-presidente-gustavo-petro-y-su-asambleita-constituyente/"
-    },
-    {
-        "article-type": "column",
-        "author": "John Gal\u00e1n Casanova",
-        "date": "2024-03-16",
-        "publication": "el-espectador",
-        "title": "El triunfo del horror",
-        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/el-triunfo-del-horror/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rub\u00e9n Mendoza",
-        "date": "2024-03-16",
-        "publication": "el-espectador",
-        "title": "Amigas, amigos\u2026 ",
-        "url": "https://www.elespectador.com/opinion/columnistas/ruben-mendoza/amigas-amigos-sobre-una-verguenza-del-8m/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ricardo Bada",
-        "date": "2024-03-16",
-        "publication": "el-espectador",
-        "title": "Yo soy como el picaflor, Annette Bening, otra vez sin \u00d3scar",
-        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/yo-soy-como-el-picaflor-annette-bening-otra-vez-sin-oscar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Leal Buitrago",
-        "date": "2024-03-15",
-        "publication": "el-espectador",
-        "title": "Gorgona y sus riquezas en peligro",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-leal-buitrago/gorgona-y-sus-riquezas-en-peligro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2024-03-15",
-        "publication": "el-espectador",
-        "title": "Detalles",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/detalles/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Diego Soler",
-        "date": "2024-03-15",
-        "publication": "el-espectador",
-        "title": "\u201cOppenheimer\u201d: pieza del espejo roto que refleja la realidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-diego-soler/oppenheimer-pieza-del-espejo-roto-que-refleja-la-realidad/"
     }
 ]
