@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-18",
+        "date": "2024-03-19",
         "publication": "el-colombiano",
-        "title": "arrow_right_alt",
-        "url": "https://www.elcolombiano.com/opinion/cita-textual/articulo-EF24037737"
+        "title": "\u00bfD\u00f3nde queda el Centro?",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/daniel-carvalho-donde-queda-el-centro-OC24043368"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-18",
+        "date": "2024-03-19",
         "publication": "el-espectador",
-        "title": "Es momento de gobernar, no de Constituyente",
-        "url": "https://www.elespectador.com/opinion/editorial/es-momento-de-gobernar-no-de-constituyente/"
+        "title": "Vladimir Putin se entroniza",
+        "url": "https://www.elespectador.com/opinion/columnistas/vladimir-putin-se-entroniza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2024-03-19",
+        "publication": "el-espectador",
+        "title": "Perdimos la estrella polar",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/perdimos-la-estrella-polar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2024-03-19",
+        "publication": "el-espectador",
+        "title": "Mercenarios nucleares",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/mercenarios-nucleares/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2024-03-19",
+        "publication": "el-espectador",
+        "title": "Reforma de salud: concertar para salvarla",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/reforma-de-salud-concertar-para-salvarla/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2024-03-19",
+        "publication": "el-espectador",
+        "title": "La Bach de agosto",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/la-bach-de-agosto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Barbosa",
+        "date": "2024-03-19",
+        "publication": "el-espectador",
+        "title": "Pol\u00edtica y tecnocracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/politica-y-tecnocracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Hern\u00e1ndez",
+        "date": "2024-03-19",
+        "publication": "el-espectador",
+        "title": "China, tan lejos y tan cerca",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/china-tan-lejos-y-tan-cerca/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2024-03-19",
+        "publication": "el-espectador",
+        "title": "\u00bfC\u00f3mo avanzar en educaci\u00f3n si cada profesor rema para un lado diferente?",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/como-avanzar-en-educacion-si-cada-profesor-rema-para-un-lado-diferente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2024-03-19",
+        "publication": "el-espectador",
+        "title": "No es viable una nueva constituyente",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/no-es-viable-una-nueva-constituyente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Garc\u00eda-Pe\u00f1a",
+        "date": "2024-03-19",
+        "publication": "el-espectador",
+        "title": "Palestinos y ucranianos",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/palestinos-y-ucranianos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2024-03-19",
+        "publication": "el-espectador",
+        "title": "Van Gogh, un artista del hambre",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/van-gogh-un-artista-del-hambre/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2024-03-19",
+        "publication": "el-espectador",
+        "title": "Esto quiere hacer Petro con la Constituci\u00f3n: \u00bfpeligroso o visionario? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/esto-quiere-hacer-petro-con-la-constitucion-peligroso-o-visionario-la-pulla/"
     },
     {
         "article-type": "column",
@@ -54,93 +142,5 @@
         "publication": "el-espectador",
         "title": "\u00bfSe desaprovech\u00f3 la oportunidad de un gobierno reformista?",
         "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/se-desaprovecho-la-oportunidad-de-un-gobierno-reformista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "El d\u00e9bil crecimiento econ\u00f3mico",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-debil-crecimiento-economico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "Comunistas hasta en la sopa",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/comunistas-hasta-en-la-sopa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "Excesos de la estatutaria de educaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/excesos-de-la-estatutaria-de-educacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gabriel Jaime Acevedo Valencia",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "El agente ante la verdad y la mentira ",
-        "url": "https://www.elespectador.com/opinion/lectores/columnas-del-lector/el-agente-ante-la-verdad-y-la-mentira/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "Las formas de N\u00e9stor Lorenzo",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/las-formas-de-nestor-lorenzo-opinion-de-antonio-casale-seleccion-colombia-hoy/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "\u00bfQui\u00e9n sepultar\u00e1 al sistema de salud?",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/quien-sepultara-al-sistema-de-salud/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "Carta al presidente Gustavo Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/carta-al-presidente-gustavo-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "El festival de Popay\u00e1n",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-festival-de-popayan-opinion/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "Editorial en Video: \u201cEs necesario parar la violencia ret\u00f3rica\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-es-necesario-parar-la-violencia-retorica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2024-03-17",
-        "publication": "el-espectador",
-        "title": "Solo basta una chispa",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/solo-basta-una-chispa-el-caminante-columnistas-el-espectador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2024-03-17",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja buscan prestamo pal mill\u00f3n de Uribe... Y Petro les ayuda",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-buscan-prestamo-pal-millon-de-uribe-y-petro-les-ayuda/"
     }
 ]
