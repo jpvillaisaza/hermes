@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-19",
+        "date": "2024-03-20",
         "publication": "el-colombiano",
-        "title": "\u00bfD\u00f3nde queda el Centro?",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/daniel-carvalho-donde-queda-el-centro-OC24043368"
+        "title": "Subvertir la democracia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/paola-holguin-subvertir-la-democracia-OC24047977"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-19",
+        "date": "2024-03-20",
         "publication": "el-espectador",
-        "title": "Vladimir Putin se entroniza",
-        "url": "https://www.elespectador.com/opinion/columnistas/vladimir-putin-se-entroniza/"
+        "title": "El alcalde tiene raz\u00f3n, ni un paso atr\u00e1s con el metro contratado",
+        "url": "https://www.elespectador.com/opinion/editorial/el-alcalde-tiene-razon-ni-un-paso-atras-con-el-metro-contratado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2024-03-20",
+        "publication": "el-espectador",
+        "title": "Limpieza \u00e9tnica",
+        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/limpieza-etnica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2024-03-20",
+        "publication": "el-espectador",
+        "title": "Varios ni\u00f1os ind\u00edgenas se han suicidado",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/varios-ninos-indigenas-se-han-suicidado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2024-03-20",
+        "publication": "el-espectador",
+        "title": "\u00bfDesespero o cambio de estrategia?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/desespero-o-cambio-de-estrategia/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2024-03-20",
+        "publication": "el-espectador",
+        "title": "Es de buena suerte estar cansado",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/es-de-buena-suerte-estar-cansado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2024-03-20",
+        "publication": "el-espectador",
+        "title": "La electa fiscal general y el odio a las mujeres",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/la-electa-fiscal-general-y-el-odio-a-las-mujeres/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2024-03-20",
+        "publication": "el-espectador",
+        "title": "Una constituyente para salvar al ahogado",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/una-constituyente-para-salvar-al-ahogado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2024-03-20",
+        "publication": "el-espectador",
+        "title": "\u201cLa estrategia del caracol\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/la-estrategia-del-caracol/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2024-03-20",
+        "publication": "el-espectador",
+        "title": "Ficciones burocr\u00e1ticas",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/ficciones-burocraticas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Hernando Roa Su\u00e1rez",
+        "date": "2024-03-20",
+        "publication": "el-espectador",
+        "title": "Construyamos paz y democracia en Am\u00e9rica Latina (III) ",
+        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/construyamos-paz-y-democracia-en-america-latina-iii/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2024-03-20",
+        "publication": "el-espectador",
+        "title": "Sucre: agua, toxicidad y nuevas oportunidades",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/sucre-agua-toxicidad-y-nuevas-oportunidades/"
     },
     {
         "article-type": "column",
@@ -57,90 +137,10 @@
     },
     {
         "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2024-03-19",
-        "publication": "el-espectador",
-        "title": "China, tan lejos y tan cerca",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/china-tan-lejos-y-tan-cerca/"
-    },
-    {
-        "article-type": "column",
         "author": "Juli\u00e1n de Zubir\u00eda Samper",
         "date": "2024-03-19",
         "publication": "el-espectador",
         "title": "\u00bfC\u00f3mo avanzar en educaci\u00f3n si cada profesor rema para un lado diferente?",
         "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/como-avanzar-en-educacion-si-cada-profesor-rema-para-un-lado-diferente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2024-03-19",
-        "publication": "el-espectador",
-        "title": "No es viable una nueva constituyente",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/no-es-viable-una-nueva-constituyente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Garc\u00eda-Pe\u00f1a",
-        "date": "2024-03-19",
-        "publication": "el-espectador",
-        "title": "Palestinos y ucranianos",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-garcia-pena/palestinos-y-ucranianos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2024-03-19",
-        "publication": "el-espectador",
-        "title": "Van Gogh, un artista del hambre",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/van-gogh-un-artista-del-hambre/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2024-03-19",
-        "publication": "el-espectador",
-        "title": "Esto quiere hacer Petro con la Constituci\u00f3n: \u00bfpeligroso o visionario? | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/esto-quiere-hacer-petro-con-la-constitucion-peligroso-o-visionario-la-pulla/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "Pedagog\u00eda de la reforma a la Salud",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/pedagogia-de-wilson-arias-sobre-la-reforma-a-la-salud/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "Desde otro punto de vista",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/desde-otro-punto-de-vista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "\u00bf\u00abLa fiscal\u00bb o \u00abla fiscala\u00bb?",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/la-fiscal-o-la-fiscala/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Lora",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "Los h\u00e1bitos de lectura",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-lora-/los-habitos-de-lectura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2024-03-18",
-        "publication": "el-espectador",
-        "title": "\u00bfSe desaprovech\u00f3 la oportunidad de un gobierno reformista?",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/se-desaprovecho-la-oportunidad-de-un-gobierno-reformista/"
     }
 ]
