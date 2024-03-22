@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-21",
+        "date": "2024-03-22",
         "publication": "el-colombiano",
-        "title": "Pol\u00edtica social y cambio en Colombia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/mauricio-perfetti-politica-social-y-cambio-en-colombia-PD24053950"
+        "title": "La tienda de la confianza",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/juan-carlos-manrique-la-tienda-de-la-confianza-DA24069794"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-21",
+        "date": "2024-03-22",
         "publication": "el-espectador",
-        "title": "Los contratos de Euclides Torres enlodan la administraci\u00f3n de Gustavo Petro",
-        "url": "https://www.elespectador.com/opinion/editorial/los-contratos-de-euclides-torres-enlodan-la-administracion-de-gustavo-petro/"
+        "title": "No, la barbarie no es revolucionaria ",
+        "url": "https://www.elespectador.com/opinion/editorial/no-la-barbarie-no-es-revolucionaria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "\u00bfAdi\u00f3s a los secretos?",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/adios-a-los-secretos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "La Constituyente de la derecha",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/la-constituyente-de-la-derecha/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "\u00bfVargas Lleras, presidente?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/vargas-lleras-presidente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "Pedro Badr\u00e1n y su universo de gracia y desgracia",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/pedro-badran-y-su-universo-de-gracia-y-desgracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "Tierreros",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/tierreros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "Las dos francias: la que rechaza y la que se resigna a la explotaci\u00f3n sexual",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/las-dos-francias-la-que-rechaza-y-la-que-se-resigna-a-la-explotacion-sexual/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "Conversaciones vs. elecciones",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/conversaciones-vs-elecciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "La forma de hacer pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/la-forma-de-hacer-politica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "\u00a1La pasta, un verdadero negocio de familia!",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/la-pasta-un-verdadero-negocio-de-familia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "Dayro Moreno: m\u00e1s all\u00e1 de los goles, una historia de determinaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/dayro-moreno-mas-alla-de-los-goles-una-historia-de-determinacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Guillermo Rivera",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "La Vor\u00e1gine: De Los Andes al Amazonas",
+        "url": "https://www.elespectador.com/opinion/columnistas/grivera/la-voragine-de-los-andes-al-amazonas/"
     },
     {
         "article-type": "column",
@@ -54,93 +142,5 @@
         "publication": "el-espectador",
         "title": "El presidente Petro es su mejor opositor",
         "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/el-presidente-petro-es-su-mejor-opositor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Claudia Morales",
-        "date": "2024-03-21",
-        "publication": "el-espectador",
-        "title": "\u00bfPlomo o m\u00e1s opciones de di\u00e1logo con las disidencias de las FARC?",
-        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/plomo-o-mas-opciones-de-dialogo-con-las-disidencias-de-las-farc/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2024-03-21",
-        "publication": "el-espectador",
-        "title": "Gustavo Petro y Pedro S\u00e1nchez: dos formas de mentir para gobernar",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/gustavo-petro-y-pedro-sanchez-dos-formas-de-mentir-para-gobernar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Centro de Estudios sobre Seguridad y Drogas (Cesed)",
-        "date": "2024-03-21",
-        "publication": "el-espectador",
-        "title": "La extorsi\u00f3n y su subreporte: datos de una encuesta en Quibd\u00f3",
-        "url": "https://www.elespectador.com/colombia-20/analistas/la-extorsion-y-su-subreporte-datos-de-este-delito-en-colombia-columna-cesed/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-03-21",
-        "publication": "el-espectador",
-        "title": "Nos atropell\u00f3 esta semana el metro de Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/nos-atropello-esta-semana-el-metro-de-bogota/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marcos Peckel",
-        "date": "2024-03-20",
-        "publication": "el-espectador",
-        "title": "Limpieza \u00e9tnica",
-        "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/limpieza-etnica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2024-03-20",
-        "publication": "el-espectador",
-        "title": "Varios ni\u00f1os ind\u00edgenas se han suicidado",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/varios-ninos-indigenas-se-han-suicidado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-03-20",
-        "publication": "el-espectador",
-        "title": "La electa fiscal general y el odio a las mujeres",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/la-electa-fiscal-general-y-el-odio-a-las-mujeres/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2024-03-20",
-        "publication": "el-espectador",
-        "title": "Una constituyente para salvar al ahogado",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/una-constituyente-para-salvar-al-ahogado/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2024-03-20",
-        "publication": "el-espectador",
-        "title": "\u201cLa estrategia del caracol\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/la-estrategia-del-caracol/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2024-03-20",
-        "publication": "el-espectador",
-        "title": "Ficciones burocr\u00e1ticas",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/ficciones-burocraticas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2024-03-20",
-        "publication": "el-espectador",
-        "title": "\u00bfDesespero o cambio de estrategia?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/desespero-o-cambio-de-estrategia/"
     }
 ]
