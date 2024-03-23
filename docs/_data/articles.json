@@ -2,18 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-22",
+        "date": "2024-03-23",
         "publication": "el-colombiano",
-        "title": "La tienda de la confianza",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/juan-carlos-manrique-la-tienda-de-la-confianza-DA24069794"
+        "title": "El futuro de las finanzas es femenino",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/maria-camila-munoz-el-futuro-de-las-finanzas-es-femenino-GO24083498"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-22",
+        "date": "2024-03-23",
         "publication": "el-espectador",
-        "title": "No, la barbarie no es revolucionaria ",
-        "url": "https://www.elespectador.com/opinion/editorial/no-la-barbarie-no-es-revolucionaria/"
+        "title": "Venezuela parece no importarle a nadie",
+        "url": "https://www.elespectador.com/opinion/editorial/venezuela-parece-no-importarle-a-nadie/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2024-03-23",
+        "publication": "el-espectador",
+        "title": "Opuestos semejantes",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/opuestos-semejantes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2024-03-23",
+        "publication": "el-espectador",
+        "title": "La tercera guerra mundial y la preferencia por las noticias malas",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/la-tercera-guerra-mundial-y-la-preferencia-por-las-noticias-malas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2024-03-23",
+        "publication": "el-espectador",
+        "title": "Una flor para Eduardo",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/una-flor-para-eduardo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2024-03-23",
+        "publication": "el-espectador",
+        "title": "Funciones de los objetos bellos",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/funciones-de-los-objetos-bellos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2024-03-23",
+        "publication": "el-espectador",
+        "title": "Medell\u00edn, f\u00f3sil viviente y una total inopia* en los cerebros",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/medellin-fosil-viviente-y-una-total-inopia-en-los-cerebros/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2024-03-23",
+        "publication": "el-espectador",
+        "title": "La constituyente es una mala idea y la oposici\u00f3n la incentiva",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/la-constituyente-es-una-mala-idea-y-la-oposicion-la-incentiva/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2024-03-23",
+        "publication": "el-espectador",
+        "title": "Defender los derechos humanos es un derecho",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/defender-los-derechos-humanos-es-un-derecho/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dolly Montoya Casta\u00f1o",
+        "date": "2024-03-23",
+        "publication": "el-espectador",
+        "title": "CRES+5 2024: pensando el futuro de la universidad de Latinoam\u00e9rica y el Caribe",
+        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/cres5-2024-pensando-el-futuro-de-la-universidad-de-latinoamerica-y-el-caribe/"
     },
     {
         "article-type": "column",
@@ -30,14 +94,6 @@
         "publication": "el-espectador",
         "title": "La Constituyente de la derecha",
         "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/la-constituyente-de-la-derecha/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2024-03-22",
-        "publication": "el-espectador",
-        "title": "\u00bfVargas Lleras, presidente?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/vargas-lleras-presidente/"
     },
     {
         "article-type": "column",
@@ -65,6 +121,14 @@
     },
     {
         "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2024-03-22",
+        "publication": "el-espectador",
+        "title": "\u00bfVargas Lleras, presidente?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/vargas-lleras-presidente/"
+    },
+    {
+        "article-type": "column",
         "author": "Augusto Trujillo Mu\u00f1oz",
         "date": "2024-03-22",
         "publication": "el-espectador",
@@ -78,69 +142,5 @@
         "publication": "el-espectador",
         "title": "La forma de hacer pol\u00edtica",
         "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/la-forma-de-hacer-politica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2024-03-22",
-        "publication": "el-espectador",
-        "title": "\u00a1La pasta, un verdadero negocio de familia!",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/la-pasta-un-verdadero-negocio-de-familia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2024-03-22",
-        "publication": "el-espectador",
-        "title": "Dayro Moreno: m\u00e1s all\u00e1 de los goles, una historia de determinaci\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/dayro-moreno-mas-alla-de-los-goles-una-historia-de-determinacion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Guillermo Rivera",
-        "date": "2024-03-22",
-        "publication": "el-espectador",
-        "title": "La Vor\u00e1gine: De Los Andes al Amazonas",
-        "url": "https://www.elespectador.com/opinion/columnistas/grivera/la-voragine-de-los-andes-al-amazonas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2024-03-21",
-        "publication": "el-espectador",
-        "title": "Los \u00d3scar siguen en decadencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/los-oscar-siguen-en-decadencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2024-03-21",
-        "publication": "el-espectador",
-        "title": "Presidente Petro, con p\u00f3lvora no se juega",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/presidente-petro-con-polvora-no-se-juega/"
-    },
-    {
-        "article-type": "column",
-        "author": "Blanca In\u00e9s Dur\u00e1n",
-        "date": "2024-03-21",
-        "publication": "el-espectador",
-        "title": "Alcald\u00edas locales: los representantes del gobierno distrital en la tierra",
-        "url": "https://www.elespectador.com/opinion/columnistas/blancainesduran/alcaldias-locales-los-representantes-del-gobierno-distrital-en-la-tierra/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-03-21",
-        "publication": "el-espectador",
-        "title": "TikTok Tic Tac",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/tiktok-tic-tac/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2024-03-21",
-        "publication": "el-espectador",
-        "title": "El presidente Petro es su mejor opositor",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/el-presidente-petro-es-su-mejor-opositor/"
     }
 ]
