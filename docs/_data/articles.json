@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-25",
+        "date": "2024-03-26",
         "publication": "el-colombiano",
-        "title": "La vor\u00e1gine por siempre",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/juan-jose-garcia-posada-la-voragine-por-siempre-LO24087972"
+        "title": "El lobo de la constituyente",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/federicho-hoyos-salazar-el-lobo-de-la-constituyente-DP24092098"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-25",
+        "date": "2024-03-26",
         "publication": "el-espectador",
-        "title": "El horror en Mosc\u00fa y un mundo en duelo",
-        "url": "https://www.elespectador.com/opinion/editorial/el-horror-en-moscu-y-un-mundo-en-duelo/"
+        "title": "La vaca de la discordia en Antioquia",
+        "url": "https://www.elespectador.com/opinion/editorial/la-vaca-de-la-discordia-en-antioquia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "Las consecuencia de las decisiones de la JEP sobre Mancuso",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/las-consecuencia-de-las-decisiones-de-la-jep-sobre-mancuso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "Las exigencias del amor",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/las-exigencias-del-amor/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "Los almanaques de la violencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/los-almanaques-de-la-violencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "La democracia plebiscitaria de Uribe y Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-democracia-plebiscitaria-de-uribe-y-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "Historia del MOIR",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/historia-del-moir/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "Poeta eterno",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/eduardo-escobar-poeta-eterno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "Alabaos, constituyente, y diversidad en riesgo",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/alabaos-constituyente-y-diversidad-en-riesgo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "\u00bfSe cocina algo grande?",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-se-cocina-algo-grande/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "\u00bfMaldici\u00f3n en La Guajira? Desigualdad hist\u00f3rica y nuevas oportunidades",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/maldicion-en-la-guajira-desigualdad-historica-y-nuevas-oportunidades/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Bayona Vargas",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "Piedras",
+        "url": "https://www.elespectador.com/opinion/columnistas/juancarlosbayona/piedras-bajo-los-puentes-de-bogota/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Ospina",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "\u00bfCese al fuego o de hostilidades?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/cese-al-fuego-o-de-hostilidades/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2024-03-26",
+        "publication": "el-espectador",
+        "title": "La cosa es con China",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/el-comercio-de-colombia-es-con-china/"
     },
     {
         "article-type": "column",
@@ -46,101 +142,5 @@
         "publication": "el-espectador",
         "title": "Ecopetrol en riesgo",
         "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/ecopetrol-en-riesgo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2024-03-25",
-        "publication": "el-espectador",
-        "title": "\u00bf\u00abV\u00eda crucis\u00bb o \u00abviacrucis\u00bb?: ortograf\u00eda de la Semana Santa ",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/via-crucis-o-viacrucis-ortografia-de-la-semana-santa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Leopoldo Villar Borda",
-        "date": "2024-03-25",
-        "publication": "el-espectador",
-        "title": "Cojea, pero llega",
-        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/cojea-pero-llega-jorge-enrique-pizano-nestor-humberto-martinez-y-la-fiscalia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2024-03-25",
-        "publication": "el-espectador",
-        "title": "Descuido de la calidad del gasto educativo",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/descuido-de-la-calidad-del-gasto-educativo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2024-03-25",
-        "publication": "el-espectador",
-        "title": "Colombia y la globalizaci\u00f3n del f\u00fatbol",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/la-globalizacion-del-futbol/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2024-03-25",
-        "publication": "el-espectador",
-        "title": "No a la degradaci\u00f3n institucional",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/no-a-la-degradacion-institucional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2024-03-25",
-        "publication": "el-espectador",
-        "title": "Entre dudas y desaciertos",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/entre-dudas-y-desaciertos/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2024-03-25",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cNo nos dejemos dividir m\u00e1s\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-no-nos-dejemos-dividir-mas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2024-03-25",
-        "publication": "el-espectador",
-        "title": "El pa\u00eds no tiene modelo para enfrentar el deterioro econ\u00f3mico que viene de atr\u00e1s",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/el-pais-no-tiene-modelo-para-enfrentar-el-deterioro-economico-que-viene-de-atras/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2024-03-25",
-        "publication": "el-espectador",
-        "title": "La pensional",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/la-pensional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2024-03-24",
-        "publication": "el-espectador",
-        "title": "Por la voluntad de observar",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/por-la-voluntad-de-observar-columna-de-fernando-araujo-velez-opinion/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2024-03-24",
-        "publication": "el-espectador",
-        "title": "\u2018Mordisco\u2019 muerde a Petro y \u00e9l desgasta al pa\u00eds",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/mordisco-muerde-a-petro-y-el-desgasta-al-pais/"
-    },
-    {
-        "article-type": "column",
-        "author": "William Ospina",
-        "date": "2024-03-24",
-        "publication": "el-espectador",
-        "title": "Lo primero que se lleva una avalancha es al hombre que le abre la puerta",
-        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/lo-primero-que-se-lleva-una-avalancha-es-al-hombre-que-le-abre-la-puerta/"
     }
 ]
