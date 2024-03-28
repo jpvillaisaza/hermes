@@ -2,42 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-27",
+        "date": "2024-03-28",
         "publication": "el-colombiano",
-        "title": "Presidente, corrija el rumbo",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/daniel-duque-velasquez-presidente-corrija-el-rumbo-AH24105104"
+        "title": "La pol\u00edtica exterior",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/rodrigo-botero-montoya-la-politica-exterior-JG24119011"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-27",
+        "date": "2024-03-28",
         "publication": "el-espectador",
-        "title": "Lo importante es la sostenibilidad de Ecopetrol",
-        "url": "https://www.elespectador.com/opinion/editorial/lo-importante-es-la-sostenibilidad-de-ecopetrol/"
+        "title": "Una acertada posici\u00f3n frente a Venezuela",
+        "url": "https://www.elespectador.com/opinion/editorial/una-acertada-posicion-frente-a-venezuela/"
     },
     {
         "article-type": "column",
-        "author": "Sandra Vilardy",
-        "date": "2024-03-27",
+        "author": "Mar\u00eda \u00c1ngela Holgu\u00edn",
+        "date": "2024-03-28",
         "publication": "el-espectador",
-        "title": "Los cinco proyectos viales en el delta en el olvido",
-        "url": "https://www.elespectador.com/opinion/columnistas/sandra-vilardy/los-cinco-proyectos-viales-en-el-delta-en-el-olvido/"
+        "title": "Hait\u00ed, de la Perla de las Antillas al caos total",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-angela-holguin/haiti-de-la-perla-de-las-antillas-al-caos-total/"
     },
     {
         "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2024-03-27",
+        "author": "Cristina Nicholls Ocampo",
+        "date": "2024-03-28",
         "publication": "el-espectador",
-        "title": "Eduardo Escobar",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/eduardo-escobar/"
+        "title": "\u00a1Viva la U!",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/viva-la-u/"
     },
     {
         "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2024-03-27",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2024-03-28",
         "publication": "el-espectador",
-        "title": "Se\u00f1or Musk, los sindicatos son socios de los empresarios",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/senor-musk-los-sindicatos-son-socios-de-los-empresarios/"
+        "title": "La Semana Santa y las pasiones ferroviarias ",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/la-semana-santa-y-las-pasiones-ferroviarias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2024-03-28",
+        "publication": "el-espectador",
+        "title": "La hip\u00f3tesis de las abuelas",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/la-hipotesis-de-las-abuelas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan David Zuloaga D.",
+        "date": "2024-03-28",
+        "publication": "el-espectador",
+        "title": "Conversar a distancia",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/conversar-a-distancia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina Carrizosa Calle",
+        "date": "2024-03-28",
+        "publication": "el-espectador",
+        "title": "Lo que Petro no deja ver",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/lo-que-petro-no-deja-ver/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2024-03-28",
+        "publication": "el-espectador",
+        "title": "Selecci\u00f3n Colombia... \u00a1casi listos!",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/seleccion-colombia-casi-listos-columna-de-opinion-de-andres-marocco/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2024-03-28",
+        "publication": "el-espectador",
+        "title": "Se nos cruzaron los cables con la publicaci\u00f3n de una caricatura",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/se-nos-cruzaron-los-cables-con-la-publicacion-de-una-caricatura/"
     },
     {
         "article-type": "column",
@@ -65,11 +105,27 @@
     },
     {
         "article-type": "column",
-        "author": "Gonzalo Silva Rivas",
+        "author": "Sandra Vilardy",
         "date": "2024-03-27",
         "publication": "el-espectador",
-        "title": "El avi\u00f3n en el aire",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/el-avion-en-el-aire/"
+        "title": "Los cinco proyectos viales en el delta en el olvido",
+        "url": "https://www.elespectador.com/opinion/columnistas/sandra-vilardy/los-cinco-proyectos-viales-en-el-delta-en-el-olvido/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2024-03-27",
+        "publication": "el-espectador",
+        "title": "Eduardo Escobar",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/eduardo-escobar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2024-03-27",
+        "publication": "el-espectador",
+        "title": "Se\u00f1or Musk, los sindicatos son socios de los empresarios",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/senor-musk-los-sindicatos-son-socios-de-los-empresarios/"
     },
     {
         "article-type": "column",
@@ -81,66 +137,10 @@
     },
     {
         "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2024-03-26",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2024-03-27",
         "publication": "el-espectador",
-        "title": "Las exigencias del amor",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/las-exigencias-del-amor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2024-03-26",
-        "publication": "el-espectador",
-        "title": "Los almanaques de la violencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/los-almanaques-de-la-violencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2024-03-26",
-        "publication": "el-espectador",
-        "title": "La democracia plebiscitaria de Uribe y Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/la-democracia-plebiscitaria-de-uribe-y-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2024-03-26",
-        "publication": "el-espectador",
-        "title": "Historia del MOIR",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/historia-del-moir/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2024-03-26",
-        "publication": "el-espectador",
-        "title": "Poeta eterno",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/eduardo-escobar-poeta-eterno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yesid Reyes Alvarado",
-        "date": "2024-03-26",
-        "publication": "el-espectador",
-        "title": "Las consecuencia de las decisiones de la JEP sobre Mancuso",
-        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/las-consecuencia-de-las-decisiones-de-la-jep-sobre-mancuso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Arocha",
-        "date": "2024-03-26",
-        "publication": "el-espectador",
-        "title": "Alabaos, constituyente, y diversidad en riesgo",
-        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/alabaos-constituyente-y-diversidad-en-riesgo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2024-03-26",
-        "publication": "el-espectador",
-        "title": "\u00bfSe cocina algo grande?",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-se-cocina-algo-grande/"
+        "title": "El avi\u00f3n en el aire",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/el-avion-en-el-aire/"
     }
 ]
