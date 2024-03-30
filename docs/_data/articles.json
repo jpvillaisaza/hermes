@@ -2,18 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-28",
+        "date": "2024-03-30",
         "publication": "el-colombiano",
-        "title": "La pol\u00edtica exterior",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/rodrigo-botero-montoya-la-politica-exterior-JG24119011"
+        "title": "La inspiraci\u00f3n que es Cabrini",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/aldo-civico-la-inspiracion-que-es-cabrini-AF24124598"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-28",
+        "date": "2024-03-30",
         "publication": "el-espectador",
-        "title": "Una acertada posici\u00f3n frente a Venezuela",
-        "url": "https://www.elespectador.com/opinion/editorial/una-acertada-posicion-frente-a-venezuela/"
+        "title": "Meta (con Instagram) agrede la libertad de expresi\u00f3n",
+        "url": "https://www.elespectador.com/opinion/editorial/meta-con-instagram-agrede-la-libertad-de-expresion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2024-03-30",
+        "publication": "el-espectador",
+        "title": "En Am\u00e9rica Latina no faltan mujeres l\u00edderes sino mujeres en posici\u00f3n de liderazgo",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/en-america-latina-y-el-caribe-no-faltan-mujeres-lideres-faltan-mujeres-en-posiciones-de-liderazgo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2024-03-30",
+        "publication": "el-espectador",
+        "title": "Dicen que Colombia compr\u00f3 el software esp\u00eda Pegasus, \u00bfser\u00e1 cierto?",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/dicen-que-colombia-compro-el-software-espia-pegasus-sera-cierto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2024-03-30",
+        "publication": "el-espectador",
+        "title": "La postura de Milei hacia la memoria de Argentina es un peligro para la regi\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/la-postura-de-milei-hacia-la-memoria-historica-de-argentina-es-un-peligro-para-la-region/"
+    },
+    {
+        "article-type": "column",
+        "author": "Teresita Goyeneche",
+        "date": "2024-03-30",
+        "publication": "el-espectador",
+        "title": "\u201cUna loba como yo\u201d, Shakira en Nueva York",
+        "url": "https://www.elespectador.com/opinion/columnistas/teresita-goyeneche/una-loba-como-yo-shakira-en-nueva-york/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2024-03-30",
+        "publication": "el-espectador",
+        "title": "Las m\u00e1s sabias preguntas",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/las-mas-sabias-preguntas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2024-03-30",
+        "publication": "el-espectador",
+        "title": "Evangelios modernos (y her\u00e9ticos)",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/evangelios-modernos-y-hereticos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adolfo Le\u00f3n Atehort\u00faa Cruz",
+        "date": "2024-03-30",
+        "publication": "el-espectador",
+        "title": "El castillo Marroqu\u00edn para la Pedag\u00f3gica",
+        "url": "https://www.elespectador.com/opinion/columnistas/adolfo-leon-atehortua-cruz/el-castillo-marroquin-para-la-pedagogica/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2024-03-30",
+        "publication": "el-espectador",
+        "title": "El insepulto",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/el-insepulto/"
     },
     {
         "article-type": "column",
@@ -41,19 +105,19 @@
     },
     {
         "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2024-03-28",
-        "publication": "el-espectador",
-        "title": "La Semana Santa y las pasiones ferroviarias ",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/la-semana-santa-y-las-pasiones-ferroviarias/"
-    },
-    {
-        "article-type": "column",
         "author": "Catalina Ruiz-Navarro",
         "date": "2024-03-28",
         "publication": "el-espectador",
         "title": "La hip\u00f3tesis de las abuelas",
         "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/la-hipotesis-de-las-abuelas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Javier Ortiz Cassiani",
+        "date": "2024-03-28",
+        "publication": "el-espectador",
+        "title": "La Semana Santa y las pasiones ferroviarias ",
+        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/la-semana-santa-y-las-pasiones-ferroviarias/"
     },
     {
         "article-type": "column",
@@ -78,69 +142,5 @@
         "publication": "el-espectador",
         "title": "Selecci\u00f3n Colombia... \u00a1casi listos!",
         "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/seleccion-colombia-casi-listos-columna-de-opinion-de-andres-marocco/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-03-28",
-        "publication": "el-espectador",
-        "title": "Se nos cruzaron los cables con la publicaci\u00f3n de una caricatura",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/se-nos-cruzaron-los-cables-con-la-publicacion-de-una-caricatura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-03-27",
-        "publication": "el-espectador",
-        "title": "El gobernador Rend\u00f3n, \u00bfpromotor de una pir\u00e1mide?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-gobernador-rendon-promotor-de-una-piramide/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2024-03-27",
-        "publication": "el-espectador",
-        "title": "\u00bfUna vaca de Troya?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/una-vaca-de-troya/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2024-03-27",
-        "publication": "el-espectador",
-        "title": "La enfermedad de vivir en Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/la-enfermedad-de-vivir-en-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sandra Vilardy",
-        "date": "2024-03-27",
-        "publication": "el-espectador",
-        "title": "Los cinco proyectos viales en el delta en el olvido",
-        "url": "https://www.elespectador.com/opinion/columnistas/sandra-vilardy/los-cinco-proyectos-viales-en-el-delta-en-el-olvido/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2024-03-27",
-        "publication": "el-espectador",
-        "title": "Eduardo Escobar",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/eduardo-escobar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2024-03-27",
-        "publication": "el-espectador",
-        "title": "Se\u00f1or Musk, los sindicatos son socios de los empresarios",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/senor-musk-los-sindicatos-son-socios-de-los-empresarios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
-        "date": "2024-03-27",
-        "publication": "el-espectador",
-        "title": "Construyamos paz y democracia en Am\u00e9rica Latina (IV)",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/construyamos-paz-y-democracia-en-america-latina-iv/"
     }
 ]
