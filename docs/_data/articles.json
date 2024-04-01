@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-31",
+        "date": "2024-04-01",
         "publication": "el-colombiano",
-        "title": "Una vaca \u201crid\u00edcula\u201d",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/david-gonzalez-escobar-una-vaca-ridicula-OF24127283"
+        "title": "El fin de la tauromaquia",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/luis-guillermo-velez-alvarez-el-fin-de-la-tauromaquia-JF24129891"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-03-31",
+        "date": "2024-04-01",
         "publication": "el-espectador",
-        "title": "Un paso m\u00e1s en el cambio de enfoque de la lucha antidrogas",
-        "url": "https://www.elespectador.com/opinion/editorial/un-paso-mas-en-el-cambio-de-enfoque-de-la-lucha-antidrogas/"
+        "title": "La verdadera pregunta sobre Jes\u00fas Santrich",
+        "url": "https://www.elespectador.com/opinion/editorial/la-verdadera-pregunta-sobre-jesus-santrich/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2024-04-01",
+        "publication": "el-espectador",
+        "title": "\u00bfD\u00f3nde est\u00e1 la bolita en la Universidad Nacional?",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/donde-esta-la-bolita-en-la-un/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2024-04-01",
+        "publication": "el-espectador",
+        "title": "\u00bfQu\u00e9 le est\u00e1 pasando al empleo?",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/que-le-esta-pasando-al-empleo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2024-04-01",
+        "publication": "el-espectador",
+        "title": "Asamblea Nacional Constituyente: tan inconveniente como peligrosa",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/asamblea-nacional-constituyente-tan-inconveniente-como-peligrosa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2024-04-01",
+        "publication": "el-espectador",
+        "title": "Resucitar es bueno",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/resucitar-es-bueno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2024-04-01",
+        "publication": "el-espectador",
+        "title": "Elegir rector por voto directo no es buena democracia universitaria",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/elegir-rector-por-voto-directo-no-es-buena-democracia-universitaria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2024-04-01",
+        "publication": "el-espectador",
+        "title": "Si escribimos \u00abpijama\u00bb, probablemente lo estamos pronunciando mal",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-escribe-pijama-o-piyama/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2024-04-01",
+        "publication": "el-espectador",
+        "title": "Una Luz en el t\u00fanel de la Fiscal\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/una-luz-en-el-tunel-de-la-fiscalia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2024-04-01",
+        "publication": "el-espectador",
+        "title": "Desconectados con el campo",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/desconectados-con-el-campo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2024-04-01",
+        "publication": "el-espectador",
+        "title": "Doble rasero presidencial",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/doble-rasero-presidencial/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2024-04-01",
+        "publication": "el-espectador",
+        "title": "Editorial en video: \u201cUn paso m\u00e1s en el cambio de enfoque de la lucha antidrogas\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-un-paso-mas-en-el-cambio-de-enfoque-de-la-lucha-antidrogas/"
     },
     {
         "article-type": "column",
@@ -25,14 +105,6 @@
     },
     {
         "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "Ineptitud e ilegitimidad vs. acuerdo ciudadano",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/ineptitud-e-ilegitimidad-vs-acuerdo-ciudadano/"
-    },
-    {
-        "article-type": "column",
         "author": "H\u00e9ctor Abad Faciolince",
         "date": "2024-03-31",
         "publication": "el-espectador",
@@ -41,19 +113,19 @@
     },
     {
         "article-type": "column",
+        "author": "Carlos Enrique Moreno",
+        "date": "2024-03-31",
+        "publication": "el-espectador",
+        "title": "Ineptitud e ilegitimidad vs. acuerdo ciudadano",
+        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/ineptitud-e-ilegitimidad-vs-acuerdo-ciudadano/"
+    },
+    {
+        "article-type": "column",
         "author": "Felipe Zuleta Lleras",
         "date": "2024-03-31",
         "publication": "el-espectador",
         "title": "Las primeras damas",
         "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/las-primeras-damas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "Alcaldes y jueces",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/alcaldes-y-jueces/"
     },
     {
         "article-type": "column",
@@ -70,77 +142,5 @@
         "publication": "el-espectador",
         "title": "El sesgo de Petro con la luz del Caribe",
         "url": "https://www.elespectador.com/opinion/columnistas/laura-ardila-arrieta/el-sesgo-de-petro-con-la-luz-del-caribe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Irene Vallejo Moreu",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "La balada del gallo triste",
-        "url": "https://www.elespectador.com/opinion/columnistas/ivallejo/la-balada-del-gallo-triste/"
-    },
-    {
-        "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "La cuestionada elecci\u00f3n del rector de la Universidad Nacional",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/la-cuestionada-eleccion-del-rector-de-la-universidad-nacional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "Los hongkoneses limpian las pruebas de su libertad perdida",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/los-hongkoneses-limpian-las-pruebas-de-su-libertad-perdida/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "Tan lejos de Dios y tan cerca de Estados Unidos",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/tan-lejos-de-dios-y-tan-cerca-de-estados-unidos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Piedad Bonnett",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "No basta con la belleza",
-        "url": "https://www.elespectador.com/opinion/columnistas/piedad-bonnett/no-basta-con-la-belleza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja revelan en evangelio ap\u00f3crifo de la vaca para la \u00faltima cena",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-revelan-en-evangelio-apocrifo-de-la-vaca-para-la-ultima-cena/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "Reforma constitucional",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/reforma-constitucional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "Los zorros y las zorras",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/los-zorros-y-las-zorras/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-139/"
     }
 ]
