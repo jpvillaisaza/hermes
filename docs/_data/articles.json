@@ -2,18 +2,130 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-01",
+        "date": "2024-04-02",
         "publication": "el-colombiano",
-        "title": "El fin de la tauromaquia",
-        "url": "https://www.elcolombiano.com/opinion/columnistas/luis-guillermo-velez-alvarez-el-fin-de-la-tauromaquia-JF24129891"
+        "title": "Que no reine la impunidad",
+        "url": "https://www.elcolombiano.com/opinion/columnistas/daniel-carvalho-mejia-que-no-reine-la-impunidad-GE24139258"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-01",
+        "date": "2024-04-02",
         "publication": "el-espectador",
-        "title": "La verdadera pregunta sobre Jes\u00fas Santrich",
-        "url": "https://www.elespectador.com/opinion/editorial/la-verdadera-pregunta-sobre-jesus-santrich/"
+        "title": "Venezuela viola la soberan\u00eda colombiana",
+        "url": "https://www.elespectador.com/opinion/editorial/venezuela-viola-la-soberania-colombiana/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "Las escuelas rurales del pa\u00eds no est\u00e1n preparadas para una pr\u00f3xima pandemia",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/las-escuelas-rurales-del-pais-no-estan-preparadas-para-una-proxima-pandemia/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "Constituyente \u00bfpara qu\u00e9?",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/constituyente-para-que/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Reyes Posada",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "Todav\u00eda se puede salvar la reforma rural",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/todavia-se-puede-salvar-la-reforma-rural/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Hern\u00e1ndez",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "Asamblea Constituyente",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/asamblea-constituyente/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "De Monse\u00f1or Builes al padre Chucho",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/de-monsenor-builes-al-padre-chucho/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "El testamento de Mois\u00e9s",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/el-testamento-de-moises/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "El \u201ccaos m\u00e1gico\u201d de Alessandro Michele",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/el-caos-magico-de-alessandro-michele/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. William Pearl",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "\u00bfEl fin de la historia?",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-william-pearl/el-fin-de-la-historia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pedro Viveros",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "Una cultura anti-derechos recorre el mundo",
+        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/una-cultura-anti-derechos-recorre-el-mundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "\u00bfAntioque\u00f1idad? \u00a1Y eso con qu\u00e9 se come!",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/antioquenidad-y-eso-con-que-se-come/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "El legado de Manuel Cepeda Vargas",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/el-legado-de-manuel-cepeda-vargas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "Desigualdades en el Magdalena: Luchas por territorios, aguas y supervivencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/las-desigualdades-en-el-magdalena-luchas-por-los-territorios-las-aguas-y-la-supervivencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "El valor de nuestra liga",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-el-valor-de-nuestra-liga/"
+    },
+    {
+        "article-type": "column",
+        "author": "Guillermo Gonz\u00e1lez Uribe",
+        "date": "2024-04-02",
+        "publication": "el-espectador",
+        "title": "Presidente Petro, necesitamos serenidad y di\u00e1logo",
+        "url": "https://www.elespectador.com/opinion/columnistas/guillermo-gonzalez-uribe/presidente-petro-necesitamos-serenidad-y-dialogo/"
     },
     {
         "article-type": "column",
@@ -30,117 +142,5 @@
         "publication": "el-espectador",
         "title": "\u00bfQu\u00e9 le est\u00e1 pasando al empleo?",
         "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/que-le-esta-pasando-al-empleo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2024-04-01",
-        "publication": "el-espectador",
-        "title": "Asamblea Nacional Constituyente: tan inconveniente como peligrosa",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/asamblea-nacional-constituyente-tan-inconveniente-como-peligrosa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2024-04-01",
-        "publication": "el-espectador",
-        "title": "Resucitar es bueno",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/resucitar-es-bueno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2024-04-01",
-        "publication": "el-espectador",
-        "title": "Elegir rector por voto directo no es buena democracia universitaria",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/elegir-rector-por-voto-directo-no-es-buena-democracia-universitaria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2024-04-01",
-        "publication": "el-espectador",
-        "title": "Si escribimos \u00abpijama\u00bb, probablemente lo estamos pronunciando mal",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/se-escribe-pijama-o-piyama/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2024-04-01",
-        "publication": "el-espectador",
-        "title": "Una Luz en el t\u00fanel de la Fiscal\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/una-luz-en-el-tunel-de-la-fiscalia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2024-04-01",
-        "publication": "el-espectador",
-        "title": "Desconectados con el campo",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/desconectados-con-el-campo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2024-04-01",
-        "publication": "el-espectador",
-        "title": "Doble rasero presidencial",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/doble-rasero-presidencial/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2024-04-01",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cUn paso m\u00e1s en el cambio de enfoque de la lucha antidrogas\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-un-paso-mas-en-el-cambio-de-enfoque-de-la-lucha-antidrogas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "Amores lastimeros",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/amores-lastimeros/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "Exhiben y defienden la tortura",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/exhiben-y-defienden-la-tortura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "Ineptitud e ilegitimidad vs. acuerdo ciudadano",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/ineptitud-e-ilegitimidad-vs-acuerdo-ciudadano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "Las primeras damas",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/las-primeras-damas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "La par\u00e1bola de Yidis",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/la-parabola-de-yidis/"
-    },
-    {
-        "article-type": "column",
-        "author": "Laura Ardila Arrieta",
-        "date": "2024-03-31",
-        "publication": "el-espectador",
-        "title": "El sesgo de Petro con la luz del Caribe",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-ardila-arrieta/el-sesgo-de-petro-con-la-luz-del-caribe/"
     }
 ]
