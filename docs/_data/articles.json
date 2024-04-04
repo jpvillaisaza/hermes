@@ -2,18 +2,90 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-03",
+        "date": "2024-04-04",
         "publication": "el-colombiano",
-        "title": "Chocolate a ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/chocolate-a-precio-de-oro-CD24148596"
+        "title": "\u00bfY qui\u00e9n responde ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/y-quien-responde-por-los-muertos-FC24157435"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-03",
+        "date": "2024-04-04",
         "publication": "el-espectador",
-        "title": "Medell\u00edn y la impotencia ante el horror de la explotaci\u00f3n sexual infantil",
-        "url": "https://www.elespectador.com/opinion/editorial/medellin-y-la-impotencia-ante-el-horror-de-la-explotacion-sexual-infantil/"
+        "title": "Siete a\u00f1os de abandono gubernamental en Mocoa",
+        "url": "https://www.elespectador.com/opinion/editorial/siete-anos-de-abandono-gubernamental-en-mocoa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2024-04-04",
+        "publication": "el-espectador",
+        "title": "Los cuadros preferidos",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/los-cuadros-preferidos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2024-04-04",
+        "publication": "el-espectador",
+        "title": "Medidas in\u00fatiles contra la explotaci\u00f3n sexual en Medell\u00edn",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/medidas-inutiles-contra-la-explotacion-sexual-en-medellin/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2024-04-04",
+        "publication": "el-espectador",
+        "title": "Senadores de la comisi\u00f3n s\u00e9ptima menosprecian el trabajo legislativo de la C\u00e1mara",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/senadores-de-la-comision-septima-menosprecian-el-trabajo-legislativo-de-la-camara/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2024-04-04",
+        "publication": "el-espectador",
+        "title": "Caso Livingston: primero el derecho de las ni\u00f1as y luego lo dem\u00e1s ",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/caso-livingston-primero-el-derecho-de-las-ninas-y-luego-lo-demas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2024-04-04",
+        "publication": "el-espectador",
+        "title": "Una ni\u00f1a de cinco a\u00f1os abusada por un ni\u00f1o de siete, \u00bfen qu\u00e9 sociedad vivimos?",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/una-nina-de-cinco-anos-abusada-por-un-nino-de-siete-en-que-sociedad-vivimos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Camilo Camargo",
+        "date": "2024-04-04",
+        "publication": "el-espectador",
+        "title": "\u2018Es que\u2019 no asumo mis errores",
+        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/es-que-no-asumo-mis-errores/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
+        "date": "2024-04-04",
+        "publication": "el-espectador",
+        "title": "La educaci\u00f3n y el desasosiego de los tiempos",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/la-educacion-y-el-desasosiego-de-los-tiempos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Rubio",
+        "date": "2024-04-04",
+        "publication": "el-espectador",
+        "title": "Paz Total, constituyente y retorno de Semana Santa",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/paz-total-constituyente-y-retorno-de-semana-santa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2024-04-04",
+        "publication": "el-espectador",
+        "title": "\u201cCa\u00edmos de frente en la abominable pr\u00e1ctica del \u2018clickbait\u2019\u201d: Fidel Cano",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/caimos-de-frente-en-la-abominable-practica-del-clickbait-fidel-cano/"
     },
     {
         "article-type": "column",
@@ -22,38 +94,6 @@
         "publication": "el-espectador",
         "title": "Seis meses",
         "url": "https://www.elespectador.com/opinion/columnistas/marcos-peckel/seis-meses/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2024-04-03",
-        "publication": "el-espectador",
-        "title": "No, se\u00f1ores, a cachuchazos no",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/no-senores-a-cachuchazos-no/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pablo Felipe Robledo",
-        "date": "2024-04-03",
-        "publication": "el-espectador",
-        "title": "La Semana de Pascua para Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/la-semana-de-pascua-para-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2024-04-03",
-        "publication": "el-espectador",
-        "title": "Sirviente, justiciero, ladr\u00f3n",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/sirviente-justiciero-ladron/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-04-03",
-        "publication": "el-espectador",
-        "title": "\u00bfEl nuevo procurador ser\u00e1 un genio? ",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-nuevo-procurador-sera-un-genio/"
     },
     {
         "article-type": "column",
@@ -81,66 +121,26 @@
     },
     {
         "article-type": "column",
-        "author": "Hernando Roa Su\u00e1rez",
+        "author": "Cecilia Orozco Tasc\u00f3n",
         "date": "2024-04-03",
         "publication": "el-espectador",
-        "title": "Construyamos paz y democracia en Am\u00e9rica Latina (V)",
-        "url": "https://www.elespectador.com/opinion/columnistas/hernando-roa-suarez/construyamos-paz-y-democracia-en-america-latina-v/"
+        "title": "\u00bfEl nuevo procurador ser\u00e1 un genio? ",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/el-nuevo-procurador-sera-un-genio/"
     },
     {
         "article-type": "column",
-        "author": "Jos\u00e9 Espejo",
+        "author": "J. D. Torres Duarte",
         "date": "2024-04-03",
         "publication": "el-espectador",
-        "title": "Los se\u00f1ores de la guerra",
-        "url": "https://www.elespectador.com/colombia-20/analistas/analisis-sobre-las-negociaciones-de-paz-con-las-disidencias-de-farc-y-el-gobierno/"
+        "title": "Sirviente, justiciero, ladr\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/sirviente-justiciero-ladron/"
     },
     {
         "article-type": "column",
-        "author": "H\u00e9ctor Garc\u00eda",
+        "author": "Andr\u00e9s Hoyos",
         "date": "2024-04-03",
         "publication": "el-espectador",
-        "title": "Datos Abiertos: \u00bfInstrumento valioso o quimera tecnol\u00f3gica?",
-        "url": "https://www.elespectador.com/opinion/columnistas/hectorgarcia/datos-abiertos-instrumento-valioso-o-quimera-tecnologica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2024-04-02",
-        "publication": "el-espectador",
-        "title": "Las escuelas rurales del pa\u00eds no est\u00e1n preparadas para una pr\u00f3xima pandemia",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/las-escuelas-rurales-del-pais-no-estan-preparadas-para-una-proxima-pandemia/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2024-04-02",
-        "publication": "el-espectador",
-        "title": "Constituyente \u00bfpara qu\u00e9?",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/constituyente-para-que/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejandro Reyes Posada",
-        "date": "2024-04-02",
-        "publication": "el-espectador",
-        "title": "Todav\u00eda se puede salvar la reforma rural",
-        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/todavia-se-puede-salvar-la-reforma-rural/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2024-04-02",
-        "publication": "el-espectador",
-        "title": "De Monse\u00f1or Builes al padre Chucho",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/de-monsenor-builes-al-padre-chucho/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2024-04-02",
-        "publication": "el-espectador",
-        "title": "El testamento de Mois\u00e9s",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/el-testamento-de-moises/"
+        "title": "No, se\u00f1ores, a cachuchazos no",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/no-senores-a-cachuchazos-no/"
     }
 ]
