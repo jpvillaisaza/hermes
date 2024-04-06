@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-05",
+        "date": "2024-04-06",
         "publication": "el-colombiano",
-        "title": "Algo hay que hacer con M\u00e9xico",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/algo-hay-que-hacer-con-mexico-AB24167755"
+        "title": "La lecci\u00f3n brit\u00e1nica",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-leccion-britanica-inmigantes-en-el-poder-DA24172436"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-05",
+        "date": "2024-04-06",
         "publication": "el-espectador",
-        "title": "Alerta en energ\u00eda el\u00e9ctrica, no solo de racionamiento",
-        "url": "https://www.elespectador.com/opinion/editorial/alerta-en-energia-electrica-no-solo-de-racionamiento/"
+        "title": "Cuidado con la violencia en la Universidad Nacional",
+        "url": "https://www.elespectador.com/opinion/editorial/cuidado-con-la-violencia-en-la-universidad-nacional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": "La oferta pol\u00edtica vs. la demanda del votante",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/la-oferta-politica-vs-la-demanda-del-votante/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": "Daniel Kahneman",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/daniel-kahneman/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": "Una m\u00e1scara de oro muisca al volante de un cami\u00f3n Ford 56",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/una-mascara-de-oro-muisca-al-volante-de-un-camion-ford-56/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": "\u00bfAdmiraci\u00f3n o imitaci\u00f3n?",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/admiracion-o-imitacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": "La risa del presidente Petro es una provocaci\u00f3n innecesaria",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/la-risa-del-presidente-petro-es-una-provocacion-innecesaria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": "Colombia en el mapa intelectual del mundo",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/colombia-en-el-mapa-intelectual-del-mundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Weildler Guerra",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": "La crisis de la figura de la autoridad ind\u00edgena",
+        "url": "https://www.elespectador.com/opinion/columnistas/weildler-guerra/la-crisis-de-la-figura-de-la-autoridad-indigena/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": "\u00bfPor qu\u00e9 hablar de propiedad intelectual equilibrada en OMS y OMC y no en OMPI?",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/por-que-hablar-de-propiedad-intelectual-equilibrada-en-oms-y-omc-y-no-en-ompi/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ot\u00e1lora Montenegro",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": "Entre el billete y la estupidez",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-otalora-montenegro/entre-el-billete-y-la-estupidez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dolly Montoya Casta\u00f1o",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": "La autonom\u00eda de la universidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/dolly-montoya-castano/la-autonomia-de-la-universidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ricardo Bada",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": "50 a\u00f1os de \u201c\u00c1guas de Mar\u00e7o\u201d (Yo soy como el picaflor)",
+        "url": "https://www.elespectador.com/opinion/columnistas/ricardo-bada/50-anos-de-aguas-de-marco-yo-soy-como-el-picaflor-columnistas-el-espectador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2024-04-06",
+        "publication": "el-espectador",
+        "title": " Un Millonarios valiente en Copa",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/un-millonarios-valiente-en-copa-opinon-luis-fernando-montoya/"
     },
     {
         "article-type": "column",
@@ -33,30 +129,6 @@
     },
     {
         "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2024-04-05",
-        "publication": "el-espectador",
-        "title": "Refranes",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/refranes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2024-04-05",
-        "publication": "el-espectador",
-        "title": "El Agosto de Gabo y los lectores de a pie",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/el-agosto-de-gabo-y-los-lectores-de-a-pie/"
-    },
-    {
-        "article-type": "column",
-        "author": "Augusto Trujillo Mu\u00f1oz",
-        "date": "2024-04-05",
-        "publication": "el-espectador",
-        "title": "El mapa territorial",
-        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/el-mapa-territorial/"
-    },
-    {
-        "article-type": "column",
         "author": "Leopoldo Villar Borda",
         "date": "2024-04-05",
         "publication": "el-espectador",
@@ -65,82 +137,10 @@
     },
     {
         "article-type": "column",
-        "author": "Pedro Viveros",
+        "author": "Augusto Trujillo Mu\u00f1oz",
         "date": "2024-04-05",
         "publication": "el-espectador",
-        "title": "Una cultura antiderechos recorre el mundo",
-        "url": "https://www.elespectador.com/opinion/columnistas/pedro-viveros/una-cultura-antiderechos-recorre-el-mundo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2024-04-05",
-        "publication": "el-espectador",
-        "title": "Con la comida no se juega",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/con-la-comida-no-se-juega/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2024-04-05",
-        "publication": "el-espectador",
-        "title": "\u00bfEstos son los funcionarios m\u00e1s INEPTOS de Petro? | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-estos-son-los-funcionarios-mas-ineptos-de-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2024-04-04",
-        "publication": "el-espectador",
-        "title": "Los cuadros preferidos",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/los-cuadros-preferidos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2024-04-04",
-        "publication": "el-espectador",
-        "title": "Senadores de la comisi\u00f3n s\u00e9ptima menosprecian el trabajo legislativo de la C\u00e1mara",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/senadores-de-la-comision-septima-menosprecian-el-trabajo-legislativo-de-la-camara/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-04-04",
-        "publication": "el-espectador",
-        "title": "Medidas in\u00fatiles contra la explotaci\u00f3n sexual en Medell\u00edn",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/medidas-inutiles-contra-la-explotacion-sexual-en-medellin/"
-    },
-    {
-        "article-type": "column",
-        "author": "Claudia Morales",
-        "date": "2024-04-04",
-        "publication": "el-espectador",
-        "title": "Una ni\u00f1a de cinco a\u00f1os abusada por un ni\u00f1o de siete, \u00bfen qu\u00e9 sociedad vivimos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/una-nina-de-cinco-anos-abusada-por-un-nino-de-siete-en-que-sociedad-vivimos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2024-04-04",
-        "publication": "el-espectador",
-        "title": "Caso Livingston: primero el derecho de las ni\u00f1as y luego lo dem\u00e1s ",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/caso-livingston-primero-el-derecho-de-las-ninas-y-luego-lo-demas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Camargo",
-        "date": "2024-04-04",
-        "publication": "el-espectador",
-        "title": "\u2018Es que\u2019 no asumo mis errores",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-camargo/es-que-no-asumo-mis-errores/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n L\u00f3pez de Mesa Samudio",
-        "date": "2024-04-04",
-        "publication": "el-espectador",
-        "title": "La educaci\u00f3n y el desasosiego de los tiempos",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-lopez-de-mesa-samudio/la-educacion-y-el-desasosiego-de-los-tiempos/"
+        "title": "El mapa territorial",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/el-mapa-territorial/"
     }
 ]
