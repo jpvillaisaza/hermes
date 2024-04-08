@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-07",
+        "date": "2024-04-08",
         "publication": "el-colombiano",
-        "title": "La magia de Ch\u00e1vez",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-magia-de-chavez-la-frase-polemica-de-gustavo-petro-BA24175206"
+        "title": "Tinto amargo",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/tinto-amargo-de-petro-para-los-cafeteros-KA24177940"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-07",
+        "date": "2024-04-08",
         "publication": "el-espectador",
-        "title": "Los pacientes por encima de los pulsos pol\u00edticos",
-        "url": "https://www.elespectador.com/opinion/editorial/los-pacientes-por-encima-de-los-pulsos-politicos/"
+        "title": "Ecuador agrede los acuerdos b\u00e1sicos de las naciones",
+        "url": "https://www.elespectador.com/opinion/editorial/ecuador-agrede-los-acuerdos-basicos-de-las-naciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2024-04-08",
+        "publication": "el-espectador",
+        "title": "Tom\u00e9monos un tinto",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/tomemonos-un-tinto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Teresa Ronderos",
+        "date": "2024-04-08",
+        "publication": "el-espectador",
+        "title": "La salud mental del gobierno Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-teresa-ronderos/la-salud-mental-del-gobierno-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2024-04-08",
+        "publication": "el-espectador",
+        "title": "Hablar de \u00abuna\u00bb misma",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/hablar-de-una-misma/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2024-04-08",
+        "publication": "el-espectador",
+        "title": "Que la Constituci\u00f3n regule la estatutaria de educaci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/que-la-constitucion-regule-la-estatutaria-de-educacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Salom\u00f3n Kalmanovitz",
+        "date": "2024-04-08",
+        "publication": "el-espectador",
+        "title": "La crisis de la salud",
+        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-crisis-de-la-salud/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2024-04-08",
+        "publication": "el-espectador",
+        "title": "Ma\u00f1ana es 9 de abril",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/manana-es-9-de-abril/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2024-04-08",
+        "publication": "el-espectador",
+        "title": "La salud no es un discurso",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/la-salud-no-es-un-discurso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2024-04-08",
+        "publication": "el-espectador",
+        "title": "La prensa no es \u201cla enemiga del pueblo\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-prensa-no-es-la-enemiga-del-pueblo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Tovar",
+        "date": "2024-04-08",
+        "publication": "el-espectador",
+        "title": "Gamero y las lecciones del extranjero",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-gamero-y-las-lecciones-del-extranjero-nestor-lorenzo-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2024-04-08",
+        "publication": "el-espectador",
+        "title": "Es cuesti\u00f3n de actitud",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-es-cuestion-de-actitud-millonarios-copa-libertadores-noticias-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marc Hofstetter",
+        "date": "2024-04-08",
+        "publication": "el-espectador",
+        "title": "Todo, al precio que sea ",
+        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/todo-al-precio-que-sea/"
     },
     {
         "article-type": "column",
@@ -49,98 +137,10 @@
     },
     {
         "article-type": "column",
-        "author": "Rodrigo Uprimny",
-        "date": "2024-04-07",
-        "publication": "el-espectador",
-        "title": "La posible nulidad de la elecci\u00f3n del rector de la Universidad Nacional",
-        "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/la-posible-nulidad-de-la-eleccion-del-rector-de-la-universidad-nacional/"
-    },
-    {
-        "article-type": "column",
         "author": "Hernando G\u00f3mez Buend\u00eda",
         "date": "2024-04-07",
         "publication": "el-espectador",
         "title": "Reforma a golpes",
         "url": "https://www.elespectador.com/opinion/columnistas/hernando-gomez-buendia/reforma-a-golpes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2024-04-07",
-        "publication": "el-espectador",
-        "title": "\u201cNo hay lugar seguro en Gaza\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/no-hay-lugar-seguro-en-gaza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2024-04-07",
-        "publication": "el-espectador",
-        "title": "Las pir\u00e1mides se desmoronan es por las bases",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/las-piramides-se-desmoronan-es-por-las-bases/"
-    },
-    {
-        "article-type": "column",
-        "author": "William Ospina",
-        "date": "2024-04-07",
-        "publication": "el-espectador",
-        "title": "Volver a la luna",
-        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/volver-a-la-luna/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2024-04-07",
-        "publication": "el-espectador",
-        "title": "La culpa no es del sof\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/la-culpa-no-es-del-sofa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Germ\u00e1n I. Andrade",
-        "date": "2024-04-07",
-        "publication": "el-espectador",
-        "title": "Deforestaci\u00f3n de la Amazonia: ampliar la ambici\u00f3n y reforzar la estrategia ",
-        "url": "https://www.elespectador.com/opinion/columnistas/german-i-andrade-/deforestacion-de-la-amazonia-ampliar-la-ambicion-y-reforzar-la-estrategia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Felipe Zuleta Lleras",
-        "date": "2024-04-07",
-        "publication": "el-espectador",
-        "title": "El zarpazo de Petro a la salud: Shu, shu, shu",
-        "url": "https://www.elespectador.com/opinion/columnistas/felipe-zuleta-lleras/el-zarpazo-de-petro-a-la-salud-shu-shu-shu/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2024-04-07",
-        "publication": "el-espectador",
-        "title": "Malas artes",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/malas-artes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2024-04-07",
-        "publication": "el-espectador",
-        "title": "Era muy humano que los dioses no se llevaran bien",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/era-muy-humano-que-los-dioses-no-se-llevaran-bien/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2024-04-07",
-        "publication": "el-espectador",
-        "title": "MICROLINGOTES",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/microlingotes-140/"
-    },
-    {
-        "article-type": "column",
-        "author": "Kenneth Burbano Villamar\u00edn",
-        "date": "2024-04-07",
-        "publication": "el-espectador",
-        "title": "Asedio a la JEP",
-        "url": "https://www.elespectador.com/colombia-20/analistas/asedio-a-la-jep/"
     }
 ]
