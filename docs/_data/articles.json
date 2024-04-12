@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-11",
+        "date": "2024-04-12",
         "publication": "el-colombiano",
-        "title": "\u00a1Ya no m\u00e1s!",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/ya-no-mas-explotacion-sexual-de-ninos-en-medellin-AF24215234"
+        "title": "El libreto de Petro",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-libreto-de-petro-IH24237690"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-11",
+        "date": "2024-04-12",
         "publication": "el-espectador",
-        "title": "El presidente Gustavo Petro le sonr\u00ede al tirano",
-        "url": "https://www.elespectador.com/opinion/editorial/el-presidente-gustavo-petro-le-sonrie-al-tirano/"
+        "title": "\u00bfY los racionamientos por venir?",
+        "url": "https://www.elespectador.com/opinion/editorial/y-los-racionamientos-por-venir/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Diego Soler",
+        "date": "2024-04-12",
+        "publication": "el-espectador",
+        "title": "\u00bfQui\u00e9n habla en nombre de la ciencia?",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-diego-soler/quien-habla-en-nombre-de-la-ciencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2024-04-12",
+        "publication": "el-espectador",
+        "title": "El tribuno y el estadista",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/el-tribuno-y-el-estadista/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2024-04-12",
+        "publication": "el-espectador",
+        "title": "\u00bfVeinte a\u00f1os son nada?",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/veinte-anos-son-nada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2024-04-12",
+        "publication": "el-espectador",
+        "title": "\u00bfRelajados o desmotivados?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/relajados-o-desmotivados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jorge Iv\u00e1n Cuervo R.",
+        "date": "2024-04-12",
+        "publication": "el-espectador",
+        "title": "\u00bfVa a terminar Petro su per\u00edodo?",
+        "url": "https://www.elespectador.com/opinion/columnistas/jorge-ivan-cuervo-r-/va-a-terminar-petro-su-periodo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Botero",
+        "date": "2024-04-12",
+        "publication": "el-espectador",
+        "title": "Un pa\u00eds en obra negra",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/un-pais-en-obra-negra/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2024-04-12",
+        "publication": "el-espectador",
+        "title": "La inseguridad total",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/la-inseguridad-total/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2024-04-12",
+        "publication": "el-espectador",
+        "title": "Lectura comprensiva",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/lectura-comprensiva/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2024-04-12",
+        "publication": "el-espectador",
+        "title": "El arte de la prudencia",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/el-arte-de-la-prudencia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2024-04-12",
+        "publication": "el-espectador",
+        "title": "Fiestas de divorcio: soltar, para celebrar",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/fiestas-de-divorcio-soltar-para-celebrar/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2024-04-12",
+        "publication": "el-espectador",
+        "title": "Crisis de salud y las EPS: \u00bfqui\u00e9n tiene la raz\u00f3n? | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-crisis-de-salud-y-las-eps-quien-tiene-la-razon-la-pulla/"
     },
     {
         "article-type": "column",
@@ -25,19 +113,19 @@
     },
     {
         "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "Padres y madres colombianas a favor de la igualdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/padres-y-madres-colombianas-a-favor-de-la-igualdad/"
-    },
-    {
-        "article-type": "column",
         "author": "Brigitte LG Baptiste",
         "date": "2024-04-11",
         "publication": "el-espectador",
         "title": "Humanise: la reevoluci\u00f3n del dise\u00f1o",
         "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/humanise-la-reevolucion-del-diseno/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2024-04-11",
+        "publication": "el-espectador",
+        "title": "Padres y madres colombianas a favor de la igualdad",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/padres-y-madres-colombianas-a-favor-de-la-igualdad/"
     },
     {
         "article-type": "column",
@@ -54,93 +142,5 @@
         "publication": "el-espectador",
         "title": "El gran error de Ecuador",
         "url": "https://www.elespectador.com/opinion/columnistas/maria-angela-holguin/el-gran-error-de-ecuador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Javier Ortiz Cassiani",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "La vida de Dydine se repite en la de muchas ni\u00f1as y adolescentes colombianas",
-        "url": "https://www.elespectador.com/opinion/columnistas/javier-ortiz/la-vida-de-dydine-se-repite-en-la-de-muchas-ninas-y-adolescentes-colombianas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Rubio",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "Violador condenado, acosador corrupto atrapado y swingers civilizados",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-rubio/violador-condenado-acosador-corrupto-atrapado-y-swingers-civilizados/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "Las universidades nuevas del gobierno Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/las-universidades-nuevas-del-gobierno-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "Los discutibles argumentos del juez del caso Alberto Salcedo",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/los-discutibles-argumentos-del-juez-del-caso-alberto-salcedo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "\u201cSufrimos el intento de censura previa de un abogado gringo\u201d: Fidel Cano",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/sufrimos-el-intento-de-censura-previa-de-un-abogado-gringo-fidel-cano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2024-04-10",
-        "publication": "el-espectador",
-        "title": "Estado Mayor Parcial",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/estado-mayor-parcial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2024-04-10",
-        "publication": "el-espectador",
-        "title": "\u00bfEstamos condenados?",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/estamos-condenados/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-04-10",
-        "publication": "el-espectador",
-        "title": "Una togada para Char",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/una-togada-para-char/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Hoyos",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "Maduro se queda solo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/maduro-se-queda-solo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sandra Vilardy",
-        "date": "2024-04-10",
-        "publication": "el-espectador",
-        "title": "Julio y Dolors: complejidad y ciencia para enfrentar la incertidumbre",
-        "url": "https://www.elespectador.com/opinion/columnistas/sandra-vilardy/julio-y-dolors-complejidad-y-ciencia-para-enfrentar-la-incertidumbre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2024-04-10",
-        "publication": "el-espectador",
-        "title": "Donde falla la pr\u00e1ctica, surge la ideolog\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/donde-falla-la-practica-surge-la-ideologia/"
     }
 ]
