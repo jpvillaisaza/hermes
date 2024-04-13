@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-12",
+        "date": "2024-04-13",
         "publication": "el-colombiano",
-        "title": "El libreto de Petro",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-libreto-de-petro-IH24237690"
+        "title": "Uruguay nos da c\u00e1tedra",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/uruguay-nos-da-catedra-sobre-democracia-y-redes-sociales-JA24244728"
     },
     {
         "article-type": "editorial",
         "author": null,
+        "date": "2024-04-13",
+        "publication": "el-espectador",
+        "title": "Otro intento inaceptable de estigmatizar el periodismo",
+        "url": "https://www.elespectador.com/opinion/editorial/otro-intento-inaceptable-de-estigmatizar-el-periodismo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2024-04-13",
+        "publication": "el-espectador",
+        "title": "La comunicaci\u00f3n de Carlos Fernando Gal\u00e1n",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/la-comunicacion-de-carlos-fernando-galan/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos Bayona Vargas",
+        "date": "2024-04-13",
+        "publication": "el-espectador",
+        "title": "La libertad sublime",
+        "url": "https://www.elespectador.com/opinion/columnistas/juancarlosbayona/la-libertad-sublime/"
+    },
+    {
+        "article-type": "column",
+        "author": "John Gal\u00e1n Casanova",
+        "date": "2024-04-13",
+        "publication": "el-espectador",
+        "title": "Luis Tejada Cano (I)",
+        "url": "https://www.elespectador.com/opinion/columnistas/jgalancasanova/luis-tejada-cano-i/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sorayda Peguero Isaac",
+        "date": "2024-04-13",
+        "publication": "el-espectador",
+        "title": "La travesura de Doris",
+        "url": "https://www.elespectador.com/opinion/columnistas/sorayda-peguero/la-travesura-de-doris-lessing/"
+    },
+    {
+        "article-type": "column",
+        "author": "Santiago Gamboa",
+        "date": "2024-04-13",
+        "publication": "el-espectador",
+        "title": "Bancolombia y el fraude criollo",
+        "url": "https://www.elespectador.com/opinion/columnistas/santiago-gamboa/bancolombia-y-el-fraude-criollo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2024-04-13",
+        "publication": "el-espectador",
+        "title": "Desvar\u00edos de un genio rabioso",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/desvarios-de-un-genio-rabioso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adolfo Le\u00f3n Atehort\u00faa Cruz",
+        "date": "2024-04-13",
+        "publication": "el-espectador",
+        "title": "Educaci\u00f3n para el desarrollo de Cundinamarca",
+        "url": "https://www.elespectador.com/opinion/columnistas/adolfo-leon-atehortua-cruz/educacion-para-el-desarrollo-de-cundinamarca/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2024-04-13",
+        "publication": "el-espectador",
+        "title": "Biden podr\u00eda indultar a Julian Assange",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/biden-podria-indultar-a-julian-assange/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elementa DD.HH.",
+        "date": "2024-04-13",
+        "publication": "el-espectador",
+        "title": "Volver a la verdad: Honduras a la luz de Colombia",
+        "url": "https://www.elespectador.com/colombia-20/analistas/extradicion-deuda-con-la-verdad-caso-honduras-colombia-opinion-por-elementa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Las Igualadas",
+        "date": "2024-04-13",
+        "publication": "el-espectador",
+        "title": "\u00bfC\u00f3mo influye el porno en nuestra vida sexual?",
+        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/como-influye-el-porno-en-nuestra-vida-sexual/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
         "date": "2024-04-12",
         "publication": "el-espectador",
-        "title": "\u00bfY los racionamientos por venir?",
-        "url": "https://www.elespectador.com/opinion/editorial/y-los-racionamientos-por-venir/"
+        "title": "\u00bfVeinte a\u00f1os son nada?",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/veinte-anos-son-nada/"
     },
     {
         "article-type": "column",
@@ -30,14 +118,6 @@
         "publication": "el-espectador",
         "title": "El tribuno y el estadista",
         "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/el-tribuno-y-el-estadista/"
-    },
-    {
-        "article-type": "column",
-        "author": "Francisco Guti\u00e9rrez San\u00edn",
-        "date": "2024-04-12",
-        "publication": "el-espectador",
-        "title": "\u00bfVeinte a\u00f1os son nada?",
-        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/veinte-anos-son-nada/"
     },
     {
         "article-type": "column",
@@ -62,85 +142,5 @@
         "publication": "el-espectador",
         "title": "Un pa\u00eds en obra negra",
         "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-botero/un-pais-en-obra-negra/"
-    },
-    {
-        "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2024-04-12",
-        "publication": "el-espectador",
-        "title": "La inseguridad total",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/la-inseguridad-total/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2024-04-12",
-        "publication": "el-espectador",
-        "title": "Lectura comprensiva",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/lectura-comprensiva/"
-    },
-    {
-        "article-type": "column",
-        "author": "Augusto Trujillo Mu\u00f1oz",
-        "date": "2024-04-12",
-        "publication": "el-espectador",
-        "title": "El arte de la prudencia",
-        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/el-arte-de-la-prudencia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-04-12",
-        "publication": "el-espectador",
-        "title": "Fiestas de divorcio: soltar, para celebrar",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/fiestas-de-divorcio-soltar-para-celebrar/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2024-04-12",
-        "publication": "el-espectador",
-        "title": "Crisis de salud y las EPS: \u00bfqui\u00e9n tiene la raz\u00f3n? | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-crisis-de-salud-y-las-eps-quien-tiene-la-razon-la-pulla/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Carrizosa Calle",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "Es el tono",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristinacarrizosa/es-el-tono/"
-    },
-    {
-        "article-type": "column",
-        "author": "Brigitte LG Baptiste",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "Humanise: la reevoluci\u00f3n del dise\u00f1o",
-        "url": "https://www.elespectador.com/opinion/columnistas/brigitte-lg-baptiste/humanise-la-reevolucion-del-diseno/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "Padres y madres colombianas a favor de la igualdad",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/padres-y-madres-colombianas-a-favor-de-la-igualdad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina Nicholls Ocampo",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "Mancuso vs. Mordisco",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-nicholls/mancuso-vs-mordisco/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda \u00c1ngela Holgu\u00edn",
-        "date": "2024-04-11",
-        "publication": "el-espectador",
-        "title": "El gran error de Ecuador",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-angela-holguin/el-gran-error-de-ecuador/"
     }
 ]
