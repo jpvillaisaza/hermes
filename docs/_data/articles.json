@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-14",
+        "date": "2024-04-15",
         "publication": "el-colombiano",
-        "title": "Los primeros 100 d\u00edas",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/los-primeros-100-dias-OB24250691"
+        "title": "La calculadora",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-calculadora-de-petro-FB24252997"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-14",
+        "date": "2024-04-15",
         "publication": "el-espectador",
-        "title": "La reforma pensional no deber\u00eda dividirnos  ",
-        "url": "https://www.elespectador.com/opinion/editorial/la-reforma-pensional-no-deberia-dividirnos/"
+        "title": "Israel, Ir\u00e1n y la necesidad de la paz",
+        "url": "https://www.elespectador.com/opinion/editorial/israel-iran-y-la-necesidad-de-la-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "Arauca: mejor nodos de la UNAL que nuevas universidades",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/arauca-mejor-nodos-de-la-unal-que-nuevas-universidades/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lisandro Duque Naranjo",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "La pol\u00edtica como historieta",
+        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/la-politica-como-historieta/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alvaro Forero Tasc\u00f3n",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "Y la verdadera confrontaci\u00f3n apenas comienza",
+        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/y-la-verdadera-confrontacion-apenas-comienza/"
+    },
+    {
+        "article-type": "column",
+        "author": "Lorenzo Madrigal",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "Justicia en extremo politizada",
+        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/justicia-en-extremo-politizada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Indalecio Dangond B.",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "Ojo con Finagro",
+        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/ojo-con-finagro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "Sobre \u00abasequible\u00bb y \u00abaccesible\u00bb (no \u00abaccequible\u00bb)",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/sobre-asequible-y-accesible-no-accequible/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Carvajal Basto",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "As\u00ed hemos cambiado",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/asi-hemos-cambiado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Sergio Ocampo Madrid",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "El infame proceso contra Uribe V\u00e9lez",
+        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/el-infame-proceso-contra-uribe-velez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juan Carlos G\u00f3mez",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "Poder contra poder",
+        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/poder-contra-poder/"
+    },
+    {
+        "article-type": "column",
+        "author": "Antonio Casale",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "Gestionar con deportistas",
+        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/gestionar-con-deportistas-opinion-de-antonio-casale-maria-camila-osorio-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Dejusticia",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "El Derecho a Defender Derechos, la nueva esperanza de personas l\u00edderes sociales",
+        "url": "https://www.elespectador.com/colombia-20/analistas/corte-constitucional-que-falta-para-implementar-sentencia-que-protege-a-lideres-sociales/"
+    },
+    {
+        "article-type": "column",
+        "author": "El Espectador",
+        "date": "2024-04-15",
+        "publication": "el-espectador",
+        "title": "Editorial en video: la reforma pensional no deber\u00eda dividirnos",
+        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-la-reforma-pensional-no-deberia-dividirnos/"
     },
     {
         "article-type": "column",
@@ -46,101 +142,5 @@
         "publication": "el-espectador",
         "title": "Una sociedad dividida, una Constituci\u00f3n que unifica ",
         "url": "https://www.elespectador.com/opinion/columnistas/rodrigo-uprimny/una-sociedad-dividida-una-constitucion-que-unifica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Carlos Enrique Moreno",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "Izquierda democr\u00e1tica vs. Izquierda antisistema revolucionaria ",
-        "url": "https://www.elespectador.com/opinion/columnistas/carlos-enrique-moreno/izquierda-democratica-vs-izquierda-antisistema-revolucionaria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Irene Vallejo Moreu",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "Espejismo",
-        "url": "https://www.elespectador.com/opinion/columnistas/ivallejo/espejismo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tatiana Acevedo Guerrero",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "Flujos de agua y plata en la capital I",
-        "url": "https://www.elespectador.com/opinion/columnistas/tatiana-acevedo-guerrero/flujos-de-agua-y-plata-en-la-capital-i/"
-    },
-    {
-        "article-type": "column",
-        "author": "William Ospina",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "La enorme m\u00e1quina y el tiempo breve",
-        "url": "https://www.elespectador.com/opinion/columnistas/william-ospina/la-enorme-maquina-y-el-tiempo-breve/"
-    },
-    {
-        "article-type": "column",
-        "author": "Laura Ardila Arrieta",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "Pulgarcito opositor",
-        "url": "https://www.elespectador.com/opinion/columnistas/laura-ardila-arrieta/pulgarcito-opositor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ramiro Bejarano Guzm\u00e1n",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "Nunca m\u00e1s",
-        "url": "https://www.elespectador.com/opinion/columnistas/ramiro-bejarano-guzman/nunca-mas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mauricio Botero Caicedo",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "La peligrosa banalizaci\u00f3n del uso de las drogas ",
-        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-botero-caicedo/la-peligrosa-banalizacion-del-uso-de-las-drogas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Tola y Maruja",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "Tola y Maruja preparan la defensa de Uribe",
-        "url": "https://www.elespectador.com/opinion/columnistas/tola-y-maruja/tola-y-maruja-preparan-la-defensa-de-uribe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jaime Bayly",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "El cuaderno negro del rencor",
-        "url": "https://www.elespectador.com/opinion/columnistas/jbayly/el-cuaderno-negro-del-rencor/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "El modelo de altas tasas de inter\u00e9s y revaluaci\u00f3n no reactiva la econom\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/el-modelo-de-altas-tasas-de-interes-y-revaluacion-no-reactiva-la-economia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "Fluir y solo fluir",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/fluir-y-solo-fluir-el-caminante-columnistas-el-espectador/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Ara\u00fajo V\u00e9lez",
-        "date": "2024-04-14",
-        "publication": "el-espectador",
-        "title": "Fluir y solo fluir",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-araujo-velez/fluir-y-solo-fluir/"
     }
 ]
