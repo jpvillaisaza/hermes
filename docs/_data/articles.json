@@ -2,18 +2,74 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-16",
+        "date": "2024-04-17",
         "publication": "el-colombiano",
-        "title": "\u00bfLa tercera guerra?",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-tercera-guerra-CC24266422"
+        "title": "De Igualdad... poco ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/del-ministerio-de-igualdad-poco-KD24278389"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-16",
+        "date": "2024-04-17",
         "publication": "el-espectador",
-        "title": "Se abre una oportunidad de di\u00e1logo con las EPS",
-        "url": "https://www.elespectador.com/opinion/editorial/se-abre-una-oportunidad-de-dialogo-con-las-eps/"
+        "title": "El oro sucio y un relato de ilegalidad y conflicto",
+        "url": "https://www.elespectador.com/opinion/editorial/el-oro-sucio-y-un-relato-de-ilegalidad-y-conflicto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2024-04-17",
+        "publication": "el-espectador",
+        "title": "Acusaci\u00f3n a Uribe: \u00bfIgualdad ante la ley o pura espuma?",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/acusacion-a-uribe-igualdad-ante-la-ley-o-pura-espuma/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2024-04-17",
+        "publication": "el-espectador",
+        "title": "El cambio histri\u00f3nico ",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-cambio-histrionico/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fernando Galindo G.",
+        "date": "2024-04-17",
+        "publication": "el-espectador",
+        "title": "La salud: en manos del presidente del Senado y la Corte Constitucional",
+        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/la-salud-en-manos-del-presidente-del-senado-y-la-corte-constitucional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2024-04-17",
+        "publication": "el-espectador",
+        "title": "Por falta de obras los conocer\u00e9is",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/por-falta-de-obras-los-conocereis/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2024-04-17",
+        "publication": "el-espectador",
+        "title": "\u00bfQui\u00e9nes somos?",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/quienes-somos-opinion-de-andres-marocco-sobre-el-futbol-colombiano/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2024-04-17",
+        "publication": "el-espectador",
+        "title": "\u00bfQui\u00e9n era Elisa?",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/quien-era-elisa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2024-04-17",
+        "publication": "el-espectador",
+        "title": "Atl\u00e1ntico: Las aguas desiguales del progreso y el poder de lo comunitario",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/atlantico-las-aguas-desiguales-del-progreso-y-el-poder-de-lo-comunitario/"
     },
     {
         "article-type": "column",
@@ -22,125 +78,5 @@
         "publication": "el-espectador",
         "title": "El proceso a Uribe",
         "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-proceso-a-uribe/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "Los ni\u00f1os sin nombre",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/los-ninos-sin-nombre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cristina de la Torre",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "Uribe: \u00bfJuicio, verdad y perd\u00f3n?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/uribe-juicio-verdad-y-perdon/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "S\u00ed a la pensional",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/si-a-la-pensional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aldo Civico",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "Roberto Cavalli, \u00e9xito y exceso",
-        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/roberto-cavalli-exito-y-exceso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gloria Arias Nieto",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "No sirve el \u201cdivide y reinar\u00e1s\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/no-sirve-el-divide-y-reinaras/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "La sensibilidad, un oficio de muerte",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/la-sensibilidad-un-oficio-de-muerte/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "Aprender y aprehender",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/aprender-y-aprehender/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "Bobos, lambones y esnobistas",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/bobos-lambones-y-esnobistas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Fernando Montoya",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "Bucaramanga en cuadrangulares: la ambici\u00f3n de un leopardo",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/bucaramanga-en-cuadrangulares-la-ambicion-de-un-leopardo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Ortiz",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "Reflexi\u00f3n vicepresidencial ",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-ortiz/reflexion-vicepresidencial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "\u00bfPor qu\u00e9 quieren prohibir el matrimonio en Colombia antes de los 18 a\u00f1os?",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/por-que-quieren-prohibir-el-matrimonio-en-colombia-antes-de-los-18-anos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2024-04-15",
-        "publication": "el-espectador",
-        "title": "La pol\u00edtica como historieta",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/la-politica-como-historieta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2024-04-15",
-        "publication": "el-espectador",
-        "title": "Y la verdadera confrontaci\u00f3n apenas comienza",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/y-la-verdadera-confrontacion-apenas-comienza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2024-04-15",
-        "publication": "el-espectador",
-        "title": "Justicia en extremo politizada",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/justicia-en-extremo-politizada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2024-04-15",
-        "publication": "el-espectador",
-        "title": "Arauca: mejor nodos de la UNAL que nuevas universidades",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/arauca-mejor-nodos-de-la-unal-que-nuevas-universidades/"
     }
 ]
