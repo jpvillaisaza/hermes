@@ -2,18 +2,74 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-17",
+        "date": "2024-04-18",
         "publication": "el-colombiano",
-        "title": "De Igualdad... poco ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/del-ministerio-de-igualdad-poco-KD24278389"
+        "title": "Se durmi\u00f3 con el Ni\u00f1o",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/gobierno-petro-se-durmio-con-fenomeno-del-nino-CM24283188"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-17",
+        "date": "2024-04-18",
         "publication": "el-espectador",
-        "title": "El oro sucio y un relato de ilegalidad y conflicto",
-        "url": "https://www.elespectador.com/opinion/editorial/el-oro-sucio-y-un-relato-de-ilegalidad-y-conflicto/"
+        "title": "Se acaba el tiempo para quienes no quieren negociar",
+        "url": "https://www.elespectador.com/opinion/editorial/se-acaba-el-tiempo-para-quienes-no-quieren-negociar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2024-04-18",
+        "publication": "el-espectador",
+        "title": "Racionamiento de agua: crisis que exige cambios",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/racionamiento-de-agua-crisis-que-exige-cambios/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2024-04-18",
+        "publication": "el-espectador",
+        "title": "La detestable matoner\u00eda",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-detestable-matoneria/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Ruiz-Navarro",
+        "date": "2024-04-18",
+        "publication": "el-espectador",
+        "title": "Vivir sin Air-e",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/vivir-sin-air-e/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2024-04-18",
+        "publication": "el-espectador",
+        "title": "Las humanidades y las ciencias sociales en cuidados intensivos",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/las-humanidades-y-las-ciencias-sociales-en-cuidados-intensivos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Foro Nacional por Colombia",
+        "date": "2024-04-18",
+        "publication": "el-espectador",
+        "title": "Desaf\u00edos para la efectividad de las pol\u00edticas p\u00fablicas de seguridad y paz",
+        "url": "https://www.elespectador.com/colombia-20/analistas/desafios-para-la-efectividad-de-las-politicas-publicas-de-seguridad-y-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columna del lector",
+        "date": "2024-04-18",
+        "publication": "el-espectador",
+        "title": "Anatom\u00eda y simbiosis de la corrupci\u00f3n en Colombia",
+        "url": "https://www.elespectador.com/opinion/columnistas/columna-del-lector/anatomia-y-simbiosis-de-la-corrupcion-en-colombia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fidel Cano Correa",
+        "date": "2024-04-18",
+        "publication": "el-espectador",
+        "title": "\u201cS\u00ed es importante tener presente que el lenguaje importa\u201d",
+        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/si-es-importante-tener-presente-que-el-lenguaje-importa/"
     },
     {
         "article-type": "column",
@@ -22,61 +78,5 @@
         "publication": "el-espectador",
         "title": "Acusaci\u00f3n a Uribe: \u00bfIgualdad ante la ley o pura espuma?",
         "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/acusacion-a-uribe-igualdad-ante-la-ley-o-pura-espuma/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2024-04-17",
-        "publication": "el-espectador",
-        "title": "El cambio histri\u00f3nico ",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/el-cambio-histrionico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Galindo G.",
-        "date": "2024-04-17",
-        "publication": "el-espectador",
-        "title": "La salud: en manos del presidente del Senado y la Corte Constitucional",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-galindo-g-/la-salud-en-manos-del-presidente-del-senado-y-la-corte-constitucional/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Morales",
-        "date": "2024-04-17",
-        "publication": "el-espectador",
-        "title": "Por falta de obras los conocer\u00e9is",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/por-falta-de-obras-los-conocereis/"
-    },
-    {
-        "article-type": "column",
-        "author": "Andr\u00e9s Marocco",
-        "date": "2024-04-17",
-        "publication": "el-espectador",
-        "title": "\u00bfQui\u00e9nes somos?",
-        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/quienes-somos-opinion-de-andres-marocco-sobre-el-futbol-colombiano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2024-04-17",
-        "publication": "el-espectador",
-        "title": "\u00bfQui\u00e9n era Elisa?",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/quien-era-elisa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2024-04-17",
-        "publication": "el-espectador",
-        "title": "Atl\u00e1ntico: Las aguas desiguales del progreso y el poder de lo comunitario",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/atlantico-las-aguas-desiguales-del-progreso-y-el-poder-de-lo-comunitario/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2024-04-16",
-        "publication": "el-espectador",
-        "title": "El proceso a Uribe",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-proceso-a-uribe/"
     }
 ]
