@@ -2,18 +2,58 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-18",
+        "date": "2024-04-19",
         "publication": "el-colombiano",
-        "title": "Se durmi\u00f3 con el Ni\u00f1o",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/gobierno-petro-se-durmio-con-fenomeno-del-nino-CM24283188"
+        "title": "Reforma pensional, ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/reforma-pensional-si-pero-faltan-ajustes-ON24298677"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-18",
+        "date": "2024-04-19",
         "publication": "el-espectador",
-        "title": "Se acaba el tiempo para quienes no quieren negociar",
-        "url": "https://www.elespectador.com/opinion/editorial/se-acaba-el-tiempo-para-quienes-no-quieren-negociar/"
+        "title": "Cauteloso optimismo en la econom\u00eda",
+        "url": "https://www.elespectador.com/opinion/editorial/cauteloso-optimismo-en-la-economia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado EE",
+        "date": "2024-04-19",
+        "publication": "el-espectador",
+        "title": "Imaginemos una Hispanoam\u00e9rica mejor conectada",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/imaginemos-una-hispanoamerica-mejor-conectada/"
+    },
+    {
+        "article-type": "column",
+        "author": "Patricia Lara Salive",
+        "date": "2024-04-19",
+        "publication": "el-espectador",
+        "title": "S\u00ed podemos llegar a acuerdos",
+        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/si-podemos-llegar-a-acuerdos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2024-04-19",
+        "publication": "el-espectador",
+        "title": "Los gringos y las palabras del para\u00edso",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/los-gringos-y-las-palabras-del-paraiso/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2024-04-19",
+        "publication": "el-espectador",
+        "title": "El cardenal y el elefante",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-cardenal-y-el-elefante/"
+    },
+    {
+        "article-type": "column",
+        "author": "La Pulla",
+        "date": "2024-04-19",
+        "publication": "el-espectador",
+        "title": "La luz est\u00e1 impagable en el Caribe y nadie hace nada | La Pulla",
+        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-la-luz-esta-impagable-en-el-caribe-y-nadie-hace-nada/"
     },
     {
         "article-type": "column",
@@ -38,45 +78,5 @@
         "publication": "el-espectador",
         "title": "Vivir sin Air-e",
         "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/vivir-sin-air-e/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2024-04-18",
-        "publication": "el-espectador",
-        "title": "Las humanidades y las ciencias sociales en cuidados intensivos",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/las-humanidades-y-las-ciencias-sociales-en-cuidados-intensivos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Foro Nacional por Colombia",
-        "date": "2024-04-18",
-        "publication": "el-espectador",
-        "title": "Desaf\u00edos para la efectividad de las pol\u00edticas p\u00fablicas de seguridad y paz",
-        "url": "https://www.elespectador.com/colombia-20/analistas/desafios-para-la-efectividad-de-las-politicas-publicas-de-seguridad-y-paz/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columna del lector",
-        "date": "2024-04-18",
-        "publication": "el-espectador",
-        "title": "Anatom\u00eda y simbiosis de la corrupci\u00f3n en Colombia",
-        "url": "https://www.elespectador.com/opinion/columnistas/columna-del-lector/anatomia-y-simbiosis-de-la-corrupcion-en-colombia/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-04-18",
-        "publication": "el-espectador",
-        "title": "\u201cS\u00ed es importante tener presente que el lenguaje importa\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/si-es-importante-tener-presente-que-el-lenguaje-importa/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-04-17",
-        "publication": "el-espectador",
-        "title": "Acusaci\u00f3n a Uribe: \u00bfIgualdad ante la ley o pura espuma?",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/acusacion-a-uribe-igualdad-ante-la-ley-o-pura-espuma/"
     }
 ]
