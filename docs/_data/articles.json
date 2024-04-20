@@ -2,18 +2,74 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-19",
+        "date": "2024-04-20",
         "publication": "el-colombiano",
-        "title": "Reforma pensional, ",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/reforma-pensional-si-pero-faltan-ajustes-ON24298677"
+        "title": "Europa, a la defensiva",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/europa-a-la-defensiva-DF24305053"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-19",
+        "date": "2024-04-20",
         "publication": "el-espectador",
-        "title": "Cauteloso optimismo en la econom\u00eda",
-        "url": "https://www.elespectador.com/opinion/editorial/cauteloso-optimismo-en-la-economia/"
+        "title": "Regresan las sanciones contra Venezuela",
+        "url": "https://www.elespectador.com/opinion/editorial/regresan-las-sanciones-contra-venezuela/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2024-04-20",
+        "publication": "el-espectador",
+        "title": "El estilo \u00e0 la Borges",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/el-estilo-a-la-borges/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2024-04-20",
+        "publication": "el-espectador",
+        "title": "\u201cCybersleuths\u201d, o los detectives cibern\u00e9ticos",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/cybersleuths-o-los-detectives-ciberneticos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2024-04-20",
+        "publication": "el-espectador",
+        "title": "Sobre la foto ganadora del World Press Photo 2024",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/sobre-la-foto-ganadora-del-world-press-photo-2024/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2024-04-20",
+        "publication": "el-espectador",
+        "title": "Alejandro Eder va ganando sobrado de lote",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/alejandro-eder-va-ganando-sobrado-de-lote/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2024-04-20",
+        "publication": "el-espectador",
+        "title": "Una nueva oportunidad legislativa para proteger denunciantes",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/una-nueva-oportunidad-legislativa-para-proteger-denunciantes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Fabiola Calvo",
+        "date": "2024-04-20",
+        "publication": "el-espectador",
+        "title": "Isla Gorgona clama por la paz, \u00bfpor qu\u00e9 hoy Estados Unidos quiere regresar?",
+        "url": "https://www.elespectador.com/colombia-20/analistas/base-militar-isla-gorgona-por-que-estados-unidos-quiere-regresar-comunidades-piden-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Adriana Cooper",
+        "date": "2024-04-20",
+        "publication": "el-espectador",
+        "title": "El mayor desaf\u00edo del mundo",
+        "url": "https://www.elespectador.com/opinion/columnistas/adriana-cooper/el-mayor-desafio-del-mundo/"
     },
     {
         "article-type": "column",
@@ -22,61 +78,5 @@
         "publication": "el-espectador",
         "title": "Imaginemos una Hispanoam\u00e9rica mejor conectada",
         "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/imaginemos-una-hispanoamerica-mejor-conectada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Patricia Lara Salive",
-        "date": "2024-04-19",
-        "publication": "el-espectador",
-        "title": "S\u00ed podemos llegar a acuerdos",
-        "url": "https://www.elespectador.com/opinion/columnistas/patricia-lara-salive/si-podemos-llegar-a-acuerdos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Ana Cristina Restrepo Jim\u00e9nez",
-        "date": "2024-04-19",
-        "publication": "el-espectador",
-        "title": "Los gringos y las palabras del para\u00edso",
-        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/los-gringos-y-las-palabras-del-paraiso/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mario Fernando Prado",
-        "date": "2024-04-19",
-        "publication": "el-espectador",
-        "title": "El cardenal y el elefante",
-        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-cardenal-y-el-elefante/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2024-04-19",
-        "publication": "el-espectador",
-        "title": "La luz est\u00e1 impagable en el Caribe y nadie hace nada | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-la-luz-esta-impagable-en-el-caribe-y-nadie-hace-nada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2024-04-18",
-        "publication": "el-espectador",
-        "title": "Racionamiento de agua: crisis que exige cambios",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/racionamiento-de-agua-crisis-que-exige-cambios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2024-04-18",
-        "publication": "el-espectador",
-        "title": "La detestable matoner\u00eda",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/la-detestable-matoneria/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-04-18",
-        "publication": "el-espectador",
-        "title": "Vivir sin Air-e",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/vivir-sin-air-e/"
     }
 ]
