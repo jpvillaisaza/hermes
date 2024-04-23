@@ -2,26 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-22",
+        "date": "2024-04-23",
         "publication": "el-colombiano",
-        "title": "El \u201cpoder constituyente\u201d se pronunci\u00f3",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-poder-constituyente-se-pronuncio-AE24310734"
+        "title": "Di\u00e9sel: esa papa caliente",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/diesel-esa-papa-caliente-KG24339322"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-22",
+        "date": "2024-04-23",
         "publication": "el-espectador",
-        "title": "La pol\u00edtica exterior feminista debe trascender las palabras",
-        "url": "https://www.elespectador.com/opinion/editorial/la-politica-exterior-feminista-debe-trascender-las-palabras/"
+        "title": "Calma, se\u00f1or presidente; escuche y reflexione",
+        "url": "https://www.elespectador.com/opinion/editorial/calma-senor-presidente-escuche-y-reflexione/"
     },
     {
         "article-type": "column",
-        "author": "Mar\u00eda Alejandra Villamizar",
-        "date": "2024-04-22",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2024-04-23",
         "publication": "el-espectador",
-        "title": "No hay m\u00e1s camino que el entendimiento",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/no-hay-mas-camino-que-el-entendimiento/"
+        "title": "El caso Mancuso: en manos de la Corte Constitucional",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/el-caso-mancuso-en-manos-de-la-corte-constitucional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2024-04-23",
+        "publication": "el-espectador",
+        "title": "\u00bfSiguen vigentes las ideas de Kant en educaci\u00f3n?",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/siguen-vigentes-las-ideas-de-kant-en-educacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2024-04-23",
+        "publication": "el-espectador",
+        "title": "Punto de quiebre en la paz",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/punto-de-quiebre-en-la-paz/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2024-04-23",
+        "publication": "el-espectador",
+        "title": "La magia de las palabras",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/la-magia-de-las-palabras/"
     },
     {
         "article-type": "column",
@@ -30,6 +54,14 @@
         "publication": "el-espectador",
         "title": "La problem\u00e1tica coyuntura",
         "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-problematica-coyuntura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mar\u00eda Alejandra Villamizar",
+        "date": "2024-04-22",
+        "publication": "el-espectador",
+        "title": "No hay m\u00e1s camino que el entendimiento",
+        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-villamizar/no-hay-mas-camino-que-el-entendimiento/"
     },
     {
         "article-type": "column",
@@ -46,37 +78,5 @@
         "publication": "el-espectador",
         "title": "Sobre \u00absuperintendenta\u00bb",
         "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/sobre-superintendenta/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2024-04-22",
-        "publication": "el-espectador",
-        "title": "El enga\u00f1o y el arbitraje",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-el-engano-y-el-arbitraje/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2024-04-22",
-        "publication": "el-espectador",
-        "title": "La ley bipartidista de infraestructura",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-ley-bipartidista-de-infraestructura/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2024-04-22",
-        "publication": "el-espectador",
-        "title": " \u00bfPor qu\u00e9 marchar?",
-        "url": "https://www.elespectador.com/opinion/columnistas/jorge-tovar/columna-de-jorge-tovar-por-que-marchar/"
-    },
-    {
-        "article-type": "column",
-        "author": "El Espectador",
-        "date": "2024-04-22",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cLas formas  son indispensables en una democracia\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/el-espectador/editorial-en-video-las-formas-son-indispensables-en-una-democracia/"
     }
 ]
