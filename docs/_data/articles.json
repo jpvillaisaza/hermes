@@ -2,18 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-29",
+        "date": "2024-04-30",
         "publication": "el-colombiano",
-        "title": "Del \u201cMade in China\u201d al \u201cHecho en M\u00e9xico\u201d",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/del-made-in-china-al-hecho-en-mexico-EC24379937"
+        "title": "Esperando a Petro",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/esperando-a-petro-en-conclave-de-paipa-KN24388020"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-29",
+        "date": "2024-04-30",
         "publication": "el-espectador",
-        "title": "Alerta sobre el transfuguismo\u2029",
-        "url": "https://www.elespectador.com/opinion/editorial/alerta-sobre-el-transfuguismo-proyecto-en-el-congreso/"
+        "title": "El doble rasero con la prohibici\u00f3n de TikTok\u2029",
+        "url": "https://www.elespectador.com/opinion/editorial/el-doble-rasero-con-la-prohibicion-de-tiktok/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alfredo Molano Jimeno",
+        "date": "2024-04-30",
+        "publication": "el-espectador",
+        "title": "Puntos suspensivos\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/puntos-suspensivos/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2024-04-30",
+        "publication": "el-espectador",
+        "title": "El reemplazo de Maduro\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-reemplazo-de-maduro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Alejandro Reyes Posada",
+        "date": "2024-04-30",
+        "publication": "el-espectador",
+        "title": "Regeneraci\u00f3n de ecosistemas de monta\u00f1a para asegurar el agua",
+        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/regeneracion-de-ecosistemas-de-montana-para-asegurar-el-agua/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Hern\u00e1ndez",
+        "date": "2024-04-30",
+        "publication": "el-espectador",
+        "title": "Mejor 100\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/mejor-100/"
     },
     {
         "article-type": "column",
@@ -46,37 +78,5 @@
         "publication": "el-espectador",
         "title": "El desbarajuste",
         "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-desbarajuste-2/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2024-04-29",
-        "publication": "el-espectador",
-        "title": "Palestino, el comod\u00edn del grupo: opini\u00f3n de Antonio Casale",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/palestino-el-comodin-del-grupo-opinion-de-antonio-casale-millonarios-copa-libertadores/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-04-29",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201cNueva vida a una reforma a la salud, \u00bfconcertada?\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-nueva-vida-a-una-reforma-a-la-salud-concertada/"
-    },
-    {
-        "article-type": "column",
-        "author": "Eduardo Sarmiento",
-        "date": "2024-04-29",
-        "publication": "el-espectador",
-        "title": "El modelo econ\u00f3mico conduce a un estado cr\u00edtico ",
-        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/el-modelo-economico-conduce-a-un-estado-critico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Armando Montenegro",
-        "date": "2024-04-29",
-        "publication": "el-espectador",
-        "title": "Lula en Bogot\u00e1",
-        "url": "https://www.elespectador.com/opinion/columnistas/armando-montenegro/lula-en-bogota/"
     }
 ]
