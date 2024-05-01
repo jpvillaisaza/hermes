@@ -2,18 +2,66 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-30",
+        "date": "2024-05-01",
         "publication": "el-colombiano",
-        "title": "Esperando a Petro",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/esperando-a-petro-en-conclave-de-paipa-KN24388020"
+        "title": "Hay marchas de marchas",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/hay-marchas-de-marchas-en-el-gobierno-de-gustavo-petro-CM24393881"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-04-30",
+        "date": "2024-05-01",
         "publication": "el-espectador",
-        "title": "El doble rasero con la prohibici\u00f3n de TikTok\u2029",
-        "url": "https://www.elespectador.com/opinion/editorial/el-doble-rasero-con-la-prohibicion-de-tiktok/"
+        "title": "No solo de discursos vive un gobierno",
+        "url": "https://www.elespectador.com/opinion/editorial/el-doble-rasero-con-la-prohibicion-de-tiktok-2/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2024-05-01",
+        "publication": "el-espectador",
+        "title": "Los encapuchados que tiran piedra hace 50 a\u00f1os",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/los-encapuchados-que-tiran-piedra-hace-50-anos/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2024-05-01",
+        "publication": "el-espectador",
+        "title": "Aviso para escritores: prohibido hablar de s\u00ed mismos",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/aviso-para-escritores-prohibido-hablar-de-si-mismos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2024-05-01",
+        "publication": "el-espectador",
+        "title": "\u00bfVolver a arrancar?",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/volver-a-arrancar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pascual Gaviria",
+        "date": "2024-05-01",
+        "publication": "el-espectador",
+        "title": "Revoluci\u00f3n en marchas",
+        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/revolucion-en-marchas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Joan Camilo L\u00f3pez",
+        "date": "2024-05-01",
+        "publication": "el-espectador",
+        "title": "Una conferencia sobre paz urbana en Medell\u00edn: el rol de la academia y la sociedad ",
+        "url": "https://www.elespectador.com/colombia-20/analistas/medellin-proponen-conferencia-sobre-la-paz-urbana-a-largo-plazo-dialogos-de-petro-y-bandas/"
+    },
+    {
+        "article-type": "column",
+        "author": "Colectivo \u00a1Re-Imaginemos!",
+        "date": "2024-05-01",
+        "publication": "el-espectador",
+        "title": "Di\u00e1logo Territorial sobre Desigualdad de la regi\u00f3n Centro Oriente",
+        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/que-aprendimos-en-el-dialogo-territorial-sobre-desigualdad-de-la-region-centro-oriente/"
     },
     {
         "article-type": "column",
@@ -30,53 +78,5 @@
         "publication": "el-espectador",
         "title": "El reemplazo de Maduro\u2029",
         "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-reemplazo-de-maduro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alejandro Reyes Posada",
-        "date": "2024-04-30",
-        "publication": "el-espectador",
-        "title": "Regeneraci\u00f3n de ecosistemas de monta\u00f1a para asegurar el agua",
-        "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/regeneracion-de-ecosistemas-de-montana-para-asegurar-el-agua/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Hern\u00e1ndez",
-        "date": "2024-04-30",
-        "publication": "el-espectador",
-        "title": "Mejor 100\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-hernandez/mejor-100/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lorenzo Madrigal",
-        "date": "2024-04-29",
-        "publication": "el-espectador",
-        "title": "Perder el pa\u00eds\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/perder-el-pais/"
-    },
-    {
-        "article-type": "column",
-        "author": "Mar\u00eda Alejandra Medina Cartagena, Gazapera",
-        "date": "2024-04-29",
-        "publication": "el-espectador",
-        "title": "Sobre las marchas \u00abpro-Palestina\u00bb",
-        "url": "https://www.elespectador.com/opinion/columnistas/maria-alejandra-medina-cartagena-gazapera/sobre-las-marchas-pro-palestina/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alvaro Forero Tasc\u00f3n",
-        "date": "2024-04-29",
-        "publication": "el-espectador",
-        "title": "Hora de cambiar estrategia contra Petro",
-        "url": "https://www.elespectador.com/opinion/columnistas/alvaro-forero-tascon/hora-de-cambiar-estrategia-contra-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2024-04-29",
-        "publication": "el-espectador",
-        "title": "El desbarajuste",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/el-desbarajuste-2/"
     }
 ]
