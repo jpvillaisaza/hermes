@@ -2,18 +2,50 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-05-01",
+        "date": "2024-05-02",
         "publication": "el-colombiano",
-        "title": "Hay marchas de marchas",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/hay-marchas-de-marchas-en-el-gobierno-de-gustavo-petro-CM24393881"
+        "title": "Por el respeto a la misi\u00f3n m\u00e9dica",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/por-el-respeto-a-la-mision-medica-BM24396676"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-05-01",
+        "date": "2024-05-02",
         "publication": "el-espectador",
-        "title": "No solo de discursos vive un gobierno",
-        "url": "https://www.elespectador.com/opinion/editorial/el-doble-rasero-con-la-prohibicion-de-tiktok-2/"
+        "title": "Protestas por Gaza encienden las universidades estadounidenses",
+        "url": "https://www.elespectador.com/opinion/editorial/protestas-por-gaza-encienden-las-universidades-estadounidenses/"
+    },
+    {
+        "article-type": "column",
+        "author": "Elisabeth Ungar Bleier",
+        "date": "2024-05-02",
+        "publication": "el-espectador",
+        "title": "Recesi\u00f3n democr\u00e1tica",
+        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/recesion-democratica/"
+    },
+    {
+        "article-type": "column",
+        "author": "Claudia Morales",
+        "date": "2024-05-02",
+        "publication": "el-espectador",
+        "title": "No estamos polarizados, estamos rotos",
+        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/no-estamos-polarizados-estamos-rotos/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yolanda Ruiz",
+        "date": "2024-05-02",
+        "publication": "el-espectador",
+        "title": "\u00bfEliminar a los otros para ser felices?",
+        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/eliminar-a-los-otros-para-ser-felices/"
+    },
+    {
+        "article-type": "column",
+        "author": "Manuel Drezner",
+        "date": "2024-05-02",
+        "publication": "el-espectador",
+        "title": "El d\u00eda que cambi\u00f3 la m\u00fasica",
+        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-dia-que-cambio-la-musica-200-anos-de-la-novena-sinfonia-de-beethoven/"
     },
     {
         "article-type": "column",
@@ -22,14 +54,6 @@
         "publication": "el-espectador",
         "title": "Los encapuchados que tiran piedra hace 50 a\u00f1os",
         "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/los-encapuchados-que-tiran-piedra-hace-50-anos/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2024-05-01",
-        "publication": "el-espectador",
-        "title": "Aviso para escritores: prohibido hablar de s\u00ed mismos",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/aviso-para-escritores-prohibido-hablar-de-si-mismos/"
     },
     {
         "article-type": "column",
@@ -49,34 +73,10 @@
     },
     {
         "article-type": "column",
-        "author": "Joan Camilo L\u00f3pez",
-        "date": "2024-05-01",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2024-05-02",
         "publication": "el-espectador",
-        "title": "Una conferencia sobre paz urbana en Medell\u00edn: el rol de la academia y la sociedad ",
-        "url": "https://www.elespectador.com/colombia-20/analistas/medellin-proponen-conferencia-sobre-la-paz-urbana-a-largo-plazo-dialogos-de-petro-y-bandas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2024-05-01",
-        "publication": "el-espectador",
-        "title": "Di\u00e1logo Territorial sobre Desigualdad de la regi\u00f3n Centro Oriente",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/que-aprendimos-en-el-dialogo-territorial-sobre-desigualdad-de-la-region-centro-oriente/"
-    },
-    {
-        "article-type": "column",
-        "author": "Alfredo Molano Jimeno",
-        "date": "2024-04-30",
-        "publication": "el-espectador",
-        "title": "Puntos suspensivos\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/alfredo-molano-jimeno/puntos-suspensivos/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2024-04-30",
-        "publication": "el-espectador",
-        "title": "El reemplazo de Maduro\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-reemplazo-de-maduro/"
+        "title": "Un dilema que ya est\u00e1 claro",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/un-dilema-que-ya-esta-claro/"
     }
 ]
