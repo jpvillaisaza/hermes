@@ -2,18 +2,106 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-05-03",
+        "date": "2024-05-04",
         "publication": "el-colombiano",
-        "title": "La opereta espa\u00f1ola",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/la-opereta-espanola-CC24401982"
+        "title": "El veto a TikTok",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/el-veto-a-tiktok-GD24415614"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-05-03",
+        "date": "2024-05-04",
         "publication": "el-espectador",
-        "title": "Diplomacia populista con Israel que no traer\u00e1 la paz\u2029",
-        "url": "https://www.elespectador.com/opinion/editorial/diplomacia-populista-con-israel-que-no-traera-la-paz/"
+        "title": "La transfobia mata y Colombia hace poco al respecto\u2029",
+        "url": "https://www.elespectador.com/opinion/editorial/la-transfobia-mata-y-colombia-hace-poco-al-respecto/"
+    },
+    {
+        "article-type": "column",
+        "author": "Esteban Carlos Mej\u00eda",
+        "date": "2024-05-04",
+        "publication": "el-espectador",
+        "title": "Yo transmigro, t\u00fa transmigras, ellos se mueren...",
+        "url": "https://www.elespectador.com/opinion/columnistas/esteban-carlos-mejia/yo-transmigro-tu-transmigras-ellos-se-mueren/"
+    },
+    {
+        "article-type": "column",
+        "author": "Nicol\u00e1s Rodr\u00edguez",
+        "date": "2024-05-04",
+        "publication": "el-espectador",
+        "title": "Un petrismo pese a Petro\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/nicolas-rodriguez/un-petrismo-pese-a-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Charry",
+        "date": "2024-05-04",
+        "publication": "el-espectador",
+        "title": "Los \u00faltimos d\u00edas de Lennon\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/charrylf/los-ultimos-dias-de-lennon/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mauricio Garc\u00eda Villegas",
+        "date": "2024-05-04",
+        "publication": "el-espectador",
+        "title": "El pueblo\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/mauricio-garcia-villegas/el-pueblo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Catalina Uribe Rinc\u00f3n",
+        "date": "2024-05-04",
+        "publication": "el-espectador",
+        "title": "Delitos presidenciales: de la negaci\u00f3n a la celebraci\u00f3n\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/catalina-uribe-rincon/delitos-presidenciales-de-la-negacion-a-la-celebracion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio C\u00e9sar Londo\u00f1o",
+        "date": "2024-05-04",
+        "publication": "el-espectador",
+        "title": "\u00bfTiene futuro literario la inteligencia artificial?\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-cesar-londono/tiene-futuro-literario-la-inteligencia-artificial/"
+    },
+    {
+        "article-type": "column",
+        "author": "Carolina Botero Cabrera",
+        "date": "2024-05-04",
+        "publication": "el-espectador",
+        "title": "Atenci\u00f3n a los gota a gota en la era digital",
+        "url": "https://www.elespectador.com/opinion/columnistas/carolina-botero-cabrera/atencion-a-los-gota-a-gota-en-la-era-digital/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Marocco",
+        "date": "2024-05-04",
+        "publication": "el-espectador",
+        "title": "El momento del leopardo",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-marocco/el-momento-del-leopardo-columna-de-andres-marocco-en-el-espectador-atletico-bucaramanga/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2024-05-04",
+        "publication": "el-espectador",
+        "title": "Comienza una nueva ilusi\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/redaccion-deportes/columna-de-luis-fernando-montoya-comienza-una-nueva-ilusion-liga-betplay-hoy/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio Borges",
+        "date": "2024-05-04",
+        "publication": "el-espectador",
+        "title": "Edmundo Gonz\u00e1lez: la unidad y esperanza de una naci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/edmundo-gonzalez-la-unidad-y-esperanza-de-una-nacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2024-05-04",
+        "publication": "el-espectador",
+        "title": "El clima t\u00f3xico de la pol\u00edtica",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/el-clima-toxico-de-la-politica/"
     },
     {
         "article-type": "column",
@@ -54,93 +142,5 @@
         "publication": "el-espectador",
         "title": "El r\u00edo que traga ni\u00f1os: cr\u00f3nica de un puente imposible",
         "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/el-rio-que-traga-ninos-cronica-de-un-puente-imposible/"
-    },
-    {
-        "article-type": "column",
-        "author": "Arturo Guerrero",
-        "date": "2024-05-03",
-        "publication": "el-espectador",
-        "title": "Saber exigir, saber dar\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/saber-exigir-saber-dar/"
-    },
-    {
-        "article-type": "column",
-        "author": "Madame Papita",
-        "date": "2024-05-03",
-        "publication": "el-espectador",
-        "title": "Fervor",
-        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/fervor/"
-    },
-    {
-        "article-type": "column",
-        "author": "La Pulla",
-        "date": "2024-05-03",
-        "publication": "el-espectador",
-        "title": "Jota Pe Hern\u00e1ndez: \u00bfel futuro de la ultraderecha? | La Pulla",
-        "url": "https://www.elespectador.com/opinion/columnistas/la-pulla/la-pulla-jota-pe-hernandez-el-futuro-de-la-ultraderecha/"
-    },
-    {
-        "article-type": "column",
-        "author": "Claudia Morales",
-        "date": "2024-05-02",
-        "publication": "el-espectador",
-        "title": "No estamos polarizados, estamos rotos",
-        "url": "https://www.elespectador.com/opinion/columnistas/claudia-morales/no-estamos-polarizados-estamos-rotos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Yolanda Ruiz",
-        "date": "2024-05-02",
-        "publication": "el-espectador",
-        "title": "\u00bfEliminar a los otros para ser felices?",
-        "url": "https://www.elespectador.com/opinion/columnistas/yolanda-ruiz/eliminar-a-los-otros-para-ser-felices/"
-    },
-    {
-        "article-type": "column",
-        "author": "Elisabeth Ungar Bleier",
-        "date": "2024-05-02",
-        "publication": "el-espectador",
-        "title": "Recesi\u00f3n democr\u00e1tica",
-        "url": "https://www.elespectador.com/opinion/columnistas/elisabeth-ungar-bleier/recesion-democratica/"
-    },
-    {
-        "article-type": "column",
-        "author": "Manuel Drezner",
-        "date": "2024-05-02",
-        "publication": "el-espectador",
-        "title": "El d\u00eda que cambi\u00f3 la m\u00fasica",
-        "url": "https://www.elespectador.com/opinion/columnistas/manuel-drezner/el-dia-que-cambio-la-musica-200-anos-de-la-novena-sinfonia-de-beethoven/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2024-05-03",
-        "publication": "el-espectador",
-        "title": "El poder de las minor\u00edas",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/el-poder-de-las-minorias/"
-    },
-    {
-        "article-type": "column",
-        "author": "Catalina Ruiz-Navarro",
-        "date": "2024-05-03",
-        "publication": "el-espectador",
-        "title": "Rutas de la trata entre Colombia y M\u00e9xico",
-        "url": "https://www.elespectador.com/opinion/columnistas/catalina-ruiz-navarro/rutas-de-la-trata-entre-colombia-y-mexico/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-05-03",
-        "publication": "el-espectador",
-        "title": "Imposible conjurar la embarrada de la semana",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/imposible-conjurar-la-embarrada-de-la-semana/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2024-05-03",
-        "publication": "el-espectador",
-        "title": "Aviso para escritores: prohibido hablar de s\u00ed mismos",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/aviso-para-escritores-prohibido-hablar-de-si-mismos/"
     }
 ]
