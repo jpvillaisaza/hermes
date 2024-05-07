@@ -2,18 +2,98 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-05-06",
+        "date": "2024-05-07",
         "publication": "el-colombiano",
-        "title": "El desaf\u00edo de las altas tasas de inter\u00e9s",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/el-desafio-de-las-altas-tasas-de-interes-BA24422355"
+        "title": "La nueva ruta de ",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/la-nueva-ruta-de-medellin-y-antioquia-planes-de-desarrollo-JA24429909"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-05-06",
+        "date": "2024-05-07",
         "publication": "el-espectador",
-        "title": "Muchas dudas de corrupci\u00f3n en el caso de la UNGRD\u2029",
-        "url": "https://www.elespectador.com/opinion/editorial/muchas-dudas-de-corrupcion-en-el-caso-de-la-ungrd/"
+        "title": "El Estado les est\u00e1 fallando a nuestros soldados\u2029",
+        "url": "https://www.elespectador.com/opinion/editorial/el-estado-les-esta-fallando-a-nuestros-soldados/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cristina de la Torre",
+        "date": "2024-05-07",
+        "publication": "el-espectador",
+        "title": "Ciencia: Proezas e indigencia presupuestal\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/cristina-de-la-torre/ciencia-proezas-e-indigencia-presupuestal/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aura Luc\u00eda Mera",
+        "date": "2024-05-07",
+        "publication": "el-espectador",
+        "title": "Epidemia de rabia\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/epidemia-de-rabia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Yesid Reyes Alvarado",
+        "date": "2024-05-07",
+        "publication": "el-espectador",
+        "title": "CPI, JEP y amnist\u00edas\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/yesid-reyes-alvarado/cpi-jep-y-amnistias/"
+    },
+    {
+        "article-type": "column",
+        "author": "Jaime Arocha",
+        "date": "2024-05-07",
+        "publication": "el-espectador",
+        "title": "Culturocracia\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/jaime-arocha/culturocracia/"
+    },
+    {
+        "article-type": "column",
+        "author": "Aldo Civico",
+        "date": "2024-05-07",
+        "publication": "el-espectador",
+        "title": "No es \u201ccambio\u201d. Es continuidad",
+        "url": "https://www.elespectador.com/opinion/columnistas/aldo-civico/no-es-cambio-es-continuidad/"
+    },
+    {
+        "article-type": "column",
+        "author": "\u00d3scar Alarc\u00f3n",
+        "date": "2024-05-07",
+        "publication": "el-espectador",
+        "title": "Gabo y las traducciones\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/gabo-y-las-traducciones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Reinaldo Spitaletta",
+        "date": "2024-05-07",
+        "publication": "el-espectador",
+        "title": "Las \u201cmalas palabras\u201d, del Quijote a Fontanarrosa",
+        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/las-malas-palabras-del-quijote-a-fontanarrosa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Juli\u00e1n de Zubir\u00eda Samper",
+        "date": "2024-05-07",
+        "publication": "el-espectador",
+        "title": "\u00bfMejoraremos la movilidad social y la equidad con la nueva ley de educaci\u00f3n?",
+        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/mejoraremos-la-movilidad-social-y-la-equidad-con-la-nueva-ley-estatutaria-de-educacion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gloria Arias Nieto",
+        "date": "2024-05-07",
+        "publication": "el-espectador",
+        "title": "Cuando las dos marchas sean una sola",
+        "url": "https://www.elespectador.com/opinion/columnistas/gloria-arias-nieto/cuando-las-dos-marchas-sean-una-sola/"
+    },
+    {
+        "article-type": "column",
+        "author": "Eduardo Sarmiento",
+        "date": "2024-05-07",
+        "publication": "el-espectador",
+        "title": "Se desploma el empleo",
+        "url": "https://www.elespectador.com/opinion/columnistas/eduardo-sarmiento/se-desploma-el-empleo/"
     },
     {
         "article-type": "column",
@@ -33,19 +113,19 @@
     },
     {
         "article-type": "column",
-        "author": "Daniel Mera Villamizar",
-        "date": "2024-05-06",
-        "publication": "el-espectador",
-        "title": "Modelo educativo mixto 2.0",
-        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/modelo-educativo-mixto-20/"
-    },
-    {
-        "article-type": "column",
         "author": "Lorenzo Madrigal",
         "date": "2024-05-06",
         "publication": "el-espectador",
         "title": "La Plaza de Bol\u00edvar",
         "url": "https://www.elespectador.com/opinion/columnistas/lorenzo-madrigal/la-plaza-de-bolivar/"
+    },
+    {
+        "article-type": "column",
+        "author": "Daniel Mera Villamizar",
+        "date": "2024-05-06",
+        "publication": "el-espectador",
+        "title": "Modelo educativo mixto 2.0",
+        "url": "https://www.elespectador.com/opinion/columnistas/daniel-mera-villamizar/modelo-educativo-mixto-20/"
     },
     {
         "article-type": "column",
@@ -62,85 +142,5 @@
         "publication": "el-espectador",
         "title": "Colombia crece poco y brilla menos ",
         "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/colombia-crece-poco-y-brilla-menos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Sergio Ocampo Madrid",
-        "date": "2024-05-06",
-        "publication": "el-espectador",
-        "title": "Campanazo desde las aulas para EE. UU. e Israel",
-        "url": "https://www.elespectador.com/opinion/columnistas/sergio-ocampo-madrid/campanazo-desde-las-aulas-para-ee-uu-e-israel/"
-    },
-    {
-        "article-type": "column",
-        "author": "Indalecio Dangond B.",
-        "date": "2024-05-06",
-        "publication": "el-espectador",
-        "title": "Subsidios perversos",
-        "url": "https://www.elespectador.com/opinion/columnistas/indalecio-dangond-b-/subsidios-perversos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Luis Carvajal Basto",
-        "date": "2024-05-06",
-        "publication": "el-espectador",
-        "title": "Promesas vs. realidad: crisis empresarial",
-        "url": "https://www.elespectador.com/opinion/columnistas/luis-carvajal-basto/promesas-vs-realidad-crisis-empresarial/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2024-05-06",
-        "publication": "el-espectador",
-        "title": "Hacia adelante, azul\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/antonio-casale/columna-de-antonio-casale-hacia-adelante-azul/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos G\u00f3mez",
-        "date": "2024-05-06",
-        "publication": "el-espectador",
-        "title": "La neutralidad de red, otra vez",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-gomez/la-neutralidad-de-red-otra-vez/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-05-06",
-        "publication": "el-espectador",
-        "title": "Editorial en video: \u201c\u00bfQu\u00e9 nos dejan las marchas, m\u00e1s all\u00e1 de los egos?\u201d",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/editorial-en-video-que-nos-dejan-las-marchas-mas-alla-de-los-egos/"
-    },
-    {
-        "article-type": "column",
-        "author": "Marc Hofstetter",
-        "date": "2024-05-06",
-        "publication": "el-espectador",
-        "title": "Conversaciones pendientes\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/marc-hofstetter/conversaciones-pendientes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lariza Pizano",
-        "date": "2024-05-05",
-        "publication": "el-espectador",
-        "title": "Cada loro en su estaca\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/lariza-pizano/cada-loro-en-su-estaca/"
-    },
-    {
-        "article-type": "column",
-        "author": "H\u00e9ctor Abad Faciolince",
-        "date": "2024-05-05",
-        "publication": "el-espectador",
-        "title": "Redes y amplificaci\u00f3n de la mentira\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/hector-abad-faciolince/redes-y-amplificacion-de-la-mentira/"
-    },
-    {
-        "article-type": "column",
-        "author": "Columnista invitado EE",
-        "date": "2024-05-05",
-        "publication": "el-espectador",
-        "title": "Biden no est\u00e1 ganando y su campa\u00f1a deber\u00eda dejar de actuar como tal",
-        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado-ee/biden-no-esta-ganando-y-su-campana-deberia-dejar-de-actuar-como-tal/"
     }
 ]
