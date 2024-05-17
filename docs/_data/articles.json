@@ -2,18 +2,82 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-05-16",
+        "date": "2024-05-17",
         "publication": "el-colombiano",
-        "title": "Yo no fui",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/yo-no-fui-PD24500348"
+        "title": "Mr Taxes",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/mr-taxes-JD24508023"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-05-16",
+        "date": "2024-05-17",
         "publication": "el-espectador",
-        "title": "Las extra\u00f1as cr\u00edticas del presidente Petro a la JEP\u2029",
-        "url": "https://www.elespectador.com/opinion/editorial/las-extranas-criticas-del-presidente-petro-a-la-jep/"
+        "title": "Cuidado con un golpe blando en la Universidad Nacional\u2029",
+        "url": "https://www.elespectador.com/opinion/editorial/cuidado-con-un-golpe-blando-en-la-universidad-nacional/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Fernando Prado",
+        "date": "2024-05-17",
+        "publication": "el-espectador",
+        "title": "El mejor pan del mundo\u2026\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-fernando-prado/el-mejor-pan-del-mundo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Francisco Guti\u00e9rrez San\u00edn",
+        "date": "2024-05-17",
+        "publication": "el-espectador",
+        "title": "\u00bfGuerra civil?\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/francisco-gutierrez-sanin/guerra-civil/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2024-05-17",
+        "publication": "el-espectador",
+        "title": "\u00bfGait\u00e1n no fue v\u00edctima?\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/gaitan-no-fue-victima/"
+    },
+    {
+        "article-type": "column",
+        "author": "Ana Cristina Restrepo Jim\u00e9nez",
+        "date": "2024-05-17",
+        "publication": "el-espectador",
+        "title": "\u201cDivindolfo\u201d\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/ana-cristina-restrepo-jimenez/divindolfo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Augusto Trujillo Mu\u00f1oz",
+        "date": "2024-05-17",
+        "publication": "el-espectador",
+        "title": "Fascismos, comunismos y anglosajones",
+        "url": "https://www.elespectador.com/opinion/columnistas/augusto-trujillo-munoz/fascismos-comunismos-y-anglosajones/"
+    },
+    {
+        "article-type": "column",
+        "author": "Arturo Guerrero",
+        "date": "2024-05-17",
+        "publication": "el-espectador",
+        "title": "Las ferocidades del verbo y la degradaci\u00f3n del pueblo",
+        "url": "https://www.elespectador.com/opinion/columnistas/arturo-guerrero/las-ferocidades-del-verbo-y-la-degradacion-del-pueblo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Madame Papita",
+        "date": "2024-05-17",
+        "publication": "el-espectador",
+        "title": "\u00bfA qui\u00e9n le importa?",
+        "url": "https://www.elespectador.com/opinion/columnistas/madame-papita/a-quien-le-importa/"
+    },
+    {
+        "article-type": "column",
+        "author": "Luis Fernando Montoya",
+        "date": "2024-05-17",
+        "publication": "el-espectador",
+        "title": "Emoci\u00f3n en los cuadrangulares",
+        "url": "https://www.elespectador.com/opinion/columnistas/luis-fernando-montoya/columna-del-profe-montoya-emocion-en-los-cuadrangulares-noticias-hoy/"
     },
     {
         "article-type": "column",
@@ -78,69 +142,5 @@
         "publication": "el-espectador",
         "title": "Finagro: un caso de \u00e9xito de las inversiones forzosas",
         "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitada/finagro-un-caso-de-exito-de-las-inversiones-forzosas/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan David Zuloaga D.",
-        "date": "2024-05-16",
-        "publication": "el-espectador",
-        "title": "Latinitudes",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-david-zuloaga-d-/latinitudes/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-05-16",
-        "publication": "el-espectador",
-        "title": "Lo que la pelea entre Taylor Swift y Kim Kardashian nos ense\u00f1a sobre sororidad",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/lo-que-la-pelea-entre-taylor-swift-y-kim-kardashian-nos-ensena-sobre-sororidad/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fidel Cano Correa",
-        "date": "2024-05-16",
-        "publication": "el-espectador",
-        "title": "Una infracci\u00f3n involuntaria a las pr\u00e1cticas estipuladas en El Espectador",
-        "url": "https://www.elespectador.com/opinion/columnistas/fidel-cano/una-infraccion-involuntaria-a-las-practicas-de-el-espectador-fidel-cano/"
-    },
-    {
-        "article-type": "column",
-        "author": "Camilo Amaya",
-        "date": "2024-05-16",
-        "publication": "el-espectador",
-        "title": "F\u00fatbol y pol\u00edtica ",
-        "url": "https://www.elespectador.com/opinion/columnistas/camilo-amaya/futbol-y-politica-columna-de-camilo-amaya/"
-    },
-    {
-        "article-type": "column",
-        "author": "Gonzalo Mallarino Fl\u00f3rez",
-        "date": "2024-05-15",
-        "publication": "el-espectador",
-        "title": "De la sequ\u00eda a las inundaciones \u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/de-la-sequia-a-las-inundaciones/"
-    },
-    {
-        "article-type": "column",
-        "author": "Cecilia Orozco Tasc\u00f3n",
-        "date": "2024-05-15",
-        "publication": "el-espectador",
-        "title": "Prada: \u00bfun mentiroso juzgando a otros por mentir?\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/prada-un-mentiroso-juzgando-a-otros-por-mentir/"
-    },
-    {
-        "article-type": "column",
-        "author": "J. D. Torres Duarte",
-        "date": "2024-05-15",
-        "publication": "el-espectador",
-        "title": "Es un insulto escribir literatura mientras el mundo sufre",
-        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/es-un-insulto-escribir-literatura-mientras-el-mundo-sufre/"
-    },
-    {
-        "article-type": "column",
-        "author": "Pascual Gaviria",
-        "date": "2024-05-15",
-        "publication": "el-espectador",
-        "title": "Petro en Rimax\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/pascual-gaviria/petro-en-rimax/"
     }
 ]
