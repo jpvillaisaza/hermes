@@ -2,18 +2,114 @@
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-05-28",
+        "date": "2024-05-29",
         "publication": "el-colombiano",
-        "title": "",
-        "url": "https://www.elcolombiano.com/opinion/editoriales/constituyente-cero-y-van-cinco-DE24575897"
+        "title": "Chu, chu, chu",
+        "url": "https://www.elcolombiano.com/opinion/editoriales/chu-chu-chu-HK24593316"
     },
     {
         "article-type": "editorial",
         "author": null,
-        "date": "2024-05-28",
+        "date": "2024-05-29",
         "publication": "el-espectador",
-        "title": "Israel incumple las decisiones internacionales\u2029",
-        "url": "https://www.elespectador.com/opinion/editorial/israel-incumple-las-decisiones-internacionales/"
+        "title": "Solo incertidumbre frente a la atenci\u00f3n en salud\u2029",
+        "url": "https://www.elespectador.com/opinion/editorial/solo-incertidumbre-frente-a-la-atencion-en-salud/"
+    },
+    {
+        "article-type": "column",
+        "author": "Leopoldo Villar Borda",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "Bumer\u00e1n israel\u00ed   \u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/leopoldo-villar-borda/bumeran-israeli/"
+    },
+    {
+        "article-type": "column",
+        "author": "J. D. Torres Duarte",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "Historia de una gran novela y de un temible anotador",
+        "url": "https://www.elespectador.com/opinion/columnistas/j-d-torres-duarte/historia-de-una-gran-novela-y-de-un-temible-anotador/"
+    },
+    {
+        "article-type": "column",
+        "author": "Andr\u00e9s Hoyos",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "Mar\u00eda Corina, una l\u00edder formidable \u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/andres-hoyos/maria-corina-una-lider-formidable/"
+    },
+    {
+        "article-type": "column",
+        "author": "Cecilia Orozco Tasc\u00f3n",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "La infinita actividad clientelista de Cabello\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/cecilia-orozco-tascon/la-infinita-actividad-clientelista-de-cabello/"
+    },
+    {
+        "article-type": "column",
+        "author": "Mario Morales",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "Los padres putativos de la criatura\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/mario-morales/los-padres-putativos-de-la-criatura/"
+    },
+    {
+        "article-type": "column",
+        "author": "Julio Borges",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "La propuesta de Petro",
+        "url": "https://www.elespectador.com/opinion/columnistas/julio-borges/la-propuesta-de-petro/"
+    },
+    {
+        "article-type": "column",
+        "author": "Marcos Peckel",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "Desproporcionado",
+        "url": "https://www.elespectador.com/opinion/columnistas/desproporcionado/"
+    },
+    {
+        "article-type": "column",
+        "author": "Oscar Guardiola-Rivera",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "Soberan\u00edas y constituyentes",
+        "url": "https://www.elespectador.com/opinion/columnistas/oscar-guardiola-rivera/soberanias-y-constituyentes/"
+    },
+    {
+        "article-type": "column",
+        "author": "Columnista invitado",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "El voto digital, una medida efectiva contra la corrupci\u00f3n",
+        "url": "https://www.elespectador.com/opinion/columnistas/columnista-invitado/el-voto-digital-una-medida-efectiva-contra-la-corrupcion/"
+    },
+    {
+        "article-type": "column",
+        "author": "Pablo Felipe Robledo",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "Petro, abra el ojo\u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/pablo-felipe-robledo/petro-abra-el-ojo/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Mallarino Fl\u00f3rez",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "La mala leche contra Garc\u00eda M\u00e1rquez \u2029",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-mallarino/la-mala-leche-contra-garcia-marquez/"
+    },
+    {
+        "article-type": "column",
+        "author": "Gonzalo Silva Rivas",
+        "date": "2024-05-29",
+        "publication": "el-espectador",
+        "title": "La puja competitiva en el turismo",
+        "url": "https://www.elespectador.com/opinion/columnistas/gonzalo-silva-rivas/la-puja-competitiva-en-el-turismo/"
     },
     {
         "article-type": "column",
@@ -46,101 +142,5 @@
         "publication": "el-espectador",
         "title": "La implosi\u00f3n del Gobierno de Gustavo Petro\u2029",
         "url": "https://www.elespectador.com/opinion/columnistas/alejandro-reyes-posada/la-implosion-del-gobierno-de-gustavo-petro/"
-    },
-    {
-        "article-type": "column",
-        "author": "Aura Luc\u00eda Mera",
-        "date": "2024-05-28",
-        "publication": "el-espectador",
-        "title": "Y las monjitas contentas\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/aura-lucia-mera/y-las-monjitas-contentas/"
-    },
-    {
-        "article-type": "column",
-        "author": "\u00d3scar Alarc\u00f3n",
-        "date": "2024-05-28",
-        "publication": "el-espectador",
-        "title": "El d\u00eda del rey\u2029",
-        "url": "https://www.elespectador.com/opinion/columnistas/oscar-alarcon/el-dia-del-rey/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juli\u00e1n de Zubir\u00eda Samper",
-        "date": "2024-05-28",
-        "publication": "el-espectador",
-        "title": "\u00bfSer\u00e1 posible detener el genocidio en Gaza?",
-        "url": "https://www.elespectador.com/opinion/columnistas/julian-de-zubiria-samper/sera-posible-detener-el-genocidio-en-gaza/"
-    },
-    {
-        "article-type": "column",
-        "author": "Reinaldo Spitaletta",
-        "date": "2024-05-28",
-        "publication": "el-espectador",
-        "title": "El divino y diab\u00f3lico Vargas Vila",
-        "url": "https://www.elespectador.com/opinion/columnistas/reinaldo-spitaletta/el-divino-y-diabolico-vargas-vila/"
-    },
-    {
-        "article-type": "column",
-        "author": "Colectivo \u00a1Re-Imaginemos!",
-        "date": "2024-05-28",
-        "publication": "el-espectador",
-        "title": "Desigualdades y proyectos de desarrollo rural en Boyac\u00e1: historias y futuros posibles",
-        "url": "https://www.elespectador.com/opinion/columnistas/re-imaginemos/desigualdades-y-proyectos-de-desarrollo-rural-en-boyaca-historias-y-futuros-posibles/"
-    },
-    {
-        "article-type": "column",
-        "author": "Las Igualadas",
-        "date": "2024-05-28",
-        "publication": "el-espectador",
-        "title": "Arabia Saudita presidir\u00e1 el foro de la ONU sobre igualdad de g\u00e9nero",
-        "url": "https://www.elespectador.com/opinion/columnistas/las-igualadas/arabia-saudita-presidira-el-foro-de-la-onu-sobre-igualdad-de-genero/"
-    },
-    {
-        "article-type": "column",
-        "author": "Juan Carlos Ortiz",
-        "date": "2024-05-28",
-        "publication": "el-espectador",
-        "title": "La triple corona",
-        "url": "https://www.elespectador.com/opinion/columnistas/juan-carlos-ortiz/la-triple-corona/"
-    },
-    {
-        "article-type": "column",
-        "author": "Jorge Tovar",
-        "date": "2024-05-28",
-        "publication": "el-espectador",
-        "title": "La humillaci\u00f3n de Millonarios",
-        "url": "https://www.elespectador.com/deportes/analistas/columna-de-jorge-tovar-la-humillacion-de-millonarios/"
-    },
-    {
-        "article-type": "column",
-        "author": "Antonio Casale",
-        "date": "2024-05-28",
-        "publication": "el-espectador",
-        "title": "Verdades a medias",
-        "url": "https://www.elespectador.com/opinion/columnistas/redaccion-deportes/verdades-a-medias-columna-de-antonio-casale/"
-    },
-    {
-        "article-type": "column",
-        "author": "Lisandro Duque Naranjo",
-        "date": "2024-05-27",
-        "publication": "el-espectador",
-        "title": "Mario Mitrotti",
-        "url": "https://www.elespectador.com/opinion/columnistas/lisandro-duque-naranjo/mario-mitrotti/"
-    },
-    {
-        "article-type": "column",
-        "author": "Fernando Barbosa",
-        "date": "2024-05-27",
-        "publication": "el-espectador",
-        "title": "Jap\u00f3n: no son se\u00f1ales de humo ",
-        "url": "https://www.elespectador.com/opinion/columnistas/fernando-barbosa/japon-no-son-senales-de-humo/"
-    },
-    {
-        "article-type": "column",
-        "author": "Salom\u00f3n Kalmanovitz",
-        "date": "2024-05-27",
-        "publication": "el-espectador",
-        "title": "La dieta de los colombianos ",
-        "url": "https://www.elespectador.com/opinion/columnistas/salomon-kalmanovitz/la-dieta-de-los-colombianos/"
     }
 ]
