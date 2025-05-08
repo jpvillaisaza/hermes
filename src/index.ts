@@ -1,1 +1,1 @@
-console.log("Hades");
+console.log("Hermes");
