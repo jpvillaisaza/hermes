@@ -1,18 +1,19 @@
 {
   "name": "hermes",
+  "description": "",
   "version": "1.0.0",
-  "license": "ISC",
+  "license": "MIT",
   "bin": "dist/index.js",
-  "scripts": {
-    "build": "tsc",
-    "start": "node dist/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
     "cheerio": "^1.0.0"
   },
   "devDependencies": {
     "@types/cheerio": "^0.22.35",
     "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
