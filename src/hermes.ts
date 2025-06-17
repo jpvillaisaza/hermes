@@ -32,3 +32,22 @@ export const extractFeeds = (url: string, html: string): Feed[] => {
     })
     ;
 }
+
+export const checkFeed = async (url: string) => {
+  const response = await fetch(url);
+  if (!response.ok) {
+    return false;
+  }
+  const json = await response.json();
+  return checkJson(json);
+}
+
+const checkJson = (json: any): boolean => {
+  console.log('checking');
+  return (
+    typeof json === "object" &&
+    json !== null &&
+    typeof json.version === "string" &&
+    json.version.startsWith("https://jsonfeed.org/version/")
+  );
+}
