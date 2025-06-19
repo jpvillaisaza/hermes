@@ -43,11 +43,9 @@ export const checkFeed = async (url: string) => {
 }
 
 const checkJson = (json: any): boolean => {
-  console.log('checking');
   return (
-    typeof json === "object" &&
-    json !== null &&
-    typeof json.version === "string" &&
+    typeof json === "object" && json !== null &&
+    json.hasOwnProperty("version") && typeof json.version === "string" &&
     json.version.startsWith("https://jsonfeed.org/version/")
   );
 }
