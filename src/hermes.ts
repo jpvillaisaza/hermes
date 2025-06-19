@@ -59,3 +59,39 @@ const isJsonFeed = (json: any): boolean => {
     json.version.startsWith("https://jsonfeed.org/version/")
   );
 }
+
+export const guessFeeds = async (url: string): Promise<Feed[]> => {
+  const base = url.endsWith("/") ? url : url + "/";
+  const feeds = [
+    {
+      href: new URL("rss.xml", base).toString(),
+      type: "application/rss+xml",
+    },
+    {
+      href: new URL("atom.xml", base).toString(),
+      type: "application/atom+xml",
+    },
+    {
+      href: new URL("feed", base).toString(),
+      type: "application/rss+xml",
+    },
+    {
+      href: new URL("rss", base).toString(),
+      type: "application/rss+xml",
+    },
+  ];
+  return await filterAsync(checkFeed, feeds);
+}
+
+export const filterAsync = async <T>(
+  p: (x: T) => Promise<boolean>,
+  xs: T[]
+): Promise<T[]> => {
+  const results = await Promise.all(
+    xs.map(async (x) => {
+      const ok = await p(x);
+      return ok ? x : null;
+    })
+  );
+  return results.filter(Boolean) as T[];
+}

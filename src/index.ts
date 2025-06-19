@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import { parseArgs } from "node:util";
-import { checkFeed, extractFeeds } from "./hermes";
+import { checkFeed, extractFeeds, filterAsync, guessFeeds } from "./hermes";
 
 const main = async () => {
   const options = {
@@ -11,6 +11,10 @@ const main = async () => {
       default: false,
     },
     check: {
+      type: 'boolean',
+      default: false,
+    },
+    guess: {
       type: 'boolean',
       default: false,
     },
@@ -31,12 +35,16 @@ const main = async () => {
     throw Error(response.statusText);
   }
   const feeds = extractFeeds(url, await response.text());
-  feeds.forEach(async feed => {
-    const checked = values.check ? await checkFeed(feed) : true;
-    if (checked) {
-      console.log(`- ${feed.href} (${feed.type})`);
-    }
+  const checkedFeeds = values.check ? await filterAsync(checkFeed, feeds) : feeds;
+  checkedFeeds.forEach(feed => {
+    console.log(`- ${feed.href} (${feed.type})`);
   });
+  if (values.guess && checkedFeeds.length === 0) {
+    const guessed = await guessFeeds(url);
+    guessed.forEach(feed => {
+      console.log(`- ${feed.href} (${feed.type})`);
+    });
+  }
 }
 
 main().catch((error) => {
