@@ -32,3 +32,30 @@ export const extractFeeds = (url: string, html: string): Feed[] => {
     })
     ;
 }
+
+export const checkFeed = async (feed: Feed): Promise<boolean> => {
+  const response = await fetch(feed.href);
+  if (!response.ok) return false;
+  switch (feed.type) {
+    case "application/rss+xml":
+    case "application/atom+xml":
+      const text = await response.text();
+      const $ = cheerio.load(text, { xmlMode: true });
+      const rootTag = $.root().children().first().get(0);
+      return (rootTag && (rootTag.tagName === "rss" || rootTag.tagName === "feed"));
+    case "application/feed+json":
+    case "application/json":
+      const json = await response.json();
+      return isJsonFeed(json);
+    default:
+      return false;
+  }
+}
+
+const isJsonFeed = (json: any): boolean => {
+  return (
+    typeof json === "object" && json !== null &&
+    json.hasOwnProperty("version") && typeof json.version === "string" &&
+    json.version.startsWith("https://jsonfeed.org/version/")
+  );
+}
