@@ -32,15 +32,8 @@ const main = async () => {
   }
   const feeds = extractFeeds(url, await response.text());
   feeds.forEach(async feed => {
-    if (values.check) {
-      if (feed.type === "application/json") {
-        if (await checkFeed(feed.href)) {
-          console.log(`- ${feed.href} (${feed.type})`);
-        }
-      } else {
-        console.log(`- ${feed.href} (${feed.type})`);
-      }
-    } else {
+    const checked = values.check ? await checkFeed(feed) : true;
+    if (checked) {
       console.log(`- ${feed.href} (${feed.type})`);
     }
   });
