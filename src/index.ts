@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 
 import { parseArgs } from "node:util";
-import { checkFeed, extractFeeds, filterAsync, guessFeeds } from "./hermes";
+import { checkFeed, extractFeeds, guessFeeds } from "./hermes";
+import { fetchWithUserAgent, filterAsync } from "./utils";
 
 const main = async () => {
   const options = {
@@ -30,7 +31,7 @@ const main = async () => {
     console.error('Usage: hermes URL');
     process.exit(1);
   }
-  const response = await fetch(url);
+  const response = await fetchWithUserAgent(url);
   if (!response.ok) {
     throw Error(response.statusText);
   }
