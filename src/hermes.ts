@@ -1,4 +1,5 @@
 import * as cheerio from "cheerio";
+import { fetchWithUserAgent, filterAsync } from "./utils";
 
 type Feed = {
   href: string,
@@ -34,7 +35,7 @@ export const extractFeeds = (url: string, html: string): Feed[] => {
 }
 
 export const checkFeed = async (feed: Feed): Promise<boolean> => {
-  const response = await fetch(feed.href);
+  const response = await fetchWithUserAgent(feed.href);
   if (!response.ok) return false;
   switch (feed.type) {
     case "application/rss+xml":
@@ -81,17 +82,4 @@ export const guessFeeds = async (url: string): Promise<Feed[]> => {
     },
   ];
   return await filterAsync(checkFeed, feeds);
-}
-
-export const filterAsync = async <T>(
-  p: (x: T) => Promise<boolean>,
-  xs: T[]
-): Promise<T[]> => {
-  const results = await Promise.all(
-    xs.map(async (x) => {
-      const ok = await p(x);
-      return ok ? x : null;
-    })
-  );
-  return results.filter(Boolean) as T[];
 }
