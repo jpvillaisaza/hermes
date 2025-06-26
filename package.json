@@ -9,12 +9,11 @@
   },
   "devDependencies": {
     "@types/cheerio": "^0.22.35",
-    "tap": "^21.1.0",
     "typescript": "^5.8.3"
   },
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
-    "test": "tap"
+    "test": "node --test"
   }
 }
