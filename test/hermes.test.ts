@@ -4,30 +4,30 @@ import { extractFeeds } from '../src/hermes';
 
 describe('extractFeeds', () => {
   it('no feeds', () => {
-    const hello = `
+    const html = `
       <!doctype html>
       <html>
       </html>
     `;
-    const result = extractFeeds('https://www.example.com', hello);
+    const result = extractFeeds('https://www.example.com', html);
     assert.strictEqual(result.length, 0);
   });
 
   it('alternate feed missing values', () => {
-    const hello = `
-    <!doctype html>
-    <html>
+    const html = `
+      <!doctype html>
+      <html>
         <head>
           <link rel="alternate">
         </head>
       </html>
     `;
-    const result = extractFeeds('https://www.example.com', hello);
+    const result = extractFeeds('https://www.example.com', html);
     assert.strictEqual(result.length, 0);
   });
 
   it('RSS', () => {
-    const hello = `
+    const html = `
       <!doctype html>
       <html>
         <head>
@@ -35,7 +35,7 @@ describe('extractFeeds', () => {
         </head>
       </html>
     `;
-    const result = extractFeeds('https://www.example.com', hello);
+    const result = extractFeeds('https://www.example.com', html);
     assert.strictEqual(result.length, 1);
     assert.strictEqual(result[0].href, 'https://www.example.com/rss');
     assert.strictEqual(result[0].title, undefined);
@@ -43,7 +43,7 @@ describe('extractFeeds', () => {
   });
 
   it('Atom', () => {
-    const hello = `
+    const html = `
       <!doctype html>
       <html>
         <head>
@@ -51,7 +51,7 @@ describe('extractFeeds', () => {
         </head>
       </html>
     `;
-    const result = extractFeeds('https://www.example.com', hello);
+    const result = extractFeeds('https://www.example.com', html);
     assert.strictEqual(result.length, 1);
     assert.strictEqual(result[0].href, 'https://www.example.com/atom');
     assert.strictEqual(result[0].title, undefined);
@@ -59,7 +59,7 @@ describe('extractFeeds', () => {
   });
 
   it('JSON', () => {
-    const hello = `
+    const html = `
       <!doctype html>
       <html>
         <head>
@@ -67,15 +67,15 @@ describe('extractFeeds', () => {
         </head>
       </html>
     `;
-    const result = extractFeeds('https://www.example.com', hello);
+    const result = extractFeeds('https://www.example.com', html);
     assert.strictEqual(result.length, 1);
     assert.strictEqual(result[0].href, 'https://www.example.com/json');
     assert.strictEqual(result[0].title, undefined);
     assert.strictEqual(result[0].type, 'application/feed+json');
   });
 
-  it('accepts feed in body', () => {
-    const hello = `
+  it('skips feed in body', () => {
+    const html = `
       <!doctype html>
       <html>
         <head></head>
@@ -84,12 +84,12 @@ describe('extractFeeds', () => {
         </body>
       </html>
     `;
-    const result = extractFeeds('https://www.example.com', hello);
+    const result = extractFeeds('https://www.example.com', html);
     assert.strictEqual(result.length, 0);
   });
 
-  it('hello test', () => {
-    const hello = `
+  it('skips feed in pre', () => {
+    const html = `
       <!doctype html>
       <html>
         <head></head>
@@ -100,12 +100,12 @@ describe('extractFeeds', () => {
         </body>
       </html>
     `;
-    const result = extractFeeds('https://www.example.com', hello);
+    const result = extractFeeds('https://www.example.com', html);
     assert.strictEqual(result.length, 0);
   });
 
   it('accepts title', () => {
-    const hello = `
+    const html = `
       <!doctype html>
       <html>
         <head>
@@ -113,7 +113,7 @@ describe('extractFeeds', () => {
         </head>
       </html>
     `;
-    const result = extractFeeds('https://www.example.com', hello);
+    const result = extractFeeds('https://www.example.com', html);
     assert.strictEqual(result.length, 1);
     assert.strictEqual(result[0].href, 'https://www.example.com/rss');
     assert.strictEqual(result[0].title, 'a');
@@ -121,7 +121,7 @@ describe('extractFeeds', () => {
   });
 
   it('accepts several', () => {
-    const hello = `
+    const html = `
       <!doctype html>
       <html>
         <head>
@@ -131,7 +131,7 @@ describe('extractFeeds', () => {
         </head>
       </html>
     `;
-    const result = extractFeeds('https://www.example.com', hello);
+    const result = extractFeeds('https://www.example.com', html);
     assert.strictEqual(result.length, 3);
     assert.strictEqual(result[0].href, 'https://www.example.com/rss');
     assert.strictEqual(result[0].title, undefined);
