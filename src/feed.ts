@@ -1,4 +1,5 @@
 import * as cheerio from "cheerio";
+import { Options } from "./options";
 import { fetchWithUserAgent, filterAsync } from "./utils";
 
 type Feed = {
@@ -13,6 +14,24 @@ const feedTypes = [
   "application/feed+json",
   "application/json",
 ];
+
+export const run = async (options: Options) => {
+  const response = await fetchWithUserAgent(options.url);
+  if (!response.ok) {
+    throw Error(response.statusText);
+  }
+  const feeds = extractFeeds(options.url, await response.text());
+  const checkedFeeds = options.check ? await filterAsync(checkFeed, feeds) : feeds;
+  checkedFeeds.forEach(feed => {
+    console.log(`- ${feed.href} (${feed.type})`);
+  });
+  if (options.guess && checkedFeeds.length === 0) {
+    const guessed = await guessFeeds(options.url);
+    guessed.forEach(feed => {
+      console.log(`- ${feed.href} (${feed.type})`);
+    });
+  }
+}
 
 export const extractFeeds = (url: string, html: string): Feed[] => {
   const $ = cheerio.load(html);
